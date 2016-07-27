@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="250" IndexBuildDate="2014-03-19 09:04:51" IndexType="0" RemainingAnalysisResUnits="96772844" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19888398" RemainingStandardReports="950" ServerBuild="2014-04-10 16:18:39" ServerName="SHADOJAGUAR" ServerVersion="1.0.5213.27559" UniqueIndexID="20140319090451-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="250" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="att.com" BackLinkType="RootDomain" TotalBackLinks="43086830" TotalLines="50000" TotalMatches="250">
+			<Row>http://www.windowsphone.com/en-us|12| |2014-02-28|0|0|0|1|0|0|0|http://www.att.com/shop/wireless/devices/htc/windows-phone-8x-by-htc-8gb-california-blue-refurb.html|0|2014-02-20|2014-02-28| | |ImageLink|ImageLink_Normal|54|51|77|81</Row>
+			<Row>http://www.windowsphone.com/en-us|12|buy now from at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/shop/wireless/devices/htc/windows-phone-8x-by-htc-8gb-california-blue-refurb.html|0|2014-02-20|2014-02-28| | |TextLink|TextLink_Normal|54|51|77|81</Row>
+			<Row>http://www.apple.com/retail/iphone/|10|view the at&#38;t coverage map|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/coverageviewer/|1|2011-10-13|2014-02-28| | |TextLink|TextLink_Normal|56|62|67|75</Row>
+			<Row>http://www.dallascowboys.com/|10| |2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|2|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|66|74</Row>
+			<Row>http://www.miamidolphins.com/|10|presented by at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|3|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|70|81|66|74</Row>
+			<Row>http://www.anywho.com/whitepages/|9|small business advertising|2014-02-28|0|0|0|0|0|0|0|http://adsolutions.att.com/|4|2010-11-17|2014-02-28| | |TextLink|TextLink_Normal|48|58|61|77</Row>
+			<Row>http://www.yellowpages.com/|10|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|70|81|65|72</Row>
+			<Row>http://www.yellowpages.com/|10|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2008-07-30|2014-02-28| | |TextLink|TextLink_Normal|53|56|65|72</Row>
+			<Row>http://www.hbo.com/order-now/|9| |2014-02-28|0|0|0|0|0|0|0|http://www.att.com/esupport/main.jsp?cv=813|6|2012-09-07|2014-02-28| | |TextLink|TextLink_Normal|43|43|63|72</Row>
+			<Row>http://www.hbo.com/order-now/|9|at&#38;t u-verse|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/u-verse/shop/|6|2012-09-07|2014-02-28| | |TextLink|TextLink_Normal|38|41|63|72</Row>
+			<Row>http://www.hbo.com/order-now/|9| |2014-02-28|0|0|0|0|0|0|0|http://www.att.com/u-verse/shop/|6|2012-09-07|2014-02-28| | |TextLink|TextLink_Normal|38|41|63|72</Row>
+			<Row>http://sxsw.com/|9|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2014-01-17|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|62|71</Row>
+			<Row>https://www.yellowpages.com/login|10|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2013-11-15|2014-02-28| | |TextLink|TextLink_Normal|70|81|64|69</Row>
+			<Row>https://www.yellowpages.com/login|10|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2013-11-14|2014-02-28| | |TextLink|TextLink_Normal|53|56|64|69</Row>
+			<Row>http://www.teamusa.org/|10| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2010-11-17|2014-02-28| | |TextLink|TextLink_Normal|61|59|66|66</Row>
+			<Row>http://www.apple.com/iphone/buy/|9| |2014-02-28|0|0|0|1|0|0|0|http://www.att.com/storelocator/|1|2011-02-15|2014-02-28| | |ImageLink|ImageLink_Normal|55|62|62|69</Row>
+			<Row>http://www.apple.com/iphone/buy/|9|at&#38;t stores buy iphone from an at&#38;t store near you. find the nearest at&#38;t store|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/storelocator/|1|2011-02-15|2014-02-28| | |TextLink|TextLink_Normal|55|62|62|69</Row>
+			<Row>http://www.nba.com/bulls/|9|at&#38;t|2014-02-28|0|0|1|0|0|0|0|http://www.att.com/network/?source=ECOAAT0000000000O&#38;wtSourceUID=ar354s&#38;wtExtnd|9|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|28|33|60|69</Row>
+			<Row>http://www.teamusa.org/USA-Wrestling|10| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|64|65</Row>
+			<Row>http://www.ussoccer.com/|9|at&#38;t|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|10|2009-11-22|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|62|67</Row>
+			<Row>http://www.android.com/phones-and-tablets/|9|at&#38;t › visit site|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/shop/wireless/devices/androidphones.html|11|2013-11-05|2014-02-28| | |TextLink|TextLink_Normal|42|47|59|67</Row>
+			<Row>http://www.android.com/phones-and-tablets/|9| |2014-02-28|0|0|0|0|0|0|0|http://www.att.com/shop/wireless/devices/androidphones.html|11|2013-11-05|2014-02-28| | |TextLink|TextLink_Normal|42|47|59|67</Row>
+			<Row>http://att.jobs/|9|att.com|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|12|2010-08-19|2014-02-28| | |TextLink|TextLink_Normal|70|81|60|66</Row>
+			<Row>http://att.jobs/|9|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/gen/privacy-policy?pid=2506|12|2010-06-20|2014-02-28| | |TextLink|TextLink_Normal|62|68|60|66</Row>
+			<Row>http://att.jobs/|9|terms of use|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/gen/general?pid=11561|12|2010-06-20|2014-02-28| | |TextLink|TextLink_Normal|62|67|60|66</Row>
+			<Row>http://att.jobs/|9|© 2014 at&#38;t intellectual property|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/gen/privacy-policy?pid=2587|12|2010-08-19|2014-02-28| | |TextLink|TextLink_Normal|61|68|60|66</Row>
+			<Row>http://help.soundcloud.com/customer/portal/articles/search?q=forgot email address|9|att.net, sbcglobal.net|2014-02-28|0|0|0|0|0|0|0|https://uversecentral2.att.com/uvp/home/password_reset?transactionId=YAH_9215106395283768&#38;origination_point=yahoo&#38;on_success_url=https://login.yahoo.com/config/login?.partner=sbc|13|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|39|37|62|61</Row>
+			<Row>http://www.sean.de/Solaris/soltune.html|8|at&#38;t&#39;ssfio library,|2014-02-28|0|0|0|0|0|0|0|http://www.research.att.com/sw/tools/sfio/|14|2008-12-27|2014-02-28| | |TextLink|TextLink_Normal|39|51|52|71</Row>
+			<Row>http://www.videolan.org/videolan/partners.html|9|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|15|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|57|65</Row>
+			<Row>http://www.openstack.org/foundation/companies/|10|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|16|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|70|81|65|57</Row>
+			<Row>http://blog.vuze.com/2014/02/20/are-internet-service-providers-watching-online-activity/|8|at&#38;t’s speed test|2014-02-25|0|0|0|0|0|0|0|http://soc.att.com/1f2QK6q|17|2014-02-20|2014-02-25| | |TextLink|TextLink_Normal|31|40|54|67</Row>
+			<Row>http://corporate.yp.com/about/privacy-policy/|9|at&#38;t adworks opt-out page|2014-02-28|0|0|0|0|0|0|0|http://adworks.att.com/adpreferences/|18|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|37|41|57|64</Row>
+			<Row>http://www.alltelwireless.com/|8| |2014-02-28|0|0|0|1|0|0|0|http://www.att.com/att/alltel/index.html|19|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|37|46|52|68</Row>
+			<Row>http://www.mcdonalds.com/us/en/services/free_wifi.html|8|at&#38;t wireless website|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/|20|2010-05-21|2014-02-28| | |TextLink|TextLink_Normal|47|55|54|65</Row>
+			<Row>http://www.scouting.org/Sponsors.aspx|8| |2014-02-28|0|0|0|1|0|0|0|http://www.att.com/gen/corporate-citizenship?pid=7737|21|2012-10-07|2014-02-28| | |ImageLink|ImageLink_Normal|39|42|56|63</Row>
+			<Row>http://www.w3.org/PICS/|8|technology inventory|2014-02-28|0|0|0|0|0|0|0|http://www.research.att.com/~lorrie/pubs/tech4kids/|22|2008-08-29|2014-02-28| | |TextLink|TextLink_Normal|35|42|55|63</Row>
+			<Row>http://www.w3.org/PICS/|8|technology inventory|2014-02-28|0|0|0|0|0|0|0|http://www.research.att.com/~lorrie/pubs/tech4kids/|22|2008-08-29|2014-02-28| | |TextLink|TextLink_Normal|35|42|55|63</Row>
+			<Row>http://clicktoverify.truste.com/pvr.php?page=validate&#38;companyName=AT%26T&#38;sealid=101|8| |2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|23|2010-08-19|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|56|62</Row>
+			<Row>http://clicktoverify.truste.com/pvr.php?page=validate&#38;companyName=AT%26T&#38;sealid=101|8|return to site|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|23|2010-08-19|2014-02-28| | |TextLink|TextLink_Normal|70|81|56|62</Row>
+			<Row>http://www.uso.org/|8|at&#38;t|2014-02-28|0|0|0|1|0|0|0|http://www.usa.att.com/military/index.jsp|24|2010-10-18|2014-02-28| | |ImageLink|ImageLink_Normal|35|41|56|62</Row>
+			<Row>http://www.linkshare.com/|8|at&#38;t affiliate program|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/gen/general?pid=11688|25|2011-11-12|2014-02-28| | |ImageLink|ImageLink_Normal|47|51|55|63</Row>
+			<Row>http://uverseonline.att.net/|8|copyright 2014 at&#38;t intellectual property|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/gen/privacy-policy?pid=2587|26|2011-10-13|2014-02-28| | |TextLink|TextLink_Normal|61|68|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|uverse.com live channels faq.|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/esupport/article.jsp|26|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|47|47|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|get support|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/esupport/article.jsp|26|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|47|47|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|support|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/esupport/index.jsp?App_ID=PBY|26|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|41|41|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|myat&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/olam/showUverseOverviewAction.myworld|26|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|39|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|att.com|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/?shopFilterId=100004&#38;source=EC00uv000000001UL&#38;wtExtndSource=uv_hdr_att|26|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|39|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|u-verse support|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/esupport/article.jsp?cv=803&#38;source=ECSFU90000000000L&#38;wtExtndSource=uv_ftr_esupport|26|2013-10-24|2014-02-28| | |TextLink|TextLink_Normal|39|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|at&#38;t u-verse support page|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/esupport/article.jsp?cv=803&#38;source=ECSFU90000000000L&#38;wtExtndSource=uv_ftr_esupport|26|2013-10-24|2014-02-28| | |TextLink|TextLink_Normal|39|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|support|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/esupport/index.jsp?App_ID=PBY&#38;source=ECSFU90000000000L&#38;wtExtndSource=uv_hdr_esupport|26|2013-10-24|2014-02-28| | |TextLink|TextLink_Normal|39|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|pay my bill|2014-02-28|0|0|0|0|0|0|0|https://www.att.com/olam/passthroughAction.myworld?actionType=MakePayment&#38;source=ECSFU90000000000L&#38;wtExtndSource=paybill|26|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|39|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|manage my tv package|2014-02-28|0|0|0|0|0|0|0|https://www.att.com/olam/loginAction.olamexecute?pId=U_PassThru_UcomGeneric&#38;source=ECSFU90000000000L&#38;wtExtndSource=Custom_Generic|26|2013-11-26|2014-02-28| | |TextLink|TextLink_Normal|39|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|check my voicemail|2014-02-28|0|0|0|0|0|0|0|https://www.att.com/olam/passthroughAction.myworld?actionType=ManageVoipCheckVMRedirect&#38;source=ECSFU90000000000L&#38;wtExtndSource=checkvoicemail|26|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|39|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|about u-verse|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/shop/u-verse?source=ECSFU90000000000L&#38;wtExtndSource=shop_uv_ftr_learn|26|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|38|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|website terms of use|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/gen/general?pid=11561&#38;source=ECSFU90000000000L&#38;wtExtndSource=uv_ftr_tou|26|2013-10-24|2014-02-28| | |TextLink|TextLink_Normal|38|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|order at&#38;t u-verse®|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/u-verse/shop/index.jsp?source=ECSFU90000000000L&#38;wtExtndSource=uv_connect_ftr|26|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|38|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|privacy|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/gen/privacy-policy?pid=2506&#38;source=ECSFU90000000000L&#38;wtExtndSource=uv_ftr_privacy|26|2013-10-24|2014-02-28| | |TextLink|TextLink_Normal|38|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|u-verse terms of service|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/u-verse/att-terms-of-service.jsp?source=EC00uv000000001UL&#38;wtExtndSource=uv_ftr_tos|26|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|38|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|copyright|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/gen/corporate-citizenship?pid=5882&#38;source=ECSFU90000000000L&#38;wtExtndSource=uv_ftr_copyright|26|2013-10-24|2014-02-28| | |TextLink|TextLink_Normal|38|40|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|click here to see if you qualify.|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/u-verse/availability/index.jsp?source=ECSFU90000000000L&#38;wtExtndSource=uv_rfrl_ftr|26|2014-02-20|2014-02-28| | |TextLink|TextLink_Normal|38|39|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|upgrade now to watch on tv and online.|2014-02-28|0|0|0|0|0|0|0|https://www.att.com/myuverse/index.jsp?_requestid=620069|26|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|37|39|56|62</Row>
+			<Row>http://uverseonline.att.net/|8|get home network support.|2014-02-28|0|0|0|0|0|0|0|https://www.att.com/esupport/wifi.jsp?cv=812_requestid=612188|26|2013-10-17|2014-02-28| | |TextLink|TextLink_Normal|37|39|56|62</Row>
+			<Row>http://www.yellowpages.com/about/legal/advertisingchoices|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|70|81|54|62</Row>
+			<Row>http://www.yellowpages.com/about/legal/advertisingchoices|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-06-20|2014-02-28| | |TextLink|TextLink_Normal|53|56|54|62</Row>
+			<Row>http://www.yellowpages.com/atlanta-ga/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|54|62</Row>
+			<Row>http://www.yellowpages.com/atlanta-ga/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-05-21|2014-02-28| | |TextLink|TextLink_Normal|53|56|54|62</Row>
+			<Row>http://sxsw.com/sponsors/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|7|2014-01-22|2014-02-28| | |TextLink|TextLink_Normal|70|81|56|59</Row>
+			<Row>http://sxsw.com/sponsors/|8|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2014-01-22|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|56|59</Row>
+			<Row>http://sxsw.com/sponsors/|8|att.com|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|7|2014-01-22|2014-02-28| | |TextLink|TextLink_Normal|70|81|56|59</Row>
+			<Row>http://sxsw.com/sponsors/|8| |2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2014-01-22|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|56|59</Row>
+			<Row>https://www.yellowpages.com/register|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2014-01-21|2014-02-28| | |TextLink|TextLink_Normal|70|81|56|59</Row>
+			<Row>https://www.yellowpages.com/register|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2013-11-18|2014-02-28| | |TextLink|TextLink_Normal|53|56|56|59</Row>
+			<Row>http://att.yahoo.com/|8|att.com|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|27|2014-01-17|2014-02-28| | |TextLink|TextLink_Normal|70|81|54|60</Row>
+			<Row>http://att.yahoo.com/|8|at&#38;t support|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/esupport/index.jsp?App_ID=PBY|27|2012-09-07|2014-02-28| | |TextLink|TextLink_Normal|41|41|54|60</Row>
+			<Row>http://att.yahoo.com/|8| |2014-02-28|0|0|0|0|0|0|0|http://www.att.com/esupport/index.jsp?App_ID=PBY|27|2012-09-07|2014-02-28| | |TextLink|TextLink_Normal|41|41|54|60</Row>
+			<Row>http://www.foxnews.com/mobile/|9|at&#38;t mobile video|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/learn/messaging-internet/media-entertainment/video.jsp|28|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|41|36|61|53</Row>
+			<Row>http://www.yellowpages.com/restaurants/amsterdam-ny|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2014-02-23|2014-02-28| | |TextLink|TextLink_Normal|70|81|56|58</Row>
+			<Row>http://www.yellowpages.com/restaurants/amsterdam-ny|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2014-02-23|2014-02-28| | |TextLink|TextLink_Normal|53|56|56|58</Row>
+			<Row>http://www.phonescoop.com/|8|more at at&#38;t »|2014-02-28|0|0|0|0|0|0|0|http://about.att.com/newsroom/att_4g_lte_now_available_in_more_markets_022614.html|29|2014-02-26|2014-02-28| | |TextLink|TextLink_Normal|42|40|56|58</Row>
+			<Row>http://www.anywho.com/reverse-lookup|8|small business advertising|2014-02-28|0|0|0|0|0|0|0|http://adsolutions.att.com/|4|2011-04-16|2014-02-28| | |TextLink|TextLink_Normal|48|58|54|60</Row>
+			<Row>http://www.seagate.com/about/investors/|8|at&#38;t direct access numbers|2014-02-28|0|0|0|0|0|0|0|http://www.usa.att.com/traveler/access_numbers/view.jsp?group=tips|30|2012-06-09|2014-02-28| | |TextLink|TextLink_Normal|26|33|53|60</Row>
+			<Row>http://sxsw.com/next-stage|8|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2013-12-17|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|53|60</Row>
+			<Row>http://www.sxsw.com/|9|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2014-01-17|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|57|56</Row>
+			<Row>http://www.amctv.com/full-episodes/learn-more|8|at&#38;t u-verse|2014-02-28|0|0|0|0|0|0|0|https://www.att.com/esupport/article.jsp|31|2013-11-18|2014-02-28| | |TextLink|TextLink_Normal|35|37|54|59</Row>
+			<Row>http://www.nu2.nu/links/|8|vnc viewer|2014-02-26|0|0|0|0|0|0|0|http://www.uk.research.att.com/vnc|32|2009-05-24|2014-02-26| | |TextLink|TextLink_Normal|46|44|51|62</Row>
+			<Row>http://www.worldipv6launch.org/|9|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|33|2014-01-18|2014-02-28| | |TextLink|TextLink_Normal|70|81|59|54</Row>
+			<Row>http://www.youtube.com/watch?v=C7KquyOsme0&#38;list=PL72B8B724B57C2CBF|8|http://att.com/espanol|2014-01-31|0|0|1|0|0|0|0|http://att.com/espanol|34|2014-01-31|2014-01-31| | |TextLink|TextLink_Normal|0|0|53|59</Row>
+			<Row>http://sxsw.com/interactive/awards|9|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2014-01-18|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|57|55</Row>
+			<Row>http://sxsw.com/interactive/|8|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|55|57</Row>
+			<Row>http://www.yellowpages.com/whitepages/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|70|81|55|57</Row>
+			<Row>http://www.yellowpages.com/whitepages/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|53|56|55|57</Row>
+			<Row>http://www.dowjones.com/codeconduct.asp|9|http://www.business.att.com/bt/international_dialing.jsp|2014-02-28|0|0|0|0|0|0|0|http://www.business.att.com/bt/international_dialing.jsp|35|2012-01-11|2014-02-28| | |TextLink|TextLink_Normal|34|32|59|53</Row>
+			<Row>http://www.overclockersclub.com/|9|at&#38;t support|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/esupport/article.jsp?cv=820&#38;_requestid=538494|36|2014-02-27|2014-02-28| | |TextLink|TextLink_Normal|37|35|60|52</Row>
+			<Row>http://en.wikipedia.org/wiki/C%2B%2B|8|www.research.att.com|2014-02-28|0|0|1|0|0|0|0|http://www.research.att.com/~bs/bs_faq2.html|37|2008-08-29|2014-02-28| | |TextLink|TextLink_Normal|36|32|55|56</Row>
+			<Row>http://en.wikipedia.org/wiki/C%2B%2B|8|&#34;bjarne stroustrup&#39;s faq – is c a subset of c++?&#34;|2014-02-28|0|0|1|0|0|0|0|http://public.research.att.com/~bs/bs_faq.html|37|2008-08-29|2014-02-28| | |TextLink|TextLink_Normal|31|35|55|56</Row>
+			<Row>http://en.wikipedia.org/wiki/C%2B%2B|8|&#34;bjarne stroustrup&#39;s faq – where did the name &#34;c++&#34; come from?&#34;|2014-02-28|0|0|1|0|0|0|0|http://public.research.att.com/~bs/bs_faq.html|37|2008-08-29|2014-02-28| | |TextLink|TextLink_Normal|31|35|55|56</Row>
+			<Row>http://en.wikipedia.org/wiki/C%2B%2B|8|c++ applications|2014-02-28|0|0|1|0|0|0|0|http://www2.research.att.com/~bs/applications.html|37|2011-06-15|2014-02-28| | |TextLink|TextLink_Normal|26|18|55|56</Row>
+			<Row>http://en.wikipedia.org/wiki/C%2B%2B|8|&#34;the c++ programming language&#34;|2014-02-28|0|0|1|0|0|0|0|http://www2.research.att.com/~bs/1st.html|37|2010-10-18|2014-02-28| | |TextLink|TextLink_Normal|21|0|55|56</Row>
+			<Row>http://en.wikipedia.org/wiki/C%2B%2B|8|&#34;the c++ programming language&#34;|2014-02-28|0|0|1|0|0|0|0|http://www2.research.att.com/~bs/2nd.html|37|2010-10-18|2014-02-28| | |TextLink|TextLink_Normal|2|0|55|56</Row>
+			<Row>http://en.wikipedia.org/wiki/C%2B%2B|8|open issues for the c++ programming language (3rd edition)|2014-02-28|0|0|1|0|0|0|0|http://www.research.att.com/~bs/3rd_issues.html|37|2008-08-29|2014-02-28| | |TextLink|TextLink_Normal|0|0|55|56</Row>
+			<Row>http://sxsw.com/meet-up-pavilion|8|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2014-01-17|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|52|59</Row>
+			<Row>http://sxsw.com/music/|8| |2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|52|59</Row>
+			<Row>http://sxsw.com/sx-bookstore|8|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2014-01-17|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|52|59</Row>
+			<Row>http://www.yellowpages.com/feedback/new|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2014-01-18|2014-02-28| | |TextLink|TextLink_Normal|70|81|54|57</Row>
+			<Row>http://www.yellowpages.com/feedback/new|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|53|56|54|57</Row>
+			<Row>http://en.wikipedia.org/wiki/Unix|8|1982 film about unix featuring dennis ritchie, ken thompson, brian kernighan, alfred aho, and more|2014-02-28|0|0|1|0|0|0|0|http://techchannel.att.com/play-video.cfm/2012/2/22/AT&#38;T-Archives-The-UNIX-System|37|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|16|19|54|56</Row>
+			<Row>http://feeds.feedburner.com/Iosart|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|38|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|70|81|51|59</Row>
+			<Row>http://www.teamusa.org/USA-Softball.aspx|8| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|61|59|51|59</Row>
+			<Row>http://www.teamusa.org/News|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|58|52</Row>
+			<Row>http://www.anheuser-busch.com/index.php/our-company/information-for-suppliers/|7|downloadsoftware|2014-02-27|0|0|0|1|0|0|0|http://uc.att.com/support/downloadsoftware_ic72main.html|39|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|29|38|49|61</Row>
+			<Row>http://www.eprints.org/openaccess/self-faq/|7|1999b|2014-02-28|0|0|0|0|0|0|0|http://www.research.att.com/~amo/doc/rapid.evolution.pdf|40|2008-08-29|2014-02-28| | |TextLink|TextLink_Normal|24|34|49|61</Row>
+			<Row>http://www.oscon.com/oscon2013/public/content/exhibitors/|9|at&#38;t|2014-02-26|0|0|0|1|0|0|0|http://developer.att.com/developer/forward.jsp?passedItemId=100006|41|2013-07-02|2014-02-26| | |ImageLink|ImageLink_Normal|31|29|60|50</Row>
+			<Row>http://www.oscon.com/oscon2013/public/content/exhibitors/|9|at&#38;t|2014-02-26|0|0|0|0|0|0|0|http://developer.att.com/developer/forward.jsp?passedItemId=100006|41|2013-07-02|2014-02-26| | |TextLink|TextLink_Normal|31|29|60|50</Row>
+			<Row>http://attstadium.com/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|42|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|70|81|50|60</Row>
+			<Row>http://us.blackberry.com/customer-service/contact-us.html|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/esupport/productRouting.jsp?sg=8005|43|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|34|38|52|57</Row>
+			<Row>http://sxsw.com/film/|8|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2014-01-20|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|53|56</Row>
+			<Row>http://www.teamusa.org/USA-Softball|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Synchronized-Swimming|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Field-Hockey|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Badminton|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Athletes|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Karate|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Taekwondo/|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Alpine Skiing.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Boxing|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Modern-Pentathlon|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Archery.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Boccia.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Curling.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Cycling.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-05-05|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Equestrian.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Fencing.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Goalball.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Judo.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Nordic Skiing.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Paratriathlon.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Powerlifting.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Rowing.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Sailing.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Shooting.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Sitting Volleyball.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Sled Hockey.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Soccer.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Swimming.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Table Tennis.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Track and Field.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Wheelchair Basketball.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Wheelchair Rugby.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/Home/US Paralympics/Sports/Wheelchair Tennis.aspx|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Golf|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/US-Biathlon/|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Canoe-Kayak/|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Racquetball|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Table-Tennis/|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Curling|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Weightlifting/|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Roller-Sports|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Volleyball/|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/US-Paralympics|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Judo|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Team-Handball|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Bobsled-Skeleton-Federation|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.teamusa.org/USA-Archery|9| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|61|59|57|52</Row>
+			<Row>http://www.cprogramming.com/begin.html|7|partial list|2014-02-28|0|0|0|0|0|0|0|http://www.research.att.com/~bs/applications.html|44|2009-07-25|2014-02-28| | |TextLink|TextLink_Normal|33|38|49|60</Row>
+			<Row>http://www.cprogramming.com/begin.html|7|bjarne stroustrup|2014-02-28|0|0|0|0|0|0|0|http://www.research.att.com/~bs/bio.html|44|2009-07-25|2014-02-28| | |TextLink|TextLink_Normal|31|38|49|60</Row>
+			<Row>http://www.lukew.com/presos/|8|at&#38;t immersion day -atlanta, ga|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|45|2014-01-22|2014-02-28| | |TextLink|TextLink_Normal|70|81|53|56</Row>
+			<Row>http://www.lukew.com/presos/|8|at&#38;t immersion day -bothell, wa|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|45|2014-01-22|2014-02-28| | |TextLink|TextLink_Normal|70|81|53|56</Row>
+			<Row>http://www.purduesports.com/|8|att|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|46|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|52|57</Row>
+			<Row>http://www.itcanwait.com/|8|privacy|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/gen/privacy-policy?pid=2506|47|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|62|68|54|55</Row>
+			<Row>http://www.itcanwait.com/|8|terms|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/gen/general?pid=11561|47|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|62|67|54|55</Row>
+			<Row>http://www.itcanwait.com/|8|media/resources|2014-02-28|0|0|0|0|0|0|0|http://att.com/itcanwait|47|2012-09-07|2014-02-28| | |TextLink|TextLink_Normal|44|39|54|55</Row>
+			<Row>http://us.blackberry.com/customer-service/contact-us.html?LID=us:bb:support:contactus&#38;LPOS=us:bb:support|8|at&#38;t|2014-02-26|0|0|0|0|0|0|0|http://www.att.com/esupport/productRouting.jsp?sg=8005|43|2013-08-01|2014-02-26| | |TextLink|TextLink_Normal|34|38|51|57</Row>
+			<Row>http://us.blackberry.com/smartphones/blackberry-q10/buy.html?LID=us:bb:devices:blackberryq10:buynow&#38;LPOS=us:bb:devices|8|buy online now at&#38;t|2014-02-26|0|0|0|0|0|0|0|http://att.com/q10|43|2013-07-02|2014-02-26| | |TextLink|TextLink_Normal|25|32|51|57</Row>
+			<Row>http://us.blackberry.com/smartphones/blackberry-z10/buy.html?LID=us:bb:devices:blackberryz10:buynow&#38;LPOS=us:bb:devices|8|buy online now at&#38;t|2014-02-26|0|0|0|0|0|0|0|http://www.att.com/shop/wireless/devices/blackberry/z10-black.html?source=EC0GBBZ1000Z100aL&#38;wtExtndSource=landingpage|43|2013-04-03|2014-02-26| | |TextLink|TextLink_Normal|26|32|51|57</Row>
+			<Row>http://us.blackberry.com/business/industry/education.html?LID=us:bb:business:industries:education&#38;LPOS=us:bb:business|8|rave guardian|2014-02-26|0|0|0|1|0|0|0|http://www.corp.att.com/edu/mobile_safety/rave.html|43|2013-08-01|2014-02-26| | |ImageLink|ImageLink_Normal|32|33|51|57</Row>
+			<Row>http://us.blackberry.com/business/industry/education.html?LID=us:bb:business:industries:education&#38;LPOS=us:bb:business|8|rave guardian|2014-02-26|0|0|0|0|0|0|0|http://www.corp.att.com/edu/mobile_safety/rave.html|43|2013-08-01|2014-02-26| | |TextLink|TextLink_Normal|32|33|51|57</Row>
+			<Row>http://www.mtv.com/shows/spring_break/2013/series.jhtml|8|at&#38;t|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|48|2014-01-21|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|56|52</Row>
+			<Row>http://sxsw.com/trade-shows/about|8|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2014-01-20|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|53|55</Row>
+			<Row>http://www.centurylink.com/Pages/AboutUs/Legal/InternetServiceManagement/|8|http://www.att.com/gen/public-affairs?pid=20879|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/gen/public-affairs?pid=20879|49|2013-11-05|2014-02-28| | |TextLink|TextLink_Normal|58|66|53|55</Row>
+			<Row>http://www.ohiostatebuckeyes.com/|8|at&#38;t|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|50|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|53|55</Row>
+			<Row>http://www.ohiostatebuckeyes.com/|8|all sports|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|50|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|53|55</Row>
+			<Row>http://www.amerks.com/default.asp|8| |2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|51|2014-01-18|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|51|57</Row>
+			<Row>http://people.csail.mit.edu/rivest/crypto-security.html|7|at&#38;t labs|2014-02-28|0|0|0|0|0|0|0|http://www.research.att.com/|52|2008-07-30|2014-02-28| | |TextLink|TextLink_Normal|52|58|46|61</Row>
+			<Row>http://people.csail.mit.edu/rivest/crypto-security.html|7|odlyzko, andrew|2014-02-28|0|0|0|0|0|0|0|http://www.research.att.com/~amo/|52|2008-07-30|2014-02-28| | |TextLink|TextLink_Normal|34|37|46|61</Row>
+			<Row>http://people.csail.mit.edu/rivest/crypto-security.html|7|jim, trevor|2014-02-28|0|0|0|0|0|0|0|http://www.research.att.com/~trevor/|52|2008-07-30|2014-02-28| | |TextLink|TextLink_Normal|31|38|46|61</Row>
+			<Row>http://people.csail.mit.edu/rivest/crypto-security.html|7|crowds pages|2014-02-28|0|0|0|0|0|0|0|http://www.research.att.com/projects/crowds/|52|2008-07-30|2014-02-28| | |TextLink|TextLink_Normal|33|35|46|61</Row>
+			<Row>http://people.csail.mit.edu/rivest/crypto-security.html|7|pathserver|2014-02-28|0|0|0|0|0|0|0|http://research.att.com/~reiter/PathServer/|52|2008-07-30|2014-02-28| | |TextLink|TextLink_Normal|23|35|46|61</Row>
+			<Row>http://sxsw.com/attend/|8|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2014-01-22|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|52|55</Row>
+			<Row>http://sxsw.com/marketing|8|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2014-01-18|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|52|55</Row>
+			<Row>http://www.alcatel-lucent.com/contact-us|7|online service and support|2014-02-28|0|0|0|0|0|0|0|http://telephones.att.com/telephones_ui/index.cfm|53|2014-02-13|2014-02-28| | |TextLink|TextLink_Normal|28|36|48|59</Row>
+			<Row>http://www.yellowpages.com/orlando-fl|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/orlando-fl|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/boston-ma|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/boston-ma|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/las-vegas-nv/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/las-vegas-nv/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2008-09-28|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/saint-louis-mo/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/saint-louis-mo/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-06-20|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/chicago-il|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/chicago-il|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-04-21|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/map/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/map/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2009-10-23|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/baltimore-md|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2014-01-17|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/baltimore-md|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/charlotte-nc|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2014-01-17|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/charlotte-nc|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-03-22|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/miami-fl/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/miami-fl/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-04-21|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/new-york-ny/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/new-york-ny/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2008-09-28|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/detroit-mi|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2014-01-17|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/detroit-mi|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-11-17|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/about/legal/terms-conditions|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2010-06-20|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/about/legal/terms-conditions|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-06-20|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/phoenix-az/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/phoenix-az/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-07-20|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/memphis-tn|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/memphis-tn|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-04-21|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/denver-co/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/denver-co/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2008-12-27|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/louisville-ky/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2014-01-20|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/louisville-ky/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-04-21|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/oklahoma-city-ok/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/oklahoma-city-ok/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-09-18|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/sitemap|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/sitemap|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2008-10-28|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/houston-tx/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/houston-tx/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2008-12-27|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/products|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/products|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2008-08-29|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/kansas-city-mo|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/kansas-city-mo|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2008-09-28|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/milwaukee-wi/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2014-01-17|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/milwaukee-wi/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-04-21|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/los-angeles-ca/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/los-angeles-ca/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-03-22|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/dallas-tx/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/dallas-tx/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2008-12-27|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/philadelphia-pa/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2014-01-17|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/philadelphia-pa/|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2010-02-20|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.yellowpages.com/indianapolis-in|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|70|81|52|55</Row>
+			<Row>http://www.yellowpages.com/indianapolis-in|8|at&#38;t wireless|2014-02-28|0|0|0|0|0|0|0|http://www.wireless.att.com/home/|5|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|53|56|52|55</Row>
+			<Row>http://www.teamusa.org/USA-Archery.aspx|7| |2014-02-28|0|0|0|0|0|0|0|http://att.com/|8|2012-10-07|2014-02-28| | |TextLink|TextLink_Normal|61|59|48|59</Row>
+			<Row>http://i.maxthon.com/en-us.htm|7|att|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|54|2014-01-09|2014-02-28| | |TextLink|TextLink_Normal|70|81|48|59</Row>
+			<Row>http://www.mgmhd.com/providers.php|8|at&#38;t u-verse|2014-02-28|0|0|0|0|0|0|0|http://uverse.att.com/|55|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|37|37|53|54</Row>
+			<Row>http://www.greencarcongress.com/|8|at&#38;t drive studio|2014-02-28|0|0|1|0|0|0|0|http://www.att.com/drivestudio|56|2014-02-24|2014-02-28| | |TextLink|TextLink_Normal|31|35|55|52</Row>
+			<Row>http://www.google.com/transparencyreport/|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://about.att.com/content/csr/home/frequently-requested-info/governance/transparencyreport.html|57|2014-02-19|2014-02-28| | |TextLink|TextLink_Normal|42|38|54|52</Row>
+			<Row>http://sxsw.com/sxsworld/|8|at&#38;t logo|2014-02-28|0|0|0|1|0|0|0|http://www.att.com/|7|2014-01-24|2014-02-28| | |ImageLink|ImageLink_Normal|70|81|51|55</Row>
+			<Row>http://www.yellowpages.com/about/contact-us|8|at&#38;t|2014-02-28|0|0|0|0|0|0|0|http://www.att.com/|5|2010-06-20|2014-02-28| | |TextLink|TextLink_Normal|70|81|51|55</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="58" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|windowsphone.com|1407|134114|73978150|2200095|393115|2009-10-03|2014-02-28|157.55.184.197|157.55.184.0|US|com|75|80</Row>
+			<Row>1|apple.com|51|4191954|3428548617|94566210|11747753|2008-07-29|2014-02-28|23.60.125.15|23.60.125.0|US|com|97|98</Row>
+			<Row>2|dallascowboys.com|17214|48817|10194817|653465|266736|2008-07-30|2014-02-28|62.156.209.59|62.156.209.0|DE|com|51|62</Row>
+			<Row>3|miamidolphins.com|44992|29520|6874196|230503|138721|2008-08-05|2014-02-28|207.152.124.136|207.152.124.0|US|com|50|57</Row>
+			<Row>4|anywho.com|24915|40575|2937554|240133|13727|2008-08-06|2014-02-28|12.175.178.59|12.175.178.0|US|com|45|61</Row>
+			<Row>5|yellowpages.com|559|370174|55691490|93871649|1525736|2008-07-29|2014-02-28|208.93.105.105|208.93.105.0|US|com|61|74</Row>
+			<Row>6|hbo.com|5826|217996|31565884|10480056|874046|2008-07-30|2014-02-28|206.208.179.53|206.208.179.0|US|com|66|85</Row>
+			<Row>7|sxsw.com|14179|123715|94075090|797252|289302|2008-07-30|2014-02-28|66.219.52.52|66.219.52.0|US|com|64|80</Row>
+			<Row>8|teamusa.org|66038|42800|25957214|993673|604456|2008-08-14|2014-02-28|206.17.82.196|206.17.82.0|US|org|66|68</Row>
+			<Row>9|nba.com|343|496481|3853905896|5892090|1864702|2008-07-29|2014-02-28|92.122.212.26|92.122.212.0|EU|com|79|91</Row>
+			<Row>10|ussoccer.com|41281|50004|14123126|507418|292078|2008-07-29|2014-02-28|207.152.124.81|207.152.124.0|US|com|53|65</Row>
+			<Row>11|android.com|1169|455658|237922779|2077174|426681|2008-09-28|2014-02-28|74.125.225.128|74.125.225.0|US|com|76|82</Row>
+			<Row>12|att.jobs|44624|9841|2301854|495859|126411|2010-05-10|2014-02-28|63.131.135.109|63.131.135.0|US|jobs|47|52</Row>
+			<Row>13|soundcloud.com|228|1234391|688611798|65229328|3012217|2008-07-29|2014-02-28|178.249.136.150|178.249.136.0|DE|com|83|85</Row>
+			<Row>14|sean.de|-1|22124|50792|104|81|2010-10-19|2014-02-28|213.183.196.179|213.183.196.0|DE|de|37|56</Row>
+			<Row>15|videolan.org|3270|222233|24079239|4192477|764434|2008-08-12|2014-02-28|88.191.250.2|88.191.250.0|FR|org|63|82</Row>
+			<Row>16|openstack.org|35750|20423|1304336|478241|171129|2010-08-13|2014-02-28|174.143.194.225|174.143.194.0|US|org|52|47</Row>
+			<Row>17|vuze.com|18524|36108|5229306|1011836|388869|2008-07-31|2014-02-28|54.225.141.121|54.225.141.0|US|com|57|80</Row>
+			<Row>18|yp.com|16287|43284|10760918|7514949|550770|2008-07-29|2014-02-28|208.93.105.105|208.93.105.0|US|com|51|66</Row>
+			<Row>19|alltelwireless.com|116606|2069|36488|33279|31054|2008-07-31|2014-02-28|50.16.198.0|50.16.198.0|US|com|44|60</Row>
+			<Row>20|mcdonalds.com|9130|106697|68924289|163878|84809|2008-08-03|2014-02-28|80.239.148.217|80.239.148.0|EU|com|57|80</Row>
+			<Row>21|scouting.org|26685|73978|44384110|1129984|175361|2008-08-11|2014-02-28|204.95.26.106|204.95.26.0|US|org|59|72</Row>
+			<Row>22|w3.org|546|6383770|12442758385|412444552|1114265|2008-07-30|2014-02-28|128.30.52.37|128.30.52.0|US|org|94|96</Row>
+			<Row>23|truste.com|-1|62260|153759811|1452625|552959|2008-08-22|2014-02-28|72.32.207.244|72.32.207.0|US|com|75|84</Row>
+			<Row>24|uso.org|89117|29691|3540432|337074|267637|2008-08-12|2014-02-28|184.106.10.205|184.106.10.0|US|org|48|61</Row>
+			<Row>25|linkshare.com|-1|34635|3315910|262443|121176|2008-08-28|2014-02-28|64.29.178.184|64.29.178.0|US|com|46|60</Row>
+			<Row>26|att.net|1123|232552|19736734|15946506|1200261|2008-07-29|2014-02-28|216.77.188.73|216.77.188.0|US|net|49|54</Row>
+			<Row>27|yahoo.com|4|9766818|22221251403|5281632652|341861463|2008-07-29|2014-02-28|87.248.122.122|87.248.122.0|CH|com|95|97</Row>
+			<Row>28|foxnews.com|176|823280|590900784|5833992|1967771|2008-07-29|2014-02-28|158.38.14.135|158.38.14.0|NO|com|87|82</Row>
+			<Row>29|phonescoop.com|36703|55891|5566703|3083065|1240317|2008-07-30|2014-02-28|70.85.155.9|70.85.155.0|US|com|53|56</Row>
+			<Row>30|seagate.com|6342|145539|13415922|2923561|740435|2008-07-29|2014-02-28|95.100.212.134|95.100.212.0|DE|com|64|82</Row>
+			<Row>31|amctv.com|2718|110562|15086047|1437854|531861|2008-07-29|2014-02-28|69.28.157.197|69.28.157.0|US|com|61|76</Row>
+			<Row>32|nu2.nu|222869|23563|4947839|82806|58616|2008-08-27|2014-02-28|72.232.163.250|72.232.163.0|US|nu|47|67</Row>
+			<Row>33|worldipv6launch.org|227866|8679|1288369|641|495|2012-06-19|2014-02-28|198.47.108.49|198.47.108.0|US|org|42|43</Row>
+			<Row>34|youtube.com|3|20066674|44703649169|4469107929|262867016|2008-07-29|2014-02-28|74.125.226.206|74.125.226.0|US|com|99|99</Row>
+			<Row>35|dowjones.com|27837|80081|104633855|420768|237679|2008-07-30|2014-02-28|194.25.95.137|194.25.95.0|DE|com|64|67</Row>
+			<Row>36|overclockersclub.com|54147|44661|7055313|6852568|1467479|2008-07-30|2014-02-28|108.162.194.121|108.162.194.0|US|com|54|48</Row>
+			<Row>37|wikipedia.org|6|9103190|12880302063|639748086|9451938|2008-07-29|2014-02-28|208.80.154.225|208.80.154.0|US|org|98|98</Row>
+			<Row>38|feedburner.com|833|2769520|9545031235|316926619|23014773|2008-07-29|2014-02-28|74.125.225.128|74.125.225.0|US|com|91|90</Row>
+			<Row>39|anheuser-busch.com|248153|23638|920616|19976|11140|2008-08-05|2014-02-28|173.203.152.16|173.203.152.0|US|com|50|73</Row>
+			<Row>40|eprints.org|408742|18663|4110900|1161787|490767|2008-08-11|2014-02-28|152.78.189.196|152.78.189.0|UK|org|48|54</Row>
+			<Row>41|oscon.com|286631|24044|594334|21278|19632|2010-07-11|2014-02-28|208.201.239.101|208.201.239.0|US|com|46|44</Row>
+			<Row>42|attstadium.com|-1|116|26668|169|147|2013-10-13|2014-02-28|144.160.36.42|144.160.36.0|US|com|34|46</Row>
+			<Row>43|blackberry.com|797|304026|110287601|8980623|1521014|2008-07-29|2014-02-28|208.65.75.22|208.65.75.0|CA|com|77|87</Row>
+			<Row>44|cprogramming.com|16165|33782|751210|2744091|452488|2008-07-29|2014-02-28|76.74.254.184|76.74.254.0|US|com|50|72</Row>
+			<Row>45|lukew.com|56067|25257|1473670|99611|58257|2008-08-03|2014-02-28|184.169.129.128|184.169.129.0|US|com|48|54</Row>
+			<Row>46|purduesports.com|267611|9795|759592|116638|79203|2008-07-29|2014-02-28|64.30.230.20|64.30.230.0|US|com|46|47</Row>
+			<Row>47|itcanwait.com|603748|6531|459493|4451|4323|2008-12-19|2014-02-28|75.55.105.105|75.55.105.0|US|com|39|44</Row>
+			<Row>48|mtv.com|1435|531266|263920994|7436906|2309490|2008-07-29|2014-02-28|23.15.7.89|23.15.7.0|US|com|82|82</Row>
+			<Row>49|centurylink.com|2232|2018907|30548747|4686072|105982|2009-10-23|2014-02-28|159.78.72.30|159.78.72.0|US|com|64|74</Row>
+			<Row>50|ohiostatebuckeyes.com|-1|23164|3685753|767473|194557|2008-08-02|2014-02-28|64.30.230.20|64.30.230.0|US|com|54|51</Row>
+			<Row>51|amerks.com|990502|3610|380441|16140|9334|2008-08-01|2014-02-28|72.237.213.50|72.237.213.0|US|com|37|46</Row>
+			<Row>52|mit.edu|1452|1043083|2465133032|9182421|1146797|2008-07-29|2014-02-28|23.50.134.151|23.50.134.0|US|edu|76|91</Row>
+			<Row>53|alcatel-lucent.com|26397|74005|10589670|601586|149522|2008-07-29|2014-02-28|184.85.147.82|184.85.147.0|US|com|57|80</Row>
+			<Row>54|maxthon.com|35903|63064|12316004|1921574|677339|2008-07-30|2014-02-28|107.21.96.101|107.21.96.0|US|com|49|67</Row>
+			<Row>55|mgmhd.com|-1|3380|45753485|3754|2751|2009-08-02|2014-02-28|184.73.200.72|184.73.200.0|US|com|49|54</Row>
+			<Row>56|greencarcongress.com|143785|41781|3693734|241787|207950|2008-08-04|2014-02-28|204.9.177.195|204.9.177.0|US|com|49|42</Row>
+			<Row>57|google.com|1|29955539|79506804365|12400377708|672918876|2008-07-29|2014-02-28|173.194.75.103|173.194.75.0|US|com|100|100</Row>
+		</DataTable>
+	</DataTables>
+</Result>

@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="1000" IndexType="0" RemainingAnalysisResUnits="55793207" RemainingDetailedReportsPerPeriod="917" RemainingRetrievalResUnits="38829689" RemainingStandardReports="917" ServerBuild="2011-12-24 20:44:04" ServerName="ELEKT" ServerVersion="1.0.4375.37322"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="1000" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID" BackLinkItem="rsf.com" BackLinkType="RootDomain" TotalBackLinks="3246" TotalLines="1004" TotalMatches="1000">
+			<Row>http://www.presscom.com/edito.shtml|6|reporter sans frontières|2011-11-16|0|0|0|0|0|0|0|http://www.rsf.com|0</Row>
+			<Row>http://www.soso.com/q?w=rsf|5|rancho santa fe real estate|2009-08-31|0|0|0|0|0|0|0|http://www.rsf.com|1</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_real_estate.html|5|rancho santa fe real estate|2011-11-05|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://www.willisallen.com/pages/30492/our-real-estate-agents.aspx|4|www.rsf.com|2011-11-09|0|0|1|0|0|0|0|http://www.rsf.com|3</Row>
+			<Row>http://theantisocial.wordpress.com/2008/06/14/kailan-nga-ba-ang-araw-ng-kalayaan|4|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://library.csusm.edu/subject_guides/history/sdcountymuseums.asp|4|http://www.rsf.com/area_history.htm|2011-11-01|0|0|0|0|0|0|0|http://www.rsf.com/area_history.htm|5</Row>
+			<Row>http://www.metafilter.com/62766/The-Ninth-Floor|4|this|2011-10-28|0|0|0|0|0|0|0|http://rsf.com/address.php?property_ID=33|6</Row>
+			<Row>http://www.luxuryrealestate.com/professionals/4616-willis-allen-real-estate|4|visit website|2011-11-05|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.afrik.com/article7532.html|4|rsf|2011-11-03|0|0|0|0|0|0|0|http://www.rsf.com|8</Row>
+			<Row>http://www.neatorama.com/2010/07/21/free-free-a-trip-to-mars-for-900-empty-jars|4|tomas|2011-11-08|0|0|1|0|0|0|0|http://www.rsf.com|9</Row>
+			<Row>http://www.blogcafe.es/2008/08|4|reporteros sin fronteras|2011-11-08|0|0|0|0|0|0|0|http://www.rsf.com|10</Row>
+			<Row>http://barp.caledo.over-blog.com|4| |2011-11-13|0|0|0|0|0|0|0|http://www.rsf.com|11</Row>
+			<Row>http://santass112-15.tripod.com/horizon-church-rancho-santa-fe.html|3|rancho santa fe house|2008-08-28|0|0|0|0|0|0|0|http://rsf.com/area_info-churches.htm|12</Row>
+			<Row>http://santass112-15.tripod.com/rancho-santa-fe-association.html|3|rancho santa fe community|2008-08-28|0|0|0|0|0|0|0|http://rsf.com/community_yellowpages.htm|12</Row>
+			<Row>http://theantisocial.wordpress.com/2008/01/07/halalang-pista-ng-bayan|3|reporters without borders|2008-09-30|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://santass112-15.tripod.com/rancho-santa-fe-ca.html|3|rancho santa fe community|2008-08-28|0|0|0|0|0|0|0|http://rsf.com/community_orgs.htm|12</Row>
+			<Row>http://theantisocial.wordpress.com/2008/01/15/erap-the-comeback-kid|3|reporters without borders|2008-09-30|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://santass112-15.tripod.com/rancho-santa-fe-community-center.html|3|rancho santa fe community|2008-08-28|0|0|0|0|0|0|0|http://rsf.com/community_orgs.htm|12</Row>
+			<Row>http://theantisocial.wordpress.com/2008/02/04/bangayan-ng-trapong-batasan|3|reporters without borders|2008-09-30|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://santass112-15.tripod.com/rancho-santa-fe-insurance.html|3|rancho santa fe community|2008-08-28|0|0|0|0|0|0|0|http://rsf.com/community_yellowpages.htm|12</Row>
+			<Row>http://santass112-15.tripod.com/rancho-santa-fe-realtor.html|3|rancho santa fe real estate|2008-08-28|0|0|0|0|0|0|0|http://rsf.com|12</Row>
+			<Row>http://santass112-15.tripod.com/rancho-santa-fe-realty.html|3|rancho santa fe real estate|2008-08-28|0|0|0|0|0|0|0|http://rsf.com|12</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_school.html|3|rancho santa fe real estate|2010-12-11|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://botw.org/new/all/08232008.cfm|3|kely pottorff - willis allen|2011-11-04|0|0|0|0|0|0|0|http://www.rsf.com|13</Row>
+			<Row>http://www.cosmeticdentalservices.com/city/rancho_santa_fe_dental_services.php|3|http://www.rsf.com/|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|14</Row>
+			<Row>http://elmundo.splinder.com/archive/2003-01|3|www.rsf.com|2008-01-14|0|0|0|0|0|0|0|http://www.rsf.com|15</Row>
+			<Row>http://afete.com/en/search-Rio_Rancho_real_estate.html|3|rancho santa fe real estate|2010-12-30|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://santass112-15.tripod.com/estate-fe-rancho-real-santa.html|3|rancho santa fe real estate|2008-08-28|0|0|0|0|0|0|0|http://www.rsf.com|12</Row>
+			<Row>http://www.luxuryrealestate.com/scripts/index.php?siteScript=siteNews&#38;cat=Print&#38;ID=1270|2|www.rsf.com|2008-09-16|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://homerealtysandiego.com/Links.htm|2|rancho santa fe|2011-11-11|0|0|0|0|0|0|0|http://www.rsf.com|16</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/100897|2|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://theantisocial.wordpress.com/2007/12/08/ang-makabagong-lumad|2|reporters without borders|2008-09-30|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://theantisocial.wordpress.com/2007/12/16/kadre-kadire|2|reporters without borders|2008-09-06|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://theantisocial.wordpress.com/2008/01/02/wheres-your-spice-boy|2|reporters without borders|2008-09-06|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://theantisocial.wordpress.com/2008/01/22/kababuyan-ng-edsa|2|reporters without borders|2008-09-06|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.feedplex.com/search/rsf|2|rsf.com|2009-11-21|0|0|0|0|0|0|0|http://www.rsf.com|18</Row>
+			<Row>http://theantisocial.wordpress.com/2008/05/06/tulog-mantika|2|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.homerealtysandiego.com/Links.htm|2|rancho santa fe|2011-11-11|0|0|0|0|0|0|0|http://www.rsf.com|16</Row>
+			<Row>http://www.fybersearch.com/search/rsf|2|rancho santa fe real estate|2009-12-01|0|0|0|0|0|0|0|http://www.rsf.com|19</Row>
+			<Row>http://www.fybersearch.com/search/rsf|2|www.rsf.com|2009-12-01|0|0|0|0|0|0|0|http://www.rsf.com|19</Row>
+			<Row>http://sbbbs.com/?q=rancho-santa-fe-homes|2|rancho santa fe homes|2007-11-14|0|0|0|0|0|0|0|http://rsf.com/contact.htm|20</Row>
+			<Row>http://santass112-15.tripod.com/rancho-santa-fe-security.html|2|rancho santa fe community|2008-08-28|0|0|0|0|0|0|0|http://rsf.com/community_yellowpages.htm|12</Row>
+			<Row>http://part3.californiacarealty.com/rancho-santa-fe.html|2|http://www.rsf.com|2011-11-07|0|0|1|0|0|0|0|http://www.rsf.com|21</Row>
+			<Row>http://botw.org/new/Regional/08232008.cfm|2|kely pottorff - willis allen|2011-11-04|0|0|0|0|0|0|0|http://www.rsf.com|13</Row>
+			<Row>http://www.liudachashan.com/FCKeditor/editor/filemanager/browser/default/images/icons/32/151231.html|2|痪筑酪厂唆|2011-11-13|0|0|0|0|0|0|0|http://www.rsf.com|22</Row>
+			<Row>http://www.ghetosearch.com/search/rsf|2|www.rsf.com|2010-01-28|0|0|0|0|0|0|0|http://www.rsf.com|23</Row>
+			<Row>http://www.ghetosearch.com/search/rsf|2|rancho santa fe real estate|2010-01-28|0|0|0|0|0|0|0|http://www.rsf.com|23</Row>
+			<Row>http://www.carolmendelmaps.com/mapsd/clicksd/sd1b.html|2| |2011-11-11|0|0|0|1|0|0|0|http://www.rsf.com|24</Row>
+			<Row>http://almot9drhsmb.blogspot.com/2011/02/blog-post_21.html|2|reporters without borders صحفيون بلا حدود|2011-07-01|0|0|0|0|0|0|0|http://www.rsf.com|25</Row>
+			<Row>http://almot9drhsmb.blogspot.com/2011/02/gay-lesbian-and-bisexual.html|2|reporters without borders صحفيون بلا حدود|2011-08-12|0|0|0|0|0|0|0|http://www.rsf.com|25</Row>
+			<Row>http://afete.com/en/search-Santa_Fe.html|2|rancho santa fe real estate|2011-06-02|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://dmoz.org/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|2|rancho santa fe|2010-09-26|0|0|0|0|0|0|0|http://www.rsf.com|26</Row>
+			<Row>http://www.californiamoves.com/agentoffice/officedetail.aspx?office=1051|2|rancho santa fe historical society|2008-05-30|0|0|0|0|0|0|0|http://www.rsf.com/areahist.html|27</Row>
+			<Row>http://topics.breitbart.com/RSF|2|kelly &#38; tammy â€“ rsf.com|2011-11-12|0|0|0|0|0|0|0|http://www.rsf.com|28</Row>
+			<Row>http://www.rancho-santa-fe-home-inspection.info|2|rancho santa fe|2011-11-16|0|0|0|0|0|0|0|http://www.rsf.com|29</Row>
+			<Row>http://www.uksubmit.co.uk/index.php?searchType=Web&#38;query=RSF|2|rancho santa fe real estate|2010-01-11|0|0|0|0|0|0|0|http://www.rsf.com|30</Row>
+			<Row>http://afete.com/en/search-Rio_Rancho.html|2|rancho santa fe real estate|2011-03-28|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://netsorce.com/Agent Image/Custom sites.htm|2|rancho santa fe - real estate web design prospecting|2011-11-14|0|0|0|1|0|0|0|http://rsf.com|31</Row>
+			<Row>http://netsorce.com/Agent Image/Custom sites.htm|2|rancho santa fe|2011-11-14|0|0|0|0|0|0|0|http://rsf.com|31</Row>
+			<Row>http://www.tamilsearch.co.uk/results.php?query=RSF&#38;num_results=100|2|real estate || comparable sales|2009-12-06|0|0|0|0|0|0|0|http://www.rsf.com/file.php?id=4|32</Row>
+			<Row>http://www.tamilsearch.co.uk/results.php?query=RSF&#38;num_results=100|2| |2009-12-06|0|0|0|1|0|0|0|http://www.rsf.com/file.php?id=4|32</Row>
+			<Row>http://www.tamilsearch.co.uk/results.php?query=RSF&#38;num_results=100|2| |2009-12-06|0|0|0|1|0|0|0|http://www.rsf.com|32</Row>
+			<Row>http://www.tamilsearch.co.uk/results.php?query=RSF&#38;num_results=100|2|rancho santa fe real estate|2009-12-06|0|0|0|0|0|0|0|http://www.rsf.com|32</Row>
+			<Row>http://en.rsf.org/article.php3?id_article=5625|1|www.rsf.com|2011-11-10|0|0|1|0|0|0|0|http://www.rsf.com|33</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe.html|1|rancho santa fe real estate|2008-07-15|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://ktidmore.dreamhm.com/Homes.cfm|1|my website|2011-11-10|0|0|0|1|0|0|0|http://www.rsf.com|34</Row>
+			<Row>http://ktidmore.dreamhm.com/homes.cfm|1|my website|2011-11-10|0|0|0|1|0|0|0|http://www.rsf.com|34</Row>
+			<Row>http://theantisocial.wordpress.com/ang-may-akda|1|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/92763|1|http://www.rsf.com/|2006-11-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.warmfocus.com/video/z0708-4604ranchoreposo.php|1|visit my website|2011-11-14|0|0|0|0|0|0|0|http://www.rsf.com|35</Row>
+			<Row>http://www.warmfocus.com/video/z0710-16709lagracia.php|1|visit my website|2011-11-14|0|0|0|0|0|0|0|http://www.rsf.com|35</Row>
+			<Row>http://vera-wang-mattressese.alderazad.bytechase.cx/painting-the-santa-fe-trail-by-john-tyler-young-santa-fe-mountian-trail-rancho-santa-fe-trails|1|rancho santa fe realtor|2010-06-13|0|0|0|0|0|0|0|http://www.rsf.com/area_article.htm|36</Row>
+			<Row>http://webxbeta.com/?page=search&#38;cx=partner-pub-0722585488206177:qxk8anvnr0r&#38;cof=FORID:10&#38;ie=UTF-8&#38;q=rancho santa fe&#38;sa=Search|1|rancho santa fe real estate|2010-08-25|0|0|0|0|0|0|0|http://www.rsf.com|37</Row>
+			<Row>http://www.carolmendelmaps.com/mapsd/clicksd/sd1a.html|1| |2011-11-11|0|0|0|1|0|0|0|http://www.rsf.com|24</Row>
+			<Row>http://www.carolmendelmaps.com/mapsd/clicksd/sd2a.html|1| |2011-11-11|0|0|0|1|0|0|0|http://www.rsf.com|24</Row>
+			<Row>http://www.metafilter.com/62766/the-ninth-floor|1|this|2011-10-28|0|0|0|0|0|0|0|http://rsf.com/address.php?property_ID=33|6</Row>
+			<Row>http://almot9drhsmb.blogspot.com/2011/02/gaddafi-rats.html|1|reporters without borders صحفيون بلا حدود|2011-08-12|0|0|0|0|0|0|0|http://www.rsf.com|25</Row>
+			<Row>http://almot9drhsmb.blogspot.com/2011/08/blog-post.html|1|reporters without borders صحفيون بلا حدود|2011-09-10|0|0|0|0|0|0|0|http://www.rsf.com|25</Row>
+			<Row>http://www.fybersearch.com/search/Rsf|1|www.rsf.com|2009-09-17|0|0|0|0|0|0|0|http://www.rsf.com|19</Row>
+			<Row>http://www.fybersearch.com/search/Rsf|1|rancho santa fe real estate|2009-09-17|0|0|0|0|0|0|0|http://www.rsf.com|19</Row>
+			<Row>http://seo101.co/www.rsf.com|1| |2011-11-02|1|0|0|0|0|0|0|http://rsf.com|38</Row>
+			<Row>http://kevins.nl/Live/RSF|0|kelly &#38; tammy – rsf.com|2011-11-02|0|0|0|0|0|0|0|http://www.rsf.com|39</Row>
+			<Row>http://www.btowstore.com/epages/17146.sf/en_NZ/en_IE/en_CA/saffron@eapgroup.com/saffron@eapgroup.com/en_GB/en_IE/?ObjectPath=/Shops/17146/Products/KorlingsBundle1|0|additional info on this book. click here or copy and paste the url below into your browser|2010-06-18|0|0|0|0|0|0|0|http://www.rsf.com|40</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe house|0|rancho santa fe house|2009-05-22|0|0|1|0|0|0|0|http://www.rsf.com/area_info-churches.htm|41</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe house|0|pic01|2009-05-22|0|0|1|1|0|0|0|http://www.rsf.com/area_info.htm|41</Row>
+			<Row>http://www.qdnanfang.com/Admin/Images/Folder/1324537.html|0|珊滋禽逞麦|2011-11-08|0|0|0|0|0|0|0|http://www.rsf.com|42</Row>
+			<Row>http://rancho-santa-fe.californiaus.com/ads/Resorts.html|0|rancho santa fe real estate|2009-08-03|0|0|1|0|0|0|0|http://www.rsf.com|43</Row>
+			<Row>http://www.semager.com/search/?q=rhsf|0|www.rsf.com|2010-09-26|0|0|0|0|0|0|0|http://www.rsf.com|44</Row>
+			<Row>http://www.semager.com/search/?q=rhsf|0|rancho santa fe real estate|2010-09-26|0|0|0|0|0|0|0|http://www.rsf.com|44</Row>
+			<Row>http://www.sandiego-bestdeals.com/rancho-santa-fe-california/rancho-santa-fe-security-systems.php|0|rancho santa fe real estate|2008-03-03|0|0|1|0|0|0|0|http://www.rsf.com/address.php?property_ID=33|45</Row>
+			<Row>http://www.onlinepagedirectory.com/real_estate/Rancho_Santa_Fe.html|0|new page 1|2008-02-29|0|0|0|0|0|0|0|http://www.rsf.com|46</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-soccer.php|0|photo gallery|2009-11-25|0|0|1|0|0|0|0|http://www.rsf.com/area_photos.htm|47</Row>
+			<Row>http://www.les-robinsons-du-pacifique.net/rss-articles.xml|0| |2008-12-07|0|0|0|0|0|0|0|http://www.rsf.com|48</Row>
+			<Row>http://www.xn--fte-fma.de/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-02-25|0|0|0|0|0|0|0|http://www.rsf.com|49</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92108.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://ip2web.web-max.ca/index.php?byip=1&#38;ip=38.119.86.81|0|rsf.com|2010-06-22|0|0|0|0|0|0|0|http://rsf.com|51</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe inn|0|theinn|2009-05-22|0|0|0|1|0|0|0|http://rsf.com/area_history-inn.htm|41</Row>
+			<Row>http://www.heshenghongda.com/Img/boob/ButtonImage/standard/935008.html|0|钢板止水带|2011-11-08|0|0|0|0|0|0|0|http://www.rsf.com|52</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=802&#38;ppage=9|0|visit website|2010-10-14|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://rancho-santa-fe.californiaus.com/ads/Sports-Biking.html|0|rancho santa fe real estate|2009-08-28|0|0|1|0|0|0|0|http://www.rsf.com|43</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92109.html|0|rancho santa fe|2011-03-13|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://www.jeetz.com/?keyword=rancho-santa-fe|0|www.rsf.com|2010-08-16|0|0|0|0|0|0|0|http://www.rsf.com|53</Row>
+			<Row>http://www.jeetz.com/?keyword=rancho-santa-fe|0|rancho santa fe real estate|2010-08-16|0|0|0|0|0|0|0|http://www.rsf.com|53</Row>
+			<Row>http://www.statsdaemon.com/search.php?search=rancho santa fe&#38;action=search|0|rancho santa fe real estate|2010-03-06|0|0|0|0|0|0|0|http://www.rsf.com|54</Row>
+			<Row>http://www.rooftops.com/listings-by-city.html?-token.city=RANCHO SANTA FE&#38;-token.state=CA|0|rsf.com|2011-11-11|0|0|0|0|0|0|0|http://rsf.com|55</Row>
+			<Row>http://linkwala.sitewala.net/cgi-bin/door/index.cgi?/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2007-05-14|0|0|0|0|0|0|0|http://www.rsf.com|56</Row>
+			<Row>http://www.sandiego-bestdeals.com/rancho-santa-fe-california/rancho-santa-fe-soccer-club.php|0|photo gallery|2008-03-03|0|0|1|0|0|0|0|http://www.rsf.com/area_photos.htm|45</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-california-realty.php|0|rancho santa fe real estate|2009-11-25|0|0|1|0|0|0|0|http://rsf.com|47</Row>
+			<Row>http://rancho-santa-fe.californiaus.com/ads/Sports-Cycling.html|0|rancho santa fe real estate|2009-08-28|0|0|1|0|0|0|0|http://www.rsf.com|43</Row>
+			<Row>http://www.southerncaliforniaguide.com/san-diego-county/real-estate/property-listings|0|rancho santa fe guide|2011-10-16|0|0|0|0|0|0|0|http://www.rsf.com|57</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92110.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://www.netsavvyagent.com/directory/agents-brokers/california/san-diego/8.html|0|john mc christy - the willis allen company|2011-11-15|0|0|0|0|0|0|0|http://www.rsf.com|58</Row>
+			<Row>http://www.sandiego-bestdeals.com/rancho-santa-fe-california/rancho-santa-fe-soccer.php|0|photo gallery|2008-03-03|0|0|1|0|0|0|0|http://www.rsf.com/area_photos.htm|45</Row>
+			<Row>http://recreationkeywords.net/web/rancho-santa-fe.aspx|0|rancho santa fe real estate|2009-07-03|0|0|0|0|0|0|0|http://www.rsf.com|59</Row>
+			<Row>http://rancho-santa-fe.californiaus.com/ads/Sports-Games.html|0|rancho santa fe real estate|2009-08-28|0|0|1|0|0|0|0|http://www.rsf.com|43</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92111.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://www.perspectives.com/forums/forum71/52241.html|0|http://www.rsf.com),|2006-07-20|0|0|0|0|0|0|0|http://www.rsf.com),|60</Row>
+			<Row>http://www.southerncaliforniadirectory.com/index.php?sid=337538449&#38;t=sub_pages&#38;cat=283|0|rancho santa fe guide|2007-11-01|0|0|0|0|0|0|0|http://www.rsf.com|61</Row>
+			<Row>http://www.sandiego-bestdeals.com/rancho-santa-fe-california/rancho-santa-fe-theater.php|0|rancho santa fe real estate|2008-03-03|0|0|1|0|0|0|0|http://www.rsf.com/address.php?property_ID=25|45</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92113.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://get-first.com/index.php?page=Whois-Lookup&#38;whoIs=rsf.com|0|rsf.com|2009-02-17|0|0|0|0|0|0|0|http://www.rsf.com|62</Row>
+			<Row>http://www.vernissage24.net/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-01-17|0|0|0|0|0|0|0|http://www.rsf.com|63</Row>
+			<Row>http://www.sandiego-bestdeals.com/rancho-santa-fe-california/rancho-santa-fe-theaters.php|0|rancho santa fe real estate|2008-03-03|0|0|1|0|0|0|0|http://www.rsf.com/address.php?property_ID=38|45</Row>
+			<Row>http://whois.de/rsf.com|0|magnifier|2011-10-15|0|0|0|1|0|0|0|http://rsf.com|64</Row>
+			<Row>http://whois.de/rsf.com|0|thumbnail of rsf.com|2011-10-15|0|0|0|1|0|0|0|http://rsf.com|64</Row>
+			<Row>http://alter-nation.splinder.com/tag/cina|0|reporter senza frontiere|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|15</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=833&#38;ppage=9|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92114.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/2006schedule?page=44|0|reporters without borders|2009-02-08|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.willisallen.com/m/Roster.aspx?rid=N2tZaHFYMjYwdnFUV25nNms2RUw4Zz09|0|www.rsf.com|2010-07-23|0|0|0|0|0|0|0|http://www.rsf.com|3</Row>
+			<Row>http://alter-nation.splinder.com/tag/google|0|reporter senza frontiere|2009-11-04|0|0|0|0|0|0|0|http://www.rsf.com|15</Row>
+			<Row>http://www.centerforinsurance.com/cgi-bin/index.cgi?/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2006-12-22|0|0|0|0|0|0|0|http://www.rsf.com|66</Row>
+			<Row>http://rancho-santa-fe.californiaus.com/ads/Sports-Hiking.html|0|rancho santa fe real estate|2009-08-28|0|0|1|0|0|0|0|http://www.rsf.com|43</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92115.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://ndtsun.3322.org//admin/Skin/1/42039.html|0|玲游释殉麦|2011-11-06|0|0|0|0|0|0|0|http://www.rsf.com|67</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?ppage=11|0|visit website|2010-09-06|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://baby-bottles.abc100web.com/RSF-index.html|0|rancho santa fe real estate|2009-11-29|0|0|1|0|0|0|0|http://www.rsf.com|68</Row>
+			<Row>http://alter-nation.splinder.com/tag/skype|0|reporter senza frontiere|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|15</Row>
+			<Row>http://blinks.biz/ccgaa.html|0|rancho santa fe realtor|2010-02-27|0|0|1|0|0|0|0|http://www.rsf.com/area_history-ccgaa.htm|69</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;command=panorama&#38;order_id=21074|0| |2008-01-08|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;command=panorama&#38;order_id=21074|0|my website|2008-01-08|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://rancho-santa-fe.californiaus.com/ads/Sports-Tennis.html|0|rancho santa fe real estate|2009-08-28|0|0|1|0|0|0|0|http://www.rsf.com|43</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92116.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?ppage=11&#38;rpage=1|0|visit website|2010-10-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/resourceexhange/0/directions2newschool?page=38|0|reporters without borders|2009-03-04|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://yebol.com/Without Borders.html|0|rancho santa fe|2010-03-06|0|0|0|0|0|0|0|http://www.rsf.com|71</Row>
+			<Row>http://www.agenttotal.com/agents_and_brokers/california/carlsbad/default.php|0|john mc christy - the willis allen companty|2011-11-04|0|0|0|0|0|0|0|http://www.rsf.com|72</Row>
+			<Row>http://bookmarksync.com/search/local cities|0|rancho santa fe real estate|2008-08-01|0|0|0|0|0|0|0|http://www.rsf.com|73</Row>
+			<Row>http://newsru.org/world/04Jun2002/santa.html|0|ранчо санта фе|2011-11-04|0|0|1|0|0|0|0|http://www.rsf.com|74</Row>
+			<Row>http://rancho-santa-fe.californiaus.com/ads/Sports.html|0|rancho santa fe real estate|2009-08-03|0|0|1|0|0|0|0|http://www.rsf.com|43</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92117.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?ppage=11&#38;rpage=14|0|visit website|2010-09-24|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://bookmarksync.com/search/local cities info entertainment|0|rancho santa fe real estate|2008-08-01|0|0|0|0|0|0|0|http://www.rsf.com|73</Row>
+			<Row>http://www.observer24.net/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-01-18|0|0|0|0|0|0|0|http://www.rsf.com|75</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=2&#38;ppage=11|0|visit website|2010-09-23|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.gursesmuslum.com/video/video-theme/rsf.html|0|rancho santa fe real estate|2009-01-22|0|0|0|0|0|0|0|http://rsf.com|76</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=836&#38;ppage=11|0|visit website|2010-10-27|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?ppage=11&#38;rpage=2|0|visit website|2010-09-24|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.therichjerkformula.com/r s f.html|0|rancho santa fe real estate|2010-02-07|0|0|0|0|0|0|0|http://www.rsf.com|77</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-california-website.php|0|rancho santa fe real estate|2009-12-20|0|0|1|0|0|0|0|http://www.rsf.com|47</Row>
+			<Row>http://rancho-santa-fe.californiaus.com/ads/Toys.html|0|rancho santa fe real estate|2009-08-03|0|0|1|0|0|0|0|http://www.rsf.com|43</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92119.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://web.7live7.net/Search.aspx?q=RSF|0|home|2011-11-06|0|0|0|0|0|0|0|http://rsf.com|78</Row>
+			<Row>http://web.7live7.net/Search.aspx?q=RSF|0|kelly &#38; tammy – rsf.com|2011-11-06|0|0|0|0|0|0|0|http://www.rsf.com|78</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?ppage=11&#38;rpage=3|0|visit website|2010-09-24|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.3kwd008.info/Allen-Willis.htm?ALLEN_WILLISALLEN_WILLIS|0|rancho santa fe real estate|2006-07-19|0|0|0|0|0|0|0|http://www.rsf.com|79</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;command=panorama&#38;order_id=21311|0|my website|2006-12-25|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92120.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://www.agentsource.com/forum/viewtopic.php?p=154|0|www.rsf.com|2006-09-12|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=2&#38;ppage=11&#38;rpage=14|0|visit website|2010-10-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.realtorfinder.com/united-states-real-estate-agents/california/san-diego/8.html|0|john mc christy - the willis allen company|2011-11-08|0|0|0|0|0|0|0|http://www.rsf.com|81</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?ppage=11&#38;rpage=4|0|visit website|2010-09-24|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.benimshopum.com/search.php?q=rSf|0|rancho santa fe real estate|2010-02-03|0|0|0|0|0|0|0|http://www.rsf.com/?ref=BenimShopum.com|82</Row>
+			<Row>http://forsalebylocals.com/locallinks/m/english/united states/ca/the views mobile home park/property|0|rancho santa fe real estate|2010-01-05|0|0|0|0|0|0|0|http://rsf.com|83</Row>
+			<Row>http://www.siamsewana.org/phpBB2/viewtopic.php?t=148&#38;start=0&#38;postdays=0&#38;postorder=asc&#38;highlight=|0|www.rsf.com|2007-10-19|0|0|0|0|0|0|0|http://www.rsf.com|84</Row>
+			<Row>http://www.urlrow.com/site/tags/Rsf|0|www.rsf.com|2009-12-10|0|0|0|0|0|0|0|http://www.rsf.com|85</Row>
+			<Row>http://www.bykaee.com/results.php?q=ddt us fe|0|rancho santa fe real estate|2009-12-10|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.legalindex.net/AllCity/Santa Fe Court Information.html|0|rancho santa fe community|2007-04-23|0|0|0|0|0|0|0|http://rsf.com/community_orgs.htm|87</Row>
+			<Row>http://rancho-santa-fe.californiaus.com/ads/Utilities.html|0|rancho santa fe real estate|2009-08-03|0|0|1|0|0|0|0|http://www.rsf.com|43</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=2&#38;ppage=11&#38;rpage=2|0|visit website|2010-10-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?ppage=11&#38;rpage=5|0|visit website|2010-09-24|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://euroroi.com/index.php?query=reporters sans frontieres|0|www.rsf.com|2010-10-14|0|0|0|0|0|0|0|http://www.rsf.com|88</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-california.php|0|rancho santa fe real estate|2009-11-03|0|0|1|0|0|0|0|http://rsf.com|47</Row>
+			<Row>http://kevins.nl/Live/RSf|0|kelly &#38; tammy – rsf.com|2011-11-02|0|0|0|0|0|0|0|http://www.rsf.com|39</Row>
+			<Row>http://euroroi.com/index.php?query=reporters sans frontieres rsf|0|www.rsf.com|2010-11-10|0|0|0|0|0|0|0|http://www.rsf.com|88</Row>
+			<Row>http://www.top-dir.com/sites/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2008-05-31|0|0|0|0|0|0|0|http://www.rsf.com|89</Row>
+			<Row>http://www.actidir.com/top/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2008-05-14|0|0|0|0|0|0|0|http://www.rsf.com|90</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28447|0|my website|2008-10-18|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28447|0| |2008-10-18|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=2&#38;ppage=11&#38;rpage=4|0|visit website|2010-10-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/my-rancho-santa-fe.php|0|rancho santa fe real estate|2009-11-26|0|0|1|0|0|0|0|http://rsf.com|47</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28448|0|my website|2008-12-18|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28448|0| |2008-12-18|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://prestigerealtysandiego.com/Premier/main/sandiegolinks2.html|0|rancho santa fe|2011-11-13|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92124.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=2&#38;ppage=11&#38;rpage=5|0|visit website|2010-10-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.btowstore.com/epages/17146.sf/en_NZ/en_IE/en_CA/saffron@eapgroup.com/saffron@eapgroup.com/en_GB/en_NZ/?ObjectPath=/Shops/17146/Categories/SpecialOffers|0|additional info on this book. click here or copy and paste the url below into your browser|2010-06-18|0|0|0|0|0|0|0|http://www.rsf.com|40</Row>
+			<Row>http://www.juge.ch/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-02-09|0|0|0|0|0|0|0|http://www.rsf.com|91</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe real estate|0|rancho santa fe real estate|2009-05-22|0|0|1|0|0|0|0|http://rsf.com|41</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28449|0|my website|2008-12-18|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28449|0| |2008-12-18|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://bookmarksync.com/details/18141b1a17191b1a|0|http://www.rsf.com|2008-05-23|0|0|0|0|0|0|0|http://www.rsf.com|73</Row>
+			<Row>http://www.downselot.com/search.php?search=rancho santa fe&#38;action=search|0|rancho santa fe real estate|2009-11-08|0|0|0|0|0|0|0|http://www.rsf.com|92</Row>
+			<Row>http://www.realtorfinder.com/united-states-real-estate-agents/california/carlsbad/5.html|0|john mc christy - the willis allen companty|2011-11-08|0|0|0|0|0|0|0|http://www.rsf.com|81</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/10050|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.comuniclab.it/41482/microsoft-blocca-cuba|0|reporters sans frontieres|2011-10-31|0|0|0|0|0|0|0|http://www.rsf.com|93</Row>
+			<Row>http://www.bykaee.com/results.php?q=atcp fe|0|rancho santa fe real estate|2009-01-30|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.7live7.com/rm/Classifieds.asp?q=RSF|0|kelly &#38; tammy – rsf.com|2011-03-28|0|0|0|0|0|0|0|http://www.rsf.com|94</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28450|0| |2008-12-18|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28450|0|my website|2008-12-18|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.pagere.com/agents_and_brokers/california/san_diego/2.html|0|john mc christy - the willis allen company|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|95</Row>
+			<Row>http://theantisocial.wordpress.com/2007/10|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/forum/resourceexhange?page=38|0|reporters without borders|2009-03-04|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.bykaee.com/results.php?q=caity fe|0|rancho santa fe real estate|2009-01-18|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/100546|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe realtor|0|rancho santa fe realtor|2009-05-22|0|0|1|0|0|0|0|http://www.rsf.com/area_history-main.htm|41</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe realtor|0|head areainfo2|2009-05-22|0|0|1|1|0|0|0|http://www.rsf.com/area_article.htm|41</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe realtor|0|pic06|2009-05-22|0|0|1|1|0|0|0|http://www.rsf.com/area_article.htm|41</Row>
+			<Row>http://bestvisitorsguide.com/search.php?keywords=Arcade Realtor&#38;newsearch=new|0|rancho santa fe realtor|2009-01-19|0|0|0|0|0|0|0|http://www.rsf.com/area_history-ccgaa.htm|96</Row>
+			<Row>http://userfulsearch.com/?q=frontieres|0|rancho santa fe real estate|2007-02-14|0|0|0|0|0|0|0|http://www.rsf.com|97</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28451|0|my website|2008-12-18|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28451|0| |2008-12-18|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92128.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=646&#38;ppage=11|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://spa-guide.healthcaresnow.net/tags/spa-rsf-market|0|more...|2008-09-28|0|0|1|0|0|0|0|http://www.rsf.com/address.php?property_ID=33|98</Row>
+			<Row>http://spa-guide.healthcaresnow.net/tags/spa-rsf-market|0|more...|2008-09-28|0|0|1|0|0|0|0|http://www.rsf.com/address.php?property_ID=52|98</Row>
+			<Row>http://suche.defind.de/dir/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2007-12-09|0|0|0|0|0|0|0|http://www.rsf.com|99</Row>
+			<Row>http://suche.defind.de/dir/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|open in a new browser window|2007-12-09|0|0|0|1|0|0|0|http://www.rsf.com|99</Row>
+			<Row>http://theantisocial.wordpress.com/2007/11|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.tribunal.ch/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-02-20|0|0|0|0|0|0|0|http://www.rsf.com|100</Row>
+			<Row>http://www.btowstore.com/epages/17146.sf/en_NZ/en_IE/en_CA/saffron@eapgroup.com/saffron@eapgroup.com/en_GB/en_NZ/?ObjectPath=/Shops/17146/Products/KorlingsBundle1|0|additional info on this book. click here or copy and paste the url below into your browser|2010-06-18|0|0|0|0|0|0|0|http://www.rsf.com|40</Row>
+			<Row>http://www.cmsnews.org/rancho-santa-fe-realtor.htm|0|www.rsf.com/|2007-01-12|0|0|0|0|0|0|0|http://www.rsf.com|101</Row>
+			<Row>http://www.cmsnews.org/rancho-santa-fe-realtor.htm|0|www.rsf.com/area_history-main.htm|2007-01-12|0|0|0|0|0|0|0|http://www.rsf.com/area_history-main.htm|101</Row>
+			<Row>http://www.cmsnews.org/rancho-santa-fe-realtor.htm|0|rancho santa fe real estate|2007-01-12|0|0|0|0|0|0|0|http://www.rsf.com|101</Row>
+			<Row>http://www.cmsnews.org/rancho-santa-fe-realtor.htm|0|rancho santa fe realtor|2007-01-12|0|0|0|0|0|0|0|http://www.rsf.com/area_history-main.htm|101</Row>
+			<Row>http://www.skinautique.ch/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-01-02|0|0|0|0|0|0|0|http://www.rsf.com|102</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=803&#38;ppage=9|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28452|0| |2008-12-18|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28452|0|my website|2008-12-18|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.aboutus.org/Rsf.com|0|rsf.com|2010-12-25|0|0|1|0|0|0|0|http://rsf.com|103</Row>
+			<Row>http://www.aboutus.org/Rsf.com|0|logo for rsf.com|2010-12-25|0|0|1|1|0|0|0|http://rsf.com|103</Row>
+			<Row>http://www.aboutus.org/Rsf.com|0|rsf.com|2010-12-25|0|0|1|1|0|0|0|http://rsf.com|103</Row>
+			<Row>http://www.agentsource.com/forum/viewtopic.php?p=160|0|www.rsf.com|2006-09-12|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://www.gooos.com/gooos.php/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2006-08-30|0|0|0|0|0|0|0|http://www.rsf.com|104</Row>
+			<Row>http://spa-guide.healthcaresnow.net/tags/spa-rsf-page|0|more...|2008-12-04|0|0|1|0|0|0|0|http://www.rsf.com/address.php?property_ID=52|98</Row>
+			<Row>http://spa-guide.healthcaresnow.net/tags/spa-rsf-page|0|more...|2008-12-04|0|0|1|0|0|0|0|http://www.rsf.com/address.php?property_ID=33|98</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=663&#38;ppage=8&#38;rpage=14|0|visit website|2010-11-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://theantisocial.wordpress.com/2007/12|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.greatbritainkingdom.com/r_s_f.html|0|rancho santa fe real estate|2009-08-25|0|0|0|0|0|0|0|http://rsf.com|105</Row>
+			<Row>http://www.nycgrassrootsmedia.org/taxonomy/term/Aboutthissite/0/newsletter?page=38|0|reporters without borders|2009-02-05|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/100982|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe realty|0|rancho santa fe real estate|2009-05-22|0|0|1|0|0|0|0|http://rsf.com|41</Row>
+			<Row>http://societykeywords.net/web/rancho-santa-fe.aspx|0|rancho santa fe real estate|2009-10-21|0|0|0|0|0|0|0|http://www.rsf.com|106</Row>
+			<Row>http://xn--hwt51nc2x.com/?q=rancho-santafe|0|rancho santa fe real estate|2006-12-25|0|0|0|0|0|0|0|http://rsf.com|107</Row>
+			<Row>http://afete.com/en/search-Rancho_Pv.html|0|rancho santa fe real estate|2009-10-12|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28453|0| |2009-02-13|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28453|0|my website|2009-02-13|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://travel.keyword-directory.com/rancho-santa-fe.aspx|0|rancho santa fe real estate|2010-06-04|0|0|0|0|0|0|0|http://www.rsf.com|108</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=650&#38;ppage=11|0|visit website|2010-09-23|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=663&#38;ppage=8&#38;rpage=2|0|visit website|2010-11-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://theantisocial.wordpress.com/2007/12/01/ang-traporma-2010|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.keqiaondt.com/_private/_borders/_vti_cnf/1345028.html|0|欢叁恼惕缔|2011-11-09|0|0|0|0|0|0|0|http://www.rsf.com|109</Row>
+			<Row>http://www.gzxmbx.com/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/136036.html|0|膜劈苦羔颤|2011-06-06|0|0|0|0|0|0|0|http://www.rsf.com|110</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/100987|0|www.rsf.com/|2009-10-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://client.ejility.com/ttfull001.php?order_id=21675|0|my website|2008-08-01|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?order_id=21675|0| |2008-08-01|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=688&#38;ppage=9|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28454|0| |2009-02-13|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28454|0|my website|2009-02-13|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.pagere.com/agents_and_brokers/california/carlsbad/4.html|0|john mc christy - the willis allen companty|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|95</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=650&#38;ppage=11&#38;rpage=2|0|visit website|2010-10-12|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=663&#38;ppage=8&#38;rpage=3|0|visit website|2010-11-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://companydatabase.org/kw/rancho sante fe|0|kelly &#38; tammy – rsf.com|2011-02-22|0|0|0|0|0|0|0|http://www.rsf.com|111</Row>
+			<Row>http://theantisocial.wordpress.com/2007/12/01/ang-traporma-2010/19|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.beijingshangqian.com/KS_Editor/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/667284.html|0|场果穗姓塘|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|112</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/101187|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://bestvisitorsguide.com/search.php?keywords=Comet Realtor&#38;newsearch=new|0|rancho santa fe realtor|2009-01-12|0|0|0|0|0|0|0|http://www.rsf.com/area_article.htm|96</Row>
+			<Row>http://botw.org/top/Regional/United_States/California/Cities/Rancho_Santa_Fe/Business_and_Economy|0|kely pottorff - willis allen|2009-01-03|0|0|0|0|0|0|0|http://www.rsf.com|13</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/nativity-catholic-church-rancho-santa-fe.php|0|rancho santa fe house|2009-11-26|0|0|1|0|0|0|0|http://www.rsf.com/area_info-churches.htm|47</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_Apartment.html|0|rancho santa fe real estate|2009-01-12|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28455|0| |2009-02-13|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28455|0|my website|2009-02-13|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92139.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=650&#38;ppage=11&#38;rpage=3|0|visit website|2010-10-12|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://afete.com/en/search-Cielo_Rancho_Santa_Fe.html|0|rancho santa fe real estate|2010-11-24|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=663&#38;ppage=8&#38;rpage=4|0|visit website|2010-11-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/101292|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_Ca.html|0|rancho santa fe real estate|2009-01-12|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://www.bykaee.com/results.php?q=2309 11 fe|0|rancho santa fe real estate|2009-09-02|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=650&#38;ppage=11&#38;rpage=4|0|visit website|2010-10-12|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=651&#38;ppage=8&#38;rpage=14|0|visit website|2010-11-27|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=663&#38;ppage=8&#38;rpage=5|0|visit website|2010-11-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/101356|0|http://www.rsf.com/|2006-11-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://bestvisitorsguide.com/search.php?keywords=Arcade realtor&#38;newsearch=new|0|rancho santa fe realtor|2009-01-19|0|0|0|0|0|0|0|http://www.rsf.com/area_history-ccgaa.htm|96</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_California.html|0|rancho santa fe real estate|2009-01-12|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21386&#38;command=panorama&#38;panorama_id=26664|0| |2008-01-01|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21386&#38;command=panorama&#38;panorama_id=26664|0|my website|2008-01-01|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.prestigerealtysandiego.com/Premier/community/92173.html|0|rancho santa fe|2011-03-30|0|0|0|0|0|0|0|http://www.rsf.com|50</Row>
+			<Row>http://theantisocial.wordpress.com/2008/01|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://katekinks.livejournal.com/2003/02/04|0|nicest areas|2009-01-01|0|0|0|0|0|0|0|http://www.rsf.com|113</Row>
+			<Row>http://www.510xsk.com/admin_chaonima/getnews/Gather/Article/200905/S/673323.html|0|²êðïëâëä°ò|2010-11-27|0|0|0|0|0|0|0|http://www.rsf.com|114</Row>
+			<Row>http://www.nycgrassrootsmedia.org/taxonomy/term/resourceexhange/0/workshop_archive?page=38|0|reporters without borders|2009-01-30|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/101357|0|http://www.rsf.com/|2006-11-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe restaurant|0|rancho santa fe real estate|2009-05-22|0|0|1|0|0|0|0|http://rsf.com|41</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/california-rancho-santa-fe.php|0|rancho santa fe real estate|2009-11-24|0|0|1|0|0|0|0|http://rsf.com|47</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_Home.html|0|rancho santa fe real estate|2009-01-12|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;command=panorama&#38;order_id=21386|0| |2008-01-01|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;command=panorama&#38;order_id=21386|0|my website|2008-01-01|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21074&#38;command=panorama&#38;panorama_id=25096|0|my website|2007-08-26|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.luxuryrealestate.com/profiles/6566-kelly-pottorff-and-tammy-tidmore|0|my website|2011-11-14|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.tagsup.com/tag/Rancho Santa Fe|0|rancho santa fe real estate|2010-08-25|0|0|1|0|0|0|0|http://www.rsf.com|115</Row>
+			<Row>http://www.gridhome.com/rancho-santa-fe-realtor.htm|0|rancho santa fe real estate|2007-02-12|0|0|0|0|0|0|0|http://www.rsf.com|116</Row>
+			<Row>http://www.gridhome.com/rancho-santa-fe-realtor.htm|0|www.rsf.com/area_history-main.htm|2007-02-12|0|0|0|0|0|0|0|http://www.rsf.com/area_history-main.htm|116</Row>
+			<Row>http://www.gridhome.com/rancho-santa-fe-realtor.htm|0|rancho santa fe realtor|2007-02-12|0|0|0|0|0|0|0|http://www.rsf.com/area_history-main.htm|116</Row>
+			<Row>http://www.gridhome.com/rancho-santa-fe-realtor.htm|0|www.rsf.com/|2007-02-12|0|0|0|0|0|0|0|http://www.rsf.com|116</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/101390|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.rfcn.com.cn/en/Main/Images/_notes/1002477.html|0|少数派报告|2010-10-23|0|0|0|0|0|0|0|http://www.rsf.com|117</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe restaurants|0|rancho santa fe real estate|2009-05-22|0|0|1|0|0|0|0|http://rsf.com|41</Row>
+			<Row>http://www.glenscott.co.uk/apps/boss-key-terms/index.php?search=RSF|0|rancho santa fe real estate|2009-05-19|0|0|0|0|0|0|0|http://www.rsf.com|118</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_Home_For_Sale.html|0|rancho santa fe real estate|2009-01-12|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21074&#38;command=panorama&#38;panorama_id=25097|0|my website|2006-11-05|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.luxuryrealestate.com/profiles/6566-kelly-pottorff-tammy-tidmore|0|my website|2011-11-14|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://theantisocial.wordpress.com/2008/01/02/wheres-your-spice-boy/27|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://lib2.csusm.edu/subject-guide/155-History-Research-Guide?tab=1263|0|http://www.rsf.com/area_history.htm|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com/area_history.htm|5</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/101640|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_Homes.html|0|rancho santa fe real estate|2009-01-12|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21074&#38;command=panorama&#38;panorama_id=25098|0|my website|2006-11-05|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.uksubmit.co.uk/index.php?searchType=Web&#38;query=Rsf|0|rancho santa fe real estate|2010-02-18|0|0|0|0|0|0|0|http://www.rsf.com|30</Row>
+			<Row>http://www.bestvisitorsguide.com/search.php?page=2&#38;keywords=Errol Realtor|0|rancho santa fe realtor|2008-10-17|0|0|0|0|0|0|0|http://www.rsf.com/area_history-inn.htm|96</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=651&#38;ppage=8&#38;rpage=5|0|visit website|2010-11-27|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/101842|0|http://www.rsf.com/|2006-11-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe review newspaper|0|web rsfreview|2009-05-22|0|0|0|1|0|0|0|http://rsf.com/re_resources.htm|41</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe review newspaper|0|web signonsandiego|2009-05-22|0|0|0|1|0|0|0|http://rsf.com/re_resources.htm|41</Row>
+			<Row>http://www.a-search.com/search.cgi?word=rsf&#38;mode=search&#38;hyouji=20|0|.com|2011-11-09|0|0|0|0|0|0|0|http://rsf.com?&#38;|119</Row>
+			<Row>http://barp.caledo.over-blog.com/rss-articles.xml|0| |2009-11-28|0|0|0|0|0|0|0|http://www.rsf.com|11</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_Hotel.html|0|rancho santa fe real estate|2009-01-12|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://www.newsru.net/world/04Jun2002/santa.html|0|ранчо санта фе|2011-11-07|0|0|1|0|0|0|0|http://www.rsf.com|120</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21074&#38;command=panorama&#38;panorama_id=25099|0|my website|2006-11-05|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.luxuryrealestate.com/scripts/index.php?ss=agentPages&#38;sc=propDetails&#38;agentCurrID=5839|0|http://www.rsf.com|2008-09-23|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/101864|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.urlrow.com/site/tags/rsf|0|www.rsf.com|2009-08-26|0|0|0|0|0|0|0|http://www.rsf.com|85</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe review paper|0|web rsfreview|2009-05-22|0|0|0|1|0|0|0|http://rsf.com/re_resources.htm|41</Row>
+			<Row>http://bestvisitorsguide.com/search.php?keywords=Comet realtor&#38;newsearch=new|0|rancho santa fe realtor|2009-01-12|0|0|0|0|0|0|0|http://www.rsf.com/area_article.htm|96</Row>
+			<Row>http://www.handicap365.com/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-02-07|0|0|0|0|0|0|0|http://www.rsf.com|121</Row>
+			<Row>http://www.zaz.com/regional/north_america/united_states/california/localities/r/rancho_santa_fe/guides_and_directories|0|rancho santa fe|2007-03-06|0|0|0|0|0|0|0|http://www.rsf.com|122</Row>
+			<Row>http://www.zaz.com/regional/north_america/united_states/california/localities/r/rancho_santa_fe/guides_and_directories|0|www.rsf.com|2007-03-06|0|0|0|0|0|0|0|http://www.rsf.com|122</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21074&#38;command=panorama&#38;panorama_id=25100|0|my website|2006-11-05|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.veosearch.com/en/search?q=rsf&#38;type=web|0|kelly &#38; tammy ? rsf.com|2011-11-05|0|0|1|0|0|0|0|http://www.rsf.com|123</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=2&#38;ppage=15|0|visit website|2010-11-13|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=5&#38;ppage=11|0|visit website|2010-09-23|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.medicineonline.com/reference/1139280/Rancho Santa Fe.html|0|rancho santa fe|2009-08-28|0|0|0|0|0|0|0|http://www.rsf.com|124</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/110552|0|www.rsf.com/|2009-10-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe school|0|rancho santa fe real estate|2009-05-22|0|0|1|0|0|0|0|http://rsf.com|41</Row>
+			<Row>http://www.instanceweb.com/isnw/lomas-sante-fe.html|0|rancho santa fe community|2007-03-07|0|0|0|0|0|0|0|http://rsf.com/recreation_golf.htm|125</Row>
+			<Row>http://www.fybersearch.com/site-info/rsf.com|0|read entire page|2009-10-11|0|0|0|0|0|0|0|http://rsf.com|19</Row>
+			<Row>http://www.fybersearch.com/site-info/rsf.com|0|visit site|2009-10-11|0|0|0|0|0|0|0|http://rsf.com/contact.htm|19</Row>
+			<Row>http://www.fybersearch.com/site-info/rsf.com|0|visit site|2009-10-11|0|0|0|0|0|0|0|http://rsf.com/recreation.htm|19</Row>
+			<Row>http://www.fybersearch.com/site-info/rsf.com|0|visit site|2009-10-11|0|0|0|0|0|0|0|http://rsf.com/properties.php|19</Row>
+			<Row>http://www.fybersearch.com/site-info/rsf.com|0|visit site|2009-10-11|0|0|0|0|0|0|0|http://rsf.com/community_orgs.htm|19</Row>
+			<Row>http://www.fybersearch.com/site-info/rsf.com|0|website|2009-10-11|0|0|0|0|0|0|0|http://rsf.com|19</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;command=panorama&#38;order_id=21423|0| |2008-01-01|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;command=panorama&#38;order_id=21423|0|my website|2008-01-01|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.bestvisitorsguide.com/search.php?page=2&#38;keywords=Errol realtor|0|rancho santa fe realtor|2008-10-17|0|0|0|0|0|0|0|http://www.rsf.com/area_history-inn.htm|96</Row>
+			<Row>http://theantisocial.wordpress.com/2008/02|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.nycgrassrootsmedia.org/taxonomy/term/resourceexhange/0/feed?page=38|0|reporters without borders|2008-12-04|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/137316|0|www.rsf.com/|2009-10-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.bazsites.com/Regional/NorthAmerica/UnitedStates/California/Localities/R/RanchoSantaFe/GuidesandDirectories|0|rancho santa fe|2010-02-14|0|0|0|0|0|0|0|http://www.rsf.com|126</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe school district|0|1stschool|2009-05-22|0|0|0|1|0|0|0|http://www.rsf.com/area_history-1stschool.htm|41</Row>
+			<Row>http://www.tztop.com.cn/e1/admin/images/918304.html|0|挑江恕彻墩|2011-11-01|0|0|0|0|0|0|0|http://www.rsf.com|127</Row>
+			<Row>http://www.ntvru.com/world/04jun2002/santa.html|0|ранчо санта фе|2009-03-18|0|0|0|0|0|0|0|http://www.rsf.com|128</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=855&#38;ppage=9|0|visit website|2010-09-22|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://builtwith.com/rsf.com|0|rsf.com|2011-11-11|0|0|1|0|0|0|0|http://rsf.com|129</Row>
+			<Row>http://artskeywords.net/web/rancho-santa-fe.aspx|0|rancho santa fe real estate|2009-10-18|0|0|0|0|0|0|0|http://www.rsf.com|130</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=5&#38;ppage=11&#38;rpage=14|0|visit website|2010-10-12|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/24637|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe schools|0|rancho santa fe real estate|2009-05-22|0|0|1|0|0|0|0|http://rsf.com|41</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=5&#38;ppage=11&#38;rpage=2|0|visit website|2010-10-12|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://lpqq.com/?q=Frontieres|0|rancho santa fe real estate|2007-05-27|0|0|0|0|0|0|0|http://rsf.com|131</Row>
+			<Row>http://theantisocial.wordpress.com/2008/05|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/resourceexhange?page=38|0|reporters without borders|2008-12-11|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.therichjerkformula.com/r s-f.html|0|rancho santa fe real estate|2010-01-25|0|0|0|0|0|0|0|http://www.rsf.com|77</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/25068|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.uksubmit.co.uk/results.php?query=rsf&#38;num_results=100|0| |2010-05-22|0|0|0|1|0|0|0|http://www.rsf.com|30</Row>
+			<Row>http://www.uksubmit.co.uk/results.php?query=rsf&#38;num_results=100|0|rancho santa fe real estate|2010-05-22|0|0|0|0|0|0|0|http://www.rsf.com|30</Row>
+			<Row>http://www.shia.me.uk/rSf.html|0|kelly &#38; tammy – rsf.com|2010-11-04|0|0|0|0|0|0|0|http://www.rsf.com|132</Row>
+			<Row>http://www.wainao.com/fckeditor/editor/filemanager/browser/default/images/icons/32/132944.html|0|馅床墨嫂藻|2011-11-09|0|0|0|0|0|0|0|http://www.rsf.com|133</Row>
+			<Row>http://www.les-robinsons-du-pacifique.net/archive-3-21-2008.html|0| |2008-07-07|0|0|0|0|0|0|0|http://www.rsf.com|48</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe.php|0|rancho santa fe real estate|2009-11-25|0|0|1|0|0|0|0|http://www.rsf.com|47</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=5&#38;ppage=11&#38;rpage=3|0|visit website|2010-10-12|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.sync2it.com//search/local cities|0|rancho santa fe real estate|2008-02-28|0|0|0|0|0|0|0|http://www.rsf.com|134</Row>
+			<Row>http://www.luxuryrealestate.com//profiles/6566-kelly-pottorff-and-tammy-tidmore|0|my website|2011-10-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.bykaee.com/results.php?q=minot fe fe|0|rancho santa fe real estate|2009-10-01|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://beta.luxuryrealestate.com/professionals/6566-kelly-pottorff-and-tammy-tidmore|0|visit website|2010-07-06|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/40458|0|http://www.rsf.com/|2006-11-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://ktidmore.dreamhm.com/contactinfo.htm|0|www.rsf.com|2009-08-27|0|0|0|0|0|0|0|http://www.rsf.com|34</Row>
+			<Row>http://www.southerncaliforniadirectory.com/index.php?sid=358193149&#38;t=sub_pages&#38;cat=283|0|rancho santa fe guide|2008-03-28|0|0|0|0|0|0|0|http://www.rsf.com|61</Row>
+			<Row>http://www.luxurysales.com/listings/web_view.cfm?id=2858|0| |2011-11-10|1|0|0|0|0|0|0|http://www.rsf.com/?source=www.LuxuryLifestyle.com|135</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=5&#38;ppage=11&#38;rpage=4|0|visit website|2010-10-12|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://theantisocial.wordpress.com/2008/06|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://lasik-fact.com/news/rsf-and|0|more...|2008-12-17|0|0|1|0|0|0|0|http://rsf.com|136</Row>
+			<Row>http://house.keyword-directory.com/rancho-santa-fe.aspx|0|rancho santa fe real estate|2010-04-27|0|0|0|0|0|0|0|http://www.rsf.com|108</Row>
+			<Row>http://beta.luxuryrealestate.com/professionals/6566-kelly-pottorff-and-tammy-tidmore?lpage=1|0|visit website|2010-08-16|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/45369|0|www.rsf.com/|2009-09-28|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.siamsewana.org/phpBB2/viewtopic.php?t=152&#38;view=next|0|www.rsf.com|2007-11-28|0|0|0|0|0|0|0|http://www.rsf.com|84</Row>
+			<Row>http://ktidmore.dreamhm.com/contactinfo~&#38;print~true.htm|0|www.rsf.com|2009-10-22|0|0|0|0|0|0|0|http://www.rsf.com|34</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe soccer|0|fire station|2009-05-22|0|0|0|1|0|0|0|http://www.rsf.com/area_photos.htm|41</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe soccer|0|jump course|2009-05-22|0|0|0|1|0|0|0|http://www.rsf.com/area_photos.htm|41</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=5&#38;ppage=11&#38;rpage=5|0|visit website|2010-10-12|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://nextvisionweb.com/rancho-santa-fe-realtor.htm|0|www.rsf.com/area_history-main.htm|2007-06-09|0|0|0|0|0|0|0|http://www.rsf.com/area_history-main.htm|137</Row>
+			<Row>http://nextvisionweb.com/rancho-santa-fe-realtor.htm|0|rancho santa fe realtor|2007-06-09|0|0|0|0|0|0|0|http://www.rsf.com/area_history-main.htm|137</Row>
+			<Row>http://nextvisionweb.com/rancho-santa-fe-realtor.htm|0|www.rsf.com/|2007-06-09|0|0|0|0|0|0|0|http://www.rsf.com|137</Row>
+			<Row>http://nextvisionweb.com/rancho-santa-fe-realtor.htm|0|rancho santa fe real estate|2007-06-09|0|0|0|0|0|0|0|http://www.rsf.com|137</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/ATTUALITA/algeriamediacensurati.html?Page=3|0|reporters sans frontieres|2009-07-09|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://www.btowstore.com/epages/17146.sf/en_NZ/en_IE/en_CA/saffron@eapgroup.com/saffron@eapgroup.com/en_GB/en_US/?ObjectPath=/Shops/17146/Categories/SpecialOffers|0|additional info on this book. click here or copy and paste the url below into your browser|2010-06-18|0|0|0|0|0|0|0|http://www.rsf.com|40</Row>
+			<Row>http://beta.luxuryrealestate.com/professionals/6566-kelly-pottorff-and-tammy-tidmore?lpage=2|0|visit website|2010-07-22|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/46269|0|www.rsf.com/|2009-09-03|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe soccer club|0|fire station|2009-05-22|0|0|0|1|0|0|0|http://www.rsf.com/area_photos.htm|41</Row>
+			<Row>http://www.newsru.org/world/04Jun2002/santa.html|0|ранчо санта фе|2010-07-20|0|0|1|0|0|0|0|http://www.rsf.com|74</Row>
+			<Row>http://luxuryhomes.com/lh/listing/United_States/e58c156f-cd07-4afc-83a1-8dba163d5855|0|go to website|2008-10-12|0|0|0|0|0|0|0|http://www.rsf.com|139</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/ATTUALITA/algeriamediacensurati.html?Page=4|0|reporters sans frontieres|2009-08-05|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://theantisocial.wordpress.com/about|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/2006speakers?page=44|0|reporters without borders|2009-02-08|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://katekinks.livejournal.com/data/atom|0|nicest areas|2009-01-01|0|0|0|0|0|0|0|http://www.rsf.com|113</Row>
+			<Row>http://www.jlysys.com/NewsAdmin/ubb/ButtonImage/standard/1243597.html|0|侠咱辆滑至|2011-11-06|0|0|0|0|0|0|0|http://www.rsf.com|140</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/46947|0|www.rsf.com/|2009-09-28|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_Real_Estate.html|0|rancho santa fe real estate|2008-07-15|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=804&#38;ppage=9|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://katekinks.livejournal.com/data/rss|0|nicest areas|2009-01-01|0|0|0|0|0|0|0|http://www.rsf.com|113</Row>
+			<Row>http://www.excite.co.uk/directory/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|http://www.rsf.com/|2006-10-31|0|0|0|0|0|0|0|http://www.rsf.com|141</Row>
+			<Row>http://www.excite.co.uk/directory/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2006-10-31|0|0|0|0|0|0|0|http://www.rsf.com|141</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/47350|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://ktidmore.dreamhm.com/homes.htm|0|my website|2009-08-27|0|0|0|1|0|0|0|http://www.rsf.com|34</Row>
+			<Row>http://us.iseekdir.com/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2009-10-01|0|0|0|0|0|0|0|http://www.rsf.com|142</Row>
+			<Row>http://us.iseekdir.com/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2009-10-01|0|0|0|1|0|0|0|http://www.rsf.com|142</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_Realtor.html|0|rancho santa fe real estate|2009-01-12|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://www.ynkangmei.com/fckeditor/editor/filemanager/browser/default/images/icons/32/163124.html|0|珊滋禽逞麦|2011-11-05|0|0|0|0|0|0|0|http://www.rsf.com|143</Row>
+			<Row>http://www.porn89.net/search.php?q=r;sf|0| |2009-11-16|0|0|0|0|0|0|0|http://www.rsf.com/?ref=porn89.net|144</Row>
+			<Row>http://www.porn89.net/search.php?q=r;sf|0|rancho santa fe real estate|2009-11-16|0|0|0|0|0|0|0|http://www.rsf.com|144</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=647&#38;ppage=11|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://theantisocial.wordpress.com/category/agam-agam-ni-buraot|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.btowstore.com/epages/17146.sf/en_NZ/en_IE/en_CA/saffron@eapgroup.com/saffron@eapgroup.com/en_GB/en_US/?ObjectPath=/Shops/17146/Products/KorlingsBundle1|0|additional info on this book. click here or copy and paste the url below into your browser|2010-06-18|0|0|0|0|0|0|0|http://www.rsf.com|40</Row>
+			<Row>http://hndshoot.doesntexist.org/r_s_f.html|0|rancho santa fe real estate|2009-11-01|0|0|1|0|0|0|0|http://www.rsf.com|145</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/48103|0|www.rsf.com/|2009-11-02|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://ktidmore.dreamhm.com/homes~&#38;print~true.htm|0|www.rsf.com|2009-08-27|0|0|0|0|0|0|0|http://www.rsf.com|34</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/real-estate-in-rancho-santa-fe.php|0|rancho santa fe real estate|2009-11-03|0|0|1|0|0|0|0|http://www.rsf.com|47</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_Review.html|0|rancho santa fe real estate|2010-11-27|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/ATTUALITA/algeriamediacensurati.html?Page=68|0|reporters sans frontieres|2009-08-05|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://theantisocial.wordpress.com/category/bagong-pinoy|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://search.lycos.com/?query=&#34;rancho santa fe&#34;&#38;diktfc=962275381CEAEC092B0FF6FA337A7810C514A0E95B97|0|rancho santa fe real estate|2008-08-16|0|0|0|0|0|0|0|http://www.rsf.com|146</Row>
+			<Row>http://www.4seeking.com/site/www.rsf.com|0|open in a new window|2011-01-17|0|0|1|1|0|0|0|http://www.rsf.com|147</Row>
+			<Row>http://www.4seeking.com/site/www.rsf.com|0|kelly &#38; tammy – rsf.com|2011-01-17|0|0|1|0|0|0|0|http://www.rsf.com|147</Row>
+			<Row>http://www.4seeking.com/site/www.rsf.com|0|kelly &#38; tammy|2011-01-17|0|0|1|0|0|0|0|http://www.rsf.com/about.php|147</Row>
+			<Row>http://www.4seeking.com/site/www.rsf.com|0|open in a new window|2011-01-17|0|0|1|1|0|0|0|http://www.rsf.com/about.php|147</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/49644|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.lkpark.com/huace/photos/other/images/21222.html|0|概衡却痒驾|2011-11-06|0|0|0|0|0|0|0|http://www.rsf.com|148</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/real-estate-rancho-santa-fe-california.php|0|rancho santa fe real estate|2009-11-25|0|0|1|0|0|0|0|http://www.rsf.com|47</Row>
+			<Row>http://www.kidskeywords.net/web/rancho-santa-fe.aspx|0|rancho santa fe real estate|2009-07-13|0|0|0|0|0|0|0|http://www.rsf.com|149</Row>
+			<Row>http://www.agentsource.com/forum/viewtopic.php?p=161|0|www.rsf.com|2006-09-12|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/ATTUALITA/algeriamediacensurati.html?Page=69|0|reporters sans frontieres|2009-07-09|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://theantisocial.wordpress.com/category/bayan-ko|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.bestvisitorsguide.com/search.php?page=3&#38;keywords=Errol Realtor|0|rancho santa fe realtor|2008-11-20|0|0|0|0|0|0|0|http://www.rsf.com/area_history-inn.htm|96</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/aboutthissite?page=38|0|reporters without borders|2009-03-06|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.baldegg.com/buy/voces-sin-fronteras-for-sale.html|0|kelly &#38; tammy – rsf.com|2011-11-15|0|0|0|0|0|0|0|http://www.rsf.com|150</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/50056|0|www.rsf.com/|2009-09-28|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/real-estate-rancho-santa-fe.php|0|rancho santa fe real estate|2009-12-09|0|0|1|0|0|0|0|http://www.rsf.com|47</Row>
+			<Row>http://afete.com/en/search-Rancho_Santa_Fe_Thrift_And_Loan.html|0|rancho santa fe real estate|2009-01-12|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://www.bykaee.com/results.php?q=2309 12 fe|0|rancho santa fe real estate|2009-09-02|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.netsorce.com/Agent Image/Custom sites.htm|0|rancho santa fe|2011-11-14|0|0|0|0|0|0|0|http://rsf.com|31</Row>
+			<Row>http://www.netsorce.com/Agent Image/Custom sites.htm|0|rancho santa fe - real estate web design prospecting|2011-11-14|0|0|0|1|0|0|0|http://rsf.com|31</Row>
+			<Row>http://www.california-usa.org/CA/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2007-08-24|0|0|0|0|0|0|0|http://www.rsf.com|151</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/ATTUALITA/algeriamediacensurati.html?Page=70|0|reporters sans frontieres|2009-06-06|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://theantisocial.wordpress.com/category/isyu|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://look.fxlayer.net/q.php?search=rancho santa fe|0|rancho santa fe real estate|2009-07-09|0|0|0|0|0|0|0|http://rsf.com|152</Row>
+			<Row>http://look.fxlayer.net/q.php?search=rancho santa fe|0|rancho santa fe r..|2009-07-09|0|0|0|0|0|0|0|http://rsf.com|152</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/50125|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://ktidmore.dreamhm.com/solds.htm|0|my website|2009-08-27|0|0|0|1|0|0|0|http://www.rsf.com|34</Row>
+			<Row>http://www.mobilebrowsing.net/r_s_f.html|0|rancho santa fe real estate|2009-07-24|0|0|0|0|0|0|0|http://rsf.com|153</Row>
+			<Row>http://www.bjzrrt.com/boob/ButtonImage/standard/957593.html|0|游长警婴盾|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|154</Row>
+			<Row>http://www.coup-au-coeur.net/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-01-25|0|0|0|0|0|0|0|http://www.rsf.com|155</Row>
+			<Row>http://theantisocial.wordpress.com/category/trapo-ka-kasi|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://look.fxlayer.net/q.php?search=rancho santa fe realtor|0|rancho santa fe r..|2009-06-21|0|0|0|0|0|0|0|http://rsf.com/properties.php|152</Row>
+			<Row>http://look.fxlayer.net/q.php?search=rancho santa fe realtor|0|rancho santa fe realtor|2009-06-21|0|0|0|0|0|0|0|http://rsf.com/properties.php|152</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/50128|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://ktidmore.dreamhm.com/solds~&#38;print~true.htm|0|www.rsf.com|2009-10-22|0|0|0|0|0|0|0|http://www.rsf.com|34</Row>
+			<Row>http://www.xn--sngle-tsa.net/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-01-07|0|0|0|0|0|0|0|http://www.rsf.com|156</Row>
+			<Row>http://www.agentsource.com/forum/viewtopic.php?p=163|0|www.rsf.com|2006-09-12|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://theantisocial.wordpress.com/category/traporma-2010|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.livingtv.co.uk/search/?q=related:http://www.rsfassociation.org/|0|rancho santa fe real estate|2010-06-15|0|0|0|0|0|0|0|http://www.rsf.com|157</Row>
+			<Row>http://www.bestvisitorsguide.com/search.php?page=3&#38;keywords=Errol realtor|0|rancho santa fe realtor|2008-11-20|0|0|0|0|0|0|0|http://www.rsf.com/area_history-inn.htm|96</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/74148|0|www.rsf.com/|2009-10-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe townhouse|0|rancho santa fe realtor|2009-05-17|0|0|1|0|0|0|0|http://www.rsf.com/area_history-main.htm|41</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe townhouse|0|head areahistory1|2009-05-17|0|0|1|1|0|0|0|http://www.rsf.com/area_history.htm|41</Row>
+			<Row>http://www.zibb.com/all/search/all?q=&#34;santa fe&#34;|0|http://www.rsf.com/|2009-05-08|0|0|1|0|0|0|0|http://www.rsf.com|158</Row>
+			<Row>http://www.zibb.com/all/search/all?q=&#34;santa fe&#34;|0|rancho santa fe real estate|2009-05-08|0|0|1|0|0|0|0|http://www.rsf.com|158</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/realestate-in-rancho-santa-fe.php|0|rancho santa fe real estate|2009-11-25|0|0|1|0|0|0|0|http://www.rsf.com|47</Row>
+			<Row>http://www.agentsource.com/forum/viewtopic.php?p=164|0|www.rsf.com|2007-09-06|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://theantisocial.wordpress.com/eleksyon-2010|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.coup-au-coeur.com/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-03-09|0|0|0|0|0|0|0|http://www.rsf.com|159</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/92654|0|www.rsf.com/|2009-10-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.tao13.com/bbs_xxx/Images/Horoscope/Plus/qyc/Log/Themes/UpFile/Utility/Xml/璇存槑鏂囨。/1443428.html|0|紫扯捂缺乡|2010-10-24|0|0|0|0|0|0|0|http://www.rsf.com|160</Row>
+			<Row>http://www.beautyculture.net/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2006-12-02|0|0|0|0|0|0|0|http://www.rsf.com|161</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=696&#38;ppage=9|0|visit website|2010-10-14|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.kulinapula.net/Regional,KU,9737,North,America,KU,7515,United,States,KU,7515,California,KU,3171,Localities,KU,6404,R,KU,8626,Rancho,Santa,Fe|0|rancho santa fe|2007-10-26|0|0|0|0|0|0|0|http://www.rsf.com|162</Row>
+			<Row>http://theantisocial.wordpress.com/kontak|0|reporters without borders|2008-11-12|0|0|0|0|0|0|0|http://www.rsf.com|4</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/92712|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://kevinsars.com/Search/RSF|0|rancho santa fe real estate|2010-10-06|0|0|0|0|0|0|0|http://www.rsf.com|163</Row>
+			<Row>http://sync2it.com/search/CITIES&#38;sr=20|0|rancho santa fe real estate|2008-11-18|0|0|0|0|0|0|0|http://www.rsf.com|134</Row>
+			<Row>http://www.exhibition24.net/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-01-04|0|0|0|0|0|0|0|http://www.rsf.com|164</Row>
+			<Row>http://www.shia.me.uk/RSF School.html|0|rancho santa fe realtor|2010-06-13|0|0|0|0|0|0|0|http://www.rsf.com/area_history-1stschool.htm|132</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21423&#38;command=panorama&#38;panorama_id=26932|0| |2008-01-01|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21423&#38;command=panorama&#38;panorama_id=26932|0|my website|2008-01-01|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.virginmedia.com/afe/afe.php?q=Rancho Santa Fe|0|rancho santa fe real estate|2010-03-16|0|0|0|0|0|0|0|http://www.rsf.com|165</Row>
+			<Row>http://www.mobilebrowsing.net/http_rsf.html|0|rancho santa fe real estate|2010-04-24|0|0|0|0|0|0|0|http://www.rsf.com|153</Row>
+			<Row>http://www.fybersearch.com/search/rsf.com|0|rancho santa fe real estate|2009-11-22|0|0|0|0|0|0|0|http://www.rsf.com|19</Row>
+			<Row>http://www.fybersearch.com/search/rsf.com|0|www.rsf.com|2009-11-22|0|0|0|0|0|0|0|http://www.rsf.com|19</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=660&#38;ppage=8&#38;rpage=14|0|visit website|2010-11-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.newsru.com/arch/world/04jun2002/santa.html|0|ранчо санта фе|2011-11-11|0|0|1|0|0|0|0|http://www.rsf.com|166</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/resourceexhange/0/feed?page=38|0|reporters without borders|2008-12-27|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.accoonachess.com/K_0/rancho_santa_fe.htm|0|rancho santa fe real estate|2010-03-27|0|0|0|0|0|0|0|http://www.rsf.com|167</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/92715|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.ntvsport.ru/world/04Jun2002/santa.html|0|ðàí÷î ñàíòà ôå|2010-06-09|0|0|1|0|0|0|0|http://www.rsf.com|168</Row>
+			<Row>http://lebanonwire.com/0602LN/06020301RSF.asp|0|reporters without borders|2011-11-09|0|0|0|0|0|0|0|http://www.rsf.com|169</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21423&#38;command=panorama&#38;panorama_id=26933|0| |2008-05-23|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21423&#38;command=panorama&#38;panorama_id=26933|0|my website|2008-05-23|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://lebeuliettadys.blogspot.com/2007/10/rancho-santa-fe-fires.html|0|rancho santa fe community|2008-11-15|0|0|1|0|0|0|0|http://rsf.com/community_orgs.htm|25</Row>
+			<Row>http://lebeuliettadys.blogspot.com/2007/10/rancho-santa-fe-fires.html|0|http://rsf.com/community_orgs.htm|2008-11-15|0|0|0|0|0|0|0|http://rsf.com/community_orgs.htm|25</Row>
+			<Row>http://www.fybersearch.com/search/rsf.org|0|www.rsf.com|2009-11-22|0|0|0|0|0|0|0|http://www.rsf.com|19</Row>
+			<Row>http://www.fybersearch.com/search/rsf.org|0|rancho santa fe real estate|2009-11-22|0|0|0|0|0|0|0|http://www.rsf.com|19</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=660&#38;ppage=8&#38;rpage=2|0|visit website|2010-11-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.jsrhyb.com/admin/SouthidcEditor/ButtonImage/standard/794788.html|0|宠宿癌谐伙|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|170</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/92733|0|http://www.rsf.com/|2006-11-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://lasik-fact.com/tags/rsf|0|more...|2009-02-23|0|0|1|0|0|0|0|http://rsf.com|136</Row>
+			<Row>http://alexa.aspxz.cn/index.asp?domain=varealty.com|0|http://www.rsf.com/|2010-07-29|0|0|0|0|0|0|0|http://www.rsf.com|171</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21423&#38;command=panorama&#38;panorama_id=26934|0| |2008-05-23|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21423&#38;command=panorama&#38;panorama_id=26934|0|my website|2008-05-23|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=660&#38;ppage=8&#38;rpage=3|0|visit website|2010-11-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.jiajuboli.cn/editor/Example/NewsSystem/NewsFile/207976.html|0|鞭洁给差沼|2011-11-04|0|0|0|0|0|0|0|http://www.rsf.com|172</Row>
+			<Row>http://www.bykaee.com/results.php?q=dbt be fe|0|rancho santa fe real estate|2009-11-07|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.byebbr.com/admin/Editor/buttonimage/blue/149582.html|0|盟庇拓浩哄|2011-11-06|0|0|0|0|0|0|0|http://www.rsf.com|173</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21423&#38;command=panorama&#38;panorama_id=26935|0|my website|2008-05-23|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21423&#38;command=panorama&#38;panorama_id=26935|0| |2008-05-23|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.bykaee.com/results.php?q=pdh aia fe fe|0|rancho santa fe real estate|2010-06-29|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=5&#38;ppage=15|0|visit website|2010-11-13|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=660&#38;ppage=8&#38;rpage=4|0|visit website|2010-11-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://propertywexford.com/Image/Soccer Field Image/2|0|soccer field http://www.rsf.com/area_photos.htm|2010-02-02|0|0|0|0|0|0|0|http://www.rsf.com/area_photos.htm|174</Row>
+			<Row>http://propertywexford.com/Image/Soccer Field Image/2|0| |2010-02-02|0|0|0|1|0|0|0|http://www.rsf.com/area_photos.htm|174</Row>
+			<Row>http://www.nycgrassrootsmedia.org/taxonomy/term/Aboutthissite/0/2006endorse?page=38|0|reporters without borders|2008-12-25|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/92769|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.abc.net/index.php?page=search/web&#38;search=rsf.com&#38;type=web&#38;fl=0|0|kelly &#38; tammy – rsf.com|2011-02-19|0|0|0|0|0|0|0|http://rsf.com|175</Row>
+			<Row>http://www.abc.net/index.php?page=search/web&#38;search=rsf.com&#38;type=web&#38;fl=0|0| |2011-02-19|0|0|0|1|0|0|0|http://rsf.com|175</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21423&#38;command=panorama&#38;panorama_id=26936|0| |2008-05-23|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21423&#38;command=panorama&#38;panorama_id=26936|0|my website|2008-05-23|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.lasik-problem.com/news/the-rsf|0|more...|2009-05-10|0|0|1|0|0|0|0|http://rsf.com|176</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=660&#38;ppage=8&#38;rpage=5|0|visit website|2010-11-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.nycgrassrootsmedia.org/taxonomy/term/Aboutthissite/0/register2006?page=38|0|reporters without borders|2008-12-25|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/92993|0|www.rsf.com/|2009-10-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.therichjerkformula.com/r_s-f.html|0|rancho santa fe real estate|2009-12-25|0|0|0|0|0|0|0|http://www.rsf.com|77</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=20452&#38;command=panorama&#38;panorama_id=22202|0|my website|2007-03-09|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/94033|0|www.rsf.com/|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.zxkcfd.com/xbjbadmin/inc/newsManageSystem/edit/images/Editor/_notes/905817.html|0|炫板公预百|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|177</Row>
+			<Row>http://newsru.com/world/04Jun2002/santa.html|0|ранчо санта фе|2011-11-08|0|0|1|0|0|0|0|http://www.rsf.com|166</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=20452&#38;command=panorama&#38;panorama_id=22203|0|my website|2007-03-09|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.xinxiangshui.cn/Manage/Include/fckeditor/editor/filemanager/browser/default/images/icons/32/864775.html|0|溶汇炎宅酗|2011-11-04|0|0|0|0|0|0|0|http://www.rsf.com|178</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=652&#38;ppage=11|0|visit website|2010-10-12|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=692&#38;ppage=8|0|visit website|2010-11-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.maefa.net/?ma=RSF|0| |2009-07-27|0|0|0|1|0|0|0|http://www.rsf.com|179</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/94194|0|www.rsf.com|2006-11-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.newsru.com/world/04jun2002/santa.html|0|ранчо санта фе|2007-08-07|0|0|0|0|0|0|0|http://www.rsf.com|166</Row>
+			<Row>http://www.glenscott.co.uk/apps/boss-key-terms/index.php?search=Rsf|0|rancho santa fe real estate|2009-07-05|0|0|0|0|0|0|0|http://www.rsf.com|118</Row>
+			<Row>http://www.glenscott.co.uk/apps/boss-key-terms/index.php?search=rsf|0|rancho santa fe real estate|2009-05-20|0|0|0|0|0|0|0|http://www.rsf.com|118</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=20452&#38;command=panorama&#38;panorama_id=22204|0|my website|2007-03-09|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://accoonaanswer.com/K_0/rsf.htm|0|rancho santa fe real estate|2010-03-19|0|0|0|0|0|0|0|http://www.rsf.com|180</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/98032|0|http://www.rsf.com/|2006-11-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.newsru.com/world/04jun2002/santa_print.html|0|ранчо санта фе|2007-08-07|0|0|0|0|0|0|0|http://www.rsf.com|166</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=20452&#38;command=panorama&#38;panorama_id=22205|0|my website|2007-03-09|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=652&#38;ppage=11&#38;rpage=2|0|visit website|2010-11-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://dirs.educationworld.net/cat/1139280|0|rancho santa fe|2008-12-27|0|0|0|0|0|0|0|http://www.rsf.com|181</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/98728|0|www.rsf.com/|2007-06-21|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://alleba.com/search/?q=rancho santa fe|0|rancho santa fe real estate|2009-11-29|0|0|1|0|0|0|0|http://www.rsf.com|182</Row>
+			<Row>http://www.comuniclab.it/node/41482|0|reporters sans frontieres|2011-11-01|0|0|0|0|0|0|0|http://www.rsf.com|93</Row>
+			<Row>http://www.luxuryrealestate.com/scripts/index.php?siteScript=agentPages&#38;action=sendInquiry&#38;siteScreen=details&#38;agentCurrID=5839|0|http://www.rsf.com|2008-10-21|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=1&#38;ppage=9|0|visit website|2010-10-14|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=20452&#38;command=panorama&#38;panorama_id=22206|0|my website|2007-03-09|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=858&#38;ppage=9|0|visit website|2010-09-22|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.microchip-technology.com/directory/Regional-2FNorth_America-2FUnited_States-2FCalifornia-2FLocalities-2FR-2FRancho_Santa_Fe-2FGuides_and_Directories|0|rancho santa fe|2010-03-05|0|0|1|0|0|0|0|http://www.rsf.com|183</Row>
+			<Row>http://www.screensavers.ch/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-02-19|0|0|0|0|0|0|0|http://www.rsf.com|184</Row>
+			<Row>http://www.handicap365.net/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-01-04|0|0|0|0|0|0|0|http://www.rsf.com|185</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=652&#38;ppage=11&#38;rpage=3|0|visit website|2010-11-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://afete.com/en/search-Code-2.html|0|rancho santa fe real estate|2008-10-20|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://www.zenbit.com/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2007-05-19|0|0|0|0|0|0|0|http://www.rsf.com|186</Row>
+			<Row>http://www.zenbit.com/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|http://www.rsf.com/|2007-05-19|0|0|0|0|0|0|0|http://www.rsf.com|186</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/submittools?page=38|0|reporters without borders|2009-02-06|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.listingsus.com/California/Southern-California-Region/San-Diego-County/Business/Real_Estate/index12.asp|0|rancho santa fe guide|2007-06-17|0|0|0|0|0|0|0|http://www.rsf.com|187</Row>
+			<Row>http://www.joeant.com/DIR/info/get/20030/99675|0|http://www.rsf.com/|2006-11-13|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://virtualindexes.com/?q=lomas-santa-fe-country-club|0|rancho santa fe community|2007-02-13|0|0|0|0|0|0|0|http://rsf.com/recreation_golf.htm|188</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=652&#38;ppage=11&#38;rpage=4|0|visit website|2010-11-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.sguub.com/web.php?query=RSf&#38;count=0&#38;l=en|0|rancho santa fe real estate|2010-01-04|0|0|1|0|0|0|0|http://www.rsf.com|189</Row>
+			<Row>http://www.karenmulder.com.cn/UploadFile/WebEditor/2007/03/738441.html|0|十瞧鲤雹枫|2011-11-03|0|0|0|0|0|0|0|http://www.rsf.com|190</Row>
+			<Row>http://www.jyqqjz.cn/fllcn/edit/Editor/ButtonImage/wwwroot/admin/Editor/ButtonImage/standard/260346.html|0|楼邀却麻始|2011-11-03|0|0|0|0|0|0|0|http://www.rsf.com|191</Row>
+			<Row>http://www.hoytecnologia.com/noticias/portal-chino-acusado-luchar/91476|0|reporteros sin fronteras|2011-11-11|0|0|0|0|0|0|0|http://www.rsf.com|192</Row>
+			<Row>http://www.realestateindustryreview.com/hd/index.php?t=san diego auto loan rates|0|news coverage of san diego|2009-10-04|0|0|0|1|0|0|0|http://rsf.com/re_resources.htm|193</Row>
+			<Row>http://www.investor411.org/resources/rancho-santa-fe-property.php|0|rancho santa fe|2011-11-06|0|0|1|0|0|0|0|http://www.rsf.com|194</Row>
+			<Row>http://dcw4444.com/Admin/About/images/ftb/office2000/551213.html|0|纤维素纤维|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|195</Row>
+			<Row>http://www.employeur.net/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-01-06|0|0|0|0|0|0|0|http://www.rsf.com|196</Row>
+			<Row>http://www.investor411.org/resources/rancho-santa-fe-realty.php|0|rancho santa fe|2011-11-06|0|0|1|0|0|0|0|http://www.rsf.com|194</Row>
+			<Row>http://donghaimould.cn/admin/eWebEditor/Example/NewsSystem/NewsFile/37291.html|0|场果穗姓塘|2011-11-02|0|0|0|0|0|0|0|http://www.rsf.com|197</Row>
+			<Row>http://estate.warszawa.pl/en/search-Santa_Fe-1-10.html|0|rancho santa fe real estate|2009-08-04|0|0|1|0|0|0|0|http://rsf.com|198</Row>
+			<Row>http://dmoz.global.pl/Top/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2008-05-10|0|0|0|0|0|0|0|http://www.rsf.com|199</Row>
+			<Row>http://www.refertus.info/rancho.phtml|0|http://www.rsf.com/|2011-10-13|0|0|0|0|0|0|0|http://www.rsf.com|200</Row>
+			<Row>http://www.asuinternationalstudents.com/blog/?go=cnNmLmNvbQ==|0| |2009-09-10|1|0|0|0|0|0|0|http://rsf.com|201</Row>
+			<Row>http://www.fusiontech.net.cn/admin/eWebEditor/Example/NewsSystem/NewsFile/419939.html|0|交轧乳是瞳|2011-11-01|0|0|0|0|0|0|0|http://www.rsf.com|202</Row>
+			<Row>http://www.southerncaliforniadirectory.com/index.php?sid=535774369&#38;t=sub_pages&#38;cat=283|0|rancho santa fe guide|2007-03-08|0|0|0|0|0|0|0|http://www.rsf.com|61</Row>
+			<Row>http://estate.warszawa.pl/en/search-Santa_Fe-1-2.html|0|rancho santa fe real estate|2009-08-04|0|0|1|0|0|0|0|http://rsf.com|198</Row>
+			<Row>http://www.ntvsport.ru/pict/slide/430517.html|0|www.rsf.com|2010-10-19|0|0|1|0|0|0|0|http://www.rsf.com|168</Row>
+			<Row>http://yourcameraspot.com/digitalcamera/r_s_f.html|0|rancho santa fe real estate|2009-10-02|0|0|0|0|0|0|0|http://rsf.com|203</Row>
+			<Row>http://yourcameraspot.com/digitalcamera/r_s_f.html|0|rancho santa fe community|2009-10-02|0|0|0|0|0|0|0|http://rsf.com/community_orgs.htm|203</Row>
+			<Row>http://55d.com/Info.aspx?u=rsf.com|0| |2011-10-29|0|0|0|1|0|0|0|http://www.rsf.com|204</Row>
+			<Row>http://55d.com/Info.aspx?u=rsf.com|0|访问该网站|2011-10-29|0|0|0|0|0|0|0|http://www.rsf.com|204</Row>
+			<Row>http://estate.warszawa.pl/en/search-Santa_Fe-1-3.html|0|rancho santa fe real estate|2009-08-04|0|0|1|0|0|0|0|http://rsf.com|198</Row>
+			<Row>http://www.ntvsport.ru/pict/slide/430518.html|0|www.rsf.com|2010-10-19|0|0|1|0|0|0|0|http://www.rsf.com|168</Row>
+			<Row>http://www.ferommok.com/search.php?search=rancho santa fe&#38;action=search|0|rancho santa fe real estate|2010-04-13|0|0|0|0|0|0|0|http://www.rsf.com|205</Row>
+			<Row>http://www.realestateofusa.com/46074~Strool?st=20|0|rancho santa fe real estate|2011-11-15|0|0|1|0|0|0|0|http://rsf.com/address.php?property_ID=37|206</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26276|0|my website|2008-03-12|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26276|0| |2008-03-12|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.mossu-marchal.com/html/index.php?option=com_banners&#38;task=click&#38;bid=11|0| |2011-11-11|1|0|0|0|0|0|0|http://www.rsf.com|207</Row>
+			<Row>http://estate.warszawa.pl/en/search-Santa_Fe-1-4.html|0|rancho santa fe real estate|2009-08-04|0|0|1|0|0|0|0|http://rsf.com|198</Row>
+			<Row>http://www.ntvsport.ru/pict/slide/430519.html|0|www.rsf.com|2010-10-19|0|0|1|0|0|0|0|http://www.rsf.com|168</Row>
+			<Row>http://alexa.aspxz.cn/index.asp?domain=fsbometro.com|0|http://www.rsf.com/|2010-08-21|0|0|0|0|0|0|0|http://www.rsf.com|171</Row>
+			<Row>http://wd-search.com/Covers.An.Area.Of.Approximately|0| |2008-12-20|0|0|0|1|0|0|0|http://www.rsf.com/area_description.htm|208</Row>
+			<Row>http://wd-search.com/Covers.An.Area.Of.Approximately|0|rsf.com|2008-12-20|0|0|0|0|0|0|0|http://www.rsf.com/area_description.htm|208</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;command=panorama&#38;order_id=21311|0|my website|2007-02-13|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26277|0|my website|2008-03-12|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26277|0| |2008-03-12|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.mossu-marchal.com/html/index.php?option=com_banners&#38;task=click&#38;bid=12|0| |2011-11-11|1|0|0|0|0|0|0|http://www.rsf.com|207</Row>
+			<Row>http://estate.warszawa.pl/en/search-Santa_Fe-1-5.html|0|rancho santa fe real estate|2009-08-04|0|0|1|0|0|0|0|http://rsf.com|198</Row>
+			<Row>http://sync2it.com/search/Best image cities|0|rancho santa fe real estate|2009-06-09|0|0|0|0|0|0|0|http://www.rsf.com|134</Row>
+			<Row>http://www.tags-search.com/rancho-santa-fe/tag.html|0|rancho santa fe real estate|2010-07-10|0|0|1|0|0|0|0|http://www.rsf.com|209</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26278|0|my website|2008-03-12|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26278|0| |2008-03-12|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=6&#38;ppage=11|0|visit website|2010-10-12|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.mossu-marchal.com/html/index.php?option=com_banners&#38;task=click&#38;bid=13|0| |2011-10-18|1|0|0|0|0|0|0|http://www.rsf.com|207</Row>
+			<Row>http://estate.warszawa.pl/en/search-Santa_Fe-1-6.html|0|rancho santa fe real estate|2009-08-04|0|0|1|0|0|0|0|http://rsf.com|198</Row>
+			<Row>http://www.livejasminnn.com/rSf.html|0|kelly &#38; tammy – rsf.com|2010-11-22|0|0|0|0|0|0|0|http://www.rsf.com|210</Row>
+			<Row>http://www.portlet.ch/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-02-09|0|0|0|0|0|0|0|http://www.rsf.com|211</Row>
+			<Row>http://dmos.org/directory/default.asp?/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2006-08-12|0|0|0|0|0|0|0|http://www.rsf.com|212</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26279|0| |2008-03-12|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26279|0|my website|2008-03-12|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://bestvisitorsguide.com/search.php?page=3&#38;keywords=Rice Realtor|0|rancho santa fe realtor|2009-06-14|0|0|0|0|0|0|0|http://www.rsf.com/area_history-lilian.htm|96</Row>
+			<Row>http://estate.warszawa.pl/en/search-Santa_Fe-1-7.html|0|rancho santa fe real estate|2009-08-04|0|0|1|0|0|0|0|http://rsf.com|198</Row>
+			<Row>http://66.to/tijiao.php?name=rsf.gd.cn|0|rancho santa fe real estate|2011-11-01|0|0|0|0|0|0|0|http://www.rsf.com|213</Row>
+			<Row>http://marksarvas.blogs.com/elegvar/2006/03/word_recently_r.html|0|www.rsf.com|2008-09-25|0|0|0|0|0|0|0|http://www.rsf.com|214</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/city-of-rancho-santa-fe.php|0|rancho santa fe real estate|2009-11-24|0|0|1|0|0|0|0|http://www.rsf.com|47</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=648&#38;ppage=11|0|visit website|2010-10-12|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.sguub.com/web.php?query=rsf&#38;count=-10|0|rancho santa fe real estate|2010-04-23|0|0|1|0|0|0|0|http://www.rsf.com|189</Row>
+			<Row>http://estate.warszawa.pl/en/search-Santa_Fe-1-8.html|0|rancho santa fe real estate|2009-08-04|0|0|1|0|0|0|0|http://rsf.com|198</Row>
+			<Row>http://ssp.achoo.jp/ssp/search.cgi?word=rsf&#38;mode=search&#38;hyouji=20|0|.com|2008-09-06|0|0|0|0|0|0|0|http://rsf.com?&#38;|215</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=648&#38;ppage=11&#38;rpage=2|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.sguub.com/web.php?query=rsf&#38;count=0&#38;l=|0|rancho santa fe real estate|2010-03-29|0|0|1|0|0|0|0|http://www.rsf.com|189</Row>
+			<Row>http://estate.warszawa.pl/en/search-Santa_Fe-1-9.html|0|rancho santa fe real estate|2009-08-04|0|0|1|0|0|0|0|http://rsf.com|198</Row>
+			<Row>http://worldwidirectory.com/North.America/United.States/California/Rancho.Santa.Fe|0| |2009-10-09|0|0|0|1|0|0|0|http://rsf.com|216</Row>
+			<Row>http://worldwidirectory.com/North.America/United.States/California/Rancho.Santa.Fe|0|rsf.com|2009-10-09|0|0|0|0|0|0|0|http://rsf.com|216</Row>
+			<Row>http://www.putujemo.net/said_fe.html|0|rancho santa fe realtor|2009-09-26|0|0|0|0|0|0|0|http://rsf.com/area_article.htm|217</Row>
+			<Row>http://www.comuniclab.it/node/21879|0|reporters sans frontieres|2011-10-31|0|0|0|0|0|0|0|http://www.rsf.com|93</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=648&#38;ppage=11&#38;rpage=3|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.doublextech.com/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/103813.html|0|擂课寒胎扮|2011-11-13|0|0|0|0|0|0|0|http://www.rsf.com|218</Row>
+			<Row>http://www.nycgrassrootsmedia.org/taxonomy/term/resourceexhange/0/forum/7?page=38|0|reporters without borders|2009-01-30|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.willisallen.com/Roster/11161/Kelly-Pottorff.aspx|0|www.rsf.com|2011-11-09|0|0|1|0|0|0|0|http://www.rsf.com|3</Row>
+			<Row>http://www.luxuryrealestate.com/news/press_releases/889-willis-allen-realtors®-kelly-pottorff-and-tammy-tidmore-team-up-in-north-county|0|www.rsf.com|2011-11-05|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=648&#38;ppage=11&#38;rpage=4|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/function.array-map?page=38|0|reporters without borders|2009-02-06|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.btowstore.com/epages/17146.sf/en_NZ/en_IE/en_GB/en_AU/?ObjectPath=/Shops/17146/Categories/SpecialOffers|0|additional info on this book. click here or copy and paste the url below into your browser|2010-06-18|0|0|0|0|0|0|0|http://www.rsf.com|40</Row>
+			<Row>http://bookmarksync.com/search/menifee community businesses|0|rancho santa fe real estate|2008-07-24|0|0|0|0|0|0|0|http://www.rsf.com|73</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030|0|mcchristy group, the|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.shia.me.uk/Rancho Santa Fe.html|0|rancho santa fe real estate|2010-06-13|0|0|0|0|0|0|0|http://www.rsf.com|132</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-estates.php|0|rancho santa fe real estate|2009-11-25|0|0|1|0|0|0|0|http://www.rsf.com|47</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/10050|0|mcchristy group, the|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.75001.com/directory/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2007-01-31|0|0|0|0|0|0|0|http://www.rsf.com|219</Row>
+			<Row>http://bestvisitorsguide.com/search.php?page=3&#38;keywords=Rice realtor|0|rancho santa fe realtor|2009-06-14|0|0|0|0|0|0|0|http://www.rsf.com/area_history-lilian.htm|96</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/conferencegoals?page=38|0|reporters without borders|2009-02-08|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-farm.php|0|rancho santa fe real estate|2009-11-25|0|0|1|0|0|0|0|http://rsf.com|47</Row>
+			<Row>http://www.mediazone.info/site/it-it/ATTUALITA/Attualita/algeriamediacensurati.html|0|reporters sans frontieres|2009-06-05|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;command=panorama&#38;order_id=20452|0|my website|2006-12-24|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://estate.warszawa.pl/en/search-Santa_Fe.html|0|rancho santa fe real estate|2009-07-12|0|0|1|0|0|0|0|http://rsf.com|198</Row>
+			<Row>http://www.btowstore.com/epages/17146.sf/en_NZ/en_IE/en_GB/en_AU/?ObjectPath=/Shops/17146/Products/KorlingsBundle1|0|additional info on this book. click here or copy and paste the url below into your browser|2010-06-18|0|0|0|0|0|0|0|http://www.rsf.com|40</Row>
+			<Row>http://www.nycgrassrootsmedia.org/taxonomy/term/Aboutthissite/0/2006schedule?page=38|0|reporters without borders|2009-02-05|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.rsslookup.com/rsf.html|0|rancho santa fe real estate|2009-07-28|0|0|0|0|0|0|0|http://rsf.com|220</Row>
+			<Row>http://www.laville.de/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-02-08|0|0|0|0|0|0|0|http://www.rsf.com|221</Row>
+			<Row>http://www.xn--sngles-wva.net/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-01-17|0|0|0|0|0|0|0|http://www.rsf.com|222</Row>
+			<Row>http://www.dir.eclub.lv/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2007-01-23|0|0|0|0|0|0|0|http://www.rsf.com|223</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=7&#38;ppage=11|0|visit website|2010-10-13|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.lygyq.com/en/images/666074.html|0|环董咒典宗|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|224</Row>
+			<Row>http://justseeks.com/jssk/frontieres.htm|0|rancho santa fe real estate|2006-12-11|0|0|0|0|0|0|0|http://rsf.com|225</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-farms.php|0|rancho santa fe real estate|2009-12-20|0|0|1|0|0|0|0|http://www.rsf.com|47</Row>
+			<Row>http://www.sync2it.com/search/?searchbm=MENIFEE COMMUNITY BUSINESSES|0|rancho santa fe real estate|2006-09-01|0|0|0|0|0|0|0|http://www.rsf.com|134</Row>
+			<Row>http://www.bykaee.com/results.php?q=hiles fe|0|rancho santa fe real estate|2009-11-07|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/101390|0|mcchristy group, the|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=7&#38;ppage=9|0|visit website|2010-10-14|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.adultwebcamdirectory.ws/rsF.html|0|rancho santa fe real estate|2010-09-26|0|0|0|0|0|0|0|http://www.rsf.com|226</Row>
+			<Row>http://www.californiafind.com/cgi-bin/jump.cgi?ID=37128|0| |2011-11-08|1|0|0|0|0|0|0|http://www.rsf.com|227</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/101640|0|mcchristy group, the|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=9&#38;ppage=9|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26277|0|my website|2008-05-24|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26277|0| |2008-05-24|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://regionalkeywords.net/web/rancho-santa-fe.aspx|0|rancho santa fe real estate|2009-07-17|0|0|0|0|0|0|0|http://www.rsf.com|228</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/101864|0|mcchristy group, the|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;command=panorama&#38;order_id=21386|0| |2008-08-01|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;command=panorama&#38;order_id=21386|0|my website|2008-08-01|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26278|0|my website|2008-05-24|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26278|0| |2008-05-24|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.tongzuo.com/old/CH/admin/liu/ButtonImage/standard/128219.html|0|企二薯孩蕴|2011-11-09|0|0|0|0|0|0|0|http://www.rsf.com|229</Row>
+			<Row>http://www.urlrow.com/site/tags/rSf|0|www.rsf.com|2010-02-21|0|0|0|0|0|0|0|http://www.rsf.com|85</Row>
+			<Row>http://yuyuan-food.com/xinyu/liuyan/guestbook/guestbook/editor/images/editor/857523.html|0|蠢坷棒暂虐|2011-10-21|0|0|0|0|0|0|0|http://www.rsf.com|230</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/24637|0|mcchristy group, the|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://luxuryhomes.com/Listing.aspx?RealEstateUID=329422a2-e3bf-4ecb-b829-3a1e2c831ece|0|go to website|2011-11-10|0|0|0|0|0|0|0|http://www.rsf.com|139</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26279|0| |2008-05-24|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26279|0|my website|2008-05-24|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.bestvisitorsguide.com/search.php?keywords=Sultan realtor&#38;newsearch=new|0|rancho santa fe realtor|2008-10-21|0|0|0|0|0|0|0|http://www.rsf.com/area_article.htm|96</Row>
+			<Row>http://billbee.com/fe_o_p.html|0|rancho santa fe house|2009-07-17|0|0|0|0|0|0|0|http://www.rsf.com/area_info-churches.htm|231</Row>
+			<Row>http://www.bykaee.com/results.php?q=fadok en fe|0|rancho santa fe real estate|2009-09-17|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/workshop_archive?page=38|0|reporters without borders|2009-02-06|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.southerncaliforniadirectory.com/index.php?sid=258842714&#38;t=sub_pages&#38;cat=283|0|rancho santa fe guide|2008-03-02|0|0|0|0|0|0|0|http://www.rsf.com|61</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/25068|0|mcchristy group, the|2009-08-30|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21074&#38;command=panorama&#38;panorama_id=25096|0|my website|2007-09-14|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.szzczd.com/boob/ButtonImage/standard/255057.html|0|凯斯娱乐城|2011-11-11|0|0|0|0|0|0|0|http://www.rsf.com|232</Row>
+			<Row>http://www.bykaee.com/results.php?q=ic37 ifa fe fe|0|rancho santa fe real estate|2010-06-27|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://ndtsun.3322.org/admin/Skin/1/42039.html|0|玲游释殉麦|2011-10-16|0|0|0|0|0|0|0|http://www.rsf.com|67</Row>
+			<Row>http://www.prince24.com/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-01-30|0|0|0|0|0|0|0|http://www.rsf.com|233</Row>
+			<Row>http://www.hoytecnologia.com/noticias/Reporteros-Fronteras-denuncia-bloqueo/93294|0|rsf|2011-11-06|0|0|0|0|0|0|0|http://www.rsf.com|192</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/40458|0|mcchristy group, the|2009-10-24|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-fire-protection-district-ca.php|0|rancho santa fe community|2009-11-25|0|0|1|0|0|0|0|http://rsf.com/community_orgs.htm|47</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21074&#38;command=panorama&#38;panorama_id=25097|0|my website|2007-09-14|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.nycgrassrootsmedia.org/taxonomy/term/Aboutthissite/0/resourceexhange?page=38|0|reporters without borders|2008-12-25|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.urlrow.com/site/tags/RSf|0|www.rsf.com|2010-02-02|0|0|0|0|0|0|0|http://www.rsf.com|85</Row>
+			<Row>http://www.ascreensaver.com/texis/open/allthru?area=dir&#38;dmozdir=/Top/Regional/NorthAmerica/UnitedStates/California/Localities/R/RanchoSantaFe/GuidesandDirectories|0| |2010-04-25|0|0|0|1|0|0|0|http://www.rsf.com|234</Row>
+			<Row>http://www.ascreensaver.com/texis/open/allthru?area=dir&#38;dmozdir=/Top/Regional/NorthAmerica/UnitedStates/California/Localities/R/RanchoSantaFe/GuidesandDirectories|0|rancho santa fe|2010-04-25|0|0|0|0|0|0|0|http://www.rsf.com|234</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/45369|0|mcchristy group, the|2009-09-27|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://realestateandland.com/search.php?keywords=Kellys Realtor&#38;newsearch=new|0|rancho santa fe realtor|2009-01-27|0|0|0|0|0|0|0|http://rsf.com/re_kelly.htm|235</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21074&#38;command=panorama&#38;panorama_id=25098|0|my website|2007-09-14|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://referencekeywords.net/web/rancho-santa-fe.aspx|0|rancho santa fe real estate|2009-07-16|0|0|0|0|0|0|0|http://www.rsf.com|236</Row>
+			<Row>http://www.virginislandsnewsonline.com/featured/this-week-we-feature-young-professional-allington-o-creque/comment-page-1|0|right sed fred|2011-11-12|0|0|1|0|0|0|0|http://rsf.com|237</Row>
+			<Row>http://www.levovel.com/admin/SouthidcEditor/ButtonImage/standard/255344.html|0|欢叁恼惕缔|2011-11-05|0|0|0|0|0|0|0|http://www.rsf.com|238</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/46947|0|mcchristy group, the|2009-09-27|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.ukcrawler.co.uk/shopping/shopping.php?type=web&#38;query=RSF|0|http://www.rsf.com/|2010-03-30|0|0|0|0|0|0|0|http://www.rsf.com|239</Row>
+			<Row>http://beta.luxuryrealestate.com/scripts/index.php?siteScript=siteNews&#38;cat=Print&#38;ID=1270|0|www.rsf.com|2010-06-06|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;command=panorama&#38;order_id=21423|0|my website|2008-08-01|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;command=panorama&#38;order_id=21423|0| |2008-08-01|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21074&#38;command=panorama&#38;panorama_id=25099|0|my website|2007-09-14|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://search.lycos.com/?query=Rancho Santa Fe&#38;diktfc=BEE27C1A1942E8898E79E679FC68A1E1B872444A544F|0|rancho santa fe real estate|2008-07-29|0|0|0|0|0|0|0|http://www.rsf.com|146</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=1&#38;ppage=11|0|visit website|2010-10-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.sync2it.com//search/Menifee community businesses|0|rancho santa fe real estate|2008-04-01|0|0|0|0|0|0|0|http://www.rsf.com|134</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/47350|0|mcchristy group, the|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.tztop.com.cn/e1/admin/images/918911.html|0|辐砸画坡淮|2011-11-04|0|0|0|0|0|0|0|http://www.rsf.com|127</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21074&#38;command=panorama&#38;panorama_id=25100|0|my website|2007-09-14|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.superdirectories.com/search.asp?Search=Guides&#38;Format=Exact&#38;Filter=Categories,Websites&#38;PageCount=76|0|rsf.com - city guides of rancho santa fe, california, usa|2008-04-02|0|0|0|0|0|0|0|http://www.rsf.com|240</Row>
+			<Row>http://www.superdirectories.com/search.asp?Search=Guides&#38;Format=Exact&#38;Filter=Categories,Websites&#38;PageCount=76|0| |2008-04-02|0|0|0|1|0|0|0|http://www.rsf.com|240</Row>
+			<Row>http://www.blogcafe.es/page/18|0|reporteros sin fronteras|2011-11-06|0|0|0|0|0|0|0|http://www.rsf.com|10</Row>
+			<Row>http://www.adamo.ee/index.php?page=search/web&#38;search=rancho santa fe ca&#38;type=web|0| |2011-11-07|0|0|0|1|0|0|0|http://www.rsf.com|241</Row>
+			<Row>http://www.adamo.ee/index.php?page=search/web&#38;search=rancho santa fe ca&#38;type=web|0|rancho santa fe|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|241</Row>
+			<Row>http://www.hoytecnologia.com/noticias/Reporteros-Fronteras-premia-blogueros/87977|0|reporteros sin fronteras|2011-11-06|0|0|0|0|0|0|0|http://www.rsf.com|192</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/48103|0|mcchristy group, the|2009-11-04|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://regional.zdrowy-stres.pl/index.php?c=North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|http://www.rsf.com/|2010-02-28|0|0|0|0|0|0|0|http://www.rsf.com|242</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=825&#38;ppage=9|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://realestateandland.com/search.php?keywords=Kellys realtor&#38;newsearch=new|0|rancho santa fe realtor|2009-01-27|0|0|0|0|0|0|0|http://rsf.com/re_kelly.htm|235</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/resourceexhange/0/forum/7?page=38|0|reporters without borders|2009-03-04|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/49644|0|mcchristy group, the|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://infoseeknow.com/ifsn/santa-fe-real-estate.htm|0|rancho santa fe real estate|2006-06-25|0|0|0|0|0|0|0|http://rsf.com|243</Row>
+			<Row>http://www.5000seafoodrecipes.com/hd/index.php?t=Rancho Santa Fe|0|rancho santa fe|2011-04-05|0|0|1|0|0|0|0|http://www.rsf.com|244</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;command=panorama&#38;order_id=21675|0| |2008-09-17|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;command=panorama&#38;order_id=21675|0|my website|2008-09-17|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://seodigger.com/ru/rsf.com|0| |2010-09-05|0|0|0|1|0|0|0|http://www.rsf.com|245</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=encinitas yellow pages|0|1201734315|2009-05-27|0|0|0|1|0|0|0|http://rsf.com/photos.php?property_ID=32|41</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/50056|0|mcchristy group, the|2009-09-27|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-area.php|0|rancho santa fe real estate|2009-11-26|0|0|1|0|0|0|0|http://www.rsf.com|47</Row>
+			<Row>http://www.5000seafoodrecipes.com/hd/index.php?t=RSF|0|kelly tammy rsf.com|2011-01-17|0|0|1|0|0|0|0|http://www.rsf.com|244</Row>
+			<Row>http://analyticsdigger.org/rsf.com|0| |2011-11-15|0|0|1|1|0|0|0|http://www.rsf.com|246</Row>
+			<Row>http://billbee.com/fe_real.html|0|rancho santa fe real estate|2009-06-18|0|0|0|0|0|0|0|http://rsf.com|231</Row>
+			<Row>http://www.siamsewana.org/phpBB2/viewtopic.php?t=167&#38;view=previous|0|www.rsf.com|2007-10-19|0|0|0|0|0|0|0|http://www.rsf.com|84</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/50128|0|mcchristy group, the|2009-08-30|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://search.netinfo.bg/google/nisearch.php?q=related:www.kcrosby.com/&#38;lr=|0|kelly &#38; tammy – rsf.com|2010-11-05|0|0|0|0|0|0|0|http://www.rsf.com|247</Row>
+			<Row>http://www.bykaee.com/results.php?q=fond fe fe|0|rancho santa fe real estate|2010-01-16|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.seekon.com/L/US/CA/Rancho_Santa_Fe|0|rancho santa fe|2011-11-06|0|0|0|0|0|0|0|http://www.rsf.com|248</Row>
+			<Row>http://www.tatootags.com/tag/Rancho_Santa_Fe|0|thumb rancho santa fe|2009-05-27|0|0|0|1|0|0|0|http://www.rsf.com|249</Row>
+			<Row>http://www.tatootags.com/tag/Rancho_Santa_Fe|0|rancho santa fe|2009-05-27|0|0|0|0|0|0|0|http://www.rsf.com|249</Row>
+			<Row>http://fun-gold.com/index.php?page=Whois-Lookup&#38;whoIs=rsf.com|0|rsf.com|2009-01-14|0|0|0|0|0|0|0|http://www.rsf.com|250</Row>
+			<Row>http://seodigger.com/es/rsf.com|0| |2010-09-16|0|0|0|1|0|0|0|http://www.rsf.com|245</Row>
+			<Row>http://www.bykaee.com/results.php?q=dbt der fe|0|rancho santa fe real estate|2009-11-07|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/92712|0|mcchristy group, the|2009-10-24|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.societykeywords.net/web/rancho-santa-fe.aspx|0|rancho santa fe real estate|2009-06-15|0|0|0|0|0|0|0|http://www.rsf.com|106</Row>
+			<Row>http://www.bekeen.com/detail/30178/rancho-santa-fe-real-estate.html|0|http://www.rsf.com|2009-05-29|0|0|0|0|0|0|0|http://www.rsf.com|251</Row>
+			<Row>http://infoseeds.com/ifsd/rancho-santa-fe-real-estate.htm|0|rancho santa fe real estate|2007-08-18|0|0|0|0|0|0|0|http://rsf.com|252</Row>
+			<Row>http://imprezy.krakow.pl/?show_u,515|0|http://www.rsf.com|2011-11-01|0|0|0|0|0|0|0|http://www.rsf.com|253</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/92769|0|mcchristy group, the|2009-08-02|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://agentsource.com/forum/viewtopic.php?t=71&#38;view=next|0|www.rsf.com|2007-09-12|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://www.btowstore.com/epages/17146.sf/en_NZ/en_IE/en_GB/en_CA/?ObjectPath=/Shops/17146/Categories/SpecialOffers|0|additional info on this book. click here or copy and paste the url below into your browser|2010-06-18|0|0|0|0|0|0|0|http://www.rsf.com|40</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/94033|0|mcchristy group, the|2009-09-27|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.sync2it.com/search/?searchbm=Menifee community businesses|0|rancho santa fe real estate|2006-07-22|0|0|0|0|0|0|0|http://www.rsf.com|134</Row>
+			<Row>http://agentsource.com/forum/viewtopic.php?p=152&#38;highlight=|0|www.rsf.com|2007-08-09|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://www.pinnacleexecctr.com/pages/resources.htm|0|rancho santa fe|2011-11-08|0|0|0|0|0|0|0|http://www.rsf.com/ |254</Row>
+			<Row>http://auctionchest.com/sans-frontieres.html|0|read more|2009-01-14|0|0|0|0|0|0|0|http://rsf.com|255</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/99675|0|mcchristy group, the|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://www.smspin.de/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-01-14|0|0|0|0|0|0|0|http://www.rsf.com|256</Row>
+			<Row>http://www.marketsnapshot.info/MSReport/RTMSMain.aspx?cnsmr=0&#38;ReportId=33791de6-44ae-46e6-a2a5-09c9b4977f53&#38;instanceId=c01c81ba-21aa-4320-8f1f-ab8135b0f4e4&#38;samplems=1&#38;agentId={e0e6c3c2-a4d3-4531-a46a-999043e59404}|0|www.rsf.com|2008-06-04|0|0|0|0|0|0|0|http://www.rsf.com|257</Row>
+			<Row>http://www.realtypopular.com/agents-brokers/california/san-diego/5.html|0|john mc christy - the willis allen company|2011-11-09|0|0|0|0|0|0|0|http://www.rsf.com|258</Row>
+			<Row>http://auctionchest.com/sans-frontières.html|0|read more|2009-01-14|0|0|0|0|0|0|0|http://rsf.com|255</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/California_Real_Estate_Brokers|0|mcchristy group, the|2007-10-03|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://agentsource.com/forum/viewtopic.php?p=154|0|www.rsf.com|2007-09-12|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://agentsource.com/forum/viewtopic.php?t=72&#38;highlight=|0|www.rsf.com|2007-09-11|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=654&#38;ppage=11|0|visit website|2010-10-07|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.btowstore.com/epages/17146.sf/en_NZ/en_IE/en_GB/en_CA/?ObjectPath=/Shops/17146/Products/KorlingsBundle1|0|additional info on this book. click here or copy and paste the url below into your browser|2010-06-18|0|0|0|0|0|0|0|http://www.rsf.com|40</Row>
+			<Row>http://www.therichjerkformula.com/r_s_f.html|0|rancho santa fe real estate|2010-01-16|0|0|0|0|0|0|0|http://www.rsf.com|77</Row>
+			<Row>http://www.joeant.com/DIR/cat/20030/next/0/10|0|mcchristy group, the|2007-04-25|0|0|0|0|0|0|0|http://www.rsf.com|17</Row>
+			<Row>http://agentsource.com/forum/viewtopic.php?t=72&#38;start=0&#38;postdays=0&#38;postorder=asc&#38;highlight=|0|www.rsf.com|2007-09-12|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=654&#38;ppage=11&#38;rpage=14|0|visit website|2010-11-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.bykaee.com/results.php?q=1670 00 fe|0|rancho santa fe real estate|2009-11-03|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.realestatewebagent.com/agents-brokers/california/carlsbad/3.html|0|john mc christy - the willis allen companty|2011-11-08|0|0|0|0|0|0|0|http://www.rsf.com|259</Row>
+			<Row>http://www.ntvsport.ru/world/04jun2002/santa.html|0|ранчо санта фе|2010-10-29|0|0|1|0|0|0|0|http://www.rsf.com|168</Row>
+			<Row>http://microchip-technology.com/directory/Regional-2FNorth_America-2FUnited_States-2FCalifornia-2FLocalities-2FR-2FRancho_Santa_Fe-2FGuides_and_Directories|0|rancho santa fe|2009-08-28|0|0|1|0|0|0|0|http://www.rsf.com|183</Row>
+			<Row>http://www.luxuryrealestate.com/regents?ppage=6|0|visit website|2011-02-20|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.bestsitesfor.com/cgi-bin/bsfsearch.cgi?keywords=Rsf|0|rancho santa fe real estate|2009-07-05|0|0|0|0|0|0|0|http://www.rsf.com|260</Row>
+			<Row>http://www.adultwebcamdirectory.ws/rsf.html|0|rancho santa fe real estate|2010-06-23|0|0|0|0|0|0|0|http://www.rsf.com|226</Row>
+			<Row>http://afete.com/en/search-California_Country_Properties.html|0|rancho santa fe real estate|2011-11-06|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=654&#38;ppage=11&#38;rpage=2|0|visit website|2010-11-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.nycgrassrootsmedia.org/taxonomy/term/Aboutthissite/0/2006speakers?page=38|0|reporters without borders|2009-02-05|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.bestsearching.com/index.cfm?category=Web&#38;find=Rancho Santa Fe|0|rancho santa fe real estate|2010-09-23|0|0|0|0|0|0|0|http://www.rsf.com|261</Row>
+			<Row>http://www.luxuryrealestate.com/887987|0|visit our web site!|2009-01-20|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://directory.teradex.com/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2007-07-07|0|0|0|0|0|0|0|http://www.rsf.com|262</Row>
+			<Row>http://directory.teradex.com/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|http://www.rsf.com/|2007-07-07|0|0|0|0|0|0|0|http://www.rsf.com|262</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=654&#38;ppage=11&#38;rpage=3|0|visit website|2010-11-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.xcjyt.com/juncibbs/boke/Edit_Plus/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/687821.html|0|初中电路图|2011-11-14|0|0|0|0|0|0|0|http://www.rsf.com|263</Row>
+			<Row>http://www.bestsearching.com/index.cfm?category=Web&#38;find=Rancho Sante Fe|0|rancho santa fe real estate|2010-10-11|0|0|0|0|0|0|0|http://www.rsf.com|261</Row>
+			<Row>http://www.jiulidq.com/Manage/Include/fckeditor/editor/filemanager/browser/default/images/icons/32/761062.html|0|依怀桐耽寄|2011-11-05|0|0|0|0|0|0|0|http://www.rsf.com|264</Row>
+			<Row>http://afete.com/en/search-Bridges.html|0|rancho santa fe real estate|2011-11-05|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://www.bykaee.com/results.php?q=fadok fe|0|rancho santa fe real estate|2009-08-13|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=654&#38;ppage=11&#38;rpage=4|0|visit website|2010-11-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://kevins.nl/Search/RSF|0|kelly &#38; tammy – rsf.com|2011-11-01|0|0|0|0|0|0|0|http://www.rsf.com|39</Row>
+			<Row>http://www.resourcemecca.com/Web/Search.aspx?q=rancho santa fe|0|rancho santa fe real estate|2009-02-27|0|0|0|0|0|0|0|http://rsf.com|265</Row>
+			<Row>http://www.luxuryrealestate.com/regents?ppage=9|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://afete.com/en/search-Bridges_At_Rancho_Santa_Fe.html|0|rancho santa fe real estate|2011-11-05|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://www.bykaee.com/results.php?q=fadok fe 10|0|rancho santa fe real estate|2009-09-17|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=654&#38;ppage=11&#38;rpage=5|0|visit website|2010-11-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.btccw.cn/Plus/guest/admin/image/1402807.html|0|列画大即绰|2011-10-13|0|0|0|0|0|0|0|http://www.rsf.com|266</Row>
+			<Row>http://www.bykaee.com/results.php?q=fadok fe art|0|rancho santa fe real estate|2009-09-17|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-historical-society.php|0|rancho santa fe community|2009-11-25|0|0|1|0|0|0|0|http://rsf.com/community_orgs.htm|47</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-historical-society.php|0|rancho santa fe realtor|2009-11-25|0|0|1|0|0|0|0|http://rsf.com/area_history.htm|47</Row>
+			<Row>http://millertimenetwork.com/rancho-santa-fe-realtor.htm|0|rancho santa fe realtor|2007-03-03|0|0|0|0|0|0|0|http://www.rsf.com/area_history-main.htm|267</Row>
+			<Row>http://millertimenetwork.com/rancho-santa-fe-realtor.htm|0|www.rsf.com/area_history-main.htm|2007-03-03|0|0|0|0|0|0|0|http://www.rsf.com/area_history-main.htm|267</Row>
+			<Row>http://millertimenetwork.com/rancho-santa-fe-realtor.htm|0|www.rsf.com/|2007-03-03|0|0|0|0|0|0|0|http://www.rsf.com|267</Row>
+			<Row>http://millertimenetwork.com/rancho-santa-fe-realtor.htm|0|rancho santa fe real estate|2007-03-03|0|0|0|0|0|0|0|http://www.rsf.com|267</Row>
+			<Row>http://www.southerncaliforniadirectory.com/detail/4024/rancho-santa-fe-guide.html|0|http://www.rsf.com/|2011-11-12|0|0|0|0|0|0|0|http://www.rsf.com|61</Row>
+			<Row>http://www.bykaee.com/results.php?q=fadok fe bed|0|rancho santa fe real estate|2009-09-17|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=8&#38;ppage=11|0|visit website|2010-11-06|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/newsletter?page=38|0|reporters without borders|2009-02-06|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/Attualita/algeriamediacensurati.html|0|reporters sans frontieres|2009-08-07|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://dir.ez2find.com/Top/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2007-03-17|0|0|0|0|0|0|0|http://www.rsf.com|268</Row>
+			<Row>http://realestateandland.com/search.php?page=1&#38;keywords=Quimby realtor|0|rancho santa fe realtor|2009-04-20|0|0|0|0|0|0|0|http://www.rsf.com/area_history-apartments.htm|235</Row>
+			<Row>http://www.realestateandland.com/search.php?page=2&#38;keywords=Rice Realtor|0|rancho santa fe realtor|2008-10-14|0|0|0|0|0|0|0|http://www.rsf.com/area_history-lilian.htm|235</Row>
+			<Row>http://www.bykaee.com/results.php?q=fadok fe en|0|rancho santa fe real estate|2009-09-17|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=4&#38;ppage=11|0|visit website|2010-09-23|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=607&#38;ppage=8&#38;rpage=2|0|visit website|2010-11-27|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/Attualita/algeriamediacensurati.html?Page=1|0|reporters sans frontieres|2009-11-14|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://tools.web-max.ca/websitesonip.php?byip=1&#38;ip=38.119.86.81|0|rsf.com|2009-07-20|0|0|0|0|0|0|0|http://rsf.com|51</Row>
+			<Row>http://www.njxueman.com/images/login/1/781586.html|0|企二薯孩蕴|2011-11-14|0|0|0|0|0|0|0|http://www.rsf.com|269</Row>
+			<Row>http://worldkeywords.net/web/rancho-santa-fe.aspx|0|rancho santa fe real estate|2009-07-03|0|0|0|0|0|0|0|http://www.rsf.com|270</Row>
+			<Row>http://www.sale-plaza.com/Top/Regional/North_America/United_States/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories/index.html|0|rancho santa fe|2007-01-31|0|0|0|0|0|0|0|http://www.rsf.com|271</Row>
+			<Row>http://www.bykaee.com/results.php?q=fadok fe fe|0|rancho santa fe real estate|2009-09-17|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=607&#38;ppage=8&#38;rpage=3|0|visit website|2010-11-27|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://nycgrassrootsmedia.org/taxonomy/term/directions2newschool?page=38|0|reporters without borders|2009-02-08|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/Attualita/algeriamediacensurati.html?Page=2|0|reporters sans frontieres|2009-10-16|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://www.nycgrassrootsmedia.org/taxonomy/term/Aboutthissite/0/submittools?page=38|0|reporters without borders|2009-01-30|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://findoutsite.com/fos/real-estate-in-santa-fe.htm|0|rancho santa fe real estate|2006-10-04|0|0|0|0|0|0|0|http://rsf.com|272</Row>
+			<Row>http://www.bykaee.com/results.php?q=2309 fe|0|rancho santa fe real estate|2009-07-18|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.webzzle.fr/explorer/webResource.kol?action=21000&#38;id=6757941|0| |2010-04-18|0|1|0|0|0|0|0|http://www.rsf.com|273</Row>
+			<Row>http://www.bykaee.com/results.php?q=adventure fe|0|rancho santa fe real estate|2008-05-19|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=4&#38;ppage=11&#38;rpage=14|0|visit website|2010-10-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=607&#38;ppage=8&#38;rpage=4|0|visit website|2010-11-27|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/Attualita/algeriamediacensurati.html?Page=3|0|reporters sans frontieres|2009-11-14|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://www.leanju-gd.com/System/eWebEditor/sharefile/image/927661.html|0|菱胚镀里统|2011-11-09|0|0|0|0|0|0|0|http://www.rsf.com|274</Row>
+			<Row>http://internetrealtyguide.com/search.php?keywords=Arcade Realtor&#38;newsearch=new|0|rancho santa fe realtor|2008-12-27|0|0|0|0|0|0|0|http://www.rsf.com/area_history-ccgaa.htm|275</Row>
+			<Row>http://www.bykaee.com/results.php?q=2309 fe 10|0|rancho santa fe real estate|2009-09-02|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.realestateandland.com/search.php?page=2&#38;keywords=Rice realtor|0|rancho santa fe realtor|2008-10-14|0|0|0|0|0|0|0|http://www.rsf.com/area_history-lilian.htm|235</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=4&#38;ppage=11&#38;rpage=2|0|visit website|2010-10-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=607&#38;ppage=8&#38;rpage=5|0|visit website|2010-11-27|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://chicagomachineshop.net/sites/site.php?site=www.rsf.com/|0| |2010-07-31|1|0|0|0|0|0|0|http://www.rsf.com|276</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/Attualita/algeriamediacensurati.html?Page=4|0|reporters sans frontieres|2009-12-07|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://www.qicheaoxian.com/1/1002/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/938149.html|0|娱钳灰撕画|2011-11-08|0|0|0|0|0|0|0|http://www.rsf.com|277</Row>
+			<Row>http://sync2it.com/search/Businesses i use|0|rancho santa fe real estate|2009-06-16|0|0|0|0|0|0|0|http://www.rsf.com|134</Row>
+			<Row>http://www.bykaee.com/results.php?q=2309 fe fe|0|rancho santa fe real estate|2009-09-02|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=826&#38;ppage=9|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.dandybridal.com/includes/fckeditor/editor/filemanager/browser/default/images/icons/32/26668.html|0|玲游释殉麦|2011-11-07|0|0|0|0|0|0|0|http://www.rsf.com|278</Row>
+			<Row>http://www.bykaee.com/results.php?q=fadok fe na|0|rancho santa fe real estate|2009-09-17|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=4&#38;ppage=11&#38;rpage=3|0|visit website|2010-10-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://web2.7live7.com/Search.aspx?q=RSF|0|home|2011-10-27|0|0|0|0|0|0|0|http://rsf.com|94</Row>
+			<Row>http://web2.7live7.com/Search.aspx?q=RSF|0|kelly &#38; tammy – rsf.com|2011-10-27|0|0|0|0|0|0|0|http://www.rsf.com|94</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/Attualita/algeriamediacensurati.html?Page=68|0|reporters sans frontieres|2009-12-07|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://www.comuniclab.it/21879/algeria-piazza-contro-la-censura|0|reporters sans frontieres|2011-10-31|0|0|0|0|0|0|0|http://www.rsf.com|93</Row>
+			<Row>http://www.newsru.com/world/04Jun2002/santa.html|0|ранчо санта фе|2010-06-13|0|0|1|0|0|0|0|http://www.rsf.com|166</Row>
+			<Row>http://www.plsearch.com/REPORTERS SANS FRONTIERE|0|rancho santa fe real estate|2011-11-14|0|0|1|0|0|0|0|http://www.rsf.com|279</Row>
+			<Row>http://www.bykaee.com/results.php?q=2309 fe na|0|rancho santa fe real estate|2009-09-02|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://agentsource.com/forum/viewtopic.php?p=160|0|www.rsf.com|2007-09-12|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://www.bykaee.com/results.php?q=fadok fe new|0|rancho santa fe real estate|2009-09-17|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=4&#38;ppage=11&#38;rpage=4|0|visit website|2010-10-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/Attualita/algeriamediacensurati.html?Page=69|0|reporters sans frontieres|2009-11-14|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://www.sync2it.com/search/clusters.php?searchbm=Menifee community businesses&#38;safesearch=X|0|rancho santa fe real estate|2006-09-01|0|0|0|0|0|0|0|http://www.rsf.com|134</Row>
+			<Row>http://agentsource.com/forum/viewtopic.php?p=160&#38;highlight=|0|www.rsf.com|2006-09-26|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://www.bestsitesfor.com/cgi-bin/bsfsearch.cgi?keywords=1923-1932|0|rancho santa fe realtor|2009-07-23|0|0|0|0|0|0|0|http://www.rsf.com/area_history-ccgaa.htm|260</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=4&#38;ppage=11&#38;rpage=5|0|visit website|2010-10-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://edit.mediazone.info/site/it-IT/ATTUALITA/Attualita/algeriamediacensurati.html?Page=70|0|reporters sans frontieres|2009-10-16|0|0|0|0|0|0|0|http://www.rsf.com|138</Row>
+			<Row>http://www.at-usa.com/California/Localities/R/Rancho_Santa_Fe/Guides_and_Directories|0|rancho santa fe|2011-11-14|0|0|0|0|0|0|0|http://www.rsf.com|280</Row>
+			<Row>http://luxuryhomes.com/lh/listing/United_States/329422a2-e3bf-4ecb-b829-3a1e2c831ece|0|go to website|2008-10-11|0|0|0|0|0|0|0|http://www.rsf.com|139</Row>
+			<Row>http://www.bykaee.com/results.php?q=sbrhs fe|0|rancho santa fe real estate|2009-09-19|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.bykaee.com/results.php?q=jwhall fe|0|rancho santa fe real estate|2010-09-25|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://afete.com/en/search-Security-4.html|0|rancho santa fe real estate|2008-08-25|0|0|1|0|0|0|0|http://rsf.com|2</Row>
+			<Row>http://www.bykaee.com/results.php?q=sbrhs fe 10|0|rancho santa fe real estate|2009-10-08|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://agentsource.com/forum/viewtopic.php?t=77&#38;view=previous|0|www.rsf.com|2007-09-12|0|0|0|0|0|0|0|http://www.rsf.com|80</Row>
+			<Row>http://www.bykaee.com/results.php?q=jwhall fe 10|0|rancho santa fe real estate|2010-10-11|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.yebol.com/Rancho Santa Fe.html|0|rancho santa fe real estate|2010-10-27|0|0|1|0|0|0|0|http://www.rsf.com|71</Row>
+			<Row>http://www.yebol.com/Rancho Santa Fe.html|0|rancho santa fe|2010-10-27|0|0|1|0|0|0|0|http://www.rsf.com|71</Row>
+			<Row>http://www.yebol.com/Rancho Santa Fe.html|0|area information|2010-10-27|0|0|1|0|0|0|0|http://www.rsf.com/area_info.htm|71</Row>
+			<Row>http://internetrealtyguide.com/search.php?keywords=Arcade realtor&#38;newsearch=new|0|rancho santa fe realtor|2008-12-27|0|0|0|0|0|0|0|http://www.rsf.com/area_history-ccgaa.htm|275</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-ca-estates.php|0|rancho santa fe real estate|2009-12-09|0|0|1|0|0|0|0|http://rsf.com|47</Row>
+			<Row>http://seekerfinder.com/skfd/rancho-sante-fe.htm|0|rancho santa fe real estate|2007-02-13|0|0|0|0|0|0|0|http://www.rsf.com|281</Row>
+			<Row>http://www.bykaee.com/results.php?q=sbrhs fe fe|0|rancho santa fe real estate|2009-10-08|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.bykaee.com/results.php?q=fadok fe que|0|rancho santa fe real estate|2009-09-17|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.bykaee.com/results.php?q=jwhall fe art|0|rancho santa fe real estate|2010-10-11|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://sync2it.com/search/COMMUNITY&#38;sr=80|0|rancho santa fe real estate|2009-01-01|0|0|0|0|0|0|0|http://www.rsf.com|134</Row>
+			<Row>http://www.bykaee.com/results.php?q=sbrhs fe na|0|rancho santa fe real estate|2009-10-08|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.bykaee.com/results.php?q=fadok fe rsf|0|rancho santa fe real estate|2009-09-17|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=656&#38;ppage=11|0|visit website|2010-11-09|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.bykaee.com/results.php?q=jwhall fe bed|0|rancho santa fe real estate|2010-10-11|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.btowstore.com/epages/17146.sf/en_NZ/en_IE/en_GB/en_GB/?ObjectPath=/Shops/17146/Categories/SpecialOffers|0|additional info on this book. click here or copy and paste the url below into your browser|2010-06-18|0|0|0|0|0|0|0|http://www.rsf.com|40</Row>
+			<Row>http://www.siamsewana.org/phpBB2/viewtopic.php?p=639|0|www.rsf.com|2007-10-24|0|0|0|0|0|0|0|http://www.rsf.com|84</Row>
+			<Row>http://www.realestateindustryreview.com/hd/index.php?t=real estate property history|0|market real estate resources|2009-09-20|0|0|0|1|0|0|0|http://rsf.com/photos.php?property_ID=31|193</Row>
+			<Row>http://bookmarksync.com/search/Menifee community businesses|0|rancho santa fe real estate|2008-03-19|0|0|0|0|0|0|0|http://www.rsf.com|73</Row>
+			<Row>http://www.bykaee.com/results.php?q=fe|0|rancho santa fe real estate|2008-08-23|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.bykaee.com/results.php?q=jwhall fe fe|0|rancho santa fe real estate|2010-10-11|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=5&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28452|0|my website|2008-10-03|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=5&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28452|0| |2008-10-03|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.xnyqyb.com/a/manage/commm/ewed/ButtonImage/standard/230609.html|0|找憎绰莺稚|2011-11-13|0|0|0|0|0|0|0|http://www.rsf.com|282</Row>
+			<Row>http://linksseek.com/lksk/rancho-la-cima.html|0|rancho santa fe real estate|2006-08-08|0|0|0|0|0|0|0|http://www.rsf.com/address.php?property_ID=8|283</Row>
+			<Row>http://linksseek.com/lksk/rancho-la-cima.html|0|rancho santa fe house|2006-08-08|0|0|0|0|0|0|0|http://www.rsf.com/area_info-maps.htm|283</Row>
+			<Row>http://rancho-santa-fe.californiaus.com/ads/events.html|0|rancho santa fe real estate|2009-08-03|0|0|1|0|0|0|0|http://www.rsf.com|43</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=5&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28453|0|my website|2008-12-21|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=5&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28453|0| |2008-12-21|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.btowstore.com/epages/17146.sf/en_NZ/en_IE/en_GB/en_GB/?ObjectPath=/Shops/17146/Products/KorlingsBundle1|0|additional info on this book. click here or copy and paste the url below into your browser|2010-06-18|0|0|0|0|0|0|0|http://www.rsf.com|40</Row>
+			<Row>http://harry.merseine.nu/r_sf_com.html|0|rancho santa fe real estate|2009-11-21|0|0|1|0|0|0|0|http://www.rsf.com|284</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-home.php|0|rancho santa fe real estate|2009-11-25|0|0|1|0|0|0|0|http://rsf.com|47</Row>
+			<Row>http://www.luxuryrealestate.com/regents?lpage=796&#38;ppage=9|0|visit website|2010-11-11|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26276|0|my website|2008-09-25|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26276|0| |2008-09-25|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://rancho-santa-fe.californiaus.com/ads/home.html|0|rancho santa fe real estate|2009-08-03|0|0|1|0|0|0|0|http://www.rsf.com|43</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=5&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28454|0| |2008-12-21|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=5&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28454|0|my website|2008-12-21|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26277|0|my website|2008-09-25|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26277|0| |2008-09-25|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.mba-ustb.com.cn/bbs/uc_server/data/avatar/000/00/00/221092.html|0|桂罪漂转盲|2011-10-11|0|0|0|0|0|0|0|http://www.rsf.com|285</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=5&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28455|0|my website|2008-12-21|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=java&#38;start=5&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28455|0| |2008-12-21|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.urlrow.com/site/tags/Typi|0|www.rsf.com/area_info-tour.htm|2009-08-22|0|0|0|0|0|0|0|http://www.rsf.com/area_info-tour.htm|85</Row>
+			<Row>http://www.bykaee.com/results.php?q=jwhall fe na|0|rancho santa fe real estate|2010-10-11|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.findouthome.com/fows/real-estate-marketing-tips.htm|0|real estate tips|2006-08-19|0|0|0|0|0|0|0|http://rsf.com/re_tips.htm|286</Row>
+			<Row>http://www.relocationdirectory.com/agents-brokers/california/san-diego/11.html|0|john mc christy - the willis allen company|2011-11-06|0|0|0|0|0|0|0|http://www.rsf.com|287</Row>
+			<Row>http://www.carleone.biz/page/rancho santa fe|0|http://www.rsf.com/|2008-05-17|0|0|0|0|0|0|0|http://www.rsf.com|288</Row>
+			<Row>http://www.carleone.biz/page/rancho santa fe|0|rancho santa fe real estate|2008-05-17|0|0|0|0|0|0|0|http://www.rsf.com|288</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-homes.php|0|rancho santa fe real estate|2009-11-25|0|0|1|0|0|0|0|http://rsf.com|47</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26278|0| |2008-09-25|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26278|0|my website|2008-09-25|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.bykaee.com/results.php?q=jwhall fe new|0|rancho santa fe real estate|2010-10-11|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://www.bykaee.com/results.php?q=guin santa fe|0|rancho santa fe real estate|2010-05-27|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://bestvisitorsguide.com/search.php?keywords=Badger Realtor&#38;newsearch=new|0|rancho santa fe realtor|2009-02-16|0|0|0|0|0|0|0|http://www.rsf.com/area_history-quadrangle.htm|96</Row>
+			<Row>http://www.4cat.ch/ad/Regional.North_America.United_States.California.Localities.R.Rancho_Santa_Fe.Guides_and_Directories.htm|0|rancho santa fe|2007-02-20|0|0|0|0|0|0|0|http://www.rsf.com|289</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26279|0|my website|2008-09-25|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;start=0&#38;order_id=21311&#38;command=panorama&#38;panorama_id=26279|0| |2008-09-25|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.vodkacoca.com/selection-vodka/2004/06/art-outsiders|0|reporters sans frontières|2011-11-14|0|0|0|0|0|0|0|http://www.rsf.com|290</Row>
+			<Row>http://www.nycgrassrootsmedia.org/taxonomy/term/Aboutthissite/0/conferencegoals?page=38|0|reporters without borders|2009-02-05|0|0|0|0|0|0|0|http://www.rsf.com|65</Row>
+			<Row>http://www.theluxurylifestyle.com/listings/web_view.cfm?id=2858|0| |2011-11-09|1|0|0|0|0|0|0|http://www.rsf.com/?source=www.LuxuryLifestyle.com|291</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28447|0|my website|2008-10-11|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28447|0| |2008-10-11|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://bestvisitorsguide.com/search.php?page=2&#38;keywords=Sultan Realtor|0|rancho santa fe realtor|2009-03-06|0|0|0|0|0|0|0|http://www.rsf.com/area_article.htm|96</Row>
+			<Row>http://www.canadianchains.com/www_rsf.html|0|rancho santa fe real estate|2010-03-29|0|0|0|0|0|0|0|http://www.rsf.com|292</Row>
+			<Row>http://www.skaffe.com/viewCat/5677|0|mcchristy group, the|2011-11-06|0|0|0|0|0|0|0|http://www.rsf.com|293</Row>
+			<Row>http://www.skaffe.com/viewCat/5677|0|http://www.rsf.com/|2011-11-06|0|0|0|0|0|0|0|http://www.rsf.com|293</Row>
+			<Row>http://dtv3d.org/rancho-santa-fe/rancho-santa-fe-ca-mls.php|0|rancho santa fe real estate|2009-11-26|0|0|1|0|0|0|0|http://rsf.com|47</Row>
+			<Row>http://www.bykaee.com/results.php?q=2309 up fe|0|rancho santa fe real estate|2009-09-02|0|0|0|0|0|0|0|http://www.rsf.com|86</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28448|0|my website|2008-12-18|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28448|0| |2008-12-18|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://www.591fk.com/blog/ADMIN/FCKeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/139099.html|0|箩汁姑寄埠|2011-11-09|0|0|0|0|0|0|0|http://www.rsf.com|294</Row>
+			<Row>http://rumsoakedfist.org/viewtopic.php?p=62759|0|http://www.rsf.com|2011-11-04|0|0|0|0|0|0|0|http://www.rsf.com|295</Row>
+			<Row>http://www.cobatan.com/r_s_f.html|0|rancho santa fe real estate|2010-03-19|0|0|0|0|0|0|0|http://www.rsf.com|296</Row>
+			<Row>http://kevins.nl/Search/RSf|0|kelly &#38; tammy – rsf.com|2011-11-01|0|0|0|0|0|0|0|http://www.rsf.com|39</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=at rancho santa fe san diego|0|rancho santa fe real estate|2009-05-21|0|0|1|0|0|0|0|http://rsf.com|41</Row>
+			<Row>http://www.willisallen.com/Shared/Roster.aspx?OfficeId=1373|0|www.rsf.com|2011-11-09|0|0|1|0|0|0|0|http://www.rsf.com|3</Row>
+			<Row>http://bestvisitorsguide.com/search.php?keywords=Badger realtor&#38;newsearch=new|0|rancho santa fe realtor|2009-02-16|0|0|0|0|0|0|0|http://www.rsf.com/area_history-quadrangle.htm|96</Row>
+			<Row>http://cgkq.com/?q=rsf|0|rancho santa fe community|2007-01-10|0|0|0|0|0|0|0|http://rsf.com/community_rsf.htm|297</Row>
+			<Row>http://www.luxuryrealestate.com/scripts/index.php?siteScript=agentPages&#38;siteScreen=details&#38;agentCurrID=5839|0|http://www.rsf.com|2010-02-21|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/scripts/index.php?siteScript=agentPages&#38;siteScreen=details&#38;agentCurrID=5839|0|visit the web site of kelly pottorff &#38; tammy tidmore for luxury real estate in north san diego county|2010-02-21|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28449|0|my website|2008-12-18|0|0|0|0|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://client.ejility.com/ttfull001.php?tourtype=flash&#38;order_id=21675&#38;command=panorama&#38;panorama_id=28449|0| |2008-12-18|0|0|0|1|0|0|0|http://www.rsf.com|70</Row>
+			<Row>http://rumsoakedfist.org/viewtopic.php?p=62760|0|http://www.rsf.com|2009-08-17|0|0|0|0|0|0|0|http://www.rsf.com|295</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=4&#38;ppage=15|0|visit website|2010-11-13|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+			<Row>http://www.luxuryrealestate.com/destinations/california_nevada?lpage=823&#38;ppage=8&#38;rpage=14|0|visit website|2010-11-26|0|0|0|0|0|0|0|http://www.rsf.com|7</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="298" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD">
+			<Row>0|presscom.com|-1|3456|9975|2065|1601|2006-06-23|2011-11-16|64.202.166.231|64.202.166.0|US|com</Row>
+			<Row>1|soso.com|50|224355|223446207|63707761|1941217|2006-06-21|2011-11-16|114.80.93.78|114.80.93.0|CN|com</Row>
+			<Row>2|afete.com|-1|3243|375906|296235|137231|2007-11-15|2011-11-16|67.15.143.6|67.15.143.0|US|com</Row>
+			<Row>3|willisallen.com|840288|2961|36326|29225|16659|2006-07-07|2011-11-16|65.74.162.227|65.74.162.0|US|com</Row>
+			<Row>4|wordpress.com|21|3752949|3998873202|465773198|49791131|2006-06-09|2011-11-16|72.233.2.58|72.233.2.0|US|com</Row>
+			<Row>5|csusm.edu|83656|65964|1714359|506327|173011|2006-06-30|2011-11-16|144.37.1.95|144.37.1.0|US|edu</Row>
+			<Row>6|metafilter.com|1899|120917|12204919|6083724|1822033|2006-06-08|2011-11-16|174.132.172.58|174.132.172.0|US|com</Row>
+			<Row>7|luxuryrealestate.com|59155|22302|2901731|1799807|487663|2006-06-12|2011-11-16|75.101.188.23|75.101.188.0|US|com</Row>
+			<Row>8|afrik.com|26226|27319|3671178|419514|278137|2006-06-26|2011-11-16|91.121.211.89|91.121.211.0|FR|com</Row>
+			<Row>9|neatorama.com|7171|83681|11148583|469780|293751|2006-11-18|2011-11-16|216.18.203.18|216.18.203.0|US|com</Row>
+			<Row>10|blogcafe.es|-1|390|80900|1805|1262|2008-02-01|2011-11-16|62.128.130.61|62.128.130.0|UK|es</Row>
+			<Row>11|over-blog.com|385|375615|434242693|41995749|2643563|2006-06-12|2011-11-16|195.20.13.121|195.20.13.0|FR|com</Row>
+			<Row>12|tripod.com|656|1457265|693513344|30647411|3933461|2006-06-07|2011-11-16|209.202.252.55|209.202.252.0|US|com</Row>
+			<Row>13|botw.org|4580|52757|8234937|3753457|843053|2006-06-07|2011-11-16|209.11.177.200|209.11.177.0|US|org</Row>
+			<Row>14|cosmeticdentalservices.com|-1|817|2194|470|306|2007-03-16|2011-11-16|128.121.9.95|128.121.9.0|US|com</Row>
+			<Row>15|splinder.com|2702|202514|121357342|22477643|1931756|2006-06-08|2011-11-16|195.110.103.11|195.110.103.0|IT|com</Row>
+			<Row>16|homerealtysandiego.com|-1|37|57|99|56|2006-12-06|2011-11-16|97.74.144.23|97.74.144.0|US|com</Row>
+			<Row>17|joeant.com|12408|44270|1198193|572493|350995|2006-06-20|2011-11-16|69.20.57.183|69.20.57.0|US|com</Row>
+			<Row>18|feedplex.com|34560|2742|2393622|2389658|1015318|2007-01-05|2011-11-16|69.36.13.83|69.36.13.0|US|com</Row>
+			<Row>19|fybersearch.com|23517|8152|56079119|32866023|1442089|2006-08-28|2011-11-16|69.36.5.45|69.36.5.0|US|com</Row>
+			<Row>20|sbbbs.com|-1|1326|317942|164086|49891|2006-06-21|2011-11-09|74.222.1.219|74.222.1.0|US|com</Row>
+			<Row>21|californiacarealty.com|-1|155|2472|1235|1233|2010-10-14|2011-11-16|66.223.55.162|66.223.55.0|US|com</Row>
+			<Row>22|liudachashan.com|-1|667|9251|25922|15512|2008-03-14|2011-11-15|220.165.8.49|220.165.8.0|CN|com</Row>
+			<Row>23|ghetosearch.com|141044|1365|2253039|3060414|1069753|2007-02-25|2011-11-16|69.36.13.83|69.36.13.0|US|com</Row>
+			<Row>24|carolmendelmaps.com|-1|3692|17398|876|668|2006-12-29|2011-11-16|216.55.128.52|216.55.128.0|US|com</Row>
+			<Row>25|blogspot.com|6|7243058|14567084339|3891833360|216218892|2006-06-07|2011-11-16|209.85.229.191|209.85.229.0|US|com</Row>
+			<Row>26|dmoz.org|444|602588|1410393117|57888262|2782660|2006-06-07|2011-11-16|207.200.74.89|207.200.74.0|US|org</Row>
+			<Row>27|californiamoves.com|61267|11899|596005|1525646|689224|2006-10-31|2011-11-16|204.147.89.54|204.147.89.0|US|com</Row>
+			<Row>28|breitbart.com|3483|144507|24546115|9716974|1701633|2006-06-26|2011-11-16|66.28.209.184|66.28.209.0|US|com</Row>
+			<Row>29|rancho-santa-fe-home-inspection.info|-1|3|5|2|2|2011-11-04|2011-11-16|72.167.232.171|72.167.232.0|US|info</Row>
+			<Row>30|uksubmit.co.uk|384062|646|596050|3050254|783494|2007-03-27|2011-11-16|81.21.75.42|81.21.75.0|UK|uk</Row>
+			<Row>31|netsorce.com|-1|153|7727|1194|163|2006-07-24|2011-11-16|67.228.85.201|67.228.85.0|US|com</Row>
+			<Row>32|tamilsearch.co.uk|-1|860|860049|1403580|541698|2008-12-01|2011-11-16|81.21.75.42|81.21.75.0|UK|uk</Row>
+			<Row>33|rsf.org|80211|70972|6532967|328677|215375|2006-06-08|2011-11-16|80.67.162.8|80.67.162.0|FR|org</Row>
+			<Row>34|dreamhm.com|-1|140|70763|17450|4077|2009-06-18|2011-11-16|209.216.63.118|209.216.63.0|US|com</Row>
+			<Row>35|warmfocus.com|-1|393|6798|1077|783|2006-08-28|2011-11-16|209.217.48.70|209.217.48.0|US|com</Row>
+			<Row>36|bytechase.cx|-1|7879|4730915|1348242|469229|2007-11-14|2011-11-16|213.232.93.27|213.232.93.0|UK|cx</Row>
+			<Row>37|webxbeta.com|-1|502|423937|155197|23131|2008-03-28|2011-11-16|74.53.228.50|74.53.228.0|US|com</Row>
+			<Row>38|seo101.co|-1|51584|1835967|1035561|265258|2010-11-14|2011-11-16|74.55.1.2|74.55.1.0|US|co</Row>
+			<Row>39|kevins.nl|-1|388|4282|9168681|280946|2010-06-14|2011-11-16|87.253.134.189|87.253.134.0|NL|nl</Row>
+			<Row>40|btowstore.com|340820|6280|4834930|4614806|880839|2006-07-19|2011-11-16|195.179.67.178|195.179.67.0|DE|com</Row>
+			<Row>41|sandiegotourismguide.org|-1|119|3405|17141|14009|2009-02-11|2010-11-08|209.160.26.120|209.160.26.0|US|org</Row>
+			<Row>42|qdnanfang.com|-1|633|9507|1963|1159|2010-11-22|2011-11-16|221.1.117.37|221.1.117.0|CN|com</Row>
+			<Row>43|californiaus.com|-1|3465|12768545|3582942|715931|2006-10-20|2011-11-09|209.62.120.82|209.62.120.0|US|com</Row>
+			<Row>44|semager.com|-1|408|3275941|9704809|1137302|2008-01-31|2010-10-21|212.114.209.250|212.114.209.0|DE|com</Row>
+			<Row>45|sandiego-bestdeals.com|-1|974|1489152|1104427|162496|2006-07-21|2011-11-16|209.160.24.83|209.160.24.0|US|com</Row>
+			<Row>46|onlinepagedirectory.com|-1|2100|7805|16566|15874|2006-11-15|2008-11-18|67.215.66.132|67.215.66.0|US|com</Row>
+			<Row>47|dtv3d.org|-1|79|513|15552|14014|2009-09-25|2010-01-20|68.178.232.99|68.178.232.0|US|org</Row>
+			<Row>48|les-robinsons-du-pacifique.net|-1|45|6588|15054|7314|2007-06-08|2011-11-16|195.20.15.131|195.20.15.0|FR|net</Row>
+			<Row>49|xn--fte-fma.de|-1|289|3731813|654066|482971|2006-06-11|2007-07-11| | | |de</Row>
+			<Row>50|prestigerealtysandiego.com|-1|4428|96885|7895|4502|2008-10-06|2011-11-16|216.39.57.104|216.39.57.0|US|com</Row>
+			<Row>51|web-max.ca|86910|3339|1133362|3804776|1024019|2006-10-14|2011-11-16|64.22.71.229|64.22.71.0|US|ca</Row>
+			<Row>52|heshenghongda.com|-1|6138|392717|3851|3046|2010-02-23|2011-11-16|210.51.180.247|210.51.180.0|CN|com</Row>
+			<Row>53|jeetz.com|-1|395|2135|4655989|617884|2009-10-12|2011-11-16|216.38.198.68|216.38.198.0|US|com</Row>
+			<Row>54|statsdaemon.com|-1|6148|307404|2316490|678235|2009-06-19|2011-11-16|207.226.168.245|207.226.168.0|US|com</Row>
+			<Row>55|rooftops.com|-1|73|114|28754|13583|2006-06-23|2011-11-16|72.64.118.132|72.64.118.0|US|com</Row>
+			<Row>56|sitewala.net|-1|1368|8741|420128|224722|2006-06-07|2011-11-16|216.198.251.162|216.198.251.0|IN|net</Row>
+			<Row>57|southerncaliforniaguide.com|-1|79|304|11689|10498|2008-05-11|2011-11-16|174.120.188.7|174.120.188.0|US|com</Row>
+			<Row>58|netsavvyagent.com|-1|6283|1611391|31894|30402|2006-06-18|2011-11-16|74.52.58.247|74.52.58.0|US|com</Row>
+			<Row>59|recreationkeywords.net|-1|106|85427|2237286|1272078|2007-01-24|2010-12-01|207.182.147.161|207.182.147.0|US|net</Row>
+			<Row>60|perspectives.com|903457|8895|1071096|1847624|623348|2006-06-09|2010-07-17|206.191.37.164|206.191.37.0|CA|com</Row>
+			<Row>61|southerncaliforniadirectory.com|-1|1808|53071|459324|221543|2006-06-18|2011-11-16|74.53.26.182|74.53.26.0|US|com</Row>
+			<Row>62|get-first.com|-1|183|1152|3243423|105704|2007-12-15|2011-11-12|72.14.207.121|72.14.207.0|US|com</Row>
+			<Row>63|vernissage24.net|-1|266|3732333|678786|533771|2006-06-08|2007-07-09| | | |net</Row>
+			<Row>64|whois.de|51879|4614|448023|10292858|1324106|2006-11-10|2011-11-16|80.92.65.59|80.92.65.0|LU|de</Row>
+			<Row>65|nycgrassrootsmedia.org|-1|4405|30603|19376|14969|2006-09-14|2011-11-16|209.51.172.6|209.51.172.0|US|org</Row>
+			<Row>66|centerforinsurance.com|-1|13|258|238254|72740|2006-06-09|2011-11-14|64.95.64.197|64.95.64.0|US|com</Row>
+			<Row>67|3322.org|5948|113549|15563561|5603325|1339420|2006-06-10|2011-11-16|61.160.235.203|61.160.235.0|CN|org</Row>
+			<Row>68|abc100web.com|-1|141|725|2819431|414971|2008-03-23|2011-11-16|74.220.207.133|74.220.207.0|US|com</Row>
+			<Row>69|blinks.biz|-1|551|11814|7171735|634220|2006-10-18|2011-11-15|64.191.46.90|64.191.46.0|US|biz</Row>
+			<Row>70|ejility.com|-1|238|1979|29377|19814|2006-06-19|2011-11-16|216.240.187.102|216.240.187.0|US|com</Row>
+			<Row>71|yebol.com|254924|2192|38062|1883831|233306|2009-10-12|2011-11-16|204.236.211.159|204.236.211.0|US|com</Row>
+			<Row>72|agenttotal.com|-1|495|30391|7498|6552|2006-12-08|2011-11-16|74.220.215.94|74.220.215.0|US|com</Row>
+			<Row>73|bookmarksync.com|-1|7605|297560|2968790|905035|2006-06-18|2011-11-16|72.19.164.69|72.19.164.0|US|com</Row>
+			<Row>74|newsru.org|-1|143|1077|6516643|1402487|2007-12-22|2011-11-16|174.46.74.85|174.46.74.0|US|org</Row>
+			<Row>75|observer24.net|-1|245|3732185|680983|506782|2006-06-08|2007-07-08| | | |net</Row>
+			<Row>76|gursesmuslum.com|-1|5|23|1647064|75537|2008-10-21|2009-10-13|95.211.48.40|95.211.48.0|NL|com</Row>
+			<Row>77|therichjerkformula.com|-1|270|63060|32677294|1159380|2008-01-17|2011-06-04|94.23.0.39|94.23.0.0|FR|com</Row>
+			<Row>78|7live7.net|906197|193|23206|12808004|1075372|2009-07-17|2011-11-16|174.37.3.211|174.37.3.0|US|net</Row>
+			<Row>79|3kwd008.info|-1|4|4|10028|10024|2006-07-09|2006-10-27| | | |info</Row>
+			<Row>80|agentsource.com|-1|2276|237129|6497|3990|2006-07-28|2011-11-16|208.109.181.11|208.109.181.0|US|com</Row>
+			<Row>81|realtorfinder.com|-1|1940|48368|9320|8987|2007-04-12|2011-11-16|74.52.56.66|74.52.56.0|US|com</Row>
+			<Row>82|benimshopum.com|-1|135|2719|6038250|872804|2008-02-04|2011-11-15|67.228.177.217|67.228.177.0|US|com</Row>
+			<Row>83|forsalebylocals.com|-1|125|6685|278041|144250|2008-01-09|2011-11-12|173.45.72.13|173.45.72.0|US|com</Row>
+			<Row>84|siamsewana.org|-1|126|1639608|12423|8817|2006-07-02|2011-11-16|216.130.176.97|216.130.176.0|US|org</Row>
+			<Row>85|urlrow.com|-1|128|1370|12432059|596697|2008-10-08|2010-04-09|89.234.15.246|89.234.15.0|UK|com</Row>
+			<Row>86|bykaee.com|-1|1710|9085|94211234|1505478|2008-02-03|2011-11-16|62.149.140.120|62.149.140.0|IT|com</Row>
+			<Row>87|legalindex.net|-1|223|1642994|261210|56279|2006-11-24|2008-06-18| | | |net</Row>
+			<Row>88|euroroi.com|-1|154|1063904|1147784|885296|2006-12-27|2011-11-16|216.150.1.181|216.150.1.0|US|com</Row>
+			<Row>89|top-dir.com|-1|3391|57378|706692|329554|2006-06-26|2011-11-16|94.23.21.225|94.23.21.0|FR|com</Row>
+			<Row>90|actidir.com|-1|3232|77609|617947|334692|2006-06-09|2011-11-16|91.121.79.96|91.121.79.0|FR|com</Row>
+			<Row>91|juge.ch|-1|296|3734720|687258|514897|2006-06-10|2008-08-21| | | |ch</Row>
+			<Row>92|downselot.com|-1|3668|172867|1933246|703505|2009-05-08|2011-11-16|209.8.166.114|209.8.166.0|US|com</Row>
+			<Row>93|comuniclab.it|843230|283|42556|34418|21871|2009-06-02|2011-11-16|194.242.241.94|194.242.241.0|IT|it</Row>
+			<Row>94|7live7.com|22304|4906|129805986|34355356|1453282|2009-01-21|2011-11-16|174.37.3.211|174.37.3.0|US|com</Row>
+			<Row>95|pagere.com|-1|275|844|8468|6796|2007-03-13|2011-11-16|61.19.246.222|61.19.246.0|TH|com</Row>
+			<Row>96|bestvisitorsguide.com|-1|63|987|919701|189464|2008-02-10|2010-10-26|72.32.88.230|72.32.88.0|US|com</Row>
+			<Row>97|userfulsearch.com|-1|1088|307024|175841|73705|2006-06-16|2010-05-19|69.64.155.132|69.64.155.0|US|com</Row>
+			<Row>98|healthcaresnow.net|-1|46|165|800197|46652|2008-02-28|2011-11-04|64.111.98.212|64.111.98.0|US|net</Row>
+			<Row>99|defind.de|-1|450|3103|563830|315777|2006-06-14|2008-12-14|83.149.109.210|83.149.109.0|NL|de</Row>
+			<Row>100|tribunal.ch|-1|274|3732945|678280|503639|2006-06-07|2008-08-24| | | |ch</Row>
+			<Row>101|cmsnews.org|-1|293|499|85148|85142|2006-08-05|2011-06-10|208.73.210.121|208.73.210.0|US|org</Row>
+			<Row>102|skinautique.ch|-1|271|3732528|668670|489708|2006-06-07|2008-08-30| | | |ch</Row>
+			<Row>103|aboutus.org|1629|122901|31144938|44577802|2541539|2006-10-26|2011-11-16|66.249.16.200|66.249.16.0|US|org</Row>
+			<Row>104|gooos.com|-1|277|1288|469291|102413|2006-06-11|2011-04-01|81.169.142.43|81.169.142.0|DE|com</Row>
+			<Row>105|greatbritainkingdom.com|-1|137|11150|17936218|950755|2007-11-25|2011-11-16|74.52.106.18|74.52.106.0|US|com</Row>
+			<Row>106|societykeywords.net|-1|90|212080|2094087|1035919|2007-11-18|2011-11-14|207.182.147.161|207.182.147.0|US|net</Row>
+			<Row>107|xn--hwt51nc2x.com|-1|3163|238635|714511|89745|2006-06-15|2010-12-12|64.56.69.53|64.56.69.0|US|com</Row>
+			<Row>108|keyword-directory.com|166778|507|773327|6392352|1102293|2009-11-15|2011-11-16|207.182.147.171|207.182.147.0|US|com</Row>
+			<Row>109|keqiaondt.com|-1|1415|49164|24088|3787|2010-10-04|2011-11-16|210.51.23.7|210.51.23.0|CN|com</Row>
+			<Row>110|gzxmbx.com|-1|7574|1520774|141213|48798|2010-07-22|2011-11-16|221.231.138.115|221.231.138.0|CN|com</Row>
+			<Row>111|companydatabase.org|38248|4888|870488|20049621|1128156|2009-09-15|2011-11-16|74.53.224.29|74.53.224.0|US|org</Row>
+			<Row>112|beijingshangqian.com|-1|968|19819|2393|1253|2010-03-22|2011-11-16|58.218.211.91|58.218.211.0|CN|com</Row>
+			<Row>113|livejournal.com|72|1285931|1864093682|992190452|89950105|2006-06-07|2011-11-16|208.93.0.128|208.93.0.0|US|com</Row>
+			<Row>114|510xsk.com|-1|812|26927|49686|25621|2010-06-10|2011-11-16|221.231.138.125|221.231.138.0|CN|com</Row>
+			<Row>115|tagsup.com|852304|1612|15698|10331208|851866|2009-01-27|2011-11-16|75.101.193.181|75.101.193.0|US|com</Row>
+			<Row>116|gridhome.com|-1|156|317|45927|42456|2006-06-16|2011-11-14|69.64.155.122|69.64.155.0|US|com</Row>
+			<Row>117|rfcn.com.cn|-1|792|23168|410296|137816|2007-11-18|2011-11-16|119.147.26.179|119.147.26.0|CN|cn</Row>
+			<Row>118|glenscott.co.uk|-1|385|2343|5799174|478703|2008-08-22|2011-11-16|72.3.211.135|72.3.211.0|UK|uk</Row>
+			<Row>119|a-search.com|-1|229|78851|105547|53248|2006-07-28|2011-11-16|202.41.215.182|202.41.215.0|JP|com</Row>
+			<Row>120|newsru.net|-1|184|2013|5198749|1470056|2008-01-24|2011-11-16|174.46.74.85|174.46.74.0|US|net</Row>
+			<Row>121|handicap365.com|-1|297|3732116|666139|472285|2006-06-07|2009-11-07|69.64.155.125|69.64.155.0|US|com</Row>
+			<Row>122|zaz.com|357532|3390|16643829|1371251|385811|2006-10-11|2011-11-16|72.32.147.129|72.32.147.0|US|com</Row>
+			<Row>123|veosearch.com|140386|5469|1610432|2236101|95861|2008-01-30|2011-11-16|217.174.198.79|217.174.198.0|FR|com</Row>
+			<Row>124|medicineonline.com|230320|16351|5603574|3319767|558484|2006-06-09|2011-11-16|208.65.251.180|208.65.251.0|US|com</Row>
+			<Row>125|instanceweb.com|-1|1476|118653|282414|138738|2006-06-23|2009-09-19|69.64.147.213|69.64.147.0|US|com</Row>
+			<Row>126|bazsites.com|211967|1304|118228|1864652|645393|2008-01-16|2011-06-06|64.251.25.196|64.251.25.0|US|com</Row>
+			<Row>127|tztop.com.cn|-1|367|8226|2106|1180|2009-06-03|2011-11-16|222.76.216.245|222.76.216.0|CN|cn</Row>
+			<Row>128|ntvru.com|-1|2923|711585|950907|110371|2006-10-24|2011-11-16|69.64.198.86|69.64.198.0|US|com</Row>
+			<Row>129|builtwith.com|8102|26189|3677127|10019719|1329017|2007-10-03|2011-11-16|78.129.242.127|78.129.242.0|UK|com</Row>
+			<Row>130|artskeywords.net|-1|129|330113|2181152|1096564|2006-12-07|2010-12-01|207.182.147.161|207.182.147.0|US|net</Row>
+			<Row>131|lpqq.com|-1|1191|443555|176118|56860|2006-06-23|2011-11-14|64.56.66.99|64.56.66.0|US|com</Row>
+			<Row>132|shia.me.uk|-1|702|151094|12828292|578482|2010-01-09|2011-11-10|74.222.4.158|74.222.4.0|US|uk</Row>
+			<Row>133|wainao.com|-1|162|3514|4408|2818|2008-10-15|2011-11-16|121.198.12.122|121.198.12.0|CN|com</Row>
+			<Row>134|sync2it.com|101244|11361|9245592|4460593|398725|2006-06-10|2011-10-31|72.19.164.68|72.19.164.0|US|com</Row>
+			<Row>135|luxurysales.com|-1|19|210|2170262|571708|2006-06-15|2011-11-16|24.43.169.227|24.43.169.0|US|com</Row>
+			<Row>136|lasik-fact.com|-1|16|178|3210167|417626|2008-02-06|2010-02-12|74.53.26.242|74.53.26.0|US|com</Row>
+			<Row>137|nextvisionweb.com|-1|59|97|27204|27191|2006-10-08|2007-07-14| | | |com</Row>
+			<Row>138|mediazone.info|-1|1883|58786|59495|44119|2006-07-04|2011-11-16|217.72.108.190|217.72.108.0|IT|info</Row>
+			<Row>139|luxuryhomes.com|209732|4544|264804|811184|280503|2006-07-02|2011-11-16|209.97.195.44|209.97.195.0|CA|com</Row>
+			<Row>140|jlysys.com|-1|133|1622|5462|882|2009-12-11|2011-11-16|58.61.160.96|58.61.160.0|CN|com</Row>
+			<Row>141|excite.co.uk|22356|38782|9641890|11781573|3797212|2006-06-12|2011-11-16|212.239.60.146|212.239.60.0|IT|uk</Row>
+			<Row>142|iseekdir.com|-1|1039|145209|1138793|398490|2006-06-22|2011-11-16|208.38.185.103|208.38.185.0|US|com</Row>
+			<Row>143|ynkangmei.com|-1|397|4297|1824|1204|2008-05-20|2011-11-16|218.240.55.66|218.240.55.0|CN|com</Row>
+			<Row>144|porn89.net|-1|553|211097|4971616|574620|2007-12-28|2011-11-16|91.191.165.234|91.191.165.0|DE|net</Row>
+			<Row>145|doesntexist.org|-1|15312|2978671|5889378|641618|2006-09-24|2011-11-16|63.208.196.104|63.208.196.0|US|org</Row>
+			<Row>146|lycos.com|1849|512787|239518821|46884615|9104541|2006-06-08|2011-11-16|209.202.254.14|209.202.254.0|US|com</Row>
+			<Row>147|4seeking.com|-1|993|165067|3027146|529385|2006-11-27|2011-11-16|74.55.1.2|74.55.1.0|US|com</Row>
+			<Row>148|lkpark.com|-1|261|83002|2776|1476|2009-10-26|2011-11-15|211.99.249.189|211.99.249.0|CN|com</Row>
+			<Row>149|kidskeywords.net|-1|167|346622|2273939|1255542|2008-02-03|2010-12-01|207.182.147.161|207.182.147.0|US|net</Row>
+			<Row>150|baldegg.com|-1|1324|12464|901330|354786|2006-07-26|2011-11-16|207.58.182.90|207.58.182.0|US|com</Row>
+			<Row>151|california-usa.org|-1|98|15199|23356|22270|2006-07-01|2010-07-25|69.93.59.34|69.93.59.0|US|org</Row>
+			<Row>152|fxlayer.net|226991|6241|1738389|1351081|316737|2007-12-20|2011-11-16|87.98.239.2|87.98.239.0|PL|net</Row>
+			<Row>153|mobilebrowsing.net|-1|120|10085|15501739|870424|2007-11-15|2011-11-16|74.52.106.18|74.52.106.0|US|net</Row>
+			<Row>154|bjzrrt.com|-1|6202|495625|603733|78799|2009-07-06|2011-11-16|122.200.66.41|122.200.66.0|CN|com</Row>
+			<Row>155|coup-au-coeur.net|-1|5791|3794891|638119|433406|2006-06-10|2008-07-26| | | |net</Row>
+			<Row>156|xn--sngle-tsa.net|-1|240|3730678|667968|481858|2006-06-07|2007-07-07| | | |net</Row>
+			<Row>157|livingtv.co.uk|-1|13271|558813|9698481|823218|2006-06-28|2011-11-16|212.250.162.12|212.250.162.0|UK|uk</Row>
+			<Row>158|zibb.com|53604|19953|35020215|18555095|1561657|2006-09-14|2011-11-16|92.122.207.152|92.122.207.0|EU|com</Row>
+			<Row>159|coup-au-coeur.com|-1|275|3731074|648499|434381|2006-06-08|2007-07-16|69.64.155.122|69.64.155.0|US|com</Row>
+			<Row>160|tao13.com|-1|39|367|2896|1551|2007-12-13|2011-06-13|121.11.81.229|121.11.81.0|CN|com</Row>
+			<Row>161|beautyculture.net|-1|348|7470281|781473|610513|2006-06-07|2008-07-26| | | |net</Row>
+			<Row>162|kulinapula.net|-1|589|2371|355370|228695|2006-06-07|2010-02-14|63.251.179.56|63.251.179.0|US|net</Row>
+			<Row>163|kevinsars.com|-1|76|276318|5760421|220353|2010-07-24|2011-11-16|80.69.89.177|80.69.89.0|NL|com</Row>
+			<Row>164|exhibition24.net|-1|642|3733956|677217|496319|2006-06-07|2008-07-26| | | |net</Row>
+			<Row>165|virginmedia.com|1266|9804758|40463804|58489632|13085018|2006-08-28|2011-11-16|212.250.162.12|212.250.162.0|UK|com</Row>
+			<Row>166|newsru.com|1230|62539|64091310|8828449|2313192|2006-06-10|2011-11-16|174.46.74.87|174.46.74.0|US|com</Row>
+			<Row>167|accoonachess.com|-1|403|1001|5482398|467607|2007-11-21|2010-11-13|77.247.69.115|77.247.69.0|DK|com</Row>
+			<Row>168|ntvsport.ru|-1|430|22257|2472448|1057341|2007-04-09|2011-11-16|174.46.74.86|174.46.74.0|US|ru</Row>
+			<Row>169|lebanonwire.com|648322|5140|56214|166014|134006|2006-07-03|2011-11-16|207.38.2.171|207.38.2.0|US|com</Row>
+			<Row>170|jsrhyb.com|-1|173|5709|2234|1315|2010-09-25|2011-11-14|222.92.156.244|222.92.156.0|CN|com</Row>
+			<Row>171|aspxz.cn|311006|1086|112551|1857775|452070|2009-08-06|2011-11-16|203.171.231.181|203.171.231.0|CN|cn</Row>
+			<Row>172|jiajuboli.cn|-1|422|15881|1744|912|2009-10-19|2011-11-16|193.164.131.16|193.164.131.0|DE|cn</Row>
+			<Row>173|byebbr.com|-1|410|17635|5802|3111|2009-06-19|2011-11-11|60.31.217.229|60.31.217.0|CN|com</Row>
+			<Row>174|propertywexford.com|-1|277|9424119|6180478|561996|2008-12-22|2011-11-16|212.100.239.216|212.100.239.0|UK|com</Row>
+			<Row>175|abc.net|504971|8624|590753|5897429|1172249|2006-06-10|2011-11-16|74.55.1.4|74.55.1.0|US|net</Row>
+			<Row>176|lasik-problem.com|-1|19|55|3302469|428830|2008-01-24|2010-02-12|68.178.232.99|68.178.232.0|US|com</Row>
+			<Row>177|zxkcfd.com|-1|522|9369|6525|3899|2009-12-12|2011-11-16|61.160.23.3|61.160.23.0|CN|com</Row>
+			<Row>178|xinxiangshui.cn|-1|155|7167|2102|1497|2009-07-23|2011-11-16|203.171.226.22|203.171.226.0|CN|cn</Row>
+			<Row>179|maefa.net|-1|12|17|4748282|362933|2008-12-11|2009-11-27|85.183.254.9|85.183.254.0|DE|net</Row>
+			<Row>180|accoonaanswer.com|-1|1|1|4668786|447017|2009-03-23|2010-09-06|77.247.69.115|77.247.69.0|DK|com</Row>
+			<Row>181|educationworld.net|-1|8238|391776|385869|258710|2006-06-17|2011-11-16|69.64.69.71|69.64.69.0|US|net</Row>
+			<Row>182|alleba.com|210862|15922|748830|9622695|1274714|2006-07-25|2011-11-16|208.113.217.215|208.113.217.0|US|com</Row>
+			<Row>183|microchip-technology.com|-1|230|23894|1229516|693385|2008-05-13|2011-11-16|78.46.73.197|78.46.73.0|DE|com</Row>
+			<Row>184|screensavers.ch|-1|387|7472125|671505|506041|2006-06-07|2008-08-20| | | |ch</Row>
+			<Row>185|handicap365.net|-1|266|3731857|681685|515521|2006-06-08|2007-08-20| | | |net</Row>
+			<Row>186|zenbit.com|-1|4275|49761|660844|306106|2006-06-14|2010-11-22|70.85.16.166|70.85.16.0|US|com</Row>
+			<Row>187|listingsus.com|276921|7596|2451880|4266067|1671669|2006-06-17|2011-11-16|209.62.111.242|209.62.111.0|US|com</Row>
+			<Row>188|virtualindexes.com|-1|936|81578|136611|127201|2006-07-04|2007-07-21| | | |com</Row>
+			<Row>189|sguub.com|-1|179|1261107|20457623|864993|2009-11-12|2011-07-28|97.74.144.141|97.74.144.0|US|com</Row>
+			<Row>190|karenmulder.com.cn|-1|1308|10268|684926|4686|2009-04-28|2011-11-16|218.16.118.100|218.16.118.0|CN|cn</Row>
+			<Row>191|jyqqjz.cn|-1|6859|1460626|284291|135509|2010-05-05|2011-11-16|218.85.134.207|218.85.134.0|CN|cn</Row>
+			<Row>192|hoytecnologia.com|77456|7180|3691754|731594|314776|2007-10-11|2011-11-16|194.30.33.16|194.30.33.0|ES|com</Row>
+			<Row>193|realestateindustryreview.com|-1|50|3055|929025|283583|2009-05-03|2010-11-29|209.160.24.83|209.160.24.0|US|com</Row>
+			<Row>194|investor411.org|291834|2396|44088|352546|258074|2008-12-04|2011-11-16|209.160.26.120|209.160.26.0|US|org</Row>
+			<Row>195|dcw4444.com|-1|1087|22775|985778|9899|2009-08-23|2011-11-16|110.188.0.68|110.188.0.0|CN|com</Row>
+			<Row>196|employeur.net|-1|429|3733022|678594|503794|2006-06-07|2008-07-26| | | |net</Row>
+			<Row>197|donghaimould.cn|-1|502|39225|2214|1197|2009-11-26|2011-11-16|221.224.20.121|221.224.20.0|CN|cn</Row>
+			<Row>198|warszawa.pl|16937|182645|157226523|9732854|1958366|2006-06-09|2011-11-16|85.128.69.21|85.128.69.0|PL|pl</Row>
+			<Row>199|global.pl|-1|1454|405225|2632394|1011215|2006-06-09|2011-11-16|194.176.102.6|194.176.102.0|PL|pl</Row>
+			<Row>200|refertus.info|15343|8603|6550788|3192017|133320|2010-09-20|2011-11-16|178.63.28.230|178.63.28.0|DE|info</Row>
+			<Row>201|asuinternationalstudents.com|-1|231|2312|1440637|366585|2009-05-21|2010-03-08|74.208.128.24|74.208.128.0|US|com</Row>
+			<Row>202|fusiontech.net.cn|-1|727|28415|2346|1179|2008-11-01|2011-11-16|221.10.254.159|221.10.254.0|CN|cn</Row>
+			<Row>203|yourcameraspot.com|-1|25|104|38495772|1425649|2008-05-31|2011-11-16|74.208.60.67|74.208.60.0|US|com</Row>
+			<Row>204|55d.com|-1|157|2494|138152|12866|2010-12-29|2011-11-16|49.247.252.16|49.247.252.0|CN|com</Row>
+			<Row>205|ferommok.com|-1|3993|73994|2103701|643126|2009-05-08|2011-11-16|207.176.39.212|207.176.39.0|US|com</Row>
+			<Row>206|realestateofusa.com|-1|3923|23307646|332761|201606|2006-10-18|2011-11-16|70.86.108.42|70.86.108.0|US|com</Row>
+			<Row>207|mossu-marchal.com|-1|3|3|28|15|2011-10-18|2011-11-15|84.16.84.51|84.16.84.0|CH|com</Row>
+			<Row>208|wd-search.com|-1|1718|111572|2225759|1278258|2007-12-13|2011-11-16|89.17.201.201|89.17.201.0|ES|com</Row>
+			<Row>209|tags-search.com|-1|1535|24441|77559|34876|2010-02-23|2011-09-11|74.207.241.246|74.207.241.0|US|com</Row>
+			<Row>210|livejasminnn.com|-1|29|4529|8999504|364362|2010-05-24|2011-11-05|174.36.88.110|174.36.88.0|US|com</Row>
+			<Row>211|portlet.ch|-1|284|3733931|676729|504603|2006-06-09|2007-08-12| | | |ch</Row>
+			<Row>212|dmos.org|-1|257|36391|675491|354544|2006-07-01|2010-07-01|89.238.132.12|89.238.132.0|UK|org</Row>
+			<Row>213|66.to|-1|136|995|15023|11902|2010-05-13|2011-11-15|202.104.186.4|202.104.186.0|CN|to</Row>
+			<Row>214|blogs.com|1724|420326|151717734|15567971|4552518|2006-06-08|2011-11-16|204.9.177.89|204.9.177.0|US|com</Row>
+			<Row>215|achoo.jp|85667|11509|511971|17947735|728449|2006-06-15|2011-11-16|81.200.64.50|81.200.64.0|UK|jp</Row>
+			<Row>216|worldwidirectory.com|-1|3436|118061|10547515|1765987|2006-06-24|2011-11-16|89.17.201.201|89.17.201.0|ES|com</Row>
+			<Row>217|putujemo.net|-1|72|304|9971801|400020|2008-06-07|2009-11-02|67.215.66.132|67.215.66.0|US|net</Row>
+			<Row>218|doublextech.com|-1|6960|1426323|262023|157711|2008-12-02|2011-11-16|221.231.138.120|221.231.138.0|CN|com</Row>
+			<Row>219|75001.com|-1|74|242|366493|224949|2006-06-19|2011-10-27|66.98.244.26|66.98.244.0|US|com</Row>
+			<Row>220|rsslookup.com|-1|27|110|3562781|843578|2008-02-02|2011-02-19|207.58.186.119|207.58.186.0|US|com</Row>
+			<Row>221|laville.de|-1|301|3733783|664498|497226|2006-06-11|2008-08-05| | | |de</Row>
+			<Row>222|xn--sngles-wva.net|-1|250|3730543|666222|477519|2006-06-07|2009-10-17| | | |net</Row>
+			<Row>223|eclub.lv|358818|120495|68598143|3020410|1157883|2006-06-07|2011-11-16|195.3.146.12|195.3.146.0|LV|lv</Row>
+			<Row>224|lygyq.com|-1|889|44303|1577659|6845|2007-11-21|2011-11-16|58.218.198.17|58.218.198.0|CN|com</Row>
+			<Row>225|justseeks.com|-1|1693|5649503|128374|120578|2006-06-10|2007-10-14| | | |com</Row>
+			<Row>226|adultwebcamdirectory.ws|-1|416|827296|8503218|425804|2007-12-19|2011-11-15|174.37.43.85|174.37.43.0|US|ws</Row>
+			<Row>227|californiafind.com|-1|2520|756622|604715|369861|2006-06-07|2011-11-16|216.131.95.185|216.131.95.0|US|com</Row>
+			<Row>228|regionalkeywords.net|-1|113|384200|2465653|1450921|2007-11-16|2010-12-01|207.182.147.161|207.182.147.0|US|net</Row>
+			<Row>229|tongzuo.com|-1|791|49863|2676|1634|2007-11-03|2011-11-16|222.77.181.21|222.77.181.0|CN|com</Row>
+			<Row>230|yuyuan-food.com|-1|200|3600|2673|2145|2009-02-21|2011-11-16|60.191.248.88|60.191.248.0|CN|com</Row>
+			<Row>231|billbee.com|-1|396|3744|12031569|621617|2008-09-17|2010-02-14|67.212.227.128|67.212.227.0|US|com</Row>
+			<Row>232|szzczd.com|-1|280|5670|6177|4045|2010-10-14|2011-11-16|61.155.154.192|61.155.154.0|CN|com</Row>
+			<Row>233|prince24.com|-1|279|3733295|665773|469176|2006-06-10|2007-07-12|81.169.167.42|81.169.167.0|DE|com</Row>
+			<Row>234|ascreensaver.com|-1|18|23|1547839|338175|2009-10-11|2010-11-13|216.74.182.104|216.74.182.0|US|com</Row>
+			<Row>235|realestateandland.com|-1|194|347900|781599|233194|2007-03-27|2011-11-16|66.135.60.226|66.135.60.0|US|com</Row>
+			<Row>236|referencekeywords.net|-1|107|82300|2465361|1449474|2007-11-14|2010-11-30|207.182.147.161|207.182.147.0|US|net</Row>
+			<Row>237|virginislandsnewsonline.com|756354|2466|17129|82487|13990|2010-04-27|2011-11-16|69.175.126.170|69.175.126.0|US|com</Row>
+			<Row>238|levovel.com|-1|881|42437|3309|2250|2010-07-07|2011-11-12|61.155.106.103|61.155.106.0|CN|com</Row>
+			<Row>239|ukcrawler.co.uk|305580|5428|1309725|1427535|616017|2006-11-22|2011-11-16|81.21.75.30|81.21.75.0|UK|uk</Row>
+			<Row>240|superdirectories.com|-1|1199|29801|3270893|1156513|2006-06-16|2011-11-16|64.19.69.74|64.19.69.0|US|com</Row>
+			<Row>241|adamo.ee|-1|114|248|2370579|193310|2010-07-16|2011-11-16|194.204.43.224|194.204.43.0|EE|ee</Row>
+			<Row>242|zdrowy-stres.pl|-1|922|89995|363456|246514|2009-05-17|2011-11-16|82.96.94.35|82.96.94.0|DE|pl</Row>
+			<Row>243|infoseeknow.com|-1|1644|69596|244342|237624|2006-06-09|2007-10-14| | | |com</Row>
+			<Row>244|5000seafoodrecipes.com|-1|527|1963|1346548|518812|2009-10-09|2011-06-12|209.160.26.120|209.160.26.0|US|com</Row>
+			<Row>245|seodigger.com|157000|9511|1183291|25268473|626183|2008-02-08|2011-11-14|88.214.226.35|88.214.226.0|UK|com</Row>
+			<Row>246|analyticsdigger.org|-1|667|163399|3310246|146961|2011-07-24|2011-11-16| | | |org</Row>
+			<Row>247|netinfo.bg|651395|12825|9013295|13760486|1465329|2006-08-09|2011-11-16|87.120.176.5|87.120.176.0|BG|bg</Row>
+			<Row>248|seekon.com|215414|20938|425684|340349|117386|2006-06-07|2011-11-16|216.93.171.204|216.93.171.0|US|com</Row>
+			<Row>249|tatootags.com|-1|1232|175655|14910203|996456|2007-12-11|2011-11-16|88.191.93.184|88.191.93.0|FR|com</Row>
+			<Row>250|fun-gold.com|-1|185|1027|2064868|66303|2008-08-03|2009-02-19|67.63.55.1|67.63.55.0|US|com</Row>
+			<Row>251|bekeen.com|-1|3417|22253|1371373|382650|2006-06-08|2011-11-16|67.228.219.4|67.228.219.0|US|com</Row>
+			<Row>252|infoseeds.com|-1|1941|7401662|212410|99300|2006-06-10|2010-06-11|208.109.80.196|208.109.80.0|US|com</Row>
+			<Row>253|krakow.pl|4464|240542|88850545|6683827|1836355|2006-06-16|2011-11-16|149.156.2.185|149.156.2.0|PL|pl</Row>
+			<Row>254|pinnacleexecctr.com|-1|26|35|41|10|2008-11-21|2011-11-16|70.84.139.162|70.84.139.0|US|com</Row>
+			<Row>255|auctionchest.com|-1|564|6369|308067|74044|2006-12-19|2010-03-17|74.52.142.66|74.52.142.0|US|com</Row>
+			<Row>256|smspin.de|-1|281|3733550|668078|500077|2006-06-11|2007-07-11| | | |de</Row>
+			<Row>257|marketsnapshot.info|273359|739|55360|25969|23237|2008-01-05|2011-11-16|206.131.180.137|206.131.180.0|US|info</Row>
+			<Row>258|realtypopular.com|-1|524|34516|15330|10991|2006-12-25|2011-11-16|74.53.88.82|74.53.88.0|US|com</Row>
+			<Row>259|realestatewebagent.com|-1|891|62968|6741|6535|2008-02-17|2011-11-16|70.87.105.162|70.87.105.0|US|com</Row>
+			<Row>260|bestsitesfor.com|-1|1063|7939|8065822|687776|2006-06-25|2009-11-29|72.9.157.113|72.9.157.0|US|com</Row>
+			<Row>261|bestsearching.com|-1|260|25205|6084996|677237|2008-03-13|2011-11-16|205.237.102.100|205.237.102.0|US|com</Row>
+			<Row>262|teradex.com|-1|3608|2260329|4179412|965149|2006-06-12|2011-11-16|65.110.6.20|65.110.6.0|CA|com</Row>
+			<Row>263|xcjyt.com|-1|125|892|2499|1727|2008-08-21|2011-11-16|203.171.233.84|203.171.233.0|CN|com</Row>
+			<Row>264|jiulidq.com|-1|186|5221|1618|885|2010-09-20|2011-11-06|219.138.202.12|219.138.202.0|CN|com</Row>
+			<Row>265|resourcemecca.com|-1|4353|9913790|21005192|1042312|2006-09-30|2011-03-23|174.37.3.211|174.37.3.0|US|com</Row>
+			<Row>266|btccw.cn|-1|319|7759|1821|1172|2009-04-30|2011-11-15|203.171.235.40|203.171.235.0|CN|cn</Row>
+			<Row>267|millertimenetwork.com|-1|2838|1060251|4846691|454498|2006-07-28|2011-11-16|69.64.155.122|69.64.155.0|US|com</Row>
+			<Row>268|ez2find.com|-1|5858|131710|2312806|236977|2006-06-19|2011-11-16|75.126.3.40|75.126.3.0|US|com</Row>
+			<Row>269|njxueman.com|-1|3602|90493|38013|8467|2010-02-14|2011-11-16|222.186.24.191|222.186.24.0|CN|com</Row>
+			<Row>270|worldkeywords.net|-1|114|197730|1394099|655790|2006-12-05|2009-11-16|207.182.149.20|207.182.149.0|US|net</Row>
+			<Row>271|sale-plaza.com|-1|429|126818|684878|325558|2006-06-11|2011-11-15|66.31.106.88|66.31.106.0|US|com</Row>
+			<Row>272|findoutsite.com|-1|1869|56587|216795|214058|2006-06-16|2007-10-12| | | |com</Row>
+			<Row>273|webzzle.fr|-1|160|232927|355645|130834|2007-11-17|2010-09-20|82.241.74.106|82.241.74.0|FR|fr</Row>
+			<Row>274|leanju-gd.com|-1|76|642|1462|1228|2010-09-23|2011-11-09|59.36.98.242|59.36.98.0|CN|com</Row>
+			<Row>275|internetrealtyguide.com|-1|115|1186|654749|156190|2007-12-13|2009-06-23|72.32.88.230|72.32.88.0|US|com</Row>
+			<Row>276|chicagomachineshop.net|-1|3|4|3010100|341761|2010-04-23|2011-01-23|69.175.85.66|69.175.85.0|US|net</Row>
+			<Row>277|qicheaoxian.com|-1|262|4910|9291|1553|2008-12-01|2011-11-09|202.91.240.201|202.91.240.0|CN|com</Row>
+			<Row>278|dandybridal.com|-1|468|50459|3802|2276|2010-04-12|2011-11-16|222.186.31.76|222.186.31.0|CN|com</Row>
+			<Row>279|plsearch.com|68746|2195|510641|216238|178594|2008-12-18|2011-11-16|174.142.161.123|174.142.161.0|CA|com</Row>
+			<Row>280|at-usa.com|-1|3227|63140|433781|265826|2006-06-14|2011-11-16|206.126.142.84|206.126.142.0|US|com</Row>
+			<Row>281|seekerfinder.com|-1|1488|88346|153611|145029|2006-06-07|2007-10-15| | | |com</Row>
+			<Row>282|xnyqyb.com|-1|7570|2655396|203287|66583|2008-08-30|2011-11-16|180.186.1.135|180.186.1.0|CN|com</Row>
+			<Row>283|linksseek.com|-1|2148|111561|174229|163387|2006-06-10|2007-08-15| | | |com</Row>
+			<Row>284|merseine.nu|451860|14161|4046149|5017119|515711|2006-07-05|2011-11-16|204.13.248.119|204.13.248.0|US|nu</Row>
+			<Row>285|mba-ustb.com.cn|-1|1352|47318|7430|4999|2010-07-07|2011-11-16|112.84.253.120|112.84.253.0|CN|cn</Row>
+			<Row>286|findouthome.com|-1|1453|63459|167238|160259|2006-06-19|2007-10-12| | | |com</Row>
+			<Row>287|relocationdirectory.com|-1|295|4869|12040|11158|2006-06-24|2011-11-16|74.52.56.66|74.52.56.0|US|com</Row>
+			<Row>288|carleone.biz|-1|36|103|12918|12154|2007-12-27|2008-08-14| | | |biz</Row>
+			<Row>289|4cat.ch|-1|2913|3765889|680853|509548|2006-06-10|2008-08-21| | | |ch</Row>
+			<Row>290|vodkacoca.com|-1|1316|54763|19627|12310|2006-06-12|2011-11-14|213.186.33.4|213.186.33.0|FR|com</Row>
+			<Row>291|theluxurylifestyle.com|-1|12|15|1482999|388303|2006-07-04|2011-11-16|24.43.169.227|24.43.169.0|US|com</Row>
+			<Row>292|canadianchains.com|-1|236|18192|16445810|934870|2007-12-12|2011-11-16|74.52.106.18|74.52.106.0|US|com</Row>
+			<Row>293|skaffe.com|59648|15186|889718|207466|94455|2006-07-21|2011-11-16|92.60.108.17|92.60.108.0|UK|com</Row>
+			<Row>294|591fk.com|-1|1026|32041|34582|4302|2008-11-16|2011-11-16|210.51.57.162|210.51.57.0|CN|com</Row>
+			<Row>295|rumsoakedfist.org|-1|418|27365|117279|52664|2009-05-28|2011-11-16|67.205.39.250|67.205.39.0|US|org</Row>
+			<Row>296|cobatan.com|-1|35|51|12924997|969791|2008-09-13|2010-07-13|62.151.163.202|62.151.163.0|ES|com</Row>
+			<Row>297|cgkq.com|-1|3085|314482|193882|81393|2006-06-27|2010-12-02|64.120.183.57|64.120.183.0|US|com</Row>
+		</DataTable>
+	</DataTables>
+</Result>

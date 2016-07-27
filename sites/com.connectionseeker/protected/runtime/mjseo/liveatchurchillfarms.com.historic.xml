@@ -1,0 +1,45 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 9,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2014-04-16 10:01:34",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 95278958,
+	"RemainingRetrievalResUnits" : 19796101,
+	"ServerBuild" : "2014-04-16 03:14:48",
+	"ServerName" : "HUMMERR",
+	"ServerVersion" : "1.0.5219.4044",
+	"UniqueIndexID" : "20140416100134-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "liveatchurchillfarms.com", "UsedRootDomain" : "liveatchurchillfarms.com", "TotalRefDomains" : 9, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 9
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "ipcprintservices.com", "RefDomains" : 2144, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 1022993, "IndexedURLs" : 88653, "CrawledURLs" : 80572, "FirstCrawled" : "2008-10-26", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "208.89.117.31", "SubNet" : "208.89.117.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 30, "TrustFlow" : 39, "BackLinks_liveatchurchillfarms.com" : "1", "FirstLinkDate_liveatchurchillfarms.com" : "2013-09-14", "LastLinkDate_liveatchurchillfarms.com" : "2013-09-14" },
+				{ "Position" : 2, "Domain" : "katylifestylesandhomes.com", "RefDomains" : 1319, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 13, "ExtBackLinks" : 17624, "IndexedURLs" : 19993, "CrawledURLs" : 16494, "FirstCrawled" : "2009-08-29", "LastSuccessfulCrawl" : "2013-11-01", "IP" : "50.87.7.96", "SubNet" : "50.87.7.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 10, "TrustFlow" : 14, "BackLinks_liveatchurchillfarms.com" : "13", "FirstLinkDate_liveatchurchillfarms.com" : "2013-05-12", "LastLinkDate_liveatchurchillfarms.com" : "2013-06-23" },
+				{ "Position" : 3, "Domain" : "houstonnewcomerguides.com", "RefDomains" : 985, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 8, "ExtBackLinks" : 38493, "IndexedURLs" : 24178, "CrawledURLs" : 21015, "FirstCrawled" : "2008-09-17", "LastSuccessfulCrawl" : "2013-10-07", "IP" : "72.32.96.236", "SubNet" : "72.32.96.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 18, "TrustFlow" : 24, "BackLinks_liveatchurchillfarms.com" : "8", "FirstLinkDate_liveatchurchillfarms.com" : "2013-06-09", "LastLinkDate_liveatchurchillfarms.com" : "2013-06-09" },
+				{ "Position" : 4, "Domain" : "realestatecommunities.com", "RefDomains" : 955, "AlexaRank" : 597485, "Matches" : 1, "MatchedLinks" : 4, "ExtBackLinks" : 31817, "IndexedURLs" : 7733, "CrawledURLs" : 7384, "FirstCrawled" : "2011-01-24", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "208.109.78.138", "SubNet" : "208.109.78.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 29, "TrustFlow" : 12, "BackLinks_liveatchurchillfarms.com" : "4", "FirstLinkDate_liveatchurchillfarms.com" : "2013-06-25", "LastLinkDate_liveatchurchillfarms.com" : "2013-07-03" },
+				{ "Position" : 5, "Domain" : "emconsultinginc.com", "RefDomains" : 403, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 23884, "IndexedURLs" : 10265, "CrawledURLs" : 9467, "FirstCrawled" : "2009-02-25", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "209.212.158.76", "SubNet" : "209.212.158.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 26, "TrustFlow" : 21, "BackLinks_liveatchurchillfarms.com" : "1", "FirstLinkDate_liveatchurchillfarms.com" : "2014-01-24", "LastLinkDate_liveatchurchillfarms.com" : "2014-03-14" },
+				{ "Position" : 6, "Domain" : "pennsylvaniamovers.org", "RefDomains" : 183, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 4, "ExtBackLinks" : 4011, "IndexedURLs" : 883, "CrawledURLs" : 842, "FirstCrawled" : "2013-02-28", "LastSuccessfulCrawl" : "2014-03-19", "IP" : "67.231.253.81", "SubNet" : "67.231.253.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 8, "TrustFlow" : 4, "BackLinks_liveatchurchillfarms.com" : "4", "FirstLinkDate_liveatchurchillfarms.com" : "2013-05-14", "LastLinkDate_liveatchurchillfarms.com" : "2013-07-10" },
+				{ "Position" : 7, "Domain" : "dancehorizons.net", "RefDomains" : 102, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 304, "IndexedURLs" : 156816, "CrawledURLs" : 76133, "FirstCrawled" : "2008-11-29", "LastSuccessfulCrawl" : "2013-10-25", "IP" : "69.89.31.244", "SubNet" : "69.89.31.0", "CountryCode" : "US", "TLD" : "net", "CitationFlow" : 7, "TrustFlow" : 14, "BackLinks_liveatchurchillfarms.com" : "1", "FirstLinkDate_liveatchurchillfarms.com" : "2013-08-10", "LastLinkDate_liveatchurchillfarms.com" : "2013-08-10" },
+				{ "Position" : 8, "Domain" : "hometipsor.com", "RefDomains" : 98, "AlexaRank" : 176771, "Matches" : 1, "MatchedLinks" : 8, "ExtBackLinks" : 1092, "IndexedURLs" : 2012, "CrawledURLs" : 1842, "FirstCrawled" : "2013-03-21", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "199.96.156.217", "SubNet" : "199.96.156.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 17, "TrustFlow" : 4, "BackLinks_liveatchurchillfarms.com" : "8", "FirstLinkDate_liveatchurchillfarms.com" : "2013-05-31", "LastLinkDate_liveatchurchillfarms.com" : "2013-07-01" },
+				{ "Position" : 9, "Domain" : "greaterkatyhomes.com", "RefDomains" : 1, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 3, "IndexedURLs" : 7193, "CrawledURLs" : 7038, "FirstCrawled" : "2013-07-08", "LastSuccessfulCrawl" : "", "IP" : "", "SubNet" : "", "CountryCode" : "", "TLD" : "com", "CitationFlow" : 0, "TrustFlow" : 0, "BackLinks_liveatchurchillfarms.com" : "2", "FirstLinkDate_liveatchurchillfarms.com" : "2013-07-08", "LastLinkDate_liveatchurchillfarms.com" : "2013-07-31" }
+			]
+			}
+		}
+}

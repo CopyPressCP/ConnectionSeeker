@@ -1,0 +1,64 @@
+/* Drop down styles*/
+div.selectbox-wrapper {
+  position:absolute;
+  width:auto;
+  border:1px solid #ccc;
+  margin:0px;
+  margin-top:-10px;
+  padding:0px;
+  text-align:left;
+  max-height:200px;
+  overflow:auto;
+  margin-left:2px;
+  font-size:12px;
+}
+
+
+
+/*Drop down list styles*/
+div.selectbox-wrapper ul {
+  list-style-type:none;
+  margin:0px;
+  padding:0px;
+}
+/* Selected item in dropdown list*/
+div.selectbox-wrapper ul li.selected { 
+  background-color: #eaf2fb;
+}
+
+/* Hover state for dropdown list */
+div.selectbox-wrapper ul li.current { 
+  background-color: #cdd8e4;
+}
+
+/* Drop down list items style*/
+div.selectbox-wrapper ul li {
+  list-style-type:none;
+  display:block;
+  margin:0;
+  padding:2px;
+  cursor:pointer;
+}
+
+/* Look and feel of select box */
+.selectbox 
+{
+  margin: 0px 5px 10px 0px;
+  font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+  width:120px;
+  font-size:12px;
+  padding:0px 0px 0px 10px;
+  height:31px;
+  text-align:left;
+  background-image:url(../images/drop.png);
+  background-repeat:no-repeat;
+  cursor:pointer;
+  border:0px;
+  color:#333;
+  background-color:transparent;
+}
+
+
+@media \0screen {
+  .selectbox  {  padding:10px 0px 0px 10px;}
+}

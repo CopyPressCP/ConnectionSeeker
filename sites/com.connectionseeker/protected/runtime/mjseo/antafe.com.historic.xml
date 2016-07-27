@@ -1,0 +1,39 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 1,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2015-01-08 21:31:53",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 99472000,
+	"RemainingRetrievalResUnits" : 19730251,
+	"ServerBuild" : "2014-12-20 16:14:37",
+	"ServerName" : "HUMMERR",
+	"ServerVersion" : "1.0.5467.29238",
+	"UniqueIndexID" : "20150108213153-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "antafe.com", "UsedRootDomain" : "antafe.com", "TotalRefDomains" : 1, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 1
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "zangrahn.com", "RefDomains" : 1, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 4, "ExtBackLinks" : 18, "IndexedURLs" : 32, "CrawledURLs" : 20, "FirstCrawled" : "2014-07-01", "LastSuccessfulCrawl" : "2014-12-11", "IP" : "97.74.215.53", "SubNet" : "97.74.215.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_antafe.com" : "4", "FirstLinkDate_antafe.com" : "2014-09-19", "LastLinkDate_antafe.com" : "2014-12-06" }
+			]
+			}
+		}
+}

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="250" IndexBuildDate="2014-03-19 09:04:51" IndexType="0" RemainingAnalysisResUnits="96580099" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19878261" RemainingStandardReports="950" ServerBuild="2014-04-10 16:18:39" ServerName="SHADOJAGUAR" ServerVersion="1.0.5213.27559" UniqueIndexID="20140319090451-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="250" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="0" BackLinkItem="jameshallison.com" BackLinkType="RootDomain" TotalBackLinks="64537" TotalLines="950" TotalMatches="250">
+			<Row>http://www.thechaya.com/downtown-la/|6|online casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|0|2014-02-13|2014-02-28| | |TextLink|TextLink_Normal|52|59|37|44</Row>
+			<Row>http://www.thechaya.com/feed/|6|online casino|2014-02-24|0|0|0|0|0|0|0|http://www.jameshallison.com/|0|2014-02-24|2014-02-24| | |TextLink|TextLink_Normal|52|59|37|44</Row>
+			<Row>http://www.klarte.com/job/|8|jameshallison casino|2014-02-11|0|0|0|0|0|0|0|http://www.jameshallison.com/|1|2014-02-11|2014-02-11| | |TextLink|TextLink_Normal|52|59|50|21</Row>
+			<Row>http://wpmole.com/dusky|7|casino online|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|2|2014-02-11|2014-02-28| | |TextLink|TextLink_Normal|52|59|45|24</Row>
+			<Row>http://wpmole.com/tydskrif|7|online casinos|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|2|2014-02-11|2014-02-28| | |TextLink|TextLink_Normal|52|59|45|24</Row>
+			<Row>http://tepvos.cz/feed/|7|jameshallison casino|2014-02-12|0|0|0|0|0|0|0|http://www.jameshallison.com/|3|2014-02-12|2014-02-12| | |TextLink|TextLink_Normal|52|59|47|18</Row>
+			<Row>http://tepvos.cz/feed/atom/|7|jameshallison casino|2014-02-12|0|0|0|0|0|0|0|http://www.jameshallison.com/|3|2014-02-12|2014-02-12| | |TextLink|TextLink_Normal|52|59|47|18</Row>
+			<Row>http://www.quo-reklama.cz/uvod|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|28|37</Row>
+			<Row>http://statisticsoninfidelity.com/|5|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|5|2014-02-09|2014-02-28| | |TextLink|TextLink_Normal|52|59|30|35</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/gravirovani-tvorba-reliefu-popis-materialu.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/laserove-znaceni-vyrobky-z-kovu-a-kuze.html|4|jameshallison casino|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-26| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/malonakladovy-tisk-letaku-prospektu-ceniku.html|4|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-14|2014-02-27| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/piskovani-motivy-na-sklenky-stitky.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/rezani-polystyrenu-3d-pismo-loga.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/sitotisk-potisk-tricek-textilu.html|4|jameshallison casino|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-26| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/strojni-vysivani-vysivky-a-nasivky-na-textil.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/tamponovy-tisk-reklamni-a-darkove-predmety.html|4|jameshallison casino|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-26| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/tepelna-razba.html|4|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-27| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/termotisk-potisk-tricek-textilu.html|4|jameshallison casino|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-26| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/transferovy-tisk-potisk-textilu.html|4|jameshallison casino|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-26| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/velkoplosny-digitalni-tisk-tisk-plakatu.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/aktuality/|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/aktuality/cerpani-dotace.html|4|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-27| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/kontakty/centrala-benesov.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/kontakty/dcerine-spolecnosti.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/kontakty/ostatni-aktivity.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/kontakty/pobocka-praha.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/ostatni-aktivity/dcerine-spolecnosti.html|4|casino online|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/ostatni-aktivity/dcerine-spolecnosti.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/ostatni-aktivity/ostatni-aktivity.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/reklamni-agentura/akcni-nabidka.html|4|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-27| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/reklamni-agentura/kreativni-prace.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/reklamni-agentura/nakup-medii.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/reklamni-agentura/nasi-partneri.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/reklamni-agentura/reklamni-agentura.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/reklamni-agentura/reklamni-strategie.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/firma/certifikat.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/firma/historie-spolecnosti.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/firma/kariera.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/firma/reference.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/umisteni-reklamy/|4|jameshallison casino|2014-02-16|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/umisteni-reklamy/atypicke-reklamni-plochy-konstrukce.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/umisteni-reklamy/billboardy-bigboardy-megaboardy.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/umisteni-reklamy/firemni-stity-svetelna-reklama-bannery.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/umisteni-reklamy/navigacni-orientacni-systemy.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/umisteni-reklamy/polepy-aut-dodavek-taxi-motorek.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/umisteni-reklamy/reklama-na-mostech.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/umisteni-reklamy/svetelna-reklama-neony-panely.html|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/|4|casino online|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-11|2014-02-26| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/|4|jameshallison casino|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-11|2014-02-26| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/3d-reklamni-predmety-vyroba-potisk.html|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/fotoplatno.html|4|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-27| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://www.quo-reklama.cz/vyroba-reklamy/frezovani-deskove-pismo-reliefy.html|4|jameshallison casino|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-13|2014-02-26| | |TextLink|TextLink_Normal|52|59|27|37</Row>
+			<Row>http://blog.rhubcom.com/index.php/2010/01/|5|jameshallison casino|2014-02-21|0|0|0|0|0|0|0|http://www.jameshallison.com/|6|2014-02-21|2014-02-21| | |TextLink|TextLink_Normal|52|59|31|31</Row>
+			<Row>http://bensollee.com/news/|6|casino online|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|7|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|52|59|38|24</Row>
+			<Row>http://ebsummit.org/|6|online casinos|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|42|20</Row>
+			<Row>http://ebsummit.org/|6|casino online|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|42|20</Row>
+			<Row>http://ebsummit.org/|6|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|42|20</Row>
+			<Row>http://www.agentware.net/|6|online casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|9|2014-02-12|2014-02-28| | |TextLink|TextLink_Normal|52|59|38|23</Row>
+			<Row>http://blog.bluevision.pl/|5|online casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|10|2014-02-13|2014-02-28| | |TextLink|TextLink_Normal|52|59|34|26</Row>
+			<Row>http://www.commaonline.it/index.php/agenzia/ricerche-di-mercato|5|casino jameshallison|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|11|2014-02-20|2014-02-28| | |TextLink|TextLink_Normal|52|59|30|30</Row>
+			<Row>http://www.commaonline.it/index.php/agenzia|5|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|11|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|30|30</Row>
+			<Row>http://www.anxiety-depression-alternatives.com/date/2010/01|7|online casinos|2014-02-09|0|0|0|0|0|0|0|http://www.jameshallison.com/|12|2014-02-09|2014-02-09| | |TextLink|TextLink_Normal|52|59|44|16</Row>
+			<Row>http://www.anxiety-depression-alternatives.com/date/2010/03|7|online casinos|2014-02-09|0|0|0|0|0|0|0|http://www.jameshallison.com/|12|2014-02-09|2014-02-09| | |TextLink|TextLink_Normal|52|59|44|16</Row>
+			<Row>http://www.anxiety-depression-alternatives.com/feed|7|online casinos|2014-02-09|0|0|0|0|0|0|0|http://www.jameshallison.com/|12|2014-02-09|2014-02-09| | |TextLink|TextLink_Normal|52|59|44|16</Row>
+			<Row>http://www.anxiety-depression-alternatives.com/category/anxiety-causes|7|online casinos|2014-02-09|0|0|0|0|0|0|0|http://www.jameshallison.com/|12|2014-02-09|2014-02-09| | |TextLink|TextLink_Normal|52|59|44|16</Row>
+			<Row>http://www.anxiety-depression-alternatives.com/category/anxiety-symptoms|7|online casinos|2014-02-09|0|0|0|0|0|0|0|http://www.jameshallison.com/|12|2014-02-09|2014-02-09| | |TextLink|TextLink_Normal|52|59|44|16</Row>
+			<Row>http://www.anxiety-depression-alternatives.com/category/anxiety-treatments|7|online casinos|2014-02-09|0|0|0|0|0|0|0|http://www.jameshallison.com/|12|2014-02-09|2014-02-09| | |TextLink|TextLink_Normal|52|59|44|16</Row>
+			<Row>http://www.anxiety-depression-alternatives.com/category/depression|7|online casinos|2014-02-09|0|0|0|0|0|0|0|http://www.jameshallison.com/|12|2014-02-09|2014-02-09| | |TextLink|TextLink_Normal|52|59|44|16</Row>
+			<Row>http://www.anxiety-depression-alternatives.com/category/depression-causes|7|online casinos|2014-02-09|0|0|0|0|0|0|0|http://www.jameshallison.com/|12|2014-02-09|2014-02-09| | |TextLink|TextLink_Normal|52|59|44|16</Row>
+			<Row>http://www.groomco.com/testimonials/|6|online casinos|2014-02-15|0|0|0|0|0|0|0|http://www.jameshallison.com/|13|2014-02-15|2014-02-15| | |TextLink|TextLink_Normal|52|59|42|17</Row>
+			<Row>http://laurajacobsen.com/blog/|5|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|14|2014-02-09|2014-02-25| | |TextLink|TextLink_Normal|52|59|31|28</Row>
+			<Row>http://dc.aiga.org/ikit-feed/|4|online casino|2014-02-12|0|0|0|0|0|0|0|http://www.jameshallison.com/|15|2014-02-12|2014-02-12| | |TextLink|TextLink_Normal|52|59|25|33</Row>
+			<Row>http://www.jmserrat.com/index.php/es/biografia|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|16|2014-02-22|2014-02-25| | |TextLink|TextLink_Normal|52|59|25|33</Row>
+			<Row>http://cybernormer.se/2013/02/|5|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|17|2014-02-13|2014-02-27| | |TextLink|TextLink_Normal|52|59|32|26</Row>
+			<Row>http://promo.1chef.ru/blog/|6|online casino|2014-02-23|0|0|0|0|0|0|0|http://www.jameshallison.com/|18|2014-02-09|2014-02-23| | |TextLink|TextLink_Normal|52|59|37|21</Row>
+			<Row>http://promo.1chef.ru/blog/|6|casino online|2014-02-23|0|0|0|0|0|0|0|http://www.jameshallison.com/|18|2014-02-09|2014-02-23| | |TextLink|TextLink_Normal|52|59|37|21</Row>
+			<Row>http://www.readyhealthgo.com/category/erectile-dysfunction|6|online casinos|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|19|2014-02-25|2014-02-25| | |TextLink|TextLink_Normal|52|59|43|15</Row>
+			<Row>http://www.spintank.fr/feed/|5|online casino|2014-02-15|0|0|0|0|0|0|0|http://www.jameshallison.com/|20|2014-02-15|2014-02-15| | |TextLink|TextLink_Normal|52|59|31|27</Row>
+			<Row>http://www.velovtt.com/|5|casino jameshallison|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|21|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|36|22</Row>
+			<Row>http://www.readyhealthgo.com/date/2010/08|6|online casinos|2014-02-19|0|0|0|0|0|0|0|http://www.jameshallison.com/|19|2014-02-19|2014-02-19| | |TextLink|TextLink_Normal|52|59|42|15</Row>
+			<Row>http://www.topstrani.si/|5|casino jameshallison|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|22|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|32|25</Row>
+			<Row>http://www.topstrani.si/|5|online casinos|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|22|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|32|25</Row>
+			<Row>http://www.thepilgrimtrust.org.uk/feed/|4|online casinos|2014-02-14|0|0|0|0|0|0|0|http://www.jameshallison.com/|23|2014-02-14|2014-02-14| | |TextLink|TextLink_Normal|52|59|29|27</Row>
+			<Row>http://austine.com/news/|7|online casino|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|24|2014-02-11|2014-02-26| | |TextLink|TextLink_Normal|52|59|45|11</Row>
+			<Row>http://livingvalues.fourseasons.com/group-activities-for-meetings-and-events-middle-east-and-africa/|3|online casinos|2014-02-20|0|0|0|0|0|0|0|http://www.jameshallison.com/|25|2014-02-20|2014-02-20| | |TextLink|TextLink_Normal|52|59|23|32</Row>
+			<Row>http://food.visitphilly.com/feed/|5|casino jameshallison|2014-02-24|0|0|0|0|0|0|0|http://www.jameshallison.com/|26|2014-02-22|2014-02-24| | |TextLink|TextLink_Normal|52|59|31|24</Row>
+			<Row>http://cybernormer.se/category/cybernormer/|5|online casino|2014-02-13|0|0|0|0|0|0|0|http://www.jameshallison.com/|17|2014-02-13|2014-02-13| | |TextLink|TextLink_Normal|52|59|30|25</Row>
+			<Row>http://articlesubmitter.imwishlist.com/2007/06/10/new-video-tutorial-for-you/|5|online casino|2014-02-16|0|0|0|0|0|0|0|http://www.jameshallison.com/|27|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|52|59|32|23</Row>
+			<Row>http://articlesubmitter.imwishlist.com/2007/06/05/why-is-article-marketing-so-important-in-2007/|5|online casino|2014-02-16|0|0|0|0|0|0|0|http://www.jameshallison.com/|27|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|52|59|32|23</Row>
+			<Row>http://www.icu-service.com/index.php/ja/services-for-icu-community/insuranceagency.html|3|online casinos|2014-02-16|0|0|0|0|0|0|0|http://www.jameshallison.com/|28|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|52|59|21|34</Row>
+			<Row>http://www.icu-service.com/index.php/ja/services-for-icu-community/insuranceagency.html|3|casino jameshallison|2014-02-16|0|0|0|0|0|0|0|http://www.jameshallison.com/|28|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|52|59|21|34</Row>
+			<Row>http://www.icu-service.com/index.php/ja/services-for-icu-community/insuranceagency.html|3|casino online|2014-02-16|0|0|0|0|0|0|0|http://www.jameshallison.com/|28|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|52|59|21|34</Row>
+			<Row>http://food.visitphilly.com/blog/|5|casino jameshallison|2014-02-24|0|0|0|0|0|0|0|http://www.jameshallison.com/|26|2014-02-22|2014-02-24| | |TextLink|TextLink_Normal|52|59|31|23</Row>
+			<Row>http://www.cotelawfirm.ca/feed/|4|jameshallison casino|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|29|2014-02-11|2014-02-26| | |TextLink|TextLink_Normal|52|59|25|29</Row>
+			<Row>http://www.nyrci.com/|3|casino online|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|30|2014-02-09|2014-02-28| | |TextLink|TextLink_Normal|52|59|23|31</Row>
+			<Row>http://visitcitrus.com/feed|5|casino jameshallison|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|31|2014-02-10|2014-02-28| | |TextLink|TextLink_Normal|52|59|33|20</Row>
+			<Row>http://austine.com/feed/|6|online casino|2014-02-16|0|0|0|0|0|0|0|http://www.jameshallison.com/|24|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|52|59|42|11</Row>
+			<Row>http://www.telescopebooks.com/feed/|5|casino jameshallison|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|32|2014-02-26|2014-02-26| | |TextLink|TextLink_Normal|52|59|33|20</Row>
+			<Row>http://www.telescopebooks.com/news/|5|casino jameshallison|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|32|2014-02-26|2014-02-26| | |TextLink|TextLink_Normal|52|59|33|20</Row>
+			<Row>http://www.rhythmchanges.net/|4|casino jameshallison|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|33|2014-02-08|2014-02-27| | |TextLink|TextLink_Normal|52|59|29|24</Row>
+			<Row>http://www.uxlearn.com/feed/|5|online casinos|2014-02-22|0|0|0|0|0|0|0|http://www.jameshallison.com/|34|2014-02-15|2014-02-22| | |TextLink|TextLink_Normal|52|59|36|17</Row>
+			<Row>http://kultiras.eu/|7|online casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|35|2014-02-12|2014-02-28| | |TextLink|TextLink_Normal|52|59|47|6</Row>
+			<Row>http://www.turnieje-pzt.pl/|5|casino jameshallison|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|36|2014-02-12|2014-02-28| | |TextLink|TextLink_Normal|52|59|32|21</Row>
+			<Row>http://www.turnieje-pzt.pl/|5|casino online|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|36|2014-02-12|2014-02-28| | |TextLink|TextLink_Normal|52|59|32|21</Row>
+			<Row>http://canadaonlineslots.ca/|5| |2014-02-28|1|0|0|0|0|0|0|http://www.jameshallison.com/|37|2014-01-17|2014-02-28| | |Redirect|Redirect_Permanent_Chain|52|59|33|20</Row>
+			<Row>http://www.altadefinicionhd.com/analisis-blu-ray/series/defiance-temporada-1|4|online casinos|2014-02-21|0|0|0|0|0|0|0|http://www.jameshallison.com/|38|2014-02-21|2014-02-21| | |TextLink|TextLink_Normal|52|59|26|26</Row>
+			<Row>http://parcsaintecroix.com/fr/feed/|5|jameshallison casino|2014-02-24|0|0|0|0|0|0|0|http://www.jameshallison.com/|39|2014-02-14|2014-02-24| | |TextLink|TextLink_Normal|52|59|32|20</Row>
+			<Row>http://parcsaintecroix.com/fr/feed/atom/|5|jameshallison casino|2014-02-24|0|0|0|0|0|0|0|http://www.jameshallison.com/|39|2014-02-14|2014-02-24| | |TextLink|TextLink_Normal|52|59|32|20</Row>
+			<Row>http://nora.cc/for-patients-mainmenu-34/visual-side-effects-of-brain-injurystroke-mainmenu-76.html|5|casino jameshallison|2014-02-21|0|0|0|0|0|0|0|http://www.jameshallison.com/|40|2014-02-21|2014-02-21| | |TextLink|TextLink_Normal|52|59|31|21</Row>
+			<Row>http://www.cgn.it/feed/|4|casino jameshallison|2014-02-14|0|0|0|0|0|0|0|http://www.jameshallison.com/|41|2014-02-14|2014-02-14| | |TextLink|TextLink_Normal|52|59|29|23</Row>
+			<Row>http://www.laattaleevi.fi/|5|online casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|42|2014-02-11|2014-02-28| | |TextLink|TextLink_Normal|52|59|30|22</Row>
+			<Row>http://www.flowsurfcoaching.com/|3|casino jameshallison|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|43|2014-02-09|2014-02-27| | |TextLink|TextLink_Normal|52|59|22|30</Row>
+			<Row>http://www.flowsurfcoaching.com/|3|online casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|43|2014-02-09|2014-02-27| | |TextLink|TextLink_Normal|52|59|22|30</Row>
+			<Row>http://food.visitphilly.com/viva-sunday-top-picks-for-sunday-suppers-in-philadelphia/|4|casino jameshallison|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|26|2014-02-21|2014-02-26| | |TextLink|TextLink_Normal|52|59|27|24</Row>
+			<Row>http://cybernormer.se/category/juridik/|4|online casino|2014-02-13|0|0|0|0|0|0|0|http://www.jameshallison.com/|17|2014-02-13|2014-02-13| | |TextLink|TextLink_Normal|52|59|27|24</Row>
+			<Row>http://www.cromsource.com/feed/|5|casino jameshallison|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|44|2014-02-27|2014-02-27| | |TextLink|TextLink_Normal|52|59|30|21</Row>
+			<Row>http://www.cromsource.com/feed/|5|casino online|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|44|2014-02-27|2014-02-27| | |TextLink|TextLink_Normal|52|59|30|21</Row>
+			<Row>http://www.culinaryvegetableinstitute.com/index.php/team-building/sample-itinerary|5|online casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|45|2014-02-25|2014-02-25| | |TextLink|TextLink_Normal|52|59|30|21</Row>
+			<Row>http://chopshoptv.com/blog/|4|jameshallison casino|2014-02-21|0|0|0|0|0|0|0|http://www.jameshallison.com/|46|2014-02-21|2014-02-21| | |TextLink|TextLink_Normal|52|59|26|25</Row>
+			<Row>http://www.redcrosslifeguard.org/|4|online casinos|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|47|2014-02-11|2014-02-26| | |TextLink|TextLink_Normal|52|59|27|24</Row>
+			<Row>http://www.ezonebanking.com/|3|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|48|2014-02-11|2014-02-27| | |TextLink|TextLink_Normal|52|59|21|30</Row>
+			<Row>http://www.starvoiles.com/|4|online casinos|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|49|2014-02-16|2014-02-25| | |TextLink|TextLink_Normal|52|59|28|23</Row>
+			<Row>http://www.quo-reklama.cz/en/outdoor.html|3|casino online|2014-02-16|0|0|0|0|0|0|0|http://www.jameshallison.com/|4|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|52|59|19|31</Row>
+			<Row>http://www.careersay.com/english-major-writing-career-options/|4|jameshallison casino|2014-02-25|0|0|1|0|0|0|0|http://www.jameshallison.com/|50|2014-02-14|2014-02-25| | |TextLink|TextLink_Normal|52|59|29|21</Row>
+			<Row>http://www.datacentertalk.com/category/articles/data-center-guide/data-center-management/|4|jameshallison casino|2014-02-27|0|0|1|0|0|0|0|http://www.jameshallison.com/|51|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|52|59|27|23</Row>
+			<Row>http://www.datacentertalk.com/category/articles/industry-technology/|4|casino online|2014-02-27|0|0|1|0|0|0|0|http://www.jameshallison.com/|51|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|52|59|27|23</Row>
+			<Row>http://www.datacentertalk.com/category/articles/industry-technology/cloud-computing/|4|casino online|2014-02-27|0|0|1|0|0|0|0|http://www.jameshallison.com/|51|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|52|59|27|23</Row>
+			<Row>http://www.datacentertalk.com/category/articles/industry-technology/green-it/|4|online casinos|2014-02-27|0|0|1|0|0|0|0|http://www.jameshallison.com/|51|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|52|59|27|23</Row>
+			<Row>http://presse.tourisme-vezere.com/|5|casino jameshallison|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|52|2014-02-09|2014-02-28| | |TextLink|TextLink_Normal|52|59|32|18</Row>
+			<Row>http://www.anxiety-depression-alternatives.com/dealing-with-anxiety_47|5|online casinos|2014-02-09|0|0|0|0|0|0|0|http://www.jameshallison.com/|12|2014-02-09|2014-02-09| | |TextLink|TextLink_Normal|52|59|35|15</Row>
+			<Row>http://www.abilitysoulpro.com/category/info/|5|jameshallison casino|2014-02-24|0|0|0|0|0|0|0|http://www.jameshallison.com/|53|2014-02-14|2014-02-24| | |TextLink|TextLink_Normal|52|59|32|18</Row>
+			<Row>http://www.maximal-reich.de/|5|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|54|2014-02-09|2014-02-28| | |TextLink|TextLink_Normal|52|59|30|20</Row>
+			<Row>http://www.sweu.ru/index.php?start=77|3|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|55|2014-02-09|2014-02-27| | |TextLink|TextLink_Normal|52|59|21|28</Row>
+			<Row>http://www.miraclefx.ru/products/confetti_machine|5|online casinos|2014-02-17|0|0|0|0|0|0|0|http://www.jameshallison.com/|56|2014-02-17|2014-02-17| | |TextLink|TextLink_Normal|52|59|32|17</Row>
+			<Row>http://www.italyaturlaribak.com/|5|online casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|57|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|32|17</Row>
+			<Row>http://www.mattressforyou.com.au/|6|casino jameshallison|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|58|2014-02-12|2014-02-28| | |TextLink|TextLink_Normal|52|59|37|12</Row>
+			<Row>http://www.mattressforyou.com.au/|6|online casinos|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|58|2014-02-12|2014-02-28| | |TextLink|TextLink_Normal|52|59|37|12</Row>
+			<Row>http://visitcitrus.com/featured/seasons-of-seafood|4|casino jameshallison|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|31|2014-02-12|2014-02-26| | |TextLink|TextLink_Normal|52|59|28|20</Row>
+			<Row>http://www.tarot.nl/component/content/article/11-uncategorised/257-zakelijk-account.html|5|online casinos|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|59|2014-02-14|2014-02-26| | |TextLink|TextLink_Normal|52|59|30|18</Row>
+			<Row>http://www.moosetrackadventures.com/resort-policies|5|online casino|2014-02-13|0|0|0|0|0|0|0|http://www.jameshallison.com/|60|2014-02-13|2014-02-13| | |TextLink|TextLink_Normal|52|59|35|13</Row>
+			<Row>http://kartashevaclinic.com/|5|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|61|2014-02-11|2014-02-28| | |TextLink|TextLink_Normal|52|59|34|14</Row>
+			<Row>http://kartashevaclinic.com/|5|online casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|61|2014-02-11|2014-02-28| | |TextLink|TextLink_Normal|52|59|34|14</Row>
+			<Row>http://www.foolbirds.com/|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|62|2014-02-09|2014-02-28| | |TextLink|TextLink_Normal|52|59|29|19</Row>
+			<Row>http://www.rockcafe.hu/|4|casino online|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|63|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|24|24</Row>
+			<Row>http://www.rockcafe.hu/|4|online casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|63|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|24|24</Row>
+			<Row>http://lacasqueria.com/|5|online casinos|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|64|2014-02-11|2014-02-27| | |TextLink|TextLink_Normal|52|59|30|18</Row>
+			<Row>http://www.aquasprint.co.uk/bangor-make-waves-in-lurgan/|5|jameshallison casino|2014-02-21|0|0|0|0|0|0|0|http://www.jameshallison.com/|65|2014-02-21|2014-02-21| | |TextLink|TextLink_Normal|52|59|34|13</Row>
+			<Row>http://www.brianmellor.co.uk/index.php/brians-buddies|4|casino jameshallison|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|66|2014-02-11|2014-02-27| | |TextLink|TextLink_Normal|52|59|25|22</Row>
+			<Row>http://ebsummit.org/feed/|5|online casinos|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|52|59|33|14</Row>
+			<Row>http://ebsummit.org/feed/|5|casino online|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|52|59|33|14</Row>
+			<Row>http://ebsummit.org/feed/|5|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|52|59|33|14</Row>
+			<Row>http://www.royalbooksonline.com/|4|online casinos|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|67|2014-02-11|2014-02-27| | |TextLink|TextLink_Normal|52|59|24|23</Row>
+			<Row>http://www.empireskate.asia/|3|online casinos|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|68|2014-02-21|2014-02-28| | |TextLink|TextLink_Normal|52|59|22|25</Row>
+			<Row>http://www.heimatbuch-meilen.ch/|5|casino jameshallison|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|69|2014-02-09|2014-02-28| | |TextLink|TextLink_Normal|52|59|31|16</Row>
+			<Row>http://www.52shan.com/|5|casino online|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|70|2014-02-10|2014-02-27| | |TextLink|TextLink_Normal|52|59|31|16</Row>
+			<Row>http://www.52shan.com/|5|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|70|2014-02-10|2014-02-27| | |TextLink|TextLink_Normal|52|59|31|16</Row>
+			<Row>http://feeds.feedburner.com/Lincoln10k|4|casino online|2014-02-20|0|0|0|0|0|0|0|http://www.jameshallison.com/|71|2014-02-20|2014-02-20| | |TextLink|TextLink_Normal|52|59|27|19</Row>
+			<Row>http://commodityhq.com/2012/the-five-minute-guide-to-platinum-etfs/|5|jameshallison casino|2014-02-15|0|0|0|0|0|0|0|http://www.jameshallison.com/|72|2014-02-15|2014-02-15| | |TextLink|TextLink_Normal|52|59|32|14</Row>
+			<Row>http://www.emprendoteca.com/category/cuentamelo/|4|casino jameshallison|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|73|2014-02-25|2014-02-25| | |TextLink|TextLink_Normal|52|59|27|19</Row>
+			<Row>http://ebsummit.org/2011/07/|5|casino online|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|32|14</Row>
+			<Row>http://ebsummit.org/2011/07/|5|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|32|14</Row>
+			<Row>http://ebsummit.org/2011/07/futuristic-casio-watches/|5|casino online|2014-02-24|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-14|2014-02-24| | |TextLink|TextLink_Normal|52|59|32|14</Row>
+			<Row>http://ebsummit.org/2011/07/plenary-ii-closing-plenary-presidents-debate-europe-in-the-world-riding-new-waves-of-growth/|5|jameshallison casino|2014-02-16|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|52|59|32|14</Row>
+			<Row>http://ebsummit.org/2014/01/|5|online casinos|2014-02-23|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-23|2014-02-23| | |TextLink|TextLink_Normal|52|59|32|14</Row>
+			<Row>http://ebsummit.org/2014/01/130/|5|online casinos|2014-02-23|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-23|2014-02-23| | |TextLink|TextLink_Normal|52|59|32|14</Row>
+			<Row>http://ebsummit.org/category/uncategorized/|5|casino online|2014-02-24|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-09|2014-02-24| | |TextLink|TextLink_Normal|52|59|32|14</Row>
+			<Row>http://ebsummit.org/category/uncategorized/|5|online casinos|2014-02-24|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-09|2014-02-24| | |TextLink|TextLink_Normal|52|59|32|14</Row>
+			<Row>http://ebsummit.org/category/uncategorized/|5|jameshallison casino|2014-02-24|0|0|0|0|0|0|0|http://www.jameshallison.com/|8|2014-02-09|2014-02-24| | |TextLink|TextLink_Normal|52|59|32|14</Row>
+			<Row>http://www.live-recruitment.co.uk/blog/|4|jameshallison casino|2014-02-23|0|0|0|0|0|0|0|http://www.jameshallison.com/|74|2014-02-08|2014-02-23| | |TextLink|TextLink_Normal|52|59|27|19</Row>
+			<Row>http://alphabeatradio.com/|3|online casinos|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|75|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|52|59|22|24</Row>
+			<Row>http://commodityhq.com/2012/a-deeper-look-at-americas-commodity-industry/|5|online casinos|2014-02-15|0|0|0|0|0|0|0|http://www.jameshallison.com/|72|2014-02-15|2014-02-15| | |TextLink|TextLink_Normal|52|59|32|13</Row>
+			<Row>http://www.slic.de/index.php/wettkaempfe-in-muenchen/munich-open/munich-open-2014|5|casino online|2014-02-14|0|0|0|0|0|0|0|http://www.jameshallison.com/|76|2014-02-14|2014-02-14| | |TextLink|TextLink_Normal|52|59|31|14</Row>
+			<Row>http://www.bugyiu.com/2011/12/27/visual-image-cryptography-generator/|6|casino online|2014-02-16|0|0|0|0|0|0|0|http://www.jameshallison.com/|77|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|52|59|37|8</Row>
+			<Row>http://www.eredienst.com/index.php/examens/certificaat-b|4|jameshallison casino|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|78|2014-02-26|2014-02-26| | |TextLink|TextLink_Normal|52|59|24|21</Row>
+			<Row>http://www.sosanitation.com/grants-pass-spring-leaf-collection|4|jameshallison casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|79|2014-02-18|2014-02-28| | |TextLink|TextLink_Normal|52|59|28|17</Row>
+			<Row>http://www.sosanitation.com/jo-co-master-recycle-class|4|casino online|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|79|2014-02-18|2014-02-28| | |TextLink|TextLink_Normal|52|59|28|17</Row>
+			<Row>http://www.matou.co.uk/news-and-events/|3|casino jameshallison|2014-02-13|0|0|0|0|0|0|0|http://www.jameshallison.com/|80|2014-02-13|2014-02-13| | |TextLink|TextLink_Normal|52|59|23|22</Row>
+			<Row>http://www.matou.co.uk/news-and-events/|3|casino online|2014-02-13|0|0|0|0|0|0|0|http://www.jameshallison.com/|80|2014-02-13|2014-02-13| | |TextLink|TextLink_Normal|52|59|23|22</Row>
+			<Row>http://www.ianchalermkittichai.com/|4|jameshallison casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|81|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|52|59|26|19</Row>
+			<Row>http://www.42designsquare.com/|4|casino jameshallison|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|82|2014-02-09|2014-02-27| | |TextLink|TextLink_Normal|52|59|27|18</Row>
+			<Row>http://www.42designsquare.com/|4|casino online|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|82|2014-02-09|2014-02-27| | |TextLink|TextLink_Normal|52|59|27|18</Row>
+			<Row>http://sitesuperhost.com/|5|online casinos|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|83|2014-02-17|2014-02-27| | |TextLink|TextLink_Normal|52|59|30|15</Row>
+			<Row>http://commodityhq.com/2013/inside-apmex-a-physical-gold-dealer/|5|casino online|2014-02-15|0|0|0|0|0|0|0|http://www.jameshallison.com/|72|2014-02-15|2014-02-15| | |TextLink|TextLink_Normal|52|59|31|13</Row>
+			<Row>http://www.cognomiitaliani.org/guest0/index.php|4|visita la pagina web|2014-02-10|0|0|1|1|0|0|0|http://www.jameshallison.com/|84|2014-02-10|2014-02-10| | |ImageLink|ImageLink_Normal|52|59|25|19</Row>
+			<Row>http://whynot-whynot.com/feed/|6|jameshallison casino|2014-02-22|0|0|0|0|0|0|0|http://www.jameshallison.com/|85|2014-02-22|2014-02-22| | |TextLink|TextLink_Normal|52|59|37|7</Row>
+			<Row>http://whynot-whynot.com/feed/|6|casino jameshallison|2014-02-22|0|0|0|0|0|0|0|http://www.jameshallison.com/|85|2014-02-22|2014-02-22| | |TextLink|TextLink_Normal|52|59|37|7</Row>
+			<Row>http://whynot-whynot.com/feed/|6|online casino|2014-02-22|0|0|0|0|0|0|0|http://www.jameshallison.com/|85|2014-02-22|2014-02-22| | |TextLink|TextLink_Normal|52|59|37|7</Row>
+			<Row>http://whynot-whynot.com/feed/atom/|6|jameshallison casino|2014-02-22|0|0|0|0|0|0|0|http://www.jameshallison.com/|85|2014-02-22|2014-02-22| | |TextLink|TextLink_Normal|52|59|37|7</Row>
+			<Row>http://whynot-whynot.com/feed/atom/|6|casino jameshallison|2014-02-22|0|0|0|0|0|0|0|http://www.jameshallison.com/|85|2014-02-22|2014-02-22| | |TextLink|TextLink_Normal|52|59|37|7</Row>
+			<Row>http://whynot-whynot.com/feed/atom/|6|online casino|2014-02-22|0|0|0|0|0|0|0|http://www.jameshallison.com/|85|2014-02-22|2014-02-22| | |TextLink|TextLink_Normal|52|59|37|7</Row>
+			<Row>http://www.superteams.com.au/blog/|5|casino online|2014-02-13|0|0|0|0|0|0|0|http://www.jameshallison.com/|86|2014-02-13|2014-02-13| | |TextLink|TextLink_Normal|52|59|36|8</Row>
+			<Row>http://casinoonlineslots.ca/slots|4| |2014-01-30|1|0|0|0|0|0|0|http://www.jameshallison.com/|87|2014-01-30|2014-01-30| | |Redirect|Redirect_Permanent_Chain|52|59|29|15</Row>
+			<Row>http://www.webcafemarketing.co.za/|5|online casino|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|88|2014-02-14|2014-02-28| | |TextLink|TextLink_Normal_HighContent|52|59|30|14</Row>
+			<Row>http://www.tvvatan.com/|4|online casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|89|2014-02-09|2014-02-27| | |TextLink|TextLink_Normal|52|59|28|16</Row>
+			<Row>http://www.weddingandengagement.com/|4|casino jameshallison|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|90|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|29|15</Row>
+			<Row>http://www.anarstudios.com/|3|jameshallison casino|2014-02-19|0|0|0|0|0|0|0|http://www.jameshallison.com/|91|2014-02-09|2014-02-19| | |TextLink|TextLink_Normal|52|59|22|22</Row>
+			<Row>http://nexgenbiztech.com/|4|online casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|92|2014-02-08|2014-02-27| | |TextLink|TextLink_Normal|52|59|28|16</Row>
+			<Row>http://www.auszeit-blog.de/|5|online casinos|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|93|2014-02-11|2014-02-27| | |TextLink|TextLink_Normal|52|59|31|13</Row>
+			<Row>http://www.auszeit-blog.de/|5|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|93|2014-02-11|2014-02-27| | |TextLink|TextLink_Normal|52|59|31|13</Row>
+			<Row>http://www.auszeit-blog.de/|5|online casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|93|2014-02-11|2014-02-27| | |TextLink|TextLink_Normal|52|59|31|13</Row>
+			<Row>http://www.readyhealthgo.com/solving-erectile-dysfunction-problems-with-levitra_38|5|online casinos|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|19|2014-02-25|2014-02-26| | |TextLink|TextLink_Normal|52|59|33|10</Row>
+			<Row>http://www.digitservices.ro/servicii-moodle/migrare-continut|4|casino jameshallison|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|94|2014-02-25|2014-02-25| | |TextLink|TextLink_Normal|52|59|24|19</Row>
+			<Row>http://www.fengshuitips.co.uk/blog/feng-shui-health/|4|casino jameshallison|2014-02-23|0|0|0|0|0|0|0|http://www.jameshallison.com/|95|2014-02-13|2014-02-23| | |TextLink|TextLink_Normal|52|59|27|16</Row>
+			<Row>http://www.fengshuitips.co.uk/blog/garden/|4|casino jameshallison|2014-02-23|0|0|0|0|0|0|0|http://www.jameshallison.com/|95|2014-02-13|2014-02-23| | |TextLink|TextLink_Normal|52|59|27|16</Row>
+			<Row>http://www.fengshuitips.co.uk/blog/hometips/|4|casino online|2014-02-23|0|0|0|0|0|0|0|http://www.jameshallison.com/|95|2014-02-23|2014-02-23| | |TextLink|TextLink_Normal|52|59|27|16</Row>
+			<Row>http://www.fengshuitips.co.uk/blog/relationships/|4|casino jameshallison|2014-02-23|0|0|0|0|0|0|0|http://www.jameshallison.com/|95|2014-02-08|2014-02-23| | |TextLink|TextLink_Normal|52|59|27|16</Row>
+			<Row>http://www.fengshuitips.co.uk/blog/relationships/|4|online casino|2014-02-23|0|0|0|0|0|0|0|http://www.jameshallison.com/|95|2014-02-08|2014-02-23| | |TextLink|TextLink_Normal|52|59|27|16</Row>
+			<Row>http://www.fengshuitips.co.uk/blog/wealth-business/|4|casino jameshallison|2014-02-23|0|0|0|0|0|0|0|http://www.jameshallison.com/|95|2014-02-13|2014-02-23| | |TextLink|TextLink_Normal|52|59|27|16</Row>
+			<Row>http://whynot-whynot.com/testimonials/|5|jameshallison casino|2014-02-22|0|0|0|0|0|0|0|http://www.jameshallison.com/|85|2014-02-22|2014-02-22| | |TextLink|TextLink_Normal|52|59|36|7</Row>
+			<Row>http://whynot-whynot.com/testimonials/|5|casino jameshallison|2014-02-22|0|0|0|0|0|0|0|http://www.jameshallison.com/|85|2014-02-22|2014-02-22| | |TextLink|TextLink_Normal|52|59|36|7</Row>
+			<Row>http://whynot-whynot.com/testimonials/|5|online casino|2014-02-22|0|0|0|0|0|0|0|http://www.jameshallison.com/|85|2014-02-22|2014-02-22| | |TextLink|TextLink_Normal|52|59|36|7</Row>
+			<Row>http://www.lfmedia.com/feed/|5|online casino|2014-02-14|0|0|0|0|0|0|0|http://www.jameshallison.com/|96|2014-02-14|2014-02-14| | |TextLink|TextLink_Normal|52|59|30|13</Row>
+			<Row>http://www.lfmedia.com/feed/|5|casino online|2014-02-14|0|0|0|0|0|0|0|http://www.jameshallison.com/|96|2014-02-14|2014-02-14| | |TextLink|TextLink_Normal|52|59|30|13</Row>
+			<Row>http://www.juniorgolftc.at/blog|3|casino jameshallison|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|97|2014-02-10|2014-02-25| | |TextLink|TextLink_Normal|52|59|20|23</Row>
+			<Row>http://www.dianashomepage.ch/index.php/links|4|casino online|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|98|2014-02-14|2014-02-27| | |TextLink|TextLink_Normal|52|59|26|17</Row>
+			<Row>http://www.selfstoragecentre.com/home-storage.html|4|online casinos|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|99|2014-02-08|2014-02-26| | |TextLink|TextLink_Normal|52|59|28|15</Row>
+			<Row>http://www.mosionek.com/blog/|5|casino online|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|100|2014-02-15|2014-02-25| | |TextLink|TextLink_Normal|52|59|31|12</Row>
+			<Row>http://www.mosionek.com/feed/|5|casino online|2014-02-18|0|0|0|0|0|0|0|http://www.jameshallison.com/|100|2014-02-18|2014-02-18| | |TextLink|TextLink_Normal|52|59|31|12</Row>
+			<Row>http://www.flowsurfcoaching.com/index.php/surf-hire|3|casino online|2014-02-20|0|0|0|0|0|0|0|http://www.jameshallison.com/|43|2014-02-20|2014-02-20| | |TextLink|TextLink_Normal|52|59|19|24</Row>
+			<Row>http://www.flowsurfcoaching.com/index.php/surf-school|3|casino jameshallison|2014-02-24|0|0|0|0|0|0|0|http://www.jameshallison.com/|43|2014-02-24|2014-02-24| | |TextLink|TextLink_Normal|52|59|19|24</Row>
+			<Row>http://www.flowsurfcoaching.com/index.php/surf-school|3|online casino|2014-02-24|0|0|0|0|0|0|0|http://www.jameshallison.com/|43|2014-02-24|2014-02-24| | |TextLink|TextLink_Normal|52|59|19|24</Row>
+			<Row>http://www.familycrestgenealogy.com/|5|casino online|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|101|2014-02-09|2014-02-26| | |TextLink|TextLink_Normal|52|59|32|11</Row>
+			<Row>http://www.familycrestgenealogy.com/|5|casino jameshallison|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|101|2014-02-09|2014-02-26| | |TextLink|TextLink_Normal|52|59|32|11</Row>
+			<Row>http://www.telaviv-insider.co.il/|4|online casinos|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|102|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|29|14</Row>
+			<Row>http://webearnmoney.com/|5|http://www.jameshallison.com|2014-02-28|0|0|1|0|0|0|0|http://www.jameshallison.com/|103|2014-02-11|2014-02-28| | |TextLink|TextLink_Normal|52|59|32|11</Row>
+			<Row>http://webearnmoney.com/|5| |2014-02-28|0|0|1|1|0|0|0|http://www.jameshallison.com/|103|2014-02-11|2014-02-28| | |ImageLink|ImageLink_Normal|52|59|32|11</Row>
+			<Row>http://webearnmoney.com/|5|robertma|2014-02-28|0|0|1|0|0|0|0|http://www.jameshallison.com/|103|2014-02-11|2014-02-28| | |TextLink|TextLink_Normal|52|59|32|11</Row>
+			<Row>http://philadelphia.aiga.org/ikit-feed/|3|casino online|2014-02-11|0|0|0|0|0|0|0|http://www.jameshallison.com/|15|2014-02-11|2014-02-11| | |TextLink|TextLink_Normal|52|59|22|20</Row>
+			<Row>http://www.cotelawfirm.ca/blog/condominium-owners-beware/|3|jameshallison casino|2014-02-20|0|0|0|0|0|0|0|http://www.jameshallison.com/|29|2014-02-20|2014-02-20| | |TextLink|TextLink_Normal|52|59|18|24</Row>
+			<Row>http://www.analiticaweb.es/tag/analitica-web/|4|casino jameshallison|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|104|2014-02-13|2014-02-27| | |TextLink|TextLink_Normal|52|59|28|14</Row>
+			<Row>http://www.allee-du-bureau.com/conseils-bureau/marche-mobilier-bureau-occasion-2013|5|casino jameshallison|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|105|2014-02-10|2014-02-26| | |TextLink|TextLink_Normal|52|59|30|12</Row>
+			<Row>http://www.nohoax.com/index.php?option=com_content&#38;view=article&#38;id=33&#38;Itemid=10|4|casino jameshallison|2014-02-28|0|0|0|0|0|0|0|http://www.jameshallison.com/|106|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|52|59|29|13</Row>
+			<Row>http://www.mpelektronik.cz/feed|4|online casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|107|2014-02-11|2014-02-25| | |TextLink|TextLink_Normal|52|59|25|17</Row>
+			<Row>http://www.mpelektronik.cz/feed|4|casino jameshallison|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|107|2014-02-11|2014-02-25| | |TextLink|TextLink_Normal|52|59|25|17</Row>
+			<Row>http://www.mpelektronik.cz/feed|4|casino online|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|107|2014-02-11|2014-02-25| | |TextLink|TextLink_Normal|52|59|25|17</Row>
+			<Row>http://www.mpelektronik.cz/feed/atom|4|casino jameshallison|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|107|2014-02-11|2014-02-25| | |TextLink|TextLink_Normal|52|59|25|17</Row>
+			<Row>http://www.mpelektronik.cz/feed/atom|4|casino online|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|107|2014-02-11|2014-02-25| | |TextLink|TextLink_Normal|52|59|25|17</Row>
+			<Row>http://www.mpelektronik.cz/feed/atom|4|online casino|2014-02-25|0|0|0|0|0|0|0|http://www.jameshallison.com/|107|2014-02-11|2014-02-25| | |TextLink|TextLink_Normal|52|59|25|17</Row>
+			<Row>http://accessaccommodationlondon.co.uk/feed|4|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|108|2014-02-13|2014-02-27| | |TextLink|TextLink_Normal|52|59|29|13</Row>
+			<Row>http://xahuong.net/feed|6|casino jameshallison|2014-02-14|0|0|0|0|0|0|0|http://www.jameshallison.com/|109|2014-02-14|2014-02-14| | |TextLink|TextLink_Normal|52|59|42|0</Row>
+			<Row>http://xahuong.net/feed|6|jameshallison casino|2014-02-14|0|0|0|0|0|0|0|http://www.jameshallison.com/|109|2014-02-14|2014-02-14| | |TextLink|TextLink_Normal|52|59|42|0</Row>
+			<Row>http://auditorsaitov.ru/feed|4|casino online|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|110|2014-02-26|2014-02-26| | |TextLink|TextLink_Normal|52|59|29|13</Row>
+			<Row>http://www.morcianofiere.it/menu-dx/girovagando-il-cercatrova|4|jameshallison casino|2014-02-20|0|0|0|0|0|0|0|http://www.jameshallison.com/|111|2014-02-20|2014-02-20| | |TextLink|TextLink_Normal|52|59|25|17</Row>
+			<Row>http://www.seoblighty.co.uk/feed/|5|casino online|2014-02-16|0|0|0|0|0|0|0|http://www.jameshallison.com/|112|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|52|59|30|12</Row>
+			<Row>http://www.freebetsnow.com/feed/|5|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|113|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|52|59|34|8</Row>
+			<Row>http://www.turnieje-pzt.pl/index.php?option=com_content&#38;view=featured&#38;Itemid=101|4|casino online|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|36|2014-02-26|2014-02-26| | |TextLink|TextLink_Normal|52|59|26|16</Row>
+			<Row>http://www.turnieje-pzt.pl/index.php?option=com_content&#38;view=featured&#38;Itemid=101|4|casino jameshallison|2014-02-26|0|0|0|0|0|0|0|http://www.jameshallison.com/|36|2014-02-26|2014-02-26| | |TextLink|TextLink_Normal|52|59|26|16</Row>
+			<Row>http://pinewoodgrouponline.com/|4|jameshallison casino|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|114|2014-02-13|2014-02-27| | |TextLink|TextLink_Normal|52|59|24|18</Row>
+			<Row>http://www.vinopegas.sk/|4|casino jameshallison|2014-02-27|0|0|0|0|0|0|0|http://www.jameshallison.com/|115|2014-02-27|2014-02-27| | |TextLink|TextLink_Normal|52|59|24|18</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="116" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|thechaya.com|-1|2434|72628|604|242|2009-09-02|2014-02-28|205.186.148.72|205.186.148.0|US|com|33|45</Row>
+			<Row>1|klarte.com|-1|1267|4301221|3787|3754|2010-09-27|2014-02-28|91.121.145.42|91.121.145.0|FR|com|75|27</Row>
+			<Row>2|wpmole.com|-1|4196|2439051|119|99|2013-07-01|2014-02-28|78.46.56.74|78.46.56.0|DE|com|43|31</Row>
+			<Row>3|tepvos.cz|-1|641|537202|709206|221377|2009-02-26|2014-02-28|217.31.49.88|217.31.49.0|CZ|cz|55|24</Row>
+			<Row>4|quo-reklama.cz|-1|1254|88662|5662|4495|2008-09-25|2014-02-28|95.168.204.78|95.168.204.0|CZ|cz|28|43</Row>
+			<Row>5|statisticsoninfidelity.com|-1|14|1667|116|99|2008-11-26|2014-02-28|66.240.151.82|66.240.151.0|US|com|15|30</Row>
+			<Row>6|rhubcom.com|418931|8241|198880|18613|12306|2008-10-18|2014-02-28|64.71.188.140|64.71.188.0|US|com|43|50</Row>
+			<Row>7|bensollee.com|-1|2252|50037|717|610|2009-09-20|2014-02-28|69.72.240.50|69.72.240.0|US|com|33|28</Row>
+			<Row>8|ebsummit.org|-1|932|26284|5983|3547|2008-09-06|2014-02-28|66.152.182.170|66.152.182.0|US|org|29|18</Row>
+			<Row>9|agentware.net|-1|573|1684|354|273|2008-09-11|2014-02-28|64.88.167.150|64.88.167.0|US|net|27|20</Row>
+			<Row>10|bluevision.pl|929846|14213|1203145|2878|2215|2009-05-07|2014-02-28|195.149.225.48|195.149.225.0|PL|pl|36|34</Row>
+			<Row>11|commaonline.it|-1|132|471913|381|352|2012-04-17|2014-02-28|62.205.10.1|62.205.10.0|IT|it|28|35</Row>
+			<Row>12|anxiety-depression-alternatives.com|-1|24951|738050|1812|942|2008-08-17|2014-02-28|64.188.58.242|64.188.58.0|US|com|41|18</Row>
+			<Row>13|groomco.com|-1|1694|715056|5612|5570|2008-11-21|2014-02-27|208.64.163.16|208.64.163.0|US|com|39|21</Row>
+			<Row>14|laurajacobsen.com|-1|762|8851|1527|1082|2009-07-05|2014-02-28|72.167.131.132|72.167.131.0|US|com|26|26</Row>
+			<Row>15|aiga.org|44138|67082|9420318|22821077|1859863|2008-07-29|2014-02-28|74.43.253.193|74.43.253.0|US|org|52|64</Row>
+			<Row>16|jmserrat.com|-1|3686|111481|176147|131159|2008-07-29|2014-02-28|46.226.47.26|46.226.47.0|ES|com|32|41</Row>
+			<Row>17|cybernormer.se|-1|1048|99314|6285|5854|2010-03-10|2014-02-28|66.7.199.204|66.7.199.0|US|se|35|36</Row>
+			<Row>18|1chef.ru|-1|3726|213131|62772|28326|2009-04-23|2014-02-28|212.24.62.74|212.24.62.0|RU|ru|39|27</Row>
+			<Row>19|readyhealthgo.com|-1|27822|1123662|2414|1235|2009-10-13|2014-02-28|50.22.104.148|50.22.104.0|US|com|41|20</Row>
+			<Row>20|spintank.fr|-1|1042|77896|3067|2470|2008-11-30|2014-02-28|91.207.254.212|91.207.254.0|FR|fr|28|33</Row>
+			<Row>21|velovtt.com|-1|8899|113136|623971|213961|2008-07-29|2014-02-28|93.88.241.153|93.88.241.0|CH|com|31|18</Row>
+			<Row>22|topstrani.si|-1|265|105426|166|135|2011-02-01|2014-02-28|178.238.231.235|178.238.231.0|DE|si|19|21</Row>
+			<Row>23|thepilgrimtrust.org.uk|-1|8239|2009852|47722|42969|2009-09-23|2014-02-28|77.240.2.157|77.240.2.0|UK|uk|43|33</Row>
+			<Row>24|austine.com|-1|3990|1141239|4579|3490|2009-01-03|2014-02-26|50.57.13.62|50.57.13.0|US|com|42|16</Row>
+			<Row>25|fourseasons.com|12608|116648|10732090|982644|658813|2008-07-29|2014-02-28|107.21.28.74|107.21.28.0|US|com|61|83</Row>
+			<Row>26|visitphilly.com|79562|18809|1957679|18364875|1070331|2010-01-14|2014-02-28|98.129.229.202|98.129.229.0|US|com|49|58</Row>
+			<Row>27|imwishlist.com|105567|7447|265229|6445|5512|2008-12-18|2014-02-28|50.23.35.134|50.23.35.0|US|com|30|31</Row>
+			<Row>28|icu-service.com|-1|37|192|598|512|2011-12-21|2014-02-28|112.78.125.43|112.78.125.0|JP|com|21|39</Row>
+			<Row>29|cotelawfirm.ca|-1|43|215|89|61|2013-06-30|2014-02-28|199.102.230.23|199.102.230.0|US|ca|23|35</Row>
+			<Row>30|nyrci.com|-1|52|138|71|51|2011-07-31|2014-02-28|174.37.205.192|174.37.205.0|US|com|13|27</Row>
+			<Row>31|visitcitrus.com|-1|2914|106084|5476|4347|2008-07-31|2014-02-28|166.78.17.188|166.78.17.0|US|com|36|29</Row>
+			<Row>32|telescopebooks.com|-1|149|35530|302|211|2008-10-04|2014-02-28|68.90.68.83|68.90.68.0|US|com|28|24</Row>
+			<Row>33|rhythmchanges.net|-1|195|3053|2169|1945|2010-10-07|2014-02-27|146.87.220.126|146.87.220.0|UK|net|24|26</Row>
+			<Row>34|uxlearn.com|-1|401|108888|2289|2273|2011-12-21|2014-02-28|82.98.160.156|82.98.160.0|ES|com|27|18</Row>
+			<Row>35|kultiras.eu|-1|2648|37575|13073|11867|2013-07-15|2014-02-28|84.22.189.36|84.22.189.0|UK|eu|35|6</Row>
+			<Row>36|turnieje-pzt.pl|-1|24|27902|78|70|2013-06-30|2014-02-28|85.128.234.76|85.128.234.0|PL|pl|19|17</Row>
+			<Row>37|canadaonlineslots.ca|-1|2053|39141|9|9|2013-12-13|2008-07-27| | | |ca|16|15</Row>
+			<Row>38|altadefinicionhd.com|351971|392|1001693|182926|108578|2010-05-11|2014-02-28|82.98.136.129|82.98.136.0|ES|com|30|36</Row>
+			<Row>39|parcsaintecroix.com|898961|1511|177234|12593|8090|2008-08-26|2014-02-28|212.95.70.51|212.95.70.0|FR|com|35|30</Row>
+			<Row>40|nora.cc|-1|1829|63751|7271|6181|2008-09-19|2014-02-28|108.162.201.118|108.162.201.0|US|cc|34|29</Row>
+			<Row>41|cgn.it|227361|548|691572|4151|2265|2008-08-24|2014-02-28|91.216.38.102|91.216.38.0|IT|it|30|31</Row>
+			<Row>42|laattaleevi.fi|-1|112|1632|763|578|2008-08-27|2014-02-28|89.166.51.58|89.166.51.0|FI|fi|21|19</Row>
+			<Row>43|flowsurfcoaching.com|-1|29|140|1749|1543|2010-12-05|2014-02-27|94.76.198.168|94.76.198.0|UK|com|12|26</Row>
+			<Row>44|cromsource.com|-1|379|6428|772|592|2012-06-28|2014-02-28|213.21.160.163|213.21.160.0|IT|com|30|27</Row>
+			<Row>45|culinaryvegetableinstitute.com|-1|676|13483|1163|1004|2008-11-20|2014-02-28|74.204.166.196|74.204.166.0|US|com|28|27</Row>
+			<Row>46|chopshoptv.com|-1|178|66356|215|177|2010-10-31|2014-02-28|64.13.192.115|64.13.192.0|US|com|20|31</Row>
+			<Row>47|redcrosslifeguard.org|-1|128|690|1116|790|2010-05-06|2014-02-26|66.129.93.65|66.129.93.0|US|org|17|21</Row>
+			<Row>48|ezonebanking.com|-1|161|604|748|582|2008-11-14|2014-02-27|208.117.28.92|208.117.28.0|US|com|11|26</Row>
+			<Row>49|starvoiles.com|-1|188|23101|998|729|2008-07-30|2014-02-27|178.33.226.59|178.33.226.0|FR|com|15|19</Row>
+			<Row>50|careersay.com|-1|471|32564|5312|5199|2012-08-07|2014-02-28|199.59.57.43|199.59.57.0|US|com|36|28</Row>
+			<Row>51|datacentertalk.com|433577|4770|1026988|853155|257327|2008-07-29|2014-02-28|208.116.6.242|208.116.6.0|US|com|30|31</Row>
+			<Row>52|tourisme-vezere.com|-1|949|36580|80391|62521|2010-10-14|2014-02-28|94.23.17.171|94.23.17.0|FR|com|34|25</Row>
+			<Row>53|abilitysoulpro.com|-1|301|6409|965|376|2012-09-05|2014-02-28|49.212.67.111|49.212.67.0|JP|com|26|21</Row>
+			<Row>54|maximal-reich.de|-1|721|29346|5450|4296|2008-11-16|2014-02-28|85.13.144.184|85.13.144.0|DE|de|27|16</Row>
+			<Row>55|sweu.ru|-1|1502|97228|2255774|140456|2008-10-31|2014-02-28|37.202.63.74|37.202.63.0|RU|ru|34|39</Row>
+			<Row>56|miraclefx.ru|-1|815|1367|192|177|2010-01-01|2014-02-27|188.93.212.122|188.93.212.0|RU|ru|29|15</Row>
+			<Row>57|italyaturlaribak.com|-1|608|88259|1013|920|2011-03-26|2014-02-28|188.132.218.35|188.132.218.0|TR|com|26|13</Row>
+			<Row>58|mattressforyou.com.au|-1|744|15921|174|164|2013-06-30|2014-02-28|202.60.65.53|202.60.65.0|AU|au|22|9</Row>
+			<Row>59|tarot.nl|516362|787|10136|134365|73283|2008-08-12|2014-02-28|178.18.91.146|178.18.91.0|NL|nl|34|25</Row>
+			<Row>60|moosetrackadventures.com|-1|778|47122|625|427|2008-09-19|2014-02-28|69.167.177.49|69.167.177.0|US|com|40|17</Row>
+			<Row>61|kartashevaclinic.com|-1|2593|10541|1910|1417|2009-10-03|2014-02-28|89.253.247.71|89.253.247.0|RU|com|36|19</Row>
+			<Row>62|foolbirds.com|-1|349|17222|1908|1453|2009-07-18|2014-02-28|106.187.94.36|106.187.94.0|JP|com|21|16</Row>
+			<Row>63|rockcafe.hu|-1|170|7945|3351|2319|2010-05-03|2014-02-28|176.9.67.94|176.9.67.0|DE|hu|11|20</Row>
+			<Row>64|lacasqueria.com|-1|166|8583|724|507|2013-07-02|2014-02-27|5.9.9.206|5.9.9.0|DE|com|17|14</Row>
+			<Row>65|aquasprint.co.uk|-1|3894|428706|1819|770|2012-02-11|2014-02-28|109.73.160.94|109.73.160.0|UK|uk|37|22</Row>
+			<Row>66|brianmellor.co.uk|-1|137|2298|3302|2410|2008-10-08|2014-02-28|217.8.253.168|217.8.253.0|UK|uk|22|26</Row>
+			<Row>67|royalbooksonline.com|-1|242|896|215|202|2008-07-31|2014-02-27|67.227.203.94|67.227.203.0|US|com|15|19</Row>
+			<Row>68|empireskate.asia|-1|25|375|13700|12134|2012-07-25|2014-02-28|203.198.128.35|203.198.128.0|HK|asia|13|20</Row>
+			<Row>69|heimatbuch-meilen.ch|-1|128|12652|1179|955|2008-12-03|2014-02-28|217.26.52.40|217.26.52.0|CH|ch|18|12</Row>
+			<Row>70|52shan.com|-1|235|2344|4643|1952|2008-12-22|2014-02-27|50.31.95.40|50.31.95.0|US|com|16|12</Row>
+			<Row>71|feedburner.com|833|2769520|9545031235|316926619|23014773|2008-07-29|2014-02-28|74.125.225.128|74.125.225.0|US|com|91|90</Row>
+			<Row>72|commodityhq.com|285262|3999|8796661|7703|7019|2012-06-09|2014-02-28|66.175.208.220|66.175.208.0|US|com|63|37</Row>
+			<Row>73|emprendoteca.com|-1|226|64567|5430|5184|2013-06-09|2014-02-28|92.43.19.149|92.43.19.0|ES|com|29|25</Row>
+			<Row>74|live-recruitment.co.uk|-1|1032|15886|6349|4925|2008-09-04|2014-02-28|77.72.4.66|77.72.4.0|UK|uk|26|21</Row>
+			<Row>75|alphabeatradio.com|-1|474|2875140|12273|12232|2008-10-20|2014-02-27|85.13.141.129|85.13.141.0|DE|com|21|22</Row>
+			<Row>76|slic.de|-1|284|9848|301737|157555|2008-08-24|2014-02-28|176.28.34.204|176.28.34.0|DE|de|43|22</Row>
+			<Row>77|bugyiu.com|-1|9761|667060|5611|5213|2009-01-16|2014-02-28|202.64.49.2|202.64.49.0|HK|com|45|12</Row>
+			<Row>78|eredienst.com|-1|157|917|16095|5289|2008-07-29|2014-02-28|86.109.9.32|86.109.9.0|NL|com|22|26</Row>
+			<Row>79|sosanitation.com|-1|169|598|451|349|2008-12-10|2014-02-28|98.129.229.172|98.129.229.0|US|com|24|20</Row>
+			<Row>80|matou.co.uk|-1|151|677|482|314|2010-09-30|2014-02-28|83.170.118.9|83.170.118.0|UK|uk|17|25</Row>
+			<Row>81|ianchalermkittichai.com|-1|155|1023|483|396|2009-02-11|2014-02-27|96.9.49.83|96.9.49.0|US|com|18|15</Row>
+			<Row>82|42designsquare.com|-1|163|3220|220|206|2008-12-22|2014-02-27|174.121.22.79|174.121.22.0|US|com|14|14</Row>
+			<Row>83|sitesuperhost.com|-1|27|2279|105|86|2010-10-24|2014-02-27|68.171.213.83|68.171.213.0|US|com|16|11</Row>
+			<Row>84|cognomiitaliani.org|573346|1782|178121|15615|14859|2008-11-01|2014-02-21|198.23.61.180|198.23.61.0|US|org|26|24</Row>
+			<Row>85|whynot-whynot.com|-1|8362|7130924|7954|6322|2011-02-17|2014-02-27|209.200.227.229|209.200.227.0|US|com|33|11</Row>
+			<Row>86|superteams.com.au|-1|3244|31497|292|268|2009-09-23|2014-02-28|202.146.213.7|202.146.213.0|AU|au|30|8</Row>
+			<Row>87|casinoonlineslots.ca|-1|1850|14073|41|41|2013-05-03|2014-01-05| | | |ca|18|13</Row>
+			<Row>88|webcafemarketing.co.za|-1|106|994|426|408|2011-05-08|2014-02-28|196.7.147.216|196.7.147.0|ZA|za|19|10</Row>
+			<Row>89|tvvatan.com|-1|241|3001|211|122|2008-08-18|2014-02-27|216.27.5.50|216.27.5.0|US|com|16|12</Row>
+			<Row>90|weddingandengagement.com|-1|203|23314|416|283|2008-08-28|2014-02-28|78.153.215.161|78.153.215.0|IE|com|17|11</Row>
+			<Row>91|anarstudios.com|-1|586|43851|869|816|2012-07-26|2014-01-31|72.10.51.62|72.10.51.0|US|com|9|18</Row>
+			<Row>92|nexgenbiztech.com|-1|21|10037|50|43|2009-04-12|2014-02-27|198.154.254.232|198.154.254.0|US|com|15|12</Row>
+			<Row>93|auszeit-blog.de|-1|1065|28626|485|411|2008-09-14|2014-02-27|195.42.120.32|195.42.120.0|IE|de|15|9</Row>
+			<Row>94|digitservices.ro|-1|342|16080|5876|4636|2008-09-25|2014-02-28|92.114.87.206|92.114.87.0|RO|ro|23|26</Row>
+			<Row>95|fengshuitips.co.uk|-1|2552|101591|1422|1240|2008-10-03|2014-02-28|194.116.174.120|194.116.174.0|UK|uk|26|20</Row>
+			<Row>96|lfmedia.com|-1|399|23433|751|509|2008-08-08|2014-02-28|208.109.205.152|208.109.205.0|US|com|28|16</Row>
+			<Row>97|juniorgolftc.at|-1|23|210|57|42|2012-02-14|2014-02-28|85.13.138.223|85.13.138.0|DE|at|16|26</Row>
+			<Row>98|dianashomepage.ch|-1|301|1063|104973|94054|2008-11-07|2014-02-27|217.26.55.4|217.26.55.0|CH|ch|21|19</Row>
+			<Row>99|selfstoragecentre.com|-1|1697|323372|9983|9368|2008-11-17|2014-02-28|91.146.105.27|91.146.105.0|UK|com|23|16</Row>
+			<Row>100|mosionek.com|-1|2432|36103|305|109|2009-01-30|2014-02-28|85.128.139.225|85.128.139.0|PL|com|26|13</Row>
+			<Row>101|familycrestgenealogy.com|-1|676|1919|5511|4007|2009-09-17|2014-02-26|173.237.137.175|173.237.137.0|US|com|23|8</Row>
+			<Row>102|telaviv-insider.co.il|-1|2308|10173|450|404|2008-09-20|2014-02-28|67.215.66.132|67.215.66.0|US|il|17|11</Row>
+			<Row>103|webearnmoney.com|-1|714|344952|729325|171080|2008-08-04|2014-02-28|216.172.170.103|216.172.170.0|US|com|18|9</Row>
+			<Row>104|analiticaweb.es|367962|1668|29793|278661|118802|2008-08-15|2014-02-28|79.125.108.220|79.125.108.0|IE|es|30|19</Row>
+			<Row>105|allee-du-bureau.com|-1|3743|322951|33929|18977|2008-08-28|2014-02-28|188.165.237.21|188.165.237.0|FR|com|33|16</Row>
+			<Row>106|nohoax.com|763240|1530|5200639|119061|90639|2008-08-28|2014-02-28|173.236.11.76|173.236.11.0|US|com|32|16</Row>
+			<Row>107|mpelektronik.cz|-1|170|1193|866|643|2010-11-05|2014-02-28|82.208.7.136|82.208.7.0|CZ|cz|24|20</Row>
+			<Row>108|accessaccommodationlondon.co.uk|-1|61|401|132|56|2013-06-30|2014-02-28|193.254.210.60|193.254.210.0|UK|uk|26|16</Row>
+			<Row>109|xahuong.net|-1|2486|65081|4582|4349|2009-11-10|2014-02-26|112.78.8.18|112.78.8.0|VN|net|40|0</Row>
+			<Row>110|auditorsaitov.ru|-1|370|1273|246|190|2013-01-13|2014-02-28|95.211.9.165|95.211.9.0|NL|ru|25|14</Row>
+			<Row>111|morcianofiere.it|-1|48|5328|114|101|2012-09-28|2014-02-28|77.95.174.1|77.95.174.0|IT|it|19|19</Row>
+			<Row>112|seoblighty.co.uk|-1|1189|29242|269|235|2010-09-28|2014-02-28|92.48.74.22|92.48.74.0|UK|uk|24|13</Row>
+			<Row>113|freebetsnow.com|-1|124|92994|877|792|2010-10-26|2014-02-27|178.63.217.232|178.63.217.0|DE|com|26|10</Row>
+			<Row>114|pinewoodgrouponline.com|-1|39|313|264|241|2009-01-24|2014-02-27|173.203.139.154|173.203.139.0|US|com|19|15</Row>
+			<Row>115|vinopegas.sk|-1|67|366|405|265|2013-06-25|2014-02-27|37.9.168.5|37.9.168.0|SK|sk|13|14</Row>
+		</DataTable>
+	</DataTables>
+</Result>

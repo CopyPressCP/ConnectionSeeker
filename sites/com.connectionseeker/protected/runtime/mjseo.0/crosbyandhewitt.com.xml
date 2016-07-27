@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="854" IndexType="0" RemainingAnalysisResUnits="103080000" RemainingDetailedReportsPerPeriod="989" RemainingRetrievalResUnits="20256968" RemainingStandardReports="989" ServerBuild="2012-04-04 15:35:30" ServerName="ELEKT" ServerVersion="1.0.4477.26265"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="854" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID" BackLinkItem="crosbyandhewitt.com" BackLinkType="RootDomain" TotalBackLinks="1611" TotalLines="854" TotalMatches="854">
+			<Row>http://www.callcallery.com|7|rancho santa fe real estate|2012-02-25|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|0</Row>
+			<Row>http://www.califdesertrealty.com|6|rancho santa fe real estate|2012-02-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|1</Row>
+			<Row>http://www.sylviasellshavasu.com/content/partner.html|4| |2012-02-20|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|2</Row>
+			<Row>http://www.sylviasellshavasu.com/content/partner.html|4|rancho santa fe real estate|2012-02-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|2</Row>
+			<Row>http://www.realestatelanguedoc.com/liens5.htm|4|rancho sante fe real estate|2012-02-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|3</Row>
+			<Row>http://www.swilhomes.com/1067784.html|4|rancho santa fe real estate|2012-02-11|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|4</Row>
+			<Row>http://activerain.com/blogs/powayrealestate|4|http://www.crosbyandhewitt.com/santaluz.html|2012-02-01|0|0|1|0|0|0|0|http://www.crosbyandhewitt.com/santaluz.html|5</Row>
+			<Row>http://www.cote-vermeille.com/partenaires-immobilier-roussillon.asp|4|rancho santa fe real estate|2012-02-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|6</Row>
+			<Row>http://www.bestcyprusproperties.com/?pageid=684|4|rancho santa fe real estate|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|7</Row>
+			<Row>http://www.costaricapropertysales.com/index.php?pag=links|4|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|8</Row>
+			<Row>http://www.ricktucsonhomes.com/Resource_Links__Directory/page_2373695.html|4|rancho santa fe real estate|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|9</Row>
+			<Row>http://www.ansthailandrealestate.com/links-page-7.html|4|rancho santa fe real estate|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|10</Row>
+			<Row>http://www.haineshomes.com/nresources.php|4|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|11</Row>
+			<Row>http://www.palmcoastrealestate-fl.com/linkstwo.html|3|rancho santa fe real estate|2012-02-17|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|12</Row>
+			<Row>http://www.collioureproperty.com/partenaires.asp|3|rancho santa fe real estate|2012-02-11|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|13</Row>
+			<Row>http://houses.forsalephilippines.com/links|3|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|14</Row>
+			<Row>http://realestateapulia.com/links.asp|3|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|15</Row>
+			<Row>http://www.rockspringsrealty.net/UsefulLinks|3|rancho santa fe real estate|2012-02-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|16</Row>
+			<Row>http://www.propertycenter.tv/index.php?action=page_display&#38;PageID=41|3|rancho santa fe real estate|2012-02-25|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|17</Row>
+			<Row>http://www.1troy.com/firsttroycorprelocationnetworkrealestateusalinks.html|3|:|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|18</Row>
+			<Row>http://www.1troy.com/firsttroycorprelocationnetworkrealestateusalinks.html|3|rancho santa fe real estate|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|18</Row>
+			<Row>http://www.apyork.com/partners/partners.htm|3|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|19</Row>
+			<Row>http://www.paulsidahohomes.com/displayLinkExch.cfm|3|rancho santa fe real estate|2012-02-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|20</Row>
+			<Row>http://www.paulsidahohomes.com/displayLinkExch.cfm|3|http://www.crosbyandhewitt.com/|2012-02-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|20</Row>
+			<Row>http://www.4realestateinfo.ca/United-States-Real-Estate-Agent-Links.html|3|www.crosbyandhewitt.com|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|21</Row>
+			<Row>http://www.4realestateinfo.ca/United-States-Real-Estate-Agent-Links.html|3|rancho santa fe real estate|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|21</Row>
+			<Row>http://real-estate-agents.com/in/US/California/Rancho_Santa_Fe|3|ken crosby and kathy hewitt, prudential california realty|2011-11-01|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|22</Row>
+			<Row>http://inlandempire-homes.com/RealtorWebPage?custompage_id=1340736069|3|http://www.crosbyandhewitt.com|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|23</Row>
+			<Row>http://www.teamdecell.com/index.php?action=page_display&#38;PageID=6|3|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|24</Row>
+			<Row>http://www.realestateapulia.com/links.asp|3|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|15</Row>
+			<Row>http://www.torontohomequest.com/real-estate-agents-referrals-houses-rentals-real-estate-brokerage.html|3|rancho santa fe real estate|2011-11-02|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|25</Row>
+			<Row>http://www.bestcyprusproperties.com/California/pageid-684|3|rancho santa fe real estate|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|7</Row>
+			<Row>http://santass112-15.tripod.com/rancho-santa-fe-community-center.html|3|rancho santa fe introduction - fairbanks ranch-rancho santa fe ...|2008-08-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/intro.html|26</Row>
+			<Row>http://www.doubloonrealestate.com/links.html|3|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|27</Row>
+			<Row>http://idx.diversesolutions.com/Link/1105|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://www.boschrealestate.co.uk/Linksdirectory.htm|2|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|29</Row>
+			<Row>http://costaricapropertysales.com/index.php?pag=links|2|rancho santa fe real estate|2012-02-25|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|8</Row>
+			<Row>http://idx.diversesolutions.com/Link/1107|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://www.delmore.net/links/links28_3.html|2|rancho santa fe real estate|2012-02-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|30</Row>
+			<Row>http://idx.diversesolutions.com/Link/1109|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://www.kcrosby.com/info-stats.html|2| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/info-stats.html|2| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/info-stats.html|2| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/info-stats.html|2| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/info-stats.html|2| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/info-stats.html|2| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.paradise-development.com/partners/real-estate-links_10.htm|2|rancho santa fe real estate|2012-02-25|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|32</Row>
+			<Row>http://idx.diversesolutions.com/Link/1117|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://www.realestateapulia.com/en/links.asp|2|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|15</Row>
+			<Row>http://www.bestcyprusproperties.com/index.php?pageid=684|2|rancho santa fe real estate|2012-02-01|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|7</Row>
+			<Row>http://idx.diversesolutions.com/Link/1392|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://www.brendaobrien.com/partners6_2.html|2|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|33</Row>
+			<Row>http://idx.diversesolutions.com/Link/1394|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/1395|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/1397|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/1122|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/1398|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://www.buysellyorkregion.com/Real-Estate-Resources-2-links-to-websites.html|2|rancho santa fe real estate|2011-11-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|34</Row>
+			<Row>http://www.kcrosby.com/Cielo_Davidson.html|2|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://jebbdriggin.com/suggestions/suggest20.htm|2|rancho santa fe real estate|2012-02-02|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|35</Row>
+			<Row>http://www.lifeinitaly.it/Link-txt/page3.htm|2|rancho santa fe real estate|2012-02-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|36</Row>
+			<Row>http://www.todiscountry.com/Link-txt/page2.htm|2|rancho santa fe real estate|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|37</Row>
+			<Row>http://www.kcrosby.com/Rancho_Santa_Fe_Farms.html|2|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.4torontorealestate.ca/4a_custpage_6106.html|2|www.crosbyandhewitt.com|2011-10-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|38</Row>
+			<Row>http://www.4torontorealestate.ca/4a_custpage_6106.html|2|rancho santa fe real estate|2011-10-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|38</Row>
+			<Row>http://www.realestatecontacts.com/CA/rancho-santa-fe.html|2|www.crosbyandhewitt.com|2012-01-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|39</Row>
+			<Row>http://www.realestatecontacts.com/CA/rancho-santa-fe.html|2|click here to view our listings|2012-01-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/Selected_Rancho_Santa_Fe.asp|39</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Buon_Vista.html|2|www.crosbyandhewitt.com|2007-08-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://idx.diversesolutions.com/account/524/11|2| |2007-12-25|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/1254|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno.html|2|www.crosbyandhewitt.com|2007-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno.html|2| |2007-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno.html|2| |2007-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno.html|2| |2007-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno.html|2| |2007-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno.html|2| |2007-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno.html|2| |2007-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://idx.diversesolutions.com/Link/342|2| |2008-04-29|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/1256|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/161|2| |2008-04-29|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/3736|2| |2008-04-29|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/1257|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://www.conniebarnes.com/resources/resources6_6.html|2|rancho santa fe real estate|2012-02-11|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|40</Row>
+			<Row>http://idx.diversesolutions.com/Link/3743|2| |2008-04-29|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/1258|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/3744|2| |2008-04-29|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/3752|2| |2008-04-29|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/1259|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://idx.diversesolutions.com/Link/1080|2| |2008-05-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|28</Row>
+			<Row>http://realestateapulia.com/en/links.asp|2|rancho santa fe real estate|2012-02-04|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|15</Row>
+			<Row>http://www.sarasotafloridarealestate.org/real_estate_resources_ca.shtml|2|rancho santa fe real estate|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|41</Row>
+			<Row>http://part3.californiacarealty.com/rancho-santa-fe.html|2|http://www.crosbyandhewitt.com|2012-02-21|0|0|1|0|0|0|0|http://www.crosbyandhewitt.com|42</Row>
+			<Row>http://www.kcrosby.com/el.html|2|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/vdm.html|2|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.gosearchlv.com/link-partners|2|rancho santa fe real estate|2012-02-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|43</Row>
+			<Row>http://www.windermerewenatchee.com/index.php?page_id=219|1|rancho santa fe real estate|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|44</Row>
+			<Row>http://www.ronfleenor.com/PageManager/default.aspx/PageID=2140355|1|rancho santa fe real estate|2012-02-04|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|45</Row>
+			<Row>http://www.kcrosby.com/mission_beach.html|1| |2008-03-30|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/mission_beach.html|1| |2008-03-30|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/mission_beach.html|1| |2008-03-30|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/mission_beach.html|1| |2008-03-30|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/mission_beach.html|1| |2008-03-30|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/mission_beach.html|1| |2008-03-30|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://ojairealestatesales.com/rancho-santa-fe-connection-2|1|www.crosbyandhewitt.com|2012-02-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|46</Row>
+			<Row>http://www.kcrosby.com/Cortile-Residence-One.html|1|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://inlandempire-homes.com/links|1|http://www.crosbyandhewitt.com|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|23</Row>
+			<Row>http://www.gtahomesforsale.com/c-21-real-estate-homes-houses-properties-US.html|1|http://www.crosbyandhewitt.com|2012-02-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|47</Row>
+			<Row>http://www.gtahomesforsale.com/c-21-real-estate-homes-houses-properties-US.html|1|rancho santa fe real estate|2012-02-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|47</Row>
+			<Row>http://www.kcrosby.com/rancho_santa_fe_maps.html|1|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.crazyxxxx.com/sexyladies/FOUR-&#60;B.html|1| |2008-10-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/residence-4-B.jpg|48</Row>
+			<Row>http://www.4realestateinfo.ca/4a_custom_print.php?page=6106|1|rancho santa fe real estate|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|21</Row>
+			<Row>http://www.4realestateinfo.ca/4a_custom_print.php?page=6106|1|www.crosbyandhewitt.com|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|21</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=faudcabrcarp7tejs0u52td2d1|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=fb3809nt94djjns05vn3aog230|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.lesbianscrazy.com/alldaylongfuck/FOUR-&#60;B.html|0| |2008-08-26|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/residence-4-B.jpg|50</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=fbknlvq90tfffvmcf37bdd5hr6|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.congrats.biz/bb/FOUR-&#60;B.html|0| |2008-10-11|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/residence-4-B.jpg|51</Row>
+			<Row>http://www.homesofverobeach.com/bin/web/real_estate/AR122569/EXTRA4/Vero Beach/1289148455.html|0|rancho santa fe real estate|2010-11-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|52</Row>
+			<Row>http://www.homesofverobeach.com/bin/web/real_estate/AR122569/EXTRA4/Vero Beach/1289848634.html|0|rancho santa fe real estate|2010-12-03|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|52</Row>
+			<Row>http://www.treasurecoastflhomes.com/Our_Blog/page_1840577.html|0|rancho santa fe real estate|2012-02-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|53</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=g2ku495h3275s057rv6uqmg771|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.seflacondos.com/real-estate_8.html|0|rancho santa fe real estate|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|54</Row>
+			<Row>http://orovalleyrealestate.com/links/california-real-estate_2.html|0|rancho santa fe real estate|2012-02-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|55</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=g617oq6cjt8l3icrv1vt027u74|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://jeffkoon.com/LinkUpLite/category.php?action=new|0|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|56</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=gbvd50kv83n8pofk1puj0l19n3|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=gpc71s8lgbmanobub5pe31a5r4|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.homesofverobeach.com/bin/web/real_estate/AR122569/EXTRA4/Vero Beach/1295645787.html|0|rancho santa fe real estate|2011-01-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|52</Row>
+			<Row>http://www.hardcoresexylinks.com/FOUR-&#60;B.html|0| |2008-11-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/residence-4-B.jpg|57</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=gqbi4uje9ivlot6jc1iu56lbd3|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.homesofverobeach.com/bin/web/real_estate/AR122569/EXTRA4/Vero Beach/1296245680.html|0|rancho santa fe real estate|2011-01-30|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|52</Row>
+			<Row>http://www.camellaphilippines.com/links.htm|0|rancho santa fe real estate|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|58</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=gqntgnbqvt7bosijkof7urign3|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.homesofverobeach.com/bin/web/real_estate/AR122569/EXTRA4/Vero Beach/1297449171.html|0|rancho santa fe real estate|2011-03-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|52</Row>
+			<Row>http://z-rectory.net/people/Barry_Jason_44068603.aspx|0|www.crosbyandhewitt.com/vdf.html|2010-02-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/vdf.html|59</Row>
+			<Row>http://z-rectory.net/people/Barry_Jason_44068603.aspx|0|view online source|2010-02-13|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/vdf.html|59</Row>
+			<Row>http://www.homesofverobeach.com/bin/web/real_estate/AR122569/EXTRA4/Vero Beach/1300478320.html|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|52</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=ha66h1i95libgche65fjptfnd1|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.homesofverobeach.com/bin/web/real_estate/AR122569/EXTRA4/Vero Beach/1301684886.html|0|rancho santa fe real estate|2011-05-12|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|52</Row>
+			<Row>http://gittalevi.com/c-21-real-estate-homes-houses-properties-US.html|0|http://www.crosbyandhewitt.com|2011-11-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|60</Row>
+			<Row>http://gittalevi.com/c-21-real-estate-homes-houses-properties-US.html|0|rancho santa fe real estate|2011-11-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|60</Row>
+			<Row>http://www.homesofverobeach.com/bin/web/real_estate/AR122569/EXTRA4/Vero Beach/1305381277.html|0|rancho santa fe real estate|2011-06-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|52</Row>
+			<Row>http://www.best-real-estate-choice.com/partners1_31.html|0|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|61</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=hrdc4ftqp6p6o78ko634faaf11|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://californiabank.us/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-08-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|62</Row>
+			<Row>http://californiabank.us/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-08-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|62</Row>
+			<Row>http://www.bestchoicerealty.net/RealtorsInOtherAreas.htm|0|rancho santa fe real estate|2012-02-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|63</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=huel6krdhtsv5gi1bjf7adjed4|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.sandiego-bestdeals.com/hd/index.php?t=encinitas commercial real estate|0|woody|2009-02-23|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/Encinitas.html|64</Row>
+			<Row>http://sarasotahomefinderservice.com/real_estate_resources_ca.shtml|0|rancho santa fe real estate|2012-02-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|65</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=i7i7th5qbbrjjgmerle9b4gk72|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://jeffkoon.com/LinkUpLite/category.php?category=6|0|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|56</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=iog62d7bkqt6h5fop09pvf8k05|0|rancho santa fe real estate|2011-05-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://global-real-estate.alabamahomesandcondos.com/Search-Property-USA.php|0|rancho santa fe real estate|2012-01-12|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|66</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=jsunjv1deh5913nmm8bvbeuoa4|0|rancho santa fe real estate|2011-06-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe california equestrian|0|balloon33|2009-05-22|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/delmar.html|67</Row>
+			<Row>http://www.sarasotahomefinderservice.com/real_estate_resources_ca.shtml|0|rancho santa fe real estate|2012-02-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|65</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe california furniture|0|calles2|2009-05-22|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/callesgallery.html|67</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=keqcrlgngsc4b21cakuk3s0l65|0|rancho santa fe real estate|2011-04-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://activerain.com/blogs/rss?username=powayrealestate|0|http://www.crosbyandhewitt.com/santaluz.html|2009-07-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/santaluz.html|5</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=kmg1pti6li0iepgn1v83rf5p91|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://zoomprofiles.com/people/Barry_Jason_44068603.aspx|0|view online source|2009-11-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/vdf.html|68</Row>
+			<Row>http://zoomprofiles.com/people/Barry_Jason_44068603.aspx|0|www.crosbyandhewitt.com/vdf.html|2009-11-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/vdf.html|68</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe california insurance|0|balloon33|2009-05-22|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/delmar.html|67</Row>
+			<Row>http://www.homesatjerseyshore.net/California_20_Links.html|0|rancho santa fe real estate|2012-02-17|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|69</Row>
+			<Row>http://www.kcrosby.com/hilton.html|0|www.crosbyandhewitt.com|2007-08-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.zoominfo.com/people/Behr_Max_15802607.aspx|0|www.crosbyandhewitt.com/golf_rsfgolfclubcovenant.html|2009-07-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/golf_rsfgolfclubcovenant.html|70</Row>
+			<Row>http://www.zoominfo.com/people/Behr_Max_15802607.aspx|0|view online source|2009-07-23|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/golf_rsfgolfclubcovenant.html|70</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=ld9d3be52op3pmthegoqj1ilb7|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://clmhomes.com/resources/links-3.php|0|rancho santa fe real estate|2011-11-01|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|71</Row>
+			<Row>http://houses.forsalephilippines.com/links/?shared=email&#38;msg=fail|0|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|14</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=lhl0b6glc4jnacplittkl76gi7|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.ronfleenor.com/PageManager/Default.aspx/PageID=2140355|0|rancho santa fe real estate|2012-02-04|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|45</Row>
+			<Row>http://www.kcrosby.com/inline2.html|0| |2008-05-05|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/inline2.html|0| |2008-05-05|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/inline2.html|0| |2008-05-05|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/inline2.html|0| |2008-05-05|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/inline2.html|0| |2008-05-05|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/inline2.html|0| |2008-05-05|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=lce6t5ntrf6q7jfgmb8p49uda1|0|rancho santa fe real estate|2011-01-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=ld128099ok6ocpdn1mhqrdjsh7|0|rancho santa fe real estate|2011-01-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=lkmedo5k3dc76khlobtng16u84|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=lek3pt17a92tk1i5e90454t303|0|rancho santa fe real estate|2011-01-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=llfcb2hcc3f7omisin1iri5640|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/kathy_test.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/kbottom.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=lsd0e92iq0b93galkprt82d8e4|0|rancho santa fe real estate|2011-04-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.luxsocal.com/Agent~ID~3812~Print~true.htm|0|www.crosbyandhewitt.com|2012-02-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|73</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=m0ti4l9asoq740nd4f8g7e81g2|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://kcrosby.com/caldelmar.html|0|ken &#38; kathy are in the top 3% of realtors in the nation|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award1.html|31</Row>
+			<Row>http://kcrosby.com/caldelmar.html|0|brief intros to rsf and/or surrounding communities|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/caldelmar.html|0|home|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/caldelmar.html|0|maps of rsf covenant and communities nearby|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/caldelmar.html|0|small sample of listings|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/caldelmar.html|0|recently created communities of new homes|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/caldelmar.html|0|www.crosbyandhewitt.com&#34;&#62;|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/ken_test.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.tri-valleyre.com/information/wa_realtor_5.html|0|rancho santa fe real estate|2012-02-02|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|74</Row>
+			<Row>http://kcrosby.com/calenc.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/calenc.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/calenc.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/calenc.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/calenc.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/calenc.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/calenc.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/kenresume.html|0|www.crosbyandhewitt.com|2007-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=mp0j64rlk6st26c1jhmq3t9te2|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=m2qhpa14dl0uvu6vn0rpu02er5|0|rancho santa fe real estate|2011-01-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://kcrosby.com/carlsbad.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/carlsbad.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/carlsbad.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/carlsbad.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/carlsbad.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/carlsbad.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://kcrosby.com/carlsbad.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=m3i8tj3jvd17cte2318122eqr5|0|rancho santa fe real estate|2010-07-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.titfuckingbabes.com/fuckkk/FOUR-&#60;B.html|0| |2008-12-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/residence-4-B.jpg|75</Row>
+			<Row>http://homesatjerseyshore.net/California_20_Links.html|0|rancho santa fe real estate|2012-02-17|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|69</Row>
+			<Row>http://kcrosby.com/carmelv.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/carmelv.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/carmelv.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/carmelv.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/carmelv.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/carmelv.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://kcrosby.com/carmelv.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://sarasotafloridarealestate.org/real_estate_resources_ca.shtml|0|rancho santa fe real estate|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|41</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=n1ev8r25kgrek1a4kda4gdpui4|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.venicearearealestate.com/content/printarticle.html?article=2516325|0|rancho santa fe|2012-02-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|76</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=n83gj7vbqj9f5qgiudrpkg98k1|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://brcrps.com/index.php?pag=links|0|rancho santa fe real estate|2012-01-29|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|77</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=nernhg529loufmecojns0kgcp5|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=nosva6e0qvtphufqro41m2mc46|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://mandamoney.com/results.aspx/rancho-santa-fe-home|0|rancho santa fe homes|2009-09-11|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|78</Row>
+			<Row>http://mandamoney.com/results.aspx/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-09-11|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|78</Row>
+			<Row>http://kcrosby.com/curr1.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://kcrosby.com/curr1.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/curr1.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/curr1.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/curr1.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/curr1.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/curr1.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/ktop.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/ktop.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/ktop.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/ktop.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/ktop.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/ktop.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/kbottom.html|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=339ld3t8bktittgrkrgfvkvt25|0|rancho santa fe real estate|2010-11-02|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://kcrosby.com/curr2.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/curr2.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/curr2.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/curr2.html|0|www.crosbyandhewitt.com|2009-01-11|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/curr2.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/curr2.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/curr2.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://nekkeisearch.com/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-10-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|79</Row>
+			<Row>http://nekkeisearch.com/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-10-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|79</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=nuu6bfii5vihpidbpcu5v1b4t2|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://teleseminarcall.com/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-08-29|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|80</Row>
+			<Row>http://teleseminarcall.com/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-08-29|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|80</Row>
+			<Row>http://kcrosby.com/curr3.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://kcrosby.com/curr3.html|0|www.crosbyandhewitt.com&#34;&#62;|2009-01-11|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/curr3.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/curr3.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/curr3.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/curr3.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/curr3.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/lac.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=o11rhk396rol46k5htags8fdr7|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://kcrosby.com/curr4.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://kcrosby.com/curr4.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/curr4.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/curr4.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/curr4.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/curr4.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/curr4.html|0|www.crosbyandhewitt.com|2009-01-11|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=o49q1aa8k2gcmpv2tmt9c2let0|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://kcrosby.com/delmar.html|0|maps of rsf covenant and communities nearby|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/delmar.html|0|small sample of listings|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/delmar.html|0|brief intros to rsf and/or surrounding communities|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/delmar.html|0|ken &#38; kathy are in the top 3% of realtors in the nation|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award1.html|31</Row>
+			<Row>http://kcrosby.com/delmar.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/delmar.html|0|home|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/delmar.html|0|recently created communities of new homes|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/lasc.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=oanvl43ejv90j229b62sm2j0d7|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://kcrosby.com/disclaim.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/disclaim.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/disclaim.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/disclaim.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://kcrosby.com/disclaim.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/disclaim.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=n7rsh1mt8alnq4d630fk0boko2|0|rancho santa fe real estate|2011-01-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=oau3hchl63938upkulfqmrbo47|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=olrv5lhf55jjalj7aji268mjg3|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=opop2a0lfj2tooftstrr1a5150|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.thebitchsex.com/x/FOUR-&#60;B.html|0| |2008-12-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/residence-4-B.jpg|81</Row>
+			<Row>http://kcrosby.com/info-stats.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/info-stats.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/info-stats.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://kcrosby.com/info-stats.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/info-stats.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/info-stats.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=ove38n66liiapfquatkkhdkud3|0|rancho santa fe real estate|2011-01-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://kcrosby.com/inline2.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://kcrosby.com/inline2.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/inline2.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/inline2.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/inline2.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/inline2.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=ndm0hpq32btkmokvs6cj7trh10|0|rancho santa fe real estate|2010-10-04|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=p6alsu9bnjl11pkutmlh81vls7|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://kcrosby.com/intro.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/intro.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/intro.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://kcrosby.com/intro.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/intro.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/intro.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/intro.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=3nhr097lca2ucj8u54v92pnkf4|0|rancho santa fe real estate|2010-07-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=p8dd7rg2v1isq9mkk1ni6e2iq4|0|rancho santa fe real estate|2011-04-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://bellalanzarote.com/resources3.php?idheadingsmain=22|0|http://www.crosbyandhewitt.com|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|82</Row>
+			<Row>http://kcrosby.com/kathy_test.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/kbottom.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=pa7lovgc7rn2tf3js5nroqqsk4|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://kcrosby.com/ken_test.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/lajolla.html|0|recently created communities of new homes|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/lajolla.html|0|home|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/lajolla.html|0|ken &#38; kathy are in the top 3% of realtors in the nation|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award1.html|31</Row>
+			<Row>http://kcrosby.com/lajolla.html|0|small sample of listings|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/lajolla.html|0|maps of rsf covenant and communities nearby|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/lajolla.html|0|brief intros to rsf and/or surrounding communities|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/carlsbad.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/carlsbad.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/carlsbad.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/carlsbad.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/carlsbad.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/carlsbad.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/carlsbad.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/ldc.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=pkfoga3t8ajee0v2r7tjcfltb5|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.vico-real-estate.com/directory/index.php?s=H&#38;c=1&#38;p=17|0|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|83</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=pogeqjfmq2gp9eqvl65etogtp3|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://ourrealestateteam.com/realestateLinks.aspx|0|rancho santa fe real estate|2012-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|84</Row>
+			<Row>http://resources.lettings-direct.com/business-services_3.html|0|rancho santa fe real estate|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|85</Row>
+			<Row>http://www.webmii.us/Result.aspx?f=Kathy&#38;l=Hewitt&#38;r=us|0|http://www.crosbyandhewitt.com/|2010-05-04|0|0|1|0|0|0|0|http://www.crosbyandhewitt.com|86</Row>
+			<Row>http://www.kcrosby.com/carmichael.html|0|www.crosbyandhewitt.com|2007-08-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/links/add_link.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/add_link.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.labolsahoy.com/results.aspx/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-08-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|87</Row>
+			<Row>http://www.labolsahoy.com/results.aspx/rancho-santa-fe-home|0|rancho santa fe homes|2009-08-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|87</Row>
+			<Row>http://www.kcrosby.com/links/default.htm|0|back to homepage|2011-03-01|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/default.htm|0| |2011-03-01|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.kcrosby.com/links/default.htm|0|our home page|2011-03-01|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=o4vcrimglkqcr8s0niu1c0icd7|0|rancho santa fe real estate|2011-01-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=q3i5q19oash3g5kkkeri2lvuh4|0|rancho santa fe real estate|2011-01-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/links/links1.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links1.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=qs5mslcegvdgmckub50pnp51h4|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/links/links2.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links2.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.paulsidahohomes.com/displayLinkExch.cfm?state=California|0|rancho santa fe real estate|2012-02-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|20</Row>
+			<Row>http://www.teamdecell.com/Real_Estate/TX/Frisco_Homes/Realated_Links.html|0|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|24</Row>
+			<Row>http://kcrosby.com/mission_beach.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/mission_beach.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/mission_beach.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/mission_beach.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/mission_beach.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/mission_beach.html|0| |2009-01-11|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links2_2.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links2_2.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=r364ddk4viv315ee96e5mlk6d5|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.elysianfieldsproperties.com/resources/real-estate-usa2|0|rancho santa fe real estate|2012-02-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|88</Row>
+			<Row>http://www.kcrosby.com/links/links3.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links3.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.investor411.org/resources/rancho-santa-fe-property.php|0|rancho santa fe real estate - rancho santa fe homes - carmel|2012-02-23|0|0|1|0|0|0|0|http://www.crosbyandhewitt.com|89</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=r5n0avrvg8htsogtjf32i10ki3|0|rancho santa fe real estate|2011-04-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://resources.huntsville-homes.com/real-estate-property-management-realtor-pages_30.html|0|rancho santa fe real estate|2012-02-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|90</Row>
+			<Row>http://www.kcrosby.com/links/links4.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links4.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=rfklu5cljhhhltn1dp2ebg9sg1|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/links/links4_2.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links4_2.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=oou31duaqre5p27rclavlfhum3|0|rancho santa fe real estate|2010-12-09|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=rnail6bslkiun4fendnfbima92|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://kcrosby.com/pp.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/pp.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/pp.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/pp.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://kcrosby.com/pp.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/pp.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/pp.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/links/links5.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links5.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=s49b6doq8dp5o4cgencp6m5bc4|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/links/links5_2.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links5_2.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=s84fi32hobp868sdpq2nnf5hv2|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://tkhomes.net/resources.html|0| |2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|91</Row>
+			<Row>http://tkhomes.net/resources.html|0|rancho santa fe real estate|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|91</Row>
+			<Row>http://www.realtygoa.com/real_estate_resources/sites13.html|0|rancho santa fe real estate|2012-02-07|0|0|1|0|0|0|0|http://www.crosbyandhewitt.com|92</Row>
+			<Row>http://www.kcrosby.com/links/links6.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links6.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=svv8kugv9tdqh11cjetvkokb83|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://detroitforeclosure.info/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-10-17|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|93</Row>
+			<Row>http://detroitforeclosure.info/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-10-17|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|93</Row>
+			<Row>http://kcrosby.com/rsfhistory.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/links/links6_2.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links6_2.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://surefirenames.com/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-07-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|94</Row>
+			<Row>http://surefirenames.com/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-07-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|94</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=t205iv5v8b5n2teiespdgsthh2|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/cielo_The_Estates.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/links/links6_3.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links6_3.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.ecohomesga.com/RealEstate_California.html|0|rancho santa fe real estate|2012-02-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|95</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=otkjaur3ulgv1in384bm9ujvb4|0|rancho santa fe real estate|2011-01-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=t7lbkjo2k0kav47omo3bghqgi3|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://kcrosby.com/solanab.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/solanab.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/solanab.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/solanab.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/solanab.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/solanab.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://kcrosby.com/solanab.html|0| |2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links6_4.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links6_4.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=t97j7ot39an797mpa542e4pda2|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.cuwhois.com/info/www.crosbyandhewitt.com|0|http://www.crosbyandhewitt.com|2010-03-27|0|0|1|0|0|0|0|http://www.crosbyandhewitt.com|96</Row>
+			<Row>http://www.kcrosby.com/cielo_map.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/links/links6_5.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links6_5.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.ownerama.com/associates/accountants.php|0|rancho santa fe real estate|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|97</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=tbvkt5bhkfcq308sfur6jd4ru2|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/cl.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/links/links7.htm|0|back to homepage|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/links7.htm|0| |2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=tl6atmof6b182740fjirqgb5c7|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/links/modify.htm|0|back to homepage|2011-04-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/modify.htm|0| |2011-04-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.kcrosby.com/links/send_password.htm|0|back to homepage|2011-05-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/index.html|31</Row>
+			<Row>http://www.kcrosby.com/links/send_password.htm|0| |2011-05-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/fc_rsf.html|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=5rjsonsp506ve75jmhm2k2ef75|0|rancho santa fe real estate|2010-06-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=pafblrva79ul4man6j7c3ldhf1|0|rancho santa fe real estate|2011-04-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=tppjb5pqjrhhifmifepdgdh473|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=u0cuvfa6egaagtt67jlt52c3i2|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://1troy.com/firsttroycorprelocationnetworkrealestateusalinks.html|0|:|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|18</Row>
+			<Row>http://1troy.com/firsttroycorprelocationnetworkrealestateusalinks.html|0|rancho santa fe real estate|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|18</Row>
+			<Row>http://paradise-development.com/partners/real-estate-links_10.htm|0|rancho santa fe real estate|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|32</Row>
+			<Row>http://homesforsaleid.com/displayLinkExch.cfm|0|rancho santa fe real estate|2012-02-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|98</Row>
+			<Row>http://homesforsaleid.com/displayLinkExch.cfm|0|http://www.crosbyandhewitt.com|2012-02-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|98</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=u4iqajcqril1nltd93gbp49fh3|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.myownarizona.com/directory160_4.html|0|rancho santa fe real estate|2012-02-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|99</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=u5h31q2r1qo360gjhj228se7k1|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.alabamahomesandcondos.com/Search-Property-USA.php|0|rancho santa fe real estate|2012-02-17|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|66</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=pgjru0uiu38fhjjc7o2aklfvg2|0|rancho santa fe real estate|2011-04-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://homesforsaleid.com/displayLinkExch.cfm?state=California|0|rancho santa fe real estate|2012-02-09|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|98</Row>
+			<Row>http://www.eperks.com/RealEstate/AgentProfile.aspx?p=966&#38;tq=Rancho Santa Fe, CA|0|click here|2008-04-02|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|100</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=ulno8rni5f56784i4b8hsqess7|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=pjkmibgren8bnpmvggicgdhc65|0|rancho santa fe real estate|2011-05-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=prudential real estate encinitas|0|sunsetsurfer2|2009-05-22|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/Encinitas.html|67</Row>
+			<Row>http://www.kcrosby.com/lm.html|0|www.crosbyandhewitt.com|2007-08-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=up0jvu8g1sfop2caeeudceo4p6|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/luz.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=64bur4fchlimhe1v1gnblvm5e2|0|rancho santa fe real estate|2010-07-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=uslcadrfjo2m8t0h2b5ld7ued5|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.edencrestproperties.com/real-estate-resources/real-estate-p6.asp|0|rancho santa fe real estate|2012-02-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|101</Row>
+			<Row>http://www.lovepanamarealestate.com/RealEstateReferences_64.html|0|rancho santa fe real estate|2012-02-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|102</Row>
+			<Row>http://www.cherylteague.net/home3.html|0|rancho santa fe real estate|2012-02-25|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|103</Row>
+			<Row>http://www.kcrosby.com/megrew.html|0|www.crosbyandhewitt.com|2007-08-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.viewacreage.com/links|0|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|104</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=vbs9mdgk43u9mnjdssv09r82j0|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://realestateandland.com/search.php?page=2&#38;keywords=Racket realtors|0|the crosby estate|2009-02-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/The_Crosby.html|105</Row>
+			<Row>http://www.lewis-realty.net/related-sites1_8.asp|0|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|106</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=q161titjkkgmpslk5tuuprp3d6|0|rancho santa fe real estate|2011-02-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.sandiegotourismguide.org/hd/index.php?t=rancho santa fe realtors|0|wxmas010|2009-05-22|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/curr3.html|67</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=vj4v8l8b7g3tetbk908ohujme4|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/mm.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=vkavck7rgvi8p5jco9v7m3qof7|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/cm_ranchofarmsestates.html|0|mls search - rancho farm estates|2010-03-29|0|0|0|0|0|0|0|http://crosbyandhewitt.com/csmls_rsf_fairbank_ranchofarmsestates.html|31</Row>
+			<Row>http://www.kcrosby.com/mor.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=q9p7rkosg2dtulrtbue544gc11|0|rancho santa fe real estate|2010-07-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=vp78nmv55vbi2kenkgniirc807|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/mor.html?referer=www.clickfind.com.au|0|www.crosbyandhewitt.com|2009-04-09|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.ontario-waterfront-cottages.com/globalresources.html|0|rancho santa fe real estate|2012-02-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|107</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5055549?IDXSESS=i7i7th5qbbrjjgmerle9b4gk72|0|rancho santa fe real estate|2011-02-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.luxsocal.com/Agent3812.html|0|www.crosbyandhewitt.com|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|73</Row>
+			<Row>http://chineserestaurantscolumbus.com/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-07-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|108</Row>
+			<Row>http://chineserestaurantscolumbus.com/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-07-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|108</Row>
+			<Row>http://jebbanddriggininc.com/suggestions/suggest20.htm|0|rancho santa fe real estate|2012-02-02|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|109</Row>
+			<Row>http://activerain.com/blogs/powayrealestate/rss|0|http://www.crosbyandhewitt.com/santaluz.html|2009-11-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/santaluz.html|5</Row>
+			<Row>http://www.vico-real-estate.com/directory/index.php?s=P&#38;c=1&#38;p=16|0|rancho santa fe real estate|2010-08-25|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|83</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=qjbocdhq7jtk1djfed3o4fmkj4|0|rancho santa fe real estate|2011-01-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.palmbeachrealestate.ws/cresources.php|0|rancho santa fe real estate|2012-02-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|110</Row>
+			<Row>http://www.sandiego-bestdeals.com/hd/index.php?t=rancho santa fe california furniture|0|calles2|2009-02-17|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/callesgallery.html|64</Row>
+			<Row>http://www.sandiego-bestdeals.com/hd/index.php?t=rancho santa fe california furniture|0|calles5|2009-02-17|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/callesgallery.html|64</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=77d0tbtf7fd45ffe9fvh1mjp12|0|rancho santa fe real estate|2010-07-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://lasvegashomesforsale.us/real-estate-new-mexico.html|0|1. rancho santa fe real estate|2012-02-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|111</Row>
+			<Row>http://www.gittalevi.com/c-21-real-estate-homes-houses-properties-US.html|0|http://www.crosbyandhewitt.com|2012-01-03|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|60</Row>
+			<Row>http://www.gittalevi.com/c-21-real-estate-homes-houses-properties-US.html|0|rancho santa fe real estate|2012-01-03|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|60</Row>
+			<Row>http://www.tipsyteens.net/ass/index.php?x=FOUR-&#60;B|0| |2008-12-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/residence-4-B.jpg|112</Row>
+			<Row>http://activerain.com/blogs/powayrealestate?page=2|0|http://www.crosbyandhewitt.com/santaluz.html|2009-07-04|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/santaluz.html|5</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=78vp0vljs5dri7q086ti5lnoj2|0|rancho santa fe real estate|2010-12-09|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.kcrosby.com/nep.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.eperks.com/RealEstate/Reviews.aspx?p=966&#38;tq=Rancho Santa Fe, CA|0|click here|2008-05-26|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|100</Row>
+			<Row>http://www.kcrosby.com/ocean.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://buzhurley.point2agent.com/Homes.aspx?tabid=2244944|0|rancho santa fe, ca|2012-02-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|113</Row>
+			<Row>http://boschrealestate.co.uk/Linksdirectory.htm|0|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|29</Row>
+			<Row>http://www.paulajackson.info/convertedpages/realestateresourcesandlinks.html|0|rancho santa fe real estate|2012-02-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|114</Row>
+			<Row>http://elysianfieldsproperties.com/resources/real-estate-usa2|0|rancho santa fe real estate|2012-02-02|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|88</Row>
+			<Row>http://edencrestproperties.com/real-estate-resources/real-estate-p6.asp|0|rancho santa fe real estate|2012-02-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|101</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=80bt5i5uhd6rb82rv9sg74idq4|0|rancho santa fe real estate|2010-07-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://tkhomes.fatcow.com/resources.html|0| |2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|115</Row>
+			<Row>http://tkhomes.fatcow.com/resources.html|0|rancho santa fe real estate|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|115</Row>
+			<Row>http://www.venicearearealestate.com/content/article.html/2516325|0|rancho santa fe|2012-02-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|76</Row>
+			<Row>http://www.ranchosantafenow.com/meet-an-agent.php|0|http://www.crosbyandhewitt.com/|2011-11-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|116</Row>
+			<Row>http://www.listflatfeeinmls.com/associates/accountants.php|0|rancho santa fe real estate|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|117</Row>
+			<Row>http://www.huntsville-homes.com/HUNTSVILLE-HOUSES-BL7|0|huntsville houses|2012-02-19|0|0|0|0|0|0|0|http://crosbyandhewitt.com/links/links1.htm|90</Row>
+			<Row>http://www.kcrosby.com/Cortile-Residence-Four.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://real-estate.alabamahomesandcondos.com/Search-Property-USA.php|0|rancho santa fe real estate|2012-02-17|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|66</Row>
+			<Row>http://www.venicearearealestate.com/content/article.html/2516325/Venice-Fl-Real-Estate-Realtor-and-Affiliate-Link-Exchange|0|rancho santa fe|2012-02-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|76</Row>
+			<Row>http://links.thefocusrealestategroup.com/south-west_6.php|0|rancho santa fe real estate|2012-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|118</Row>
+			<Row>http://luxsocal.com/Agent~ID~3812~Print~true.htm|0|www.crosbyandhewitt.com|2011-12-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|73</Row>
+			<Row>http://www.kcrosby.com/Cortile-Residence-Three.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=sdishs0arnpqtr9tr2p2lmb2f1|0|rancho santa fe real estate|2011-01-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://links.san-angelo-real-estate.com/directory25.html|0|rancho santa fe real estate|2012-02-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|119</Row>
+			<Row>http://www.kcrosby.com/Cortile-Residence-Two.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.jebbdriggin.com/suggestions/suggest20.htm|0|rancho santa fe real estate|2012-02-02|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|35</Row>
+			<Row>http://www.4torontorealestate.ca/4a_custom_print.php?page=6106|0|www.crosbyandhewitt.com|2011-10-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|38</Row>
+			<Row>http://www.4torontorealestate.ca/4a_custom_print.php?page=6106|0|rancho santa fe real estate|2011-10-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|38</Row>
+			<Row>http://www.kcrosby.com/Del_Rayo_Downs.html|0|www.crosbyandhewitt.com|2007-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://brendaobrien.com/partners6_2.html|0|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|33</Row>
+			<Row>http://www.phoenixpropertymanagement4u.com/resources/property-management-residential-sales.php|0|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|120</Row>
+			<Row>http://herdingcat.com/results.aspx/rancho-santa-fe-home|0|rancho santa fe homes|2009-10-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|121</Row>
+			<Row>http://herdingcat.com/results.aspx/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-10-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|121</Row>
+			<Row>http://www.kcrosby.com/Las_Villas.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=8uut0k9812bg23f5v2ffeqr4f4|0|rancho santa fe real estate|2011-01-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://renaissancebridal.com/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-10-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|122</Row>
+			<Row>http://renaissancebridal.com/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-10-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|122</Row>
+			<Row>http://www.kcrosby.com/Mission_Beach_Detail.html|0| |2008-08-02|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/Mission_Beach_Detail.html|0|www.crosbyandhewitt.com|2008-08-02|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.califdesertrealty.com/Homes.aspx?tabid=1984190|0|rancho santa fe real estate|2012-02-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|1</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=961nlhvc0acf68ijl0rjs1pj83|0|rancho santa fe real estate|2011-01-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.sandiego-bestdeals.com/rancho-santa-fe-california/rancho-santa-fe-country-club.php|0|del mar country club - guard-gated community - rancho santa fe california|2008-03-03|0|0|1|0|0|0|0|http://www.crosbyandhewitt.com/el.html|64</Row>
+			<Row>http://www.chineserestaurantsnetwork.com/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-08-30|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|123</Row>
+			<Row>http://www.chineserestaurantsnetwork.com/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-08-30|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|123</Row>
+			<Row>http://tours.tourfactory.com/tours/tour.asp?t=407419&#38;r=http://www.google.com&#38;slink=-2|0|kathy hewitt&#39;s website|2012-02-23|0|0|0|0|0|0|0|http://crosbyandhewitt.com|124</Row>
+			<Row>http://tours.tourfactory.com/tours/tour.asp?t=407419&#38;slink=0|0|kathy hewitt&#39;s website|2012-02-23|0|0|0|0|0|0|0|http://crosbyandhewitt.com|124</Row>
+			<Row>http://caribbean-rightmoves.com/html/page_2_real_estate_links.html|0|www.crosbyandhewitt.com|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|125</Row>
+			<Row>http://sunskirt.com/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-08-25|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|126</Row>
+			<Row>http://sunskirt.com/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-08-25|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|126</Row>
+			<Row>http://windermerewenatchee.com/index.php?page_id=219|0|rancho santa fe real estate|2012-02-09|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|44</Row>
+			<Row>http://collioureproperty.com/partenaires.asp|0|rancho santa fe real estate|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|13</Row>
+			<Row>http://www.mswoods.com/states/mswoods_links258.php|0|rancho santa fe real estate|2012-02-12|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|127</Row>
+			<Row>http://www.kcrosby.com/Rancho_Santa_Fe_Lakes.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.billowed.com/sexyback/FOUR-&#60;B.html|0| |2008-09-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/residence-4-B.jpg|128</Row>
+			<Row>http://www.kcrosby.com/Rancho_del_Lago_map.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/Rancho_del_Rio.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/Senterra.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.links.thefocusrealestategroup.com/south-west_6.php|0|rancho santa fe real estate|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|118</Row>
+			<Row>http://www.kcrosby.com/South_Point_Farms.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.jeffkoon.com/LinkUpLite/category.php?action=new|0|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|56</Row>
+			<Row>http://www.homesalesri.com/links/southwest_6.php|0|rancho santa fe real estate|2012-02-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|129</Row>
+			<Row>http://www.kcrosby.com/Stonebridge.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.belleheleneproperties.com/index.php?action=page_display&#38;PageID=11|0|rancho santa fe real estate|2012-02-17|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|130</Row>
+			<Row>http://www.kcrosby.com/Stratford.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=tvmd8hgatog009b79pqqcb7gt2|0|rancho santa fe real estate|2011-01-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.chineserestaurantsphoenix.com/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-08-26|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|131</Row>
+			<Row>http://www.chineserestaurantsphoenix.com/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-08-26|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|131</Row>
+			<Row>http://www.markethillhomes.com/link-directory/real-estate-CA_2.html|0|rancho santa fe real estate|2012-02-11|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|132</Row>
+			<Row>http://www.theinvestingdaily.com/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-08-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|133</Row>
+			<Row>http://www.theinvestingdaily.com/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-08-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|133</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=1ajjal2bt2559fm6ctgios4oq2|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=ag2f1o02f4l440v9bpkrd06cr3|0|rancho santa fe real estate|2011-04-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=1bu0eav0a6cgn16dcr0hv7kfm6|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.europavista.com/cyprusrealestate/partners1_32.html|0|rancho santa fe real estate|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|134</Row>
+			<Row>http://www.kcrosby.com/The_Meadows_Del_Mar.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=1d8ag1seu7t3hjhc7kk679s8l1|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/The_Meadows_Golf.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=1o2m9glj4bm89lf5niasoi40t4|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/The_Meadows_Map.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=1q62nr1po6ucid6730e08o5ke6|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=241e41rhvd5juvavuqj8ci7vs0|0|rancho santa fe real estate|2011-04-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Del_Mar_Mesa.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Del_Mar_Mesa.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Del_Mar_Mesa.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Del_Mar_Mesa.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Del_Mar_Mesa.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Del_Mar_Mesa.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Del_Mar_Mesa.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=2l9b7ltka82grtav73sslkma52|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.hirevic.com/services/canada.php|0|http://www.crosbyandhewitt.com|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|135</Row>
+			<Row>http://www.hirevic.com/services/canada.php|0|rancho santa fe real estate - rancho santa fe homes - carmel valley - solana beach|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|135</Row>
+			<Row>http://www.jeffkoon.com/LinkUpLite/category.php?category=6|0|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|56</Row>
+			<Row>http://activerain.com/states/CA/cities/San Diego/communities/Santaluz|0|http://www.crosbyandhewitt.com/santaluz.html|2011-01-23|0|0|1|0|0|0|0|http://www.crosbyandhewitt.com/santaluz.html|5</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Layout.html|0| |2008-05-05|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Layout.html|0| |2008-05-05|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Layout.html|0| |2008-05-05|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Layout.html|0| |2008-05-05|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Layout.html|0| |2008-05-05|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Layout.html|0| |2008-05-05|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=b1qjuje8oegaimtouh4o7ed6l2|0|rancho santa fe real estate|2010-06-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Map.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Map.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Map.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Map.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Map.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Map.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://brevardrealestateguide.com/links/links7_11.html|0|rancho santa fe real estate|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|136</Row>
+			<Row>http://www.sandiego-bestdeals.com/hd/index.php?t=prudential real estate encinitas|0|woody|2009-02-17|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/Encinitas.html|64</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=urv2fca9e3v8te1qqll568uh21|0|rancho santa fe real estate|2011-01-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.matthewmackay.com/resources/resources1_3.html|0|rancho santa fe real estate|2012-02-02|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|137</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno_Floorplan.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno_Floorplan.html|0|www.crosbyandhewitt.com&#34;&#62;|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno_Floorplan.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno_Floorplan.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno_Floorplan.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno_Floorplan.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/The_Preserve_Sueno_Floorplan.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=3gg73q820p2uclvtn1srtuflm4|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.movingthetriangle.com/services/ranchosantafeca.php|0|http://www.crosbyandhewitt.com|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|138</Row>
+			<Row>http://www.movingthetriangle.com/services/ranchosantafeca.php|0|rancho santa fe real estate|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|138</Row>
+			<Row>http://www.kcrosby.com/The_Summit.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.links.waterfrontfinance.com/south-west_14.php|0|rancho santa fe real estate|2012-02-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|139</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=3h45jv2nb5ojojf72qc1nt6vo4|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.tkhomes.net/resources.html|0| |2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|91</Row>
+			<Row>http://www.tkhomes.net/resources.html|0|rancho santa fe real estate|2012-02-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|91</Row>
+			<Row>http://www.kcrosby.com/The_Villas.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/The_Villas.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Villas.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Villas.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/The_Villas.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Villas.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/The_Villas.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=3ks4j6no8imbbc7ej4hmdchbg4|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://linksmanager.com/phxrealestate/links12_7.html|0|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|140</Row>
+			<Row>http://www.kcrosby.com/The_Villas_Grand_Del_Mar.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.cote-vermeille.com/argeles-properties-partners.asp|0|rancho santa fe real estate|2012-02-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|6</Row>
+			<Row>http://www.kcrosby.com/The_Villas_Grand_Del_Mar_Floorplan.html|0|www.crosbyandhewitt.com|2007-08-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=v0ktdrmsol9ab1anml20pbg2q6|0|rancho santa fe real estate|2010-12-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.kcrosby.com/V-Plan1.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=v2cidgr0n92391uf8mhfl48gs2|0|rancho santa fe real estate|2011-05-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=3tct5g0lmce10ortln734l3ft6|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://kcrosby.com/Mission_Beach_Detail.html|0| |2009-02-23|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/Mission_Beach_Detail.html|0|www.crosbyandhewitt.com|2009-02-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/V-Plan2.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=45isn5kpb8bcvn8a8shqc2vjn0|0|rancho santa fe real estate|2011-05-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/V-Plan3.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=46r5no7vfidca5cl4eo1ja1gk2|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://kcrosby.com/award.html|0|recently created communities of new homes|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/award.html|0|brief intros to rsf and/or surrounding communities|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/award.html|0|ken &#38; kathy are in the top 3% of realtors in the nation|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award1.html|31</Row>
+			<Row>http://kcrosby.com/award.html|0|maps of rsf covenant and communities nearby|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/award.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/award.html|0|small sample of listings|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://kcrosby.com/award.html|0|home|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/Villa_di_Buon_Vista_Floorplan.html|0|www.crosbyandhewitt.com|2007-08-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=474tc00mhbi2oufq0k3f6gb9n6|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://kcrosby.com/award1.html|0|home|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/award1.html|0|www.crosbyandhewitt.com|2008-12-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://kcrosby.com/award1.html|0|ken &#38; kathy are in the top 3% of realtors in the nation|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award1.html|31</Row>
+			<Row>http://kcrosby.com/award1.html|0|recently created communities of new homes|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://kcrosby.com/award1.html|0|maps of rsf covenant and communities nearby|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://kcrosby.com/award1.html|0|brief intros to rsf and/or surrounding communities|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://kcrosby.com/award1.html|0|small sample of listings|2008-12-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/Whispering_Palms.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=vebm51q0j6h6rdfu91akgho3a5|0|rancho santa fe real estate|2010-07-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=4aifugleq1t85g2guu83cssjs0|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.eperks.com/RealEstate/contact_request.aspx?p=966&#38;tq=Rancho Santa Fe, CA|0|click here|2008-04-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|100</Row>
+			<Row>http://www.kcrosby.com/add.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=4v3h58b0m8g72i8odg7bk87f57|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://resources.ronbarrettrealestate.com/partners1_5.html|0|rancho santa fe real estate|2012-02-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|141</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=55sk7iqv9ve49fjcu2505330p0|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=5bmg1pseifle2l1eku9sf79sl0|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/av.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=5fumc13f74d86himk688n8cpn1|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=c6rq1lkjhp76fdd9ptghchii93|0|rancho santa fe real estate|2011-01-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://nevinvannest.com/california|0|rancho santa fe real estate|2012-02-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|142</Row>
+			<Row>http://www.greenvalley4sale.com/DCF/resources/resources5_5.asp|0|rancho santa fe real estate|2012-02-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|143</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=5j529ggi8hded2po9dtkb43k67|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.mar-us.info/carmel-valley/daring-danny-and-palace-doom|0|134 home sites|2012-02-17|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/The_Meadows_Map.html|144</Row>
+			<Row>http://www.mar-us.info/carmel-valley/daring-danny-and-palace-doom|0|the meadows del mar|2012-02-17|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/The_Meadows_Del_Mar.html|144</Row>
+			<Row>http://luxsocal.com/Agent3812.html|0|www.crosbyandhewitt.com|2012-02-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|73</Row>
+			<Row>http://links.waterfrontfinance.com/south-west_14.php|0|rancho santa fe real estate|2012-02-12|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|139</Row>
+			<Row>http://www.xxx-babe-sex.com/xxxxxx/FOUR-&#60;B.html|0| |2008-12-29|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/residence-4-B.jpg|145</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=5r6vn51b8sbsmr89e02t6qs6s1|0|rancho santa fe real estate|2011-05-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.clmhomes.com/resources/links-3.php|0|rancho santa fe real estate|2011-11-01|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|71</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=64mps3bjm8g83n5q5f2v8v1um5|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://brooks-clark.com/CommunityLinks.html|0|rancho santa fe real estate|2011-11-25|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|146</Row>
+			<Row>http://brooks-clark.com/CommunityLinks.html|0| |2011-11-25|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|146</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=6ahnfr2h4icpidan02b509s8k6|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.brevardrealestateguide.com/links/links7_11.html|0|rancho santa fe real estate|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|136</Row>
+			<Row>http://www.bellalanzarote.com/resources3.php?idheadingsmain=22|0|http://www.crosbyandhewitt.com|2011-11-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|82</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=6c1blcjnjmvmchqnjhhoqdq9n6|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=6ci91qcpeebtl2hmjgpv6u30a5|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://best-real-estate-choice.com/partners1_31.html|0|rancho santa fe real estate|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|61</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=6icend8pvfsjb9fqo4tmalegv1|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=6k6msmumc4i8k1cvninlhms721|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=d199va27tb56op6p04tfoud6b1|0|rancho santa fe real estate|2011-01-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=6nljnbjv3631i4lcvcegb8n2v6|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.southernhomeshopper.com/recommended1_52.htm|0|rancho santa fe real estate|2012-02-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|147</Row>
+			<Row>http://www.kcrosby.com/award1.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/award1.html|0|brief intros to rsf and/or surrounding communities|2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/award1.html|0|home|2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/award1.html|0|ken &#38; kathy are in the top 3% of realtors in the nation|2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award1.html|31</Row>
+			<Row>http://www.kcrosby.com/award1.html|0|small sample of listings|2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/award1.html|0|maps of rsf covenant and communities nearby|2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/award1.html|0|recently created communities of new homes|2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=71mnkekqo9q0kshrko95fuajf5|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.haineshomes.com/links.php?n|0|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|11</Row>
+			<Row>http://liveportal.webmenu.com/index.cgi?query=Del Mar MLS&#38;sess=5737a3a3a303a3a313&#38;where=web&#38;target=web&#38;vid=l7116866176I1202126937&#38;con=y&#38;ilang=english&#38;tag=3521758884I1202126937&#38;twin=n&#38;clt=topic&#38;sr=r&#38;pg=3|0|open results in new window|2008-03-26|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|148</Row>
+			<Row>http://liveportal.webmenu.com/index.cgi?query=Del Mar MLS&#38;sess=5737a3a3a303a3a313&#38;where=web&#38;target=web&#38;vid=l7116866176I1202126937&#38;con=y&#38;ilang=english&#38;tag=3521758884I1202126937&#38;twin=n&#38;clt=topic&#38;sr=r&#38;pg=3|0|rancho santa fe real estate-del mar re...|2008-03-26|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|148</Row>
+			<Row>http://links.phxrealestate.com/links12_7.html|0|rancho santa fe real estate|2012-02-20|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|149</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=dr7mteov3qhpcun3s25ahbk0g5|0|rancho santa fe real estate|2011-04-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=7431vsakinph3v1v0pbasqltr7|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.homesofverobeach.com/bin/web/real_estate/AR122569/ACTIVATE_FRAMES/EXTRA4/Vero Beach/1300478320.html|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|52</Row>
+			<Row>http://www.kcrosby.com/bingham.html|0|www.crosbyandhewitt.com|2007-08-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=7lrf65ts9kp8uudh8cgs892hs6|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.homesofverobeach.com/bin/web/real_estate/AR122569/ACTIVATE_FRAMES/EXTRA4/Vero Beach/1301684886.html|0|rancho santa fe real estate|2011-05-12|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|52</Row>
+			<Row>http://mydreamlocale.com/linksmanager/directory34_9.php|0|rancho santa fe real estate|2012-02-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|150</Row>
+			<Row>http://www.homesofverobeach.com/bin/web/real_estate/AR122569/ACTIVATE_FRAMES/EXTRA4/Vero Beach/1305381277.html|0|rancho santa fe real estate|2011-06-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|52</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=82onrn7udvg883q0m9s3e306n0|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=853lln8501rjhvrdjv3f2gq054|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=85i83sd0p2q9c2j7gkp701rd37|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.zoominfojobcast.com/people/Cornell_Ken_1216165495.aspx|0|second and third home phenomenon in mission beach|2009-05-03|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/Mission_Beach_Detail.html|151</Row>
+			<Row>http://www.zoominfojobcast.com/people/Cornell_Ken_1216165495.aspx|0|view online source|2009-05-03|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/Mission_Beach_Detail.html|151</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=esgd47jqdnuv61fsti97koujd3|0|rancho santa fe real estate|2011-01-24|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=8e3bh7dabp40uiarsp51ng4977|0|rancho santa fe real estate|2011-04-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=8fkdq35607u246t0ka9qk023g0|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.collioureproperty.com/south -of-france-real-estate-partners old.asp|0|rancho santa fe real estate|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|13</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=8qccehan9pu4d0q7rlmvn02o57|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.collioureproperty.com/south-of-france-real-estate-partners.asp|0|rancho santa fe real estate|2011-11-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|13</Row>
+			<Row>http://www.flhomesbestkeptsecret.com/Partner_Links.html|0|http://www.crosbyandhewitt.com|2012-02-13|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|152</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=900qa99thtugv7ieil4h9rejr3|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://realtygoa.com/real_estate_resources/sites13.html|0|rancho santa fe real estate|2012-02-07|0|0|1|0|0|0|0|http://www.crosbyandhewitt.com|92</Row>
+			<Row>http://www.kcrosby.com/pp.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/pp.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/pp.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/pp.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/pp.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/pp.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/pp.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=974a9u0d579e47uo50des4lad1|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.teenssource.com/images/FOUR-&#60;B.html|0| |2008-09-12|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/residence-4-B.jpg|153</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=9ajqvab466oc79org2a3umd285|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=9ca0phet4d2g6b9j5da1m8vlh3|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://usarealtyguide.com/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-10-11|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|154</Row>
+			<Row>http://usarealtyguide.com/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-10-11|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|154</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=f3uh2ajmr8d3i6jgfl71j5no05|0|rancho santa fe real estate|2011-01-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://premiertucsonhomes.com/Links_20_-_20_California.html|0|rancho santa fe real estate|2012-02-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|155</Row>
+			<Row>http://quicktravelfinder.com/listing-city-Rancho Santa Fe-cat-real estate.htm|0|rancho santa fe real estate - rancho santa fe homes - carmel ...|2012-02-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|156</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=9eqj68jf2rgcsinko48c8g2h81|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.lasvegashomesmlssearch.com/links/links5_4.html|0|rancho santa fe real estate|2012-02-03|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|157</Row>
+			<Row>http://liveportal.webmenu.com/index.cgi?query=Del Mar MLS&#38;tag=3521758884I1202126937&#38;vid=l7116866176I1202126937&#38;twin=n&#38;sr=r&#38;where=web&#38;target=web&#38;ilang=english&#38;sess=5737a3a3a303a3a313&#38;clt=topic&#38;cl=res&#38;ndv=y&#38;list=8|0|open results in new window|2008-03-26|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|148</Row>
+			<Row>http://liveportal.webmenu.com/index.cgi?query=Del Mar MLS&#38;tag=3521758884I1202126937&#38;vid=l7116866176I1202126937&#38;twin=n&#38;sr=r&#38;where=web&#38;target=web&#38;ilang=english&#38;sess=5737a3a3a303a3a313&#38;clt=topic&#38;cl=res&#38;ndv=y&#38;list=8|0|rancho santa fe real estate-del mar re...|2008-03-26|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|148</Row>
+			<Row>http://www.eperks.com/RealEstate/transaction.aspx?p=966&#38;tq=Rancho Santa Fe, CA|0|click here|2008-05-04|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|100</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=9sioe7pqrgoc9ql2l4hrucpkd5|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/curr2.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/curr2.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/curr2.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/curr2.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://www.kcrosby.com/curr2.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/curr2.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/curr2.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=a3tf4756s0l24biumas2uppl26|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/rice.html|0|www.crosbyandhewitt.com|2007-08-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=a6ikigpiggsokdjpo16286vuo1|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/curr4.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/curr4.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/curr4.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/curr4.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/curr4.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/curr4.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/curr4.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://viajarabrasil.com/results.aspx/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-10-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|158</Row>
+			<Row>http://viajarabrasil.com/results.aspx/rancho-santa-fe-home|0|rancho santa fe homes|2009-10-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|158</Row>
+			<Row>http://www.eperks.com/RealEstate/refer.aspx?p=966&#38;tq=Rancho Santa Fe, CA|0|click here|2008-05-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|100</Row>
+			<Row>http://www.kcrosby.com/cv.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.lanzaroteproperties.com/resources3.php?idheadingsmain=22|0|http://www.crosbyandhewitt.com|2012-02-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|159</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=aha4043f70p7nr1p9n7umou4i2|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/rsf_area_map.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=ahl9ho02ocu96k4932icq0qqo1|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/rsf_covenant_map.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=aq0frbgl5465u2n2u8p67d2ft5|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=avcfikjie4d4iajtl27i39ig67|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://thebartonadvantage.com/real_estate_resources/real-estate-agents-southwest.html|0|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|160</Row>
+			<Row>http://www.kcrosby.com/disclaim.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/listings.html|31</Row>
+			<Row>http://www.kcrosby.com/disclaim.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/intro2001.html|31</Row>
+			<Row>http://www.kcrosby.com/disclaim.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/rsfcarte.html|31</Row>
+			<Row>http://www.kcrosby.com/disclaim.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/award.html|31</Row>
+			<Row>http://www.kcrosby.com/disclaim.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/disclaim.html|0| |2008-02-10|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com/New_Homes.html|31</Row>
+			<Row>http://realestatecontacts.com/CA/rancho-santa-fe.html|0|www.crosbyandhewitt.com|2012-02-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|39</Row>
+			<Row>http://realestatecontacts.com/CA/rancho-santa-fe.html|0|click here to view our listings|2012-02-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com/Selected_Rancho_Santa_Fe.asp|39</Row>
+			<Row>http://collioureproperty.com/south-of-france-real-estate-partners.asp|0|rancho santa fe real estate|2012-02-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|13</Row>
+			<Row>http://www.kcrosby.com/ea.html|0|www.crosbyandhewitt.com|2008-08-02|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/rt.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.homesforsaleid.com/displayLinkExch.cfm|0|http://www.crosbyandhewitt.com|2012-02-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|98</Row>
+			<Row>http://www.homesforsaleid.com/displayLinkExch.cfm|0|rancho santa fe real estate|2012-02-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|98</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=b8a1msokfg06kfvvn95r4677m4|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.abc-imobilaria.com/directory-Dominican-Republic/index.php?c=14&#38;p=6|0|rancho santa fe real estate|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|161</Row>
+			<Row>http://doubloonrealestate.com/links.html|0|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|27</Row>
+			<Row>http://www.kcrosby.com/santaluz.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=bgn48iuvpv3rijdo6vf0jenl67|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://homesalesri.com/links/southwest_6.php|0|rancho santa fe real estate|2012-02-25|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|129</Row>
+			<Row>http://www.kcrosby.com/santaluz_clubhouse.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.homesforsaleid.com/displayLinkExch.cfm?state=California|0|rancho santa fe real estate|2012-02-09|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|98</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=bpcin8iccm54osr46pbbqb4673|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/santaluz_golf.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=c0ir9vbpj06itf8g1vn4mvjt50|0|rancho santa fe real estate|2011-05-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/santaluz_intro.html|0|www.crosbyandhewitt.com|2008-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=ch12p96pouj89kbdjtbkmtttc3|0|rancho santa fe real estate|2011-05-26|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/sha.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.kcrosby.com/shaffer.html|0|www.crosbyandhewitt.com|2007-08-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=gqrji5ftckdim62kfm255cot86|0|rancho santa fe real estate|2010-12-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=cm1geeu7n7g0fnasmh1lh48887|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.justdanvillehomes.com/affiliates/afiliates7_10.htm|0|rancho santa fe real estate|2012-02-07|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|162</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=cqtou9u8dps1s5d6v47ddc8q55|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://southcharlotterealestate.org/resources/buyers-resources.html|0|rancho santa fe real estate|2012-02-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|163</Row>
+			<Row>http://www.brooks-clark.com/CommunityLinks.html|0| |2011-11-25|0|0|0|1|0|0|0|http://www.crosbyandhewitt.com|146</Row>
+			<Row>http://www.brooks-clark.com/CommunityLinks.html|0|rancho santa fe real estate|2011-11-25|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|146</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=crunrs1jn8gfpcbirmh5rauda3|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.vico-real-estate.com/directory/index.php?c=1&#38;p=16|0|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|83</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=h7is724felrtel81okks1583i0|0|rancho santa fe real estate|2010-12-16|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=d2vtfad1f7mnug4vdc32vj7ra7|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://mesatrialattorneys.com/results/rancho-santa-fe-home|0|rancho santa fe homes|2009-10-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|164</Row>
+			<Row>http://mesatrialattorneys.com/results/rancho-santa-fe-home|0|www.crosbyandhewitt.com|2009-10-23|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|164</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=dc5dl9kfaoupmqd33iv1qcgl67|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=djeaeef8lrjb4ieebm82h9o2k0|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/faq.html|0|www.crosbyandhewitt.com|2007-08-14|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=i1ikls0sbm2tvmej67q53bouk3|0|rancho santa fe real estate|2010-11-02|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=e1es23s9egnqu3gcnprih485p0|0|rancho santa fe real estate|2011-04-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=i8a5nlk8c5qf0f1i63dca1fal4|0|rancho santa fe real estate|2011-01-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=e1nn498ja66cinlu0uh9mfbd94|0|rancho santa fe real estate|2011-04-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://southcharlotterealestate.org/resources/buyers-resources_9.html|0|rancho santa fe real estate|2012-02-19|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|163</Row>
+			<Row>http://www.lasvegashomesforsale.us/real-estate-new-mexico.html|0|1. rancho santa fe real estate|2012-02-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|111</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=e894m8uej9ifeg68deei9a4bs0|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=eboeuqeq2ga8mm1umdhri9k6e1|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://cometohavasu.com/resource-directory|0|rancho santa fe real estate|2012-02-10|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|165</Row>
+			<Row>http://apyork.com/partners/partners.htm|0|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|19</Row>
+			<Row>http://teamdecell.com/Real_Estate/TX/Frisco_Homes/Realated_Links.html|0|rancho santa fe real estate|2012-02-18|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|24</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=ecv9jtbu9ve23mugudmi3ghnu4|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=edjjupnrou9j0sk6g8l4uqn1s1|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/viaf.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=egal2eosu0o8q7rcmpmj3dhrc2|0|rancho santa fe real estate|2011-04-08|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.homesofverobeach.com/bin/web/real_estate/AR122569/EXTRA4/Vero Beach/1280436719.html|0|rancho santa fe real estate|2010-10-05|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|52</Row>
+			<Row>http://www.lakekeoweerealestatepro.com/ca.html|0|rancho santa fe real estate|2012-02-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|166</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=ejaalmj1o35sudtcb2k223f7b6|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=ejtlr03b1025m8hsgft32vvr56|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.kcrosby.com/ww.html|0|www.crosbyandhewitt.com|2006-12-22|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|31</Row>
+			<Row>http://www.quickhomesearch.us/california-ca-c15-p1110.html|0|prudential california rsf vill - kenneth b crosby|2009-05-15|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|167</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=erao7rgovfs2nm18aehej14ji2|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://ecohomesga.com/RealEstate_California.html|0|rancho santa fe real estate|2012-02-06|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|95</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=esjdo0jdg849lv2am00t7hige7|0|rancho santa fe real estate|2011-03-28|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.realhotrealestate.com/Web/AR300117/CustomContent/index/5036763?IDXSESS=f6edgvmt0upspfkgj1jk4um2j2|0|rancho santa fe real estate|2011-03-27|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|49</Row>
+			<Row>http://www.southwestillinoishomes.com/Web/AR289525/CustomContent/index/5008884?IDXSESS=inpvjksi21oq8k2nob6qh2tj77|0|rancho santa fe real estate|2010-06-21|0|0|0|0|0|0|0|http://www.crosbyandhewitt.com|72</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="168" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD">
+			<Row>0|callcallery.com|-1|259|761|153|102|2008-02-09|2012-02-25|206.173.89.207|206.173.89.0|US|com</Row>
+			<Row>1|califdesertrealty.com|-1|143|891|3069|193|2010-03-14|2012-02-24|64.141.48.209|64.141.48.0|CA|com</Row>
+			<Row>2|sylviasellshavasu.com|-1|836|4066|1358|921|2006-12-20|2012-02-25|208.254.9.228|208.254.9.0|US|com</Row>
+			<Row>3|realestatelanguedoc.com|-1|2195|38276|258|219|2006-11-15|2012-02-25|84.246.225.20|84.246.225.0|FR|com</Row>
+			<Row>4|swilhomes.com|-1|762|25882|576|397|2007-02-10|2012-02-25|64.122.117.102|64.122.117.0|US|com</Row>
+			<Row>5|activerain.com|3112|134647|32881010|7363319|1781321|2006-10-01|2012-02-25|98.129.1.49|98.129.1.0|US|com</Row>
+			<Row>6|cote-vermeille.com|-1|299|53161|11357|3016|2007-02-21|2012-02-25|62.73.5.78|62.73.5.0|FR|com</Row>
+			<Row>7|bestcyprusproperties.com|283186|5059|27308|6959|5209|2006-12-12|2012-02-25|82.102.64.83|82.102.64.0|CY|com</Row>
+			<Row>8|costaricapropertysales.com|-1|752|12406|2255|1708|2006-08-28|2012-02-25|69.16.200.61|69.16.200.0|US|com</Row>
+			<Row>9|ricktucsonhomes.com|-1|370|1718|3680|2343|2009-04-22|2012-02-25|64.141.48.209|64.141.48.0|CA|com</Row>
+			<Row>10|ansthailandrealestate.com|742097|1230|12138|2855|618|2008-12-11|2012-02-25|199.34.228.99|199.34.228.0|US|com</Row>
+			<Row>11|haineshomes.com|-1|1287|55777|17827|3048|2007-04-01|2012-02-25|74.52.92.242|74.52.92.0|US|com</Row>
+			<Row>12|palmcoastrealestate-fl.com|-1|445|1549|276|209|2009-07-16|2012-02-25|64.71.35.17|64.71.35.0|US|com</Row>
+			<Row>13|collioureproperty.com|-1|565|3299|11695|7639|2006-12-03|2012-02-25|62.73.5.78|62.73.5.0|FR|com</Row>
+			<Row>14|forsalephilippines.com|-1|813|7244|2905|1684|2009-03-11|2012-02-25|209.20.87.233|209.20.87.0|US|com</Row>
+			<Row>15|realestateapulia.com|-1|555|4543|1763|617|2008-03-23|2012-02-25|151.1.162.101|151.1.162.0|IT|com</Row>
+			<Row>16|rockspringsrealty.net|-1|194|2707|813|610|2008-09-12|2012-02-25|66.210.173.153|66.210.173.0|US|net</Row>
+			<Row>17|propertycenter.tv|552757|1708|86345|19924|17182|2006-11-21|2012-02-25|66.96.130.123|66.96.130.0|US|tv</Row>
+			<Row>18|1troy.com|248343|1961|8473|2699|1719|2007-07-29|2012-02-25|98.136.92.78|98.136.92.0|US|com</Row>
+			<Row>19|apyork.com|938542|1258|7488|1145|148|2010-02-04|2012-02-25|216.193.228.39|216.193.228.0|US|com</Row>
+			<Row>20|paulsidahohomes.com|528801|1009|91782|1863|1495|2007-01-07|2012-02-25|209.161.22.70|209.161.22.0|US|com</Row>
+			<Row>21|4realestateinfo.ca|-1|259|1203|1096|388|2009-10-17|2012-02-25|69.28.226.67|69.28.226.0|CA|ca</Row>
+			<Row>22|real-estate-agents.com|350115|13168|1121976|8545|3456|2009-09-16|2012-02-25|64.34.167.123|64.34.167.0|US|com</Row>
+			<Row>23|inlandempire-homes.com|-1|175|1399|783|450|2010-01-04|2012-02-25|66.206.163.84|66.206.163.0|US|com</Row>
+			<Row>24|teamdecell.com|-1|238|91899|536428|39905|2009-08-23|2012-02-18|67.225.148.168|67.225.148.0|US|com</Row>
+			<Row>25|torontohomequest.com|-1|348|1917|1054|536|2009-09-18|2012-02-25|69.28.226.67|69.28.226.0|CA|com</Row>
+			<Row>26|tripod.com|656|1467843|697651784|30815179|3933789|2006-07-25|2012-02-25|209.202.252.55|209.202.252.0|US|com</Row>
+			<Row>27|doubloonrealestate.com|906227|204|463|402|217|2008-03-28|2012-02-25|70.84.92.2|70.84.92.0|US|com</Row>
+			<Row>28|diversesolutions.com|34027|11597|32345247|16998118|60432|2006-12-10|2012-02-25|207.38.22.171|207.38.22.0|US|com</Row>
+			<Row>29|boschrealestate.co.uk|-1|235|1369|370|258|2007-07-15|2012-02-25|213.171.218.53|213.171.218.0|UK|uk</Row>
+			<Row>30|delmore.net|-1|4470|38596|3849|2814|2006-11-23|2012-02-25|74.208.87.55|74.208.87.0|US|net</Row>
+			<Row>31|kcrosby.com|-1|836|3779|2153|1880|2006-12-22|2012-02-25|12.184.45.13|12.184.45.0|US|com</Row>
+			<Row>32|paradise-development.com|-1|3105|20661|575|392|2006-12-27|2012-02-25|209.59.136.10|209.59.136.0|US|com</Row>
+			<Row>33|brendaobrien.com|428135|11377|59999|393294|131750|2006-07-26|2012-02-25|216.106.24.9|216.106.24.0|US|com</Row>
+			<Row>34|buysellyorkregion.com|-1|414|1851|2418|687|2010-06-20|2012-02-25|69.28.226.67|69.28.226.0|CA|com</Row>
+			<Row>35|jebbdriggin.com|-1|433|9478|52462|4170|2007-07-11|2012-02-25|216.171.215.163|216.171.215.0|US|com</Row>
+			<Row>36|lifeinitaly.it|-1|1916|10900|163|95|2008-03-04|2012-02-25|212.39.26.44|212.39.26.0|IT|it</Row>
+			<Row>37|todiscountry.com|-1|780|2365|223|132|2006-12-14|2012-02-25|212.39.26.44|212.39.26.0|IT|com</Row>
+			<Row>38|4torontorealestate.ca|-1|436|1250|567|306|2009-10-17|2012-02-25|69.28.226.67|69.28.226.0|CA|ca</Row>
+			<Row>39|realestatecontacts.com|79024|5385|52518|25853|19246|2006-11-14|2012-02-25|208.109.138.80|208.109.138.0|US|com</Row>
+			<Row>40|conniebarnes.com|278333|961|18406|2577|2092|2006-11-05|2012-02-25|72.249.175.246|72.249.175.0|UK|com</Row>
+			<Row>41|sarasotafloridarealestate.org|-1|1485|12669|1732|1408|2006-11-19|2012-02-25|65.44.220.63|65.44.220.0|US|org</Row>
+			<Row>42|californiacarealty.com|-1|164|2697|2098|1239|2010-10-14|2012-02-25|66.223.55.162|66.223.55.0|US|com</Row>
+			<Row>43|gosearchlv.com|-1|488|35840|3879|1827|2010-08-11|2012-02-25|74.127.42.168|74.127.42.0|US|com</Row>
+			<Row>44|windermerewenatchee.com|-1|165|6340|349|331|2006-10-08|2012-02-25|64.106.251.44|64.106.251.0|US|com</Row>
+			<Row>45|ronfleenor.com|-1|1015|2480|513|481|2006-10-21|2012-02-25|64.68.32.40|64.68.32.0|US|com</Row>
+			<Row>46|ojairealestatesales.com|-1|12|45|261|94|2011-11-01|2012-02-23| | | |com</Row>
+			<Row>47|gtahomesforsale.com|-1|182|806|1932|1360|2010-05-24|2012-02-25|69.28.226.67|69.28.226.0|CA|com</Row>
+			<Row>48|crazyxxxx.com|-1|89|42215|567405|78146|2007-12-23|2010-10-24|69.64.155.109|69.64.155.0|US|com</Row>
+			<Row>49|realhotrealestate.com|-1|93|7081|1870697|34291|2006-11-14|2011-07-10|69.64.147.243|69.64.147.0|US|com</Row>
+			<Row>50|lesbianscrazy.com|-1|15|15115|650094|58458|2008-03-05|2009-04-26|70.84.108.34|70.84.108.0|US|com</Row>
+			<Row>51|congrats.biz|-1|38|16358|555974|48083|2008-02-15|2008-11-27|207.226.88.48|207.226.88.0|US|biz</Row>
+			<Row>52|homesofverobeach.com|-1|777|1977|38045|25042|2006-10-11|2011-07-10|63.82.223.102|63.82.223.0|US|com</Row>
+			<Row>53|treasurecoastflhomes.com|-1|343|8973|2307928|569417|2008-01-18|2012-02-25|64.141.48.209|64.141.48.0|CA|com</Row>
+			<Row>54|seflacondos.com|-1|571|4340|1032|643|2007-07-14|2012-02-25|69.89.18.21|69.89.18.0|US|com</Row>
+			<Row>55|orovalleyrealestate.com|718173|6554|187196|318647|117501|2006-11-16|2012-02-25|12.184.45.13|12.184.45.0|US|com</Row>
+			<Row>56|jeffkoon.com|-1|376|1283|527|289|2007-07-14|2012-02-25|67.205.48.54|67.205.48.0|US|com</Row>
+			<Row>57|hardcoresexylinks.com|-1|65|13418|410325|39390|2008-02-17|2009-09-21|69.64.147.200|69.64.147.0|US|com</Row>
+			<Row>58|camellaphilippines.com|-1|168|628|38|33|2012-02-13|2012-02-23|69.89.31.231|69.89.31.0|US|com</Row>
+			<Row>59|z-rectory.net|-1|33|91|8248891|713135|2008-10-08|2010-06-15|207.211.20.160|207.211.20.0|US|net</Row>
+			<Row>60|gittalevi.com|-1|313|5047|2580|1746|2006-08-07|2012-02-25|69.28.226.67|69.28.226.0|CA|com</Row>
+			<Row>61|best-real-estate-choice.com|-1|8200|52008|4964|2360|2007-01-29|2012-02-25|97.74.144.14|97.74.144.0|US|com</Row>
+			<Row>62|californiabank.us|-1|0|0|166975|80703|2008-11-09|2009-10-18|82.98.86.165|82.98.86.0|DE|us</Row>
+			<Row>63|bestchoicerealty.net|-1|684|2262|728|500|2008-04-13|2012-02-25|74.54.77.162|74.54.77.0|US|net</Row>
+			<Row>64|sandiego-bestdeals.com|-1|863|1486020|1909034|163521|2006-08-04|2012-02-25|209.160.24.83|209.160.24.0|US|com</Row>
+			<Row>65|sarasotahomefinderservice.com|-1|421|4192|1121|980|2008-12-22|2012-02-25|65.44.220.63|65.44.220.0|US|com</Row>
+			<Row>66|alabamahomesandcondos.com|-1|338|793659|742550|106439|2010-08-02|2012-02-25|74.205.105.189|74.205.105.0|CA|com</Row>
+			<Row>67|sandiegotourismguide.org|-1|120|3406|17141|14009|2009-02-11|2010-11-08|209.160.26.120|209.160.26.0|US|org</Row>
+			<Row>68|zoomprofiles.com|-1|89|297|5358401|606492|2008-11-05|2012-02-21|207.211.20.160|207.211.20.0|US|com</Row>
+			<Row>69|homesatjerseyshore.net|-1|502|1733|613|475|2008-04-23|2012-02-25|209.196.254.38|209.196.254.0|US|net</Row>
+			<Row>70|zoominfo.com|7812|66432|108293676|48135508|1926466|2006-07-26|2011-10-20|207.211.20.160|207.211.20.0|US|com</Row>
+			<Row>71|clmhomes.com|-1|437|5592|388|317|2007-10-08|2012-02-25|204.13.161.105|204.13.161.0|US|com</Row>
+			<Row>72|southwestillinoishomes.com|736929|2814|67880|3432596|42917|2007-02-04|2011-07-24|63.82.223.93|63.82.223.0|US|com</Row>
+			<Row>73|luxsocal.com|-1|188|3052|27391|21393|2008-10-05|2012-02-25|209.216.63.118|209.216.63.0|US|com</Row>
+			<Row>74|tri-valleyre.com|-1|1760|6841|1157|712|2007-10-25|2012-02-25|216.39.57.104|216.39.57.0|US|com</Row>
+			<Row>75|titfuckingbabes.com|-1|6|11|87772|8238|2008-05-13|2009-05-05|69.64.147.204|69.64.147.0|US|com</Row>
+			<Row>76|venicearearealestate.com|-1|250|9002|858|669|2006-10-14|2012-02-25|208.254.9.228|208.254.9.0|US|com</Row>
+			<Row>77|brcrps.com|-1|42|62|82|66|2007-07-07|2012-02-23|69.16.200.61|69.16.200.0|US|com</Row>
+			<Row>78|mandamoney.com|-1|89|3285|183099|174009|2009-01-03|2009-11-11|69.59.170.246|69.59.170.0|US|com</Row>
+			<Row>79|nekkeisearch.com|-1|0|0|90339|76364|2009-03-07|2009-11-21|193.164.131.16|193.164.131.0|DE|com</Row>
+			<Row>80|teleseminarcall.com|-1|1|1|225784|166117|2008-12-01|2009-12-02|168.75.197.39|168.75.197.0|US|com</Row>
+			<Row>81|thebitchsex.com|-1|10|20|297324|23563|2008-07-17|2009-05-01|216.188.26.161|216.188.26.0|AU|com</Row>
+			<Row>82|bellalanzarote.com|-1|316|1182|2367|1574|2006-10-09|2012-02-25|97.74.144.98|97.74.144.0|US|com</Row>
+			<Row>83|vico-real-estate.com|675888|1537|11439|14083|6762|2007-12-13|2012-02-25|193.239.5.33|193.239.5.0|EU|com</Row>
+			<Row>84|ourrealestateteam.com|-1|88|2833|31|29|2011-11-01|2012-02-25|207.46.222.28|207.46.222.0|US|com</Row>
+			<Row>85|lettings-direct.com|-1|273|3003|330|300|2009-08-26|2012-02-25|209.157.71.50|209.157.71.0|US|com</Row>
+			<Row>86|webmii.us|-1|204|3559808|12003906|296945|2010-01-20|2012-02-25|195.95.224.130|195.95.224.0|FR|us</Row>
+			<Row>87|labolsahoy.com|-1|1|1|302325|245572|2008-11-06|2009-11-11|69.59.170.246|69.59.170.0|US|com</Row>
+			<Row>88|elysianfieldsproperties.com|-1|1276|21967|7115|3900|2008-01-28|2012-02-25|83.138.174.106|83.138.174.0|UK|com</Row>
+			<Row>89|investor411.org|291834|2539|46289|353347|258279|2008-12-04|2012-02-25|209.160.26.120|209.160.26.0|US|org</Row>
+			<Row>90|huntsville-homes.com|677571|6813|426311|7121|4712|2006-10-13|2012-02-25|66.210.173.153|66.210.173.0|US|com</Row>
+			<Row>91|tkhomes.net|-1|93|293|190|124|2010-10-01|2012-02-25|65.254.254.34|65.254.254.0|US|net</Row>
+			<Row>92|realtygoa.com|703133|1381|9991|4398|2780|2008-01-12|2012-02-25|67.210.106.242|67.210.106.0|US|com</Row>
+			<Row>93|detroitforeclosure.info|-1|16|1036|65115|23682|2009-01-08|2011-03-12|68.178.232.99|68.178.232.0|US|info</Row>
+			<Row>94|surefirenames.com|-1|0|0|102004|92711|2008-12-19|2009-12-15|168.75.197.39|168.75.197.0|US|com</Row>
+			<Row>95|ecohomesga.com|-1|435|11790|183|163|2009-10-02|2012-02-25|68.178.254.2|68.178.254.0|US|com</Row>
+			<Row>96|cuwhois.com|27598|5931|2327412|9416222|1514285|2007-10-05|2012-02-25|87.98.228.245|87.98.228.0|ES|com</Row>
+			<Row>97|ownerama.com|-1|1294|14770|1082738|476727|2009-08-22|2012-02-25|209.51.144.36|209.51.144.0|US|com</Row>
+			<Row>98|homesforsaleid.com|-1|205|955|3142|1826|2009-10-10|2012-02-25|209.161.22.70|209.161.22.0|US|com</Row>
+			<Row>99|myownarizona.com|-1|2148|325000|221940|57075|2009-11-15|2012-02-25|208.109.48.147|208.109.48.0|US|com</Row>
+			<Row>100|eperks.com|-1|2662|1620562|7644994|2017953|2007-11-16|2011-10-29|208.48.87.100|208.48.87.0|US|com</Row>
+			<Row>101|edencrestproperties.com|-1|503|4521|1021|482|2007-11-03|2012-02-25|66.162.25.203|66.162.25.0|US|com</Row>
+			<Row>102|lovepanamarealestate.com|-1|2068|19562|1521|946|2008-05-21|2012-02-25|67.19.164.147|67.19.164.0|US|com</Row>
+			<Row>103|cherylteague.net|-1|1854|18567|6475|4145|2006-10-24|2012-02-25|66.71.248.74|66.71.248.0|US|net</Row>
+			<Row>104|viewacreage.com|-1|90|529|46|35|2007-04-05|2012-02-25|69.89.31.178|69.89.31.0|US|com</Row>
+			<Row>105|realestateandland.com|-1|195|347902|781599|233194|2007-03-27|2011-10-31|66.135.60.226|66.135.60.0|US|com</Row>
+			<Row>106|lewis-realty.net|-1|828|285961|8387|5754|2006-10-25|2012-02-25|74.86.124.120|74.86.124.0|US|net</Row>
+			<Row>107|ontario-waterfront-cottages.com|-1|195|606|588|460|2009-07-25|2012-02-25|66.43.52.254|66.43.52.0|CA|com</Row>
+			<Row>108|chineserestaurantscolumbus.com|-1|1|1|80791|74925|2008-04-03|2009-10-28|216.121.19.219|216.121.19.0|US|com</Row>
+			<Row>109|jebbanddriggininc.com|-1|28|1494|370|300|2007-07-11|2012-02-25|216.171.215.163|216.171.215.0|US|com</Row>
+			<Row>110|palmbeachrealestate.ws|-1|140|329|2538|1751|2009-06-21|2012-02-25|74.52.177.25|74.52.177.0|US|ws</Row>
+			<Row>111|lasvegashomesforsale.us|-1|362|1281|260|251|2007-08-30|2012-02-25|64.202.163.9|64.202.163.0|US|us</Row>
+			<Row>112|tipsyteens.net|-1|5|2161|314798|64921|2008-09-01|2009-02-07|67.215.66.132|67.215.66.0|US|net</Row>
+			<Row>113|point2agent.com|-1|53344|4416744|45775383|1688293|2006-07-26|2012-02-25|64.141.48.232|64.141.48.0|CA|com</Row>
+			<Row>114|paulajackson.info|-1|350|1681|1224|1087|2007-03-15|2012-02-25|64.68.32.40|64.68.32.0|US|info</Row>
+			<Row>115|fatcow.com|3188|168852|30463429|2847930|1127948|2006-07-28|2012-02-25|88.221.186.59|88.221.186.0|EU|com</Row>
+			<Row>116|ranchosantafenow.com|-1|17|33|93|66|2009-11-02|2012-02-25|65.170.157.40|65.170.157.0|US|com</Row>
+			<Row>117|listflatfeeinmls.com|-1|618|7062|1176971|526065|2009-10-12|2012-02-25|207.210.126.76|207.210.126.0|US|com</Row>
+			<Row>118|thefocusrealestategroup.com|-1|2136|10828|718|665|2008-10-27|2012-02-25|66.193.99.1|66.193.99.0|US|com</Row>
+			<Row>119|san-angelo-real-estate.com|-1|1103|3439|337|270|2006-12-21|2012-02-25|64.106.251.40|64.106.251.0|US|com</Row>
+			<Row>120|phoenixpropertymanagement4u.com|-1|301|1173|39|36|2010-10-28|2012-02-25|74.208.211.242|74.208.211.0|US|com</Row>
+			<Row>121|herdingcat.com|-1|0|0|180973|167251|2008-11-06|2009-11-11|69.59.170.246|69.59.170.0|US|com</Row>
+			<Row>122|renaissancebridal.com|-1|23|340|119024|99929|2008-09-27|2011-12-21|69.59.170.246|69.59.170.0|US|com</Row>
+			<Row>123|chineserestaurantsnetwork.com|-1|252|253|252538|206552|2008-12-14|2011-01-05|69.64.155.121|69.64.155.0|US|com</Row>
+			<Row>124|tourfactory.com|23809|44421|6042081|2661940|1049984|2006-07-27|2012-02-25|66.45.174.82|66.45.174.0|US|com</Row>
+			<Row>125|caribbean-rightmoves.com|-1|50|86|648|480|2010-09-25|2012-02-25|188.121.45.1|188.121.45.0|NL|com</Row>
+			<Row>126|sunskirt.com|-1|1|1|92677|89526|2009-03-03|2009-11-11|69.59.170.246|69.59.170.0|US|com</Row>
+			<Row>127|mswoods.com|691533|6973|501700|305075|34297|2006-08-29|2012-02-25|65.110.86.84|65.110.86.0|US|com</Row>
+			<Row>128|billowed.com|-1|75|10536|660814|61660|2008-02-04|2008-12-27|207.226.88.47|207.226.88.0|US|com</Row>
+			<Row>129|homesalesri.com|594073|8784|57106|5016|3233|2006-08-08|2012-02-25|66.193.99.15|66.193.99.0|US|com</Row>
+			<Row>130|belleheleneproperties.com|-1|615|837|1578|486|2006-11-18|2012-02-25|72.47.224.78|72.47.224.0|US|com</Row>
+			<Row>131|chineserestaurantsphoenix.com|-1|7|7|72796|61207|2008-07-27|2009-10-28|69.64.155.119|69.64.155.0|US|com</Row>
+			<Row>132|markethillhomes.com|411717|625|3755|108513|78415|2009-02-24|2012-02-25|174.143.45.101|174.143.45.0|US|com</Row>
+			<Row>133|theinvestingdaily.com|-1|231|963|220630|174222|2007-11-25|2009-11-11|69.59.170.246|69.59.170.0|US|com</Row>
+			<Row>134|europavista.com|-1|566|702858|16541|11957|2009-01-27|2012-02-25|80.82.114.106|80.82.114.0|UK|com</Row>
+			<Row>135|hirevic.com|-1|1924|80722|1193|772|2009-01-28|2012-02-25|174.132.168.254|174.132.168.0|US|com</Row>
+			<Row>136|brevardrealestateguide.com|-1|2155|20454|558|522|2007-02-12|2012-02-25|216.97.106.64|216.97.106.0|US|com</Row>
+			<Row>137|matthewmackay.com|-1|422|4368|7412|3796|2007-08-26|2012-02-25|174.142.104.80|174.142.104.0|CA|com</Row>
+			<Row>138|movingthetriangle.com|-1|574|6408|19723|3941|2009-12-11|2012-02-25|97.74.183.128|97.74.183.0|US|com</Row>
+			<Row>139|waterfrontfinance.com|-1|2263|10514|613|516|2011-05-30|2012-02-25|66.193.99.1|66.193.99.0|US|com</Row>
+			<Row>140|linksmanager.com|14316|17399|1986187|57328|25173|2006-08-06|2012-02-25|74.53.3.141|74.53.3.0|US|com</Row>
+			<Row>141|ronbarrettrealestate.com|-1|627|4396|8279|5031|2007-01-08|2012-02-25|174.142.104.80|174.142.104.0|CA|com</Row>
+			<Row>142|nevinvannest.com|-1|703|3944|35203454|1427860|2006-10-23|2012-02-25|64.141.48.209|64.141.48.0|CA|com</Row>
+			<Row>143|greenvalley4sale.com|-1|1764|15610|1876|1624|2006-12-26|2012-02-25|64.78.131.215|64.78.131.0|US|com</Row>
+			<Row>144|mar-us.info|-1|98|33556|7514|6631|2008-10-31|2012-02-25|96.30.7.232|96.30.7.0|US|info</Row>
+			<Row>145|xxx-babe-sex.com|-1|25|2274|262827|20922|2008-08-05|2009-09-10|69.64.147.200|69.64.147.0|US|com</Row>
+			<Row>146|brooks-clark.com|-1|137|316|189|100|2006-11-28|2012-02-23|64.202.163.173|64.202.163.0|US|com</Row>
+			<Row>147|southernhomeshopper.com|979202|2301|32200|6627|6273|2007-11-21|2012-02-25|67.225.169.174|67.225.169.0|US|com</Row>
+			<Row>148|webmenu.com|-1|3340|101136|3635734|166990|2006-11-03|2012-02-25|76.79.109.19|76.79.109.0|US|com</Row>
+			<Row>149|phxrealestate.com|-1|4961|22160|639|492|2006-11-15|2012-02-25|64.68.32.40|64.68.32.0|US|com</Row>
+			<Row>150|mydreamlocale.com|353442|3203|16329|33928|10319|2007-11-18|2012-02-25|206.130.124.69|206.130.124.0|US|com</Row>
+			<Row>151|zoominfojobcast.com|-1|38|83|11834408|803534|2008-07-27|2012-02-11|207.211.20.160|207.211.20.0|US|com</Row>
+			<Row>152|flhomesbestkeptsecret.com|-1|106|374|391|302|2006-10-13|2012-02-25|67.228.249.228|67.228.249.0|US|com</Row>
+			<Row>153|teenssource.com|-1|39|16012|771377|78507|2008-01-30|2009-11-06|66.115.174.9|66.115.174.0|US|com</Row>
+			<Row>154|usarealtyguide.com|-1|8|12|144640|96134|2008-12-29|2012-02-24|69.59.170.246|69.59.170.0|US|com</Row>
+			<Row>155|premiertucsonhomes.com|493883|1936|15275|4473|2264|2006-08-18|2012-02-25|209.196.254.38|209.196.254.0|US|com</Row>
+			<Row>156|quicktravelfinder.com|-1|59|360|59374|45430|2006-12-12|2012-02-25|216.246.8.195|216.246.8.0|US|com</Row>
+			<Row>157|lasvegashomesmlssearch.com|-1|7833|151065|1499|1282|2007-04-11|2012-02-25|64.111.26.78|64.111.26.0|US|com</Row>
+			<Row>158|viajarabrasil.com|-1|0|0|146423|126123|2008-11-06|2009-11-11|69.59.170.246|69.59.170.0|US|com</Row>
+			<Row>159|lanzaroteproperties.com|-1|278|1658|1605|881|2007-06-18|2012-02-25|97.74.144.98|97.74.144.0|US|com</Row>
+			<Row>160|thebartonadvantage.com|-1|639|2575|202|172|2007-12-23|2012-02-25|68.180.151.75|68.180.151.0|US|com</Row>
+			<Row>161|abc-imobilaria.com|957291|7222|232330|99081|10287|2006-12-12|2012-02-25|208.68.104.111|208.68.104.0|CA|com</Row>
+			<Row>162|justdanvillehomes.com|-1|784|3450|452|245|2008-10-28|2012-02-25|208.109.181.195|208.109.181.0|US|com</Row>
+			<Row>163|southcharlotterealestate.org|-1|697|17143|443|440|2009-12-09|2012-02-25|208.74.149.181|208.74.149.0|US|org</Row>
+			<Row>164|mesatrialattorneys.com|-1|1|1|46867|40808|2009-02-26|2009-10-25|69.59.170.246|69.59.170.0|US|com</Row>
+			<Row>165|cometohavasu.com|-1|115|952|405|179|2006-11-06|2012-02-25|64.68.32.40|64.68.32.0|US|com</Row>
+			<Row>166|lakekeoweerealestatepro.com|-1|199|513|67|54|2009-05-10|2012-02-25|70.35.30.163|70.35.30.0|CA|com</Row>
+			<Row>167|quickhomesearch.us|577768|51|118|152181|11325|2009-02-02|2010-09-27|91.121.101.171|91.121.101.0|FR|us</Row>
+		</DataTable>
+	</DataTables>
+</Result>

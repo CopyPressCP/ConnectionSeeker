@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="250" IndexBuildDate="2014-03-19 09:04:51" IndexType="0" RemainingAnalysisResUnits="96499361" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19874750" RemainingStandardReports="950" ServerBuild="2014-04-15 16:57:27" ServerName="SHADOJAGUAR" ServerVersion="1.0.5218.28723" UniqueIndexID="20140319090451-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="250" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="lexus.com" BackLinkType="RootDomain" TotalBackLinks="46542606" TotalLines="50000" TotalMatches="250">
+			<Row>http://www.usga.org/default.aspx/|9|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|61|78</Row>
+			<Row>http://news.iheart.com/go/radio_app/|12|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/enform/|1|2013-05-05|2014-02-28| | |TextLink|TextLink_Normal|58|49|80|52</Row>
+			<Row>http://news.iheart.com/go/radio_app/|12|free radio app for lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/enform/|1|2013-05-05|2014-02-28| | |ImageLink|ImageLink_Normal|58|49|80|52</Row>
+			<Row>http://www.apple.com/ipod/car-integration/|9|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|2|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|58|68|62|66</Row>
+			<Row>http://www.apple.com/ipod/car-integration/|9| |2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|2|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|62|66</Row>
+			<Row>http://www.pandora.com/everywhere/auto|8|learn more &#62;|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/enform/|3|2012-05-10|2014-02-28| | |TextLink|TextLink_Normal|58|49|53|66</Row>
+			<Row>http://www.pandora.com/everywhere/auto|8| |2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/GS-2013/|3|2012-05-10|2014-02-28| | |ImageLink|ImageLink_Normal|33|40|53|66</Row>
+			<Row>http://www.wiener-staatsoper.at/Content.Node/home/Startseite-Content.de.php|8|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|4|2013-04-05|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|52|67</Row>
+			<Row>http://www.youtube.com/user/LexusVehicles|8| |2014-02-28|0|0|1|1|0|0|0|http://www.lexus.com/|5|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|50|58</Row>
+			<Row>http://www.youtube.com/user/LexusVehicles|8|http://www.lexus.com/|2014-02-28|0|0|1|0|0|0|0|http://www.lexus.com/|5|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|58|68|50|58</Row>
+			<Row>http://www.youtube.com/user/LexusVehicles|8|lexus.com|2014-02-28|0|0|1|0|0|0|0|http://www.lexus.com/|5|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|58|68|50|58</Row>
+			<Row>http://www.youtube.com/user/LexusVehicles|8|http://drivers.lexus.com|2014-02-28|0|0|1|0|0|0|0|http://drivers.lexus.com/|5|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|23|23|50|58</Row>
+			<Row>http://www.marklevinson.com/|7|lexus vehicles|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|6|2011-09-13|2014-02-28| | |TextLink|TextLink_Normal|58|68|48|60</Row>
+			<Row>http://www.marklevinson.com/|7|lexus customer service|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/contact/|6|2011-09-13|2014-02-28| | |TextLink|TextLink_Normal|48|57|48|60</Row>
+			<Row>http://techcrunch.com/events/7th-annual-crunchies-awards/|9|lexus|2014-02-25|0|0|0|1|0|0|0|http://www.lexus.com/|7|2014-01-14|2014-02-25| | |ImageLink|ImageLink_Normal|58|68|63|44</Row>
+			<Row>http://www.fueleconomy.gov/feg/links.shtml/|8|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|8|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|58|68|51|56</Row>
+			<Row>http://www.fueleconomy.gov/feg/hybrid_links.shtml|8|lexus es 300h|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/ES/hybrid/|8|2012-12-06|2014-02-28| | |TextLink|TextLink_Normal|46|56|50|56</Row>
+			<Row>http://www.fueleconomy.gov/feg/hybrid_links.shtml|8|ct 200h|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/CTh/explore/|8|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|31|38|50|56</Row>
+			<Row>http://www.fueleconomy.gov/feg/hybrid_links.shtml|8|rx 450h|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/RXh/|8|2009-11-22|2014-02-28| | |TextLink|TextLink_Normal|31|33|50|56</Row>
+			<Row>http://www.fueleconomy.gov/feg/hybrid_links.shtml|8|ls 600h l|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/LSh/|8|2009-11-22|2014-02-28| | |TextLink|TextLink_Normal|30|33|50|56</Row>
+			<Row>http://www.fueleconomy.gov/feg/hybrid_links.shtml|8|gs 450h|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/gs_hybrid/index.html?s_ocid=20455|8|2009-04-26|2014-02-28| | |TextLink|TextLink_Normal|27|33|50|56</Row>
+			<Row>http://www.citiopentennis.com/|7|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|9|2012-08-08|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|47|58</Row>
+			<Row>http://autos.aol.com/used/certified-used-cars/|9|lexus|2014-02-27|0|0|0|0|0|0|0|http://www.lexus.com/|10|2011-03-16|2014-02-27| | |TextLink|TextLink_Normal|58|68|58|45</Row>
+			<Row>http://www.foxtheatre.org/|7|lexus atlanta|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|11|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|46|56</Row>
+			<Row>http://austin.broadway.com/|8|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|12|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|51|49</Row>
+			<Row>http://www.usga.org/general_info/Privacy-Policy/|7|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|47|53</Row>
+			<Row>http://www.miamifilmfestival.com/|7|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-02-15|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|46|53</Row>
+			<Row>http://www.usga.org/Handicapping.aspx?id=7792|7|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|46|52</Row>
+			<Row>http://msn.foxsports.com/nascar/page/shut-up-and-drive-vote|8|dynamic driving experience|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/IS/explore?cid=BN_FS1_N_2013_Driving|14|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|30|30|50|47</Row>
+			<Row>http://msn.foxsports.com/nascar/page/shut-up-and-drive-vote|8|bold is f styling|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/IS/explore?cid=BN_FS1_N_2013_Styling|14|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|30|30|50|47</Row>
+			<Row>http://msn.foxsports.com/nascar/page/shut-up-and-drive-vote|8|lfa-inspired gauges|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/IS/explore?cid=BN_FS1_N_2013_LFAGauges|14|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|30|30|50|47</Row>
+			<Row>http://msn.foxsports.com/nascar/page/shut-up-and-drive-vote|8|drive mode select: exhilaration or relaxation|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/IS/explore?cid=BN_FS1_N_2013_DriveMode|14|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|30|30|50|47</Row>
+			<Row>http://www.autonews.ru/catalog/firm/971357/|8|http://www.lexus.com|2014-02-27|0|0|0|0|0|0|0|http://www.lexus.com/|15|2013-10-18|2014-02-27| | |TextLink|TextLink_Normal|58|68|51|46</Row>
+			<Row>http://www.usga.org/handicapping/get_handicap/Getting-A-Handicap/|7|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|46|51</Row>
+			<Row>http://www.usga.org/general_info/Terms-and-Conditions/|7|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|45|51</Row>
+			<Row>http://pressroom.toyota.com/|8|lexus newsroom home|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/|16|2012-02-10|2014-02-28| | |TextLink|TextLink_Normal|47|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|lexus|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/|16|2012-02-10|2014-02-28| | |TextLink|TextLink_Normal|47|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|all lexus video|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/lexus/video/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|all lexus images|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/lexus/photos/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|all lexus news|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/lexus/releases/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|suvs|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/menu/lexus/suvs/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|sedans|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/menu/lexus/sedans/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|hybrids|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/menu/lexus/hybrids/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|press kits|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/press_kit_index.cfm|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|f vehicles|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/menu/lexus/f-f-sport/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|future/concept|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/lexus/concept vehicles/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|auto shows/events|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/lexus/auto-shows-events/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|convertibles|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/menu/lexus/convertibles/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|historic vehicles|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/lexus/historic-vehicles/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|lexus lifestyle|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/lexus/lifestyle/releases/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>http://pressroom.toyota.com/|8|lexus philanthropy|2014-02-28|0|0|0|0|0|0|0|http://pressroom.lexus.com/lexus/philanthropy/releases/|16|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|46|29|54|42</Row>
+			<Row>https://www.usga.org/PublicationStore/PubStoreProductDetails.aspx?id=21474843679|7|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|47|48</Row>
+			<Row>http://www.usga.org/Rules.aspx?id=7788|7|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|46|49</Row>
+			<Row>http://www.usga.org/Rule-Books/Handicap-System-Manual/Handicap-Manual/|7|link to lexus|2014-02-26|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-12|2014-02-26| | |ImageLink|ImageLink_Normal|58|68|46|49</Row>
+			<Row>http://www.toyota.com/about/careers/index.html|8|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|52|43</Row>
+			<Row>http://www.greenercars.org/resources.htm|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|17|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|51</Row>
+			<Row>http://www.toyota.com/support/sitemap.html|8|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2013-02-04|2014-02-28| | |TextLink|TextLink_Normal|58|68|52|42</Row>
+			<Row>http://www.toyota.com/about/our_values/index.html|8|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|52|42</Row>
+			<Row>http://www.postranchinn.com/about-us/resources/|6| |2014-02-26|0|0|0|1|0|0|0|http://www.lexus.com/|18|2011-03-15|2014-02-26| | |ImageLink|ImageLink_Normal|58|68|41|53</Row>
+			<Row>http://www.postranchinn.com/about-us/resources/|6|go to lexus|2014-02-26|0|0|0|0|0|0|0|http://www.lexus.com/|18|2011-03-15|2014-02-26| | |TextLink|TextLink_Normal|58|68|41|53</Row>
+			<Row>http://www.usga.org/MicroSite.aspx?id=21474856307|7|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2014-02-28|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|48|45</Row>
+			<Row>http://support.premiereinteractive.com/go/radio_app/|7|free radio app for lexus|2014-02-24|0|0|0|1|0|0|0|http://www.lexus.com/enform/|19|2014-01-27|2014-02-24| | |ImageLink|ImageLink_Normal|58|49|48|45</Row>
+			<Row>http://support.premiereinteractive.com/go/radio_app/|7|lexus|2014-02-24|0|0|0|0|0|0|0|http://www.lexus.com/enform/|19|2014-01-27|2014-02-24| | |TextLink|TextLink_Normal|58|49|48|45</Row>
+			<Row>http://msn.foxsports.com/nascar/page/shut-up-and-drive|8|bold is f styling|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/IS/explore?cid=BN_FS1_N_2013_Styling|14|2013-10-06|2014-02-28| | |TextLink|TextLink_Normal|30|30|50|42</Row>
+			<Row>http://msn.foxsports.com/nascar/page/shut-up-and-drive|8|dynamic driving experience|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/IS/explore?cid=BN_FS1_N_2013_Driving|14|2013-10-06|2014-02-28| | |TextLink|TextLink_Normal|30|30|50|42</Row>
+			<Row>http://msn.foxsports.com/nascar/page/shut-up-and-drive|8|drive mode select: exhilaration or relaxation|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/IS/explore?cid=BN_FS1_N_2013_DriveMode|14|2013-10-06|2014-02-28| | |TextLink|TextLink_Normal|30|30|50|42</Row>
+			<Row>http://msn.foxsports.com/nascar/page/shut-up-and-drive|8|lfa-inspired gauges|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/IS/explore?cid=BN_FS1_N_2013_LFAGauges|14|2013-10-06|2014-02-28| | |TextLink|TextLink_Normal|30|30|50|42</Row>
+			<Row>http://www.usga.org/Content.aspx?id=24246|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/CourseCareLanding.aspx?id=21474846413|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/Content.aspx?id=25367|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/Equipment.aspx?id=7794|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/Etiquette.aspx?id=7790|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/Media-Center/Information-for-Media/Media-Guides/|6|link to lexus|2014-02-26|0|0|0|1|0|0|0|http://www.lexus.com/|0|2013-01-03|2014-02-26| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/Content.aspx?id=25516|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/rules/amateur_status/reinstatement/Apply-for-Reinstatement-to-Amateur-Status/|6|link to lexus|2014-02-24|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-10|2014-02-24| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/championships/contact/Contact-Us/|6|link to lexus|2014-02-26|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-09-11|2014-02-26| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/Content.aspx?id=26223|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/Shop.aspx?id=7802|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/Championships.aspx?id=7796|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/ChampsSchedule.aspx?id=1|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2013-01-05|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/Clubs.aspx?id=7798|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/champarchive.aspx|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2012-09-07|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.usga.org/Content.aspx?id=24046|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|49</Row>
+			<Row>http://www.lstudio.com/?cid=Lexus_More_Sites_Nav|6| |2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|20|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|58|68|43|49</Row>
+			<Row>http://my.is/|8|official lexus is-f site|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/fcv/is_f.html|21|2008-08-29|2014-02-28| | |TextLink|TextLink_Normal|30|25|50|42</Row>
+			<Row>http://luxuryawaits.com/?siteid=Lexus_More_Sites_Nav|6|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/?siteid=luxuryawaits|22|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|32|34|43|49</Row>
+			<Row>http://luxuryawaits.com/?siteid=Lexus_More_Sites_Nav|6|terms of use|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/privacy/?siteid=luxuryawaits|22|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|30|34|43|49</Row>
+			<Row>http://luxuryawaits.com/?siteid=Lexus_More_Sites_Nav|6|contact us|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/contact/?siteid=luxuryawaits|22|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|30|34|43|49</Row>
+			<Row>http://luxuryawaits.com/?siteid=Lexus_More_Sites_Nav|6|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/privacy/?siteid=luxuryawaits|22|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|30|34|43|49</Row>
+			<Row>http://www.vidalexus.com/?siteid=Lexus_More_Sites_Nav|6|your privacy rights &#38; legal terms|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/privacy/?siteid=Vida_Lexus_Footer_Nav|23|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|31|35|43|49</Row>
+			<Row>http://www.vidalexus.com/?siteid=Lexus_More_Sites_Nav|6|contact us|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/contact/?siteid=Vida_Lexus_Footer_Nav|23|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|31|35|43|49</Row>
+			<Row>http://www.vidalexus.com/?siteid=Lexus_More_Sites_Nav|6|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/?siteid=Vida_Lexus_Global_Nav&#38;lang=en|23|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|31|35|43|49</Row>
+			<Row>http://www.vidalexus.com/?siteid=Lexus_More_Sites_Nav|6|line up|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/models/allVehicles/index.html?nav=Header&#38;lang=en|23|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|31|35|43|49</Row>
+			<Row>http://www.vidalexus.com/?siteid=Lexus_More_Sites_Nav|6|sign up|2014-02-28|0|0|0|0|0|0|0|https://secure.lexus.com/lexus/ssl/models/signup.do?siteid=Vida_Lexus_Global_Nav&#38;lang=en|23|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|31|35|43|49</Row>
+			<Row>http://shop.history.com/?v=lifetime_show_project-runway&#38;ecid=PRF-2103087&#38;pa=PRF-2103087|8|lexus|2014-02-27|0|0|0|1|0|0|0|http://www.lexus.com/|24|2012-10-06|2014-02-27| | |ImageLink|ImageLink_Normal|58|68|50|41</Row>
+			<Row>http://www.usga.org/etiquette/tips/Golf-Etiquette-101/|7|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|44|47</Row>
+			<Row>http://www.usga.org/ChampEventSite.aspx?id=2147487117|7|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|44|47</Row>
+			<Row>http://shop.history.com/project-runway/index.php?v=lifetime_show_project-runway|8|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|24|2012-08-08|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|50|40</Row>
+			<Row>http://www.usga.org/handicapping/course_ratings/Using-a-Course-Ratings/|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|47</Row>
+			<Row>http://www.usga.org/ChampEventSite.aspx?id=17179869326|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|47</Row>
+			<Row>http://www.usga.org/about.aspx?id=7881|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|47</Row>
+			<Row>http://www.usga.org/rules/disabilities/Rules-for-golfers-with-disabilities/|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|47</Row>
+			<Row>http://www.usga.org/equipment/conformance/Conforming-Club---Ball-Lists/|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|47</Row>
+			<Row>http://www.usga.org/videohub.aspx|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|47</Row>
+			<Row>http://www.usga.org/equipment/faq/Equipment-FAQ/|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2012-07-09|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|43|47</Row>
+			<Row>http://www.bbtatlantaopen.com/|7| |2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|25|2013-06-04|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|45|45</Row>
+			<Row>http://cc.ebay.com/cpo/|7|yes|2014-02-27|0|0|0|0|0|0|0|http://www.lexus.com/cpo/overview/cpo_financing.html|26|2013-09-01|2014-02-27| | |TextLink|TextLink_Normal|33|39|44|45</Row>
+			<Row>http://www.usga.org/about_usga/contact/Contact-Information/|6|link to lexus|2014-02-24|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-09-09|2014-02-24| | |ImageLink|ImageLink_Normal|58|68|42|47</Row>
+			<Row>http://www.usga.org/about_usga/history/USGA-History/|6|link to lexus|2014-02-24|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-09-09|2014-02-24| | |ImageLink|ImageLink_Normal|58|68|42|47</Row>
+			<Row>http://www.usga.org/Media-Center/Media-Center/|6|link to lexus|2014-02-26|0|0|0|1|0|0|0|http://www.lexus.com/|0|2013-01-03|2014-02-26| | |ImageLink|ImageLink_Normal|58|68|42|47</Row>
+			<Row>http://www.usga.org/about_usga/leadership/Leadership-Committees/|6|link to lexus|2014-02-24|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-09-09|2014-02-24| | |ImageLink|ImageLink_Normal|58|68|42|47</Row>
+			<Row>http://www.usga.org/about_usga/mission/Mission/|6|link to lexus|2014-02-24|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-09-09|2014-02-24| | |ImageLink|ImageLink_Normal|58|68|42|47</Row>
+			<Row>http://www.usga.org/ChampEventSite.aspx?id=17179869348|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|42|47</Row>
+			<Row>http://www.usga.org/photohubgallery.aspx?id=7804|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2013-01-05|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|42|47</Row>
+			<Row>http://www.usga.org/general_info/Directions-To-USGA/|6|link to lexus|2014-02-26|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-12|2014-02-26| | |ImageLink|ImageLink_Normal|58|68|42|47</Row>
+			<Row>http://www.usga.org/membership/contact/Contact-Us/|6|link to lexus|2014-02-24|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-10|2014-02-24| | |ImageLink|ImageLink_Normal|58|68|42|47</Row>
+			<Row>http://www.usga.org/membership/faq/Membership-FAQs(3)/|7|link to lexus|2014-02-27|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-10-12|2014-02-27| | |ImageLink|ImageLink_Normal|58|68|49|40</Row>
+			<Row>http://www.usga.org/membership/faq/Membership-FAQs(4)/|7|link to lexus|2014-02-27|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-10-12|2014-02-27| | |ImageLink|ImageLink_Normal|58|68|49|40</Row>
+			<Row>http://www.usga.org/membership/faq/Membership-FAQs(5)/|7|link to lexus|2014-02-27|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-10-12|2014-02-27| | |ImageLink|ImageLink_Normal|58|68|49|40</Row>
+			<Row>http://www.usga.org/golf_resources/Golf-Resources/|6|link to lexus|2014-02-26|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-12|2014-02-26| | |ImageLink|ImageLink_Normal|58|68|42|47</Row>
+			<Row>http://www.usga.org/jobs/Jobs-at-the-USGA/|6|link to lexus|2014-02-26|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-12|2014-02-26| | |ImageLink|ImageLink_Normal|58|68|42|47</Row>
+			<Row>http://www.massport.com/logan-airport/parking-information/lexus-parking-passport-gold/|6|lexus|2014-02-27|0|0|0|0|0|0|0|http://www.lexus.com/|27|2013-10-23|2014-02-27| | |TextLink|TextLink_Normal|58|68|41|48</Row>
+			<Row>http://www.lakeplacidlodge.com/|6|click here|2014-02-28|0|0|0|0|0|0|0|https://secure.drivers.lexus.com/lexusdrivers/benefits/partners/program/programItem.do?id=226&#38;versionId=1&#38;actionType=PREVIEW&#38;elementType=PROGRAM_ITEM|28|2011-10-13|2014-02-28| | |TextLink|TextLink_Normal|31|40|41|48</Row>
+			<Row>http://www.lakeplacidlodge.com/|6|lexus|2014-02-28|0|0|0|1|0|0|0|https://secure.drivers.lexus.com/lexusdrivers/benefits/partners/program/programItem.do?id=226&#38;versionId=1&#38;actionType=PREVIEW&#38;elementType=PROGRAM_ITEM|28|2011-10-13|2014-02-28| | |ImageLink|ImageLink_Normal|31|40|41|48</Row>
+			<Row>http://www.xvbeacon.com/|6|lexus|2014-02-28|0|0|0|1|0|0|0|https://secure.drivers.lexus.com/lexusdrivers/benefits/partners/program/programItem.do?id=355&#38;versionId=1&#38;actionType=PREVIEW&#38;elementType=PROGRAM_ITEM|29|2012-11-06|2014-02-28| | |ImageLink|ImageLink_Normal|30|40|40|49</Row>
+			<Row>http://laautoshow.com/floor-map-and-exhibitors/|6|www.lexus.com|2014-02-26|0|0|0|0|0|0|0|http://www.lexus.com/|30|2013-12-15|2014-02-26| | |TextLink|TextLink_Normal|58|68|38|50</Row>
+			<Row>http://hdradio.com/what-is-hd-radio|7| |2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|31|2013-10-23|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|46|42</Row>
+			<Row>http://www.foxtheatre.org/privacy.aspx|6|lexus atlanta|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|11|2013-10-05|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|39|48</Row>
+			<Row>http://www.foxtheatre.org/terms.aspx|6|lexus atlanta|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|11|2013-10-05|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|39|48</Row>
+			<Row>http://www.usga.org/handicapping/education/revision_schedule/Handicap-Revision-Schedule/|6|link to lexus|2014-02-27|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-13|2014-02-27| | |ImageLink|ImageLink_Normal|58|68|40|46</Row>
+			<Row>http://www.usga.org/handicapping/education/seminars/2009-Handicap-Seminars-Schedule/|6|link to lexus|2014-02-26|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-12|2014-02-26| | |ImageLink|ImageLink_Normal|58|68|40|46</Row>
+			<Row>http://www.toyota.com/about/philanthropy/|7|lexus|2014-02-27|0|0|0|0|0|0|0|http://www.lexus.com/|16|2010-11-16|2014-02-27| | |TextLink|TextLink_Normal|58|68|47|39</Row>
+			<Row>http://www.weei.com/promotional/jimmy-fund|7|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|32|2011-01-16|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|47|39</Row>
+			<Row>http://www.vehiclevoice.com/|6|lexus ct200h|2014-02-26|0|0|0|0|0|0|0|http://www.lexus.com/ct|33|2014-01-18|2014-02-26| | |TextLink|TextLink_Normal|20|28|38|48</Row>
+			<Row>http://www.realradio.fm/cc-common/radio_app/|8|free radio app for lexus|2014-02-26|0|0|0|1|0|0|0|http://www.lexus.com/enform/|34|2014-01-17|2014-02-26| | |ImageLink|ImageLink_Normal|58|49|54|31</Row>
+			<Row>http://www.realradio.fm/cc-common/radio_app/|8|lexus|2014-02-26|0|0|0|0|0|0|0|http://www.lexus.com/enform/|34|2014-01-17|2014-02-26| | |TextLink|TextLink_Normal|58|49|54|31</Row>
+			<Row>http://www.humphreysconcerts.com/|6|visit lexus.com|2014-02-28|0|0|0|1|0|0|0|http://lexus.com/|35|2010-04-21|2014-02-28| | |ImageLink|ImageLink_Normal|40|46|38|47</Row>
+			<Row>http://www.humphreysconcerts.com/|6|visit lexus.com online now!|2014-02-28|0|0|0|1|0|0|0|http://lexus.com/|35|2010-04-21|2014-02-28| | |ImageLink|ImageLink_Normal|40|46|38|47</Row>
+			<Row>http://standupforskateparks.org/|6|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|36|2013-08-03|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|39|46</Row>
+			<Row>http://www.usga.org/handicapping/education/seminars/Handicap-Seminars-Schedule/|6|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|39|45</Row>
+			<Row>http://www.pebblebeach.com/about/corporate-partners|6|visit lexus online|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|37|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|58|68|39|45</Row>
+			<Row>http://www.i-car.com/html_pages/technical_information/technical_info.shtml|6|lexus|2014-02-28|0|0|0|0|0|0|0|http://techinfo.lexus.com/|38|2009-09-23|2014-02-28| | |TextLink|TextLink_Normal|31|33|38|46</Row>
+			<Row>http://www.thehobbycenter.org/|6| |2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|39|2010-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|38|46</Row>
+			<Row>http://www.usga.org/news/2014/February/U-S-Open-Local-Qualifying-Sites-Announced/|6|link to lexus|2014-02-27|0|0|0|1|0|0|0|http://www.lexus.com/|0|2014-02-27|2014-02-27| | |ImageLink|ImageLink_Normal|58|68|38|45</Row>
+			<Row>http://www.usga.org/news/2014/February/USGA-Elects-O-Toole-as-63rd-President/|6|link to lexus|2014-02-24|0|0|0|1|0|0|0|http://www.lexus.com/|0|2014-02-09|2014-02-24| | |ImageLink|ImageLink_Normal|58|68|38|45</Row>
+			<Row>http://www.toyota.com/teendrive365/|7|research study|2014-02-27|0|0|0|0|0|0|0|http://pressroom.lexus.com/releases/toyota teen driver study text distracted nov27.htm|16|2013-12-24|2014-02-27| | |TextLink|TextLink_Normal|21|24|44|38</Row>
+			<Row>http://www.conceptcarz.com/info/linkPage.aspx|6|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|40|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|58|68|41|41</Row>
+			<Row>http://www.suncity288.com/zh_cn/|9|lexus|2014-02-24|0|0|0|1|0|0|0|http://www.lexus.com/|41|2012-01-07|2014-02-24| | |ImageLink|ImageLink_Normal|58|68|62|20</Row>
+			<Row>http://techcrunch.com/events/7th-annual-crunchies-awards/event-home/|7|lexus|2014-02-14|0|0|0|1|0|0|0|http://www.lexus.com/|7|2014-02-08|2014-02-14| | |ImageLink|ImageLink_Normal|58|68|47|34</Row>
+			<Row>http://www.usga.org/about_usga/A-Simpler-Game/|5|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-09-13|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|36|45</Row>
+			<Row>http://www.usga.org/news/2013/USGA-News/|5|link to lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|0|2013-03-06|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|36|45</Row>
+			<Row>http://www.usga.org/news/2014/February/African-American-Golf-History-Celebrated/|5|link to lexus|2014-02-27|0|0|0|1|0|0|0|http://www.lexus.com/|0|2014-02-27|2014-02-27| | |ImageLink|ImageLink_Normal|58|68|36|45</Row>
+			<Row>http://www.usga.org/news/2014/February/DMDs-Approved-in-USGA-Amateur-Championships/|5|link to lexus|2014-02-27|0|0|0|1|0|0|0|http://www.lexus.com/|0|2014-02-07|2014-02-27| | |ImageLink|ImageLink_Normal|58|68|36|45</Row>
+			<Row>http://www.usga.org/news/2014/February/USGA,-Chevron-Announce-Scholarship-Program/|5|link to lexus|2014-02-21|0|0|0|1|0|0|0|http://www.lexus.com/|0|2014-02-21|2014-02-21| | |ImageLink|ImageLink_Normal|58|68|36|45</Row>
+			<Row>http://www.conceptcarz.com/view/model/94/Lexus.aspx|6|http://www.lexus.com/|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|40|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|58|68|41|40</Row>
+			<Row>http://www.napavintners.com/about/partners.asp|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|42|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|36|45</Row>
+			<Row>http://www.miamifilmfestival.com/industry/default.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|36|45</Row>
+			<Row>http://www.miamifilmfestival.com/membership/default.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|36|45</Row>
+			<Row>http://www.miamifilmfestival.com/about/default.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|36|45</Row>
+			<Row>http://www.miamifilmfestival.com/about/sponsors.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|36|45</Row>
+			<Row>http://www.miamifilmfestival.com/program/shayn_batya_2014.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2013-11-28|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|36|45</Row>
+			<Row>http://www.miamifilmfestival.com/default.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|36|45</Row>
+			<Row>http://www.tonyhawkfoundation.org/about/sponsors/|5|lexus|2014-02-24|0|0|0|1|0|0|0|http://www.lexus.com/|43|2013-12-15|2014-02-24| | |ImageLink|ImageLink_Normal|58|68|35|46</Row>
+			<Row>http://www.jmlexus.com/|8|» download the brochure|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/cpo/cpo_ebrochure.html?s_ocid=30419|44|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|35|37|56|25</Row>
+			<Row>http://www.jmlexus.com/|8|lexus owners website|2014-02-28|0|0|0|0|0|0|0|https://secure.drivers.lexus.com/lexusdrivers/my-lexus/home.do?siteid=LDN_Header_Nav:Home_Page|44|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|49|15|56|25</Row>
+			<Row>http://www.jmlexus.com/|8| |2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/lexus-share/overlay-components/generic-overlays/CPO/CPO_Unlock_Mobile.html|44|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|33|24|56|25</Row>
+			<Row>http://timberwolvespremiumhospitality.com/|6|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|45|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|39|42</Row>
+			<Row>http://ev10.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=EDD&#38;linkID=fta&#38;shopperContext=&#38;caller=&#38;appCode=|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|46|2014-01-27|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.toyota.com/about/our_business/operations_map_usa/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2013-02-04|2014-02-28| | |TextLink|TextLink_Normal|58|68|45|35</Row>
+			<Row>https://www.carproof.com/about-us/our-partners/|8|lexus|2014-02-25|0|0|0|1|0|0|0|http://www.lexus.com/|47|2013-10-09|2014-02-25| | |ImageLink|ImageLink_Normal|58|68|53|27</Row>
+			<Row>http://www.janm.org/events/2014/dinner/|5|lexus.com/concept/rcf|2014-02-26|0|0|0|0|0|0|0|http://lexus.com/concept/RCF/|48|2014-02-04|2014-02-26| | |TextLink|TextLink_Normal|25|36|36|44</Row>
+			<Row>http://geardiary.com/|7|lexus|2014-02-28|0|0|1|0|0|0|0|http://www.lexus.com/|49|2014-02-24|2014-02-28| | |TextLink|TextLink_Normal|58|68|48|32</Row>
+			<Row>http://www.miamifilmfestival.com/attend/default.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2013-12-18|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/attend/merchandise.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2014-01-15|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/attend/ticketpackages.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2013-12-18|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/attend/venues.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2013-12-18|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/industry/acecopro.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2013-12-08|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/industry/distribution.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2013-11-07|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/press/default.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/Jury/default.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2013-08-03|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/press/pressdesk.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-04-16|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/press/registration.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/press/releases.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/about/festivaljobs.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/about/internships.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/about/programmers.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2013-12-18|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/about/sponsorship.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/about/team.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/about/volunteer.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/encuentros/default.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/tickets/default.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2013-12-18|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/travel/default.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/archives/2014/faq2014.aspx|5|lexus|2014-02-26|0|0|0|1|0|0|0|http://www.lexus.com/|13|2014-01-23|2014-02-26| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.miamifilmfestival.com/archives/default.aspx|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|13|2012-12-06|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|45</Row>
+			<Row>http://www.lexusdrivers.com/pub-share/mlab-promo-page/|6|privacy|2014-02-24|0|0|0|0|0|0|0|http://www.lexus.com/privacy/?siteid=LD_MLAB Promo Micro_Bottom Nav_Privacy|50|2013-08-29|2014-02-24| | |TextLink|TextLink_Normal|30|36|38|42</Row>
+			<Row>http://www.lexusdrivers.com/pub-share/mlab-promo-page/|6|terms|2014-02-24|0|0|0|0|0|0|0|http://www.lexus.com/privacy/legal_terms.html?sideid=LD_MLAB Promo Micro_Bottom Nav_Terms|50|2013-08-29|2014-02-24| | |TextLink|TextLink_Normal|30|36|38|42</Row>
+			<Row>http://www.lexusdrivers.com/pub-share/mlab-promo-page/|6|lexus.com|2014-02-24|0|0|0|0|0|0|0|http://lexus.com?siteid=LD_MLAB Promo Micro_Top Nav_Lexus.com|50|2013-08-29|2014-02-24| | |TextLink|TextLink_Normal|27|34|38|42</Row>
+			<Row>http://techcrunch.com/events/7th-annual-crunchies-awards/tickets/?ncid=hpcrunchies|7|lexus|2014-02-08|0|0|0|1|0|0|0|http://www.lexus.com/|7|2014-02-08|2014-02-08| | |ImageLink|ImageLink_Normal|58|68|48|31</Row>
+			<Row>http://shop.history.com/project-runway/index.php?v=lifetime_show_project-runway&#38;nvbar=Shows:Project Runway|6|lexus|2014-02-27|0|0|0|1|0|0|0|http://www.lexus.com/|24|2012-10-06|2014-02-27| | |ImageLink|ImageLink_Normal|58|68|43|36</Row>
+			<Row>http://www.usga.org/ChampEventScore.aspx?id=17179869327&#38;year=2013&#38;type=match6|5|link to lexus|2014-02-22|0|0|0|1|0|0|0|http://www.lexus.com/|0|2013-12-31|2014-02-22| | |ImageLink|ImageLink_Normal|58|68|35|44</Row>
+			<Row>http://ev10.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=FOX&#38;linkID=fta&#38;shopperContext=&#38;caller=&#38;appCode=|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|46|2013-10-05|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|35|44</Row>
+			<Row>http://www.toyota.com/about/diversity/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|35</Row>
+			<Row>http://www.toyota.com/about/philanthropy/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|35</Row>
+			<Row>http://www.toyota.com/about/environment/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|35</Row>
+			<Row>http://www.wiener-staatsoper.at/Content.Node/home/Startseite-Content.en.php|6|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|4|2013-05-05|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|37|42</Row>
+			<Row>http://www.lakeplacidlodge.com/reservations/|5|click here|2014-02-26|0|0|0|0|0|0|0|https://secure.drivers.lexus.com/lexusdrivers/benefits/partners/program/programItem.do?id=226&#38;versionId=1&#38;actionType=PREVIEW&#38;elementType=PROGRAM_ITEM|28|2011-11-10|2014-02-26| | |TextLink|TextLink_Normal|31|40|35|44</Row>
+			<Row>http://www.autobahncc.com/|6| |2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/models/ISF/|51|2012-03-11|2014-02-28| | |ImageLink|ImageLink_Normal|48|56|40|39</Row>
+			<Row>http://www.wired.com/wired/ads/adlinks/|6|lexus|2014-02-26|0|0|0|0|0|0|0|http://www.lexus.com/|52|2011-03-15|2014-02-26| | |TextLink|TextLink_Normal|58|68|39|39</Row>
+			<Row>http://www.usga.org/Rule-Books/Rules-of-Golf/Rule-01/|6|link to lexus|2014-02-25|0|0|0|1|0|0|0|http://www.lexus.com/|0|2011-08-11|2014-02-25| | |ImageLink|ImageLink_Normal|58|68|39|39</Row>
+			<Row>http://ev10.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=LIO&#38;linkID=fta&#38;shopperContext=&#38;caller=&#38;appCode=|5|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|46|2013-12-04|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|34|44</Row>
+			<Row>http://www.toyota.com/about/our_business/financial_services/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/environment/strengthening_communities/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/philanthropy/community/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/diversity/Community/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/diversity/Customers/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/diversity/Honors/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/philanthropy/education/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/diversity/dealers/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/diversity/diversity_advisory_board/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-05-10|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/philanthropy/environment/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/diversity/employees/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-12-06|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/diversity/suppliers/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/philanthropy/guidelines/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/our_news/community.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2011-04-16|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/our_news/corporate.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2011-04-16|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/philanthropy/safety/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/our_news/environment.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/our_news/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-08-08|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/our_business/our_history/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/our_news/manufacturing.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2011-04-16|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/our_news/product.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/environment/eco-efficient_operations/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/environment/future_transportation/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/environment/green_building/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/our_business/our_numbers/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/our_business/research_and_development/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-08-08|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/our_business/sales/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/our_business/design/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.toyota.com/about/our_business/engineering_and_manufacturing/index.html|7|lexus|2014-02-28|0|0|0|0|0|0|0|http://www.lexus.com/|16|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|58|68|44|34</Row>
+			<Row>http://www.washingtonautoshow.com/2014-show-info/exhibitor-listing/|5| |2014-02-27|0|0|0|1|0|0|0|http://www.lexus.com/|53|2013-12-14|2014-02-27| | |ImageLink|ImageLink_Normal|58|68|34|44</Row>
+			<Row>http://www.lakeplacidlodge.com/feed/|5|lexus|2014-02-24|0|0|0|1|0|0|0|https://secure.drivers.lexus.com/lexusdrivers/benefits/partners/program/programItem.do?id=226&#38;versionId=1&#38;actionType=PREVIEW&#38;elementType=PROGRAM_ITEM|28|2011-11-08|2014-02-24| | |ImageLink|ImageLink_Normal|31|40|35|43</Row>
+			<Row>http://www.lakeplacidlodge.com/feed/|5|click here|2014-02-24|0|0|0|0|0|0|0|https://secure.drivers.lexus.com/lexusdrivers/benefits/partners/program/programItem.do?id=226&#38;versionId=1&#38;actionType=PREVIEW&#38;elementType=PROGRAM_ITEM|28|2011-11-08|2014-02-24| | |TextLink|TextLink_Normal|31|40|35|43</Row>
+			<Row>http://www.toyota.com/about/our_business/investor_relations/|7|lexus|2014-02-25|0|0|0|0|0|0|0|http://www.lexus.com/|16|2010-12-14|2014-02-25| | |TextLink|TextLink_Normal|58|68|44|33</Row>
+			<Row>http://www.blogjnj.com/2007/12/|6|open road|2014-02-27|0|0|0|0|0|0|0|http://blog.lexus.com/|54|2013-06-03|2014-02-27| | |TextLink|TextLink_Normal|21|24|39|38</Row>
+			<Row>http://news.kron4.com/auto/|6|lexus|2014-02-28|0|0|0|1|0|0|0|http://www.lexus.com/|55|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|58|68|37|40</Row>
+			<Row>http://www.eonreality.com/interactive-digital-centers/|5|lexus/toyota|2014-02-25|0|0|0|0|0|0|0|http://www.lexus.com/index.html?mbox=on&#38;s_tnt=55609:0:0|56|2013-05-02|2014-02-25| | |TextLink|TextLink_Normal|15|27|34|43</Row>
+			<Row>https://www.lexusresplus.com/index.jsp?_requestid=1729|6|contact us|2014-02-26|0|0|0|0|0|0|0|http://www.lexus.com/contact/|57|2014-02-26|2014-02-26| | |TextLink|TextLink_Normal|48|57|37|40</Row>
+			<Row>https://www.lexusresplus.com/index.jsp?_requestid=1729|6|compatibility|2014-02-26|0|0|0|1|0|0|0|http://www.lexus.com/MobileLink/|57|2014-02-26|2014-02-26| | |ImageLink|ImageLink_Normal|35|36|37|40</Row>
+			<Row>http://www.lexusdrivers.com/|6| |2014-02-28|1|0|0|0|0|0|0|http://drivers.lexus.com/lexusdrivers/home|50|2009-06-25|2014-02-28| | |Redirect|Redirect_Temporary|33|34|37|40</Row>
+			<Row>https://www.lexusenformappsuite.com/login.jsp|6|need help locating your vin?|2014-02-28|0|0|0|0|0|0|0|http://drivers.lexus.com/lexusdrivers/lexusenform/faq.do|58|2013-06-04|2014-02-28| | |TextLink|TextLink_Normal|33|33|38|39</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="59" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|usga.org|100603|44842|11530780|106493|65238|2008-08-02|2014-02-28|12.120.106.161|12.120.106.0|US|org|52|70</Row>
+			<Row>1|iheart.com|2716|28808|217368047|3718081|869637|2009-01-24|2014-02-28|207.152.124.43|207.152.124.0|US|com|83|49</Row>
+			<Row>2|apple.com|51|4191954|3428548617|94566210|11747753|2008-07-29|2014-02-28|23.60.125.15|23.60.125.0|US|com|97|98</Row>
+			<Row>3|pandora.com|286|168834|36273030|16671810|1941918|2008-07-29|2014-02-28|208.85.40.20|208.85.40.0|US|com|58|83</Row>
+			<Row>4|wiener-staatsoper.at|209822|10001|1304384|2655463|181124|2008-08-03|2014-02-28|80.121.153.134|80.121.153.0|AT|at|43|61</Row>
+			<Row>5|youtube.com|3|20066674|44703649169|4469107929|262867016|2008-07-29|2014-02-28|74.125.226.206|74.125.226.0|US|com|99|99</Row>
+			<Row>6|marklevinson.com|788053|4678|188824|3281|1375|2008-08-16|2014-02-28|204.232.189.242|204.232.189.0|US|com|37|51</Row>
+			<Row>7|techcrunch.com|527|646953|193159847|3672310|939870|2008-07-29|2014-02-28|66.155.9.244|66.155.9.0|US|com|90|79</Row>
+			<Row>8|fueleconomy.gov|12535|79801|21048879|25387484|1758186|2008-08-13|2014-02-28|128.219.168.71|128.219.168.0|US|gov|58|76</Row>
+			<Row>9|citiopentennis.com|-1|1990|121486|3427|2996|2012-07-04|2014-02-28|76.227.216.249|76.227.216.0|US|com|34|46</Row>
+			<Row>10|aol.com|67|1509031|1923482705|110754220|4980113|2008-07-29|2014-02-28|205.188.19.16|205.188.19.0|US|com|91|90</Row>
+			<Row>11|foxtheatre.org|622160|11720|517841|3966|2316|2008-08-13|2014-02-28|72.4.145.120|72.4.145.0|US|org|33|46</Row>
+			<Row>12|broadway.com|22307|56292|5659742|1546919|868551|2008-07-29|2014-02-28|184.73.171.29|184.73.171.0|US|com|58|65</Row>
+			<Row>13|miamifilmfestival.com|-1|5105|182465|2786|1171|2008-10-15|2014-02-28|147.70.29.80|147.70.29.0|US|com|35|47</Row>
+			<Row>14|foxsports.com|691|300433|250828121|7323298|2045374|2008-07-29|2014-02-28|165.254.94.138|165.254.94.0|US|com|69|75</Row>
+			<Row>15|autonews.ru|8126|47157|34756163|1230003|527701|2008-08-05|2014-02-28|80.68.240.171|80.68.240.0|RU|ru|62|62</Row>
+			<Row>16|toyota.com|5189|133862|56770972|1103022|417144|2008-07-29|2014-02-28|64.208.5.34|64.208.5.0|US|com|58|50</Row>
+			<Row>17|greenercars.org|-1|6622|51108|1402|893|2009-02-09|2014-02-28|208.106.179.11|208.106.179.0|US|org|39|47</Row>
+			<Row>18|postranchinn.com|338277|4443|109690|652|378|2008-08-13|2014-02-28|209.68.10.70|209.68.10.0|US|com|39|56</Row>
+			<Row>19|premiereinteractive.com|62348|3898|7613772|1739891|585405|2008-07-29|2014-02-28|216.52.227.18|216.52.227.0|US|com|48|51</Row>
+			<Row>20|lstudio.com|718366|3804|190293|1439|1119|2010-12-12|2014-02-28|88.221.216.43|88.221.216.0|EU|com|35|41</Row>
+			<Row>21|my.is|153943|9397|45174536|1746253|297258|2008-07-30|2014-02-28|67.228.151.142|67.228.151.0|US|is|36|38</Row>
+			<Row>22|luxuryawaits.com|-1|669|69398|5623|4546|2011-11-17|2014-02-28|67.192.180.218|67.192.180.0|US|com|31|42</Row>
+			<Row>23|vidalexus.com|-1|246|29032|2491|1137|2010-07-24|2014-02-28|67.192.178.186|67.192.178.0|US|com|29|41</Row>
+			<Row>24|history.com|2809|173740|29195957|2805107|968328|2008-07-29|2014-02-28|204.95.26.138|204.95.26.0|US|com|68|76</Row>
+			<Row>25|bbtatlantaopen.com|-1|1258|130444|7423|7160|2012-05-19|2014-02-28|76.227.216.87|76.227.216.0|US|com|36|39</Row>
+			<Row>26|ebay.com|20|1949537|23850248679|17488070892|579937573|2008-07-29|2014-02-28|66.211.181.161|66.211.181.0|US|com|96|89</Row>
+			<Row>27|massport.com|135729|22470|721135|208381|120759|2008-08-07|2014-02-28|65.214.62.73|65.214.62.0|US|com|48|65</Row>
+			<Row>28|lakeplacidlodge.com|-1|2122|18798|1038|729|2008-12-22|2014-02-28|64.13.252.122|64.13.252.0|US|com|33|46</Row>
+			<Row>29|xvbeacon.com|-1|2074|24751|765|337|2009-09-19|2014-02-28|64.208.159.42|64.208.159.0|US|com|28|44</Row>
+			<Row>30|laautoshow.com|-1|13476|374454|7146|3583|2008-08-01|2014-02-28|209.200.86.168|209.200.86.0|US|com|40|56</Row>
+			<Row>31|hdradio.com|620166|10327|4084271|39107|35763|2008-08-08|2014-02-28|74.205.91.42|74.205.91.0|US|com|44|47</Row>
+			<Row>32|weei.com|33180|55959|17085029|3470890|530745|2008-07-31|2014-02-28|184.73.226.244|184.73.226.0|US|com|55|48</Row>
+			<Row>33|vehiclevoice.com|-1|4074|39123|185957|59718|2008-08-11|2014-02-27|67.43.168.87|67.43.168.0|US|com|31|42</Row>
+			<Row>34|realradio.fm|739492|1872|1350869|660078|461134|2008-08-12|2014-02-28|23.15.7.137|23.15.7.0|US|fm|56|40</Row>
+			<Row>35|humphreysconcerts.com|601649|2781|51705|149|83|2009-09-18|2014-02-28|72.11.235.102|72.11.235.0|US|com|26|42</Row>
+			<Row>36|standupforskateparks.org|-1|582|10610|693|66|2012-03-20|2014-02-28|208.85.150.176|208.85.150.0|US|org|25|40</Row>
+			<Row>37|pebblebeach.com|247982|17400|235363|44263|31590|2008-08-02|2014-02-28|209.41.171.36|209.41.171.0|US|com|45|59</Row>
+			<Row>38|i-car.com|764622|10372|303220|61440|23735|2008-08-06|2014-02-28|66.18.17.240|66.18.17.0|US|com|43|58</Row>
+			<Row>39|thehobbycenter.org|938054|3428|487659|94753|86825|2008-08-13|2014-02-28|65.61.160.184|65.61.160.0|US|org|31|45</Row>
+			<Row>40|conceptcarz.com|33368|36470|2162651|3246135|607780|2008-07-29|2014-02-28|74.94.199.25|74.94.199.0|US|com|49|53</Row>
+			<Row>41|suncity288.com|307512|1159|1293147|116503|44660|2012-04-25|2014-02-28|120.136.45.79|120.136.45.0|HK|com|45|17</Row>
+			<Row>42|napavintners.com|561708|10819|823547|313076|81330|2008-08-02|2014-02-28|208.109.209.35|208.109.209.0|US|com|38|50</Row>
+			<Row>43|tonyhawkfoundation.org|-1|4191|103802|1687|1044|2008-09-09|2014-02-28|208.85.150.176|208.85.150.0|US|org|33|46</Row>
+			<Row>44|jmlexus.com|-1|438|50048|280415|118510|2008-08-05|2014-02-28|69.60.85.165|69.60.85.0|US|com|51|21</Row>
+			<Row>45|timberwolvespremiumhospitality.com|-1|73|65875|33|24|2013-08-24|2014-02-28| | | |com|26|38</Row>
+			<Row>46|evenue.net|13345|33166|65582449|477424|85077|2008-07-31|2014-02-28|79.140.80.104|79.140.80.0|IT|net|51|57</Row>
+			<Row>47|carproof.com|271155|3756|7968775|428502|208756|2008-08-03|2014-02-28|216.8.176.170|216.8.176.0|CA|com|56|37</Row>
+			<Row>48|janm.org|880570|12768|726979|298007|135925|2008-08-12|2014-02-28|173.230.155.82|173.230.155.0|US|org|41|52</Row>
+			<Row>49|geardiary.com|153586|40717|1796842|449574|218104|2008-08-07|2014-02-28|174.123.33.218|174.123.33.0|US|com|49|42</Row>
+			<Row>50|lexusdrivers.com|-1|228|3118|9|5|2013-06-02|2014-02-24|69.25.174.48|69.25.174.0|US|com|24|38</Row>
+			<Row>51|autobahncc.com|-1|1129|30331|283|119|2012-12-29|2014-02-28|72.41.52.129|72.41.52.0|US|com|25|35</Row>
+			<Row>52|wired.com|924|894636|719797290|4428438|1651955|2008-07-29|2014-02-28|23.15.7.130|23.15.7.0|US|com|86|83</Row>
+			<Row>53|washingtonautoshow.com|-1|4080|44189|35146|21887|2008-08-05|2014-02-28|72.32.173.194|72.32.173.0|US|com|36|48</Row>
+			<Row>54|blogjnj.com|-1|149|19194|7618|7435|2013-05-25|2014-02-28| | | |com|44|46</Row>
+			<Row>55|kron4.com|158892|17107|368215|780339|225605|2008-07-29|2014-02-28|208.88.72.116|208.88.72.0|US|com|41|48</Row>
+			<Row>56|eonreality.com|398414|4807|92992|7560|6139|2008-08-03|2014-02-28|76.162.20.30|76.162.20.0|US|com|37|49</Row>
+			<Row>57|lexusresplus.com|-1|263|17634|248|236|2013-02-15|2014-02-26|156.79.106.195|156.79.106.0|US|com|26|37</Row>
+			<Row>58|lexusenformappsuite.com|-1|34|957|12|12|2013-07-15|2014-02-28|72.44.200.205|72.44.200.0|US|com|24|36</Row>
+		</DataTable>
+	</DataTables>
+</Result>

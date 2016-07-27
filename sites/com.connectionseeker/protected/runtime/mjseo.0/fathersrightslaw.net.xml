@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="262" IndexType="0" RemainingAnalysisResUnits="103410000" RemainingDetailedReportsPerPeriod="989" RemainingRetrievalResUnits="20377819" RemainingStandardReports="989" ServerBuild="2012-04-04 15:35:30" ServerName="SILVERTHORNE" ServerVersion="1.0.4477.26265"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="262" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID" BackLinkItem="fathersrightslaw.net" BackLinkType="RootDomain" TotalBackLinks="293" TotalLines="262" TotalMatches="262">
+			<Row>http://www.laokay.com/Family-Law-in-Orange-County-California.htm|6|albert a. fiore, family law attorney|2012-02-13|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|0</Row>
+			<Row>http://divorcelawyersorangecountycalifornia.com|5|law office of albert a fiore|2012-02-21|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|1</Row>
+			<Row>http://ezeen.net/Art/318/50/Guide-In-Purchasing-Personal-Number-Plate.html|3|family law services|2012-02-05|0|0|0|0|0|0|0|http://www.fathersrightslaw.net/services.htm|2</Row>
+			<Row>http://ezeen.net/Art/318/50/Guide-In-Purchasing-Personal-Number-Plate.html|3|divorce attorney|2012-02-05|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|2</Row>
+			<Row>http://www.at-la.com/cities/Irvine/legal.htm|3|fiore, albert a.|2012-02-07|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|3</Row>
+			<Row>http://www.at-la.com/@la-law/oc-irvine.htm|1|fiore, albert a.|2012-02-21|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|3</Row>
+			<Row>http://www.findafamilyattorney.com/California/Alameda/Hayward/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://findafamilyattorney.com/California/Orange/Huntington-Beach/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-12-11|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.californiaattorneylawyers.com/detail/292457/albert-a-fiore.html|0|http://www.fathersrightslaw.net|2010-08-26|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://consultantslist.net/listing_reports.php?report=website&#38;id=281|0| |2012-02-18|1|0|0|0|0|0|0|http://www.fathersrightslaw.net|6</Row>
+			<Row>http://www.ontowns.com/advice_child_custody_legal.a52.product|0|web|2008-03-27|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://www.ontowns.com/advice_child_custody_legal.a52.product|0|http://www.fathersrightslaw.net|2008-03-27|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Dissolution.aspx?pageid=2|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Dissolution.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://findafamilyattorney.com/California/Orange/Irvine/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-11-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://advertisingforlawfirms.com/tag/divorce/feed|0|orange county family law|2012-02-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|8</Row>
+			<Row>http://advertisingforlawfirms.com/tag/divorce/feed|0|orange county divorce attorney|2012-02-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|8</Row>
+			<Row>http://www.hotfrog.com/Companies/Albert-A-Fiore-Atty|0|http://www.fathersrightslaw.net|2010-08-28|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|9</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Domestic-Partnership.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Domestic-Partnership.aspx?pageid=2|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Equitable-Distribution.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Equitable-Distribution.aspx?pageid=2|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Fathers-Rights.aspx?pageid=2|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Fathers-Rights.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://local.timeswv.com/bell-ca wv/attorneys pardons and parole.zq.html|0|view website|2010-07-08|0|0|1|0|0|0|0|http://www.fathersrightslaw.net|10</Row>
+			<Row>http://iowahypnotist.com/iowahypnotist/tag/legal|0|orange county family law|2012-02-22|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|11</Row>
+			<Row>http://www.findafamilyattorney.com/California/Community-Property.aspx?pageid=12|0|visit website|2010-07-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Community-Property.aspx?pageid=12|0|www.fathersrightslaw.net/|2010-07-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.giga-furniture.com/fathers_right.html|0|law office of albert a. fiore|2008-05-09|0|0|0|0|0|0|0|http://fathersrightslaw.net|12</Row>
+			<Row>http://seductionsingapore.co.cc/tag/divorce/feed|0|orange county divorce attorney|2012-02-15|0|0|1|0|0|0|0|http://www.fathersrightslaw.net|13</Row>
+			<Row>http://iowahypnotist.com/iowahypnotist/tag/family-law|0|orange county family law|2012-02-22|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|11</Row>
+			<Row>http://www.findafamilyattorney.com/California.aspx?pageid=11|0|visit website|2010-08-04|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California.aspx?pageid=11|0|www.fathersrightslaw.net/|2010-08-04|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/San-Mateo/Daly-City/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.maaminc.com/?tag=law|0|orange county divorce attorney|2012-02-17|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|14</Row>
+			<Row>http://the-business-search.com/cat-3144-60005/Custody-And-Support-Law|0|url|2008-05-07|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|15</Row>
+			<Row>http://the-business-search.com/cat-3144-60005/Custody-And-Support-Law-Attorneys|0|url|2008-05-07|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|15</Row>
+			<Row>http://www.findafamilyattorney.com/California/Equitable-Distribution.aspx?pageid=12|0|www.fathersrightslaw.net/|2010-07-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Equitable-Distribution.aspx?pageid=12|0|visit website|2010-07-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://articlesevents.com/tag/attorney/feed|0|family law services|2012-02-08|0|0|0|0|0|0|0|http://www.fathersrightslaw.net/services.htm|16</Row>
+			<Row>http://articlesevents.com/tag/attorney/feed|0|orange county divorce attorney|2012-02-08|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|16</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Legal-Separation.aspx?pageid=2|0|visit website|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Legal-Separation.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.the-business-search.com/cat-3144-60005/Custody-And-Support-Law|0|url|2008-02-14|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|15</Row>
+			<Row>http://www.californiaattorneylawyers.com/detail/7467/albert-a-fiore.html|0|http://www.fathersrightslaw.net|2011-03-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://www.findafamilyattorney.com/California/Alameda/Newark/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.the-business-search.com/cat-3144-60005/Custody-And-Support-Law-Attorneys|0|url|2008-02-14|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|15</Row>
+			<Row>http://www.californiaattorneylawyers.com/detail/290476/albert-a-fiore.html|0|http://www.fathersrightslaw.net|2010-10-26|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Fountain-Valley/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-12-14|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Santa-Ana/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-11-20|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://whatissplitdollarlifeinsurance.com/life/tag/legal|0|orange county family law|2012-02-06|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|17</Row>
+			<Row>http://www.articledirectory.name/Art/567071/266/Find-a-Partner-in-Divorce-Issues.html|0|albert fiore|2011-12-31|0|0|1|0|0|0|0|http://www.fathersrightslaw.net/about.htm|18</Row>
+			<Row>http://www.articledirectory.name/Art/567071/266/Find-a-Partner-in-Divorce-Issues.html|0|orange county divorce attorney|2011-12-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|18</Row>
+			<Row>http://www.articledirectory.name/Art/567071/266/Find-a-Partner-in-Divorce-Issues.html|0|albert fiore|2011-12-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net/about.htm|18</Row>
+			<Row>http://www.articledirectory.name/Art/567071/266/Find-a-Partner-in-Divorce-Issues.html|0|orange county divorce attorney|2011-12-31|0|0|1|0|0|0|0|http://www.fathersrightslaw.net|18</Row>
+			<Row>http://www.at-oc.com/cities/irvine/legal.htm|0|fiore, albert a.|2011-11-22|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|19</Row>
+			<Row>http://towernetweb.com/tag/law|0|orange county family law|2012-02-07|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|20</Row>
+			<Row>http://whatissplitdollarlifeinsurance.com/life/tag/news|0|orange county family law|2012-02-06|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|17</Row>
+			<Row>http://www.findafamilyattorney.com/California/Marin/Belvedere-Tiburon/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://liabilitypersonalinjury.com/top?top=yes&#38;site_url=http://www.fathersrightslaw.net|0| |2011-10-14|0|0|0|1|0|0|0|http://www.fathersrightslaw.net|21</Row>
+			<Row>http://findafamilyattorney.com/California/Orange/Midway-City/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-11-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Family-Law.aspx?pageid=5|0|www.fathersrightslaw.net/|2011-01-05|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Family-Law.aspx?pageid=5|0|visit website|2011-01-05|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.webmii.co.uk/Result.aspx/Al/Fiore|0|http://www.fathersrightslaw.net/about.htm|2010-11-05|0|0|1|0|0|0|0|http://www.fathersrightslaw.net/about.htm|22</Row>
+			<Row>http://www.webmii.co.uk/Result.aspx/Al/Fiore|0|http://www.fathersrightslaw.net/services.htm|2010-11-05|0|0|1|0|0|0|0|http://www.fathersrightslaw.net/services.htm|22</Row>
+			<Row>http://articleeffort.com/tag/family/feed|0|orange county divorce attorney|2011-11-22|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|23</Row>
+			<Row>http://articleeffort.com/tag/family/feed|0|family law services|2011-11-22|0|0|0|0|0|0|0|http://www.fathersrightslaw.net/services.htm|23</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Marriage.aspx?pageid=2|0|visit website|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Marriage.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://uniquetopgifts.com/tag/law/feed|0|orange county family law|2012-02-05|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|24</Row>
+			<Row>http://ireference.org/tag/law/feed|0|orange county divorce attorney|2012-02-07|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|25</Row>
+			<Row>http://www.totheglobe.info/legal-informations/picking-the-best-seperation-attorney.html|0|albert fiore|2012-02-20|0|0|0|0|0|0|0|http://www.fathersrightslaw.net/about.htm|26</Row>
+			<Row>http://www.totheglobe.info/legal-informations/picking-the-best-seperation-attorney.html|0|orange county divorce lawyer|2012-02-20|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|26</Row>
+			<Row>http://www.ontowns.com/profile/request_update.htm?seq=2652981|0|website|2008-06-09|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://www.findafamilyattorney.com/California/Fathers-Rights.aspx?pageid=12|0|www.fathersrightslaw.net/|2010-07-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Fathers-Rights.aspx?pageid=12|0|visit website|2010-07-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.maaminc.com/?tag=divorce|0|orange county divorce attorney|2012-02-17|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|14</Row>
+			<Row>http://www.ontowns.com/child_custody_father_in_right.c208.product|0|http://www.fathersrightslaw.net|2008-03-11|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://www.ontowns.com/child_custody_father_in_right.c208.product|0|web|2008-03-11|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://www.findafamilyattorney.com/California/Stanislaus/Hughson/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.ontowns.com/child_custody_father_right.c208.product|0|web|2008-03-11|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://www.ontowns.com/child_custody_father_right.c208.product|0|http://www.fathersrightslaw.net|2008-03-11|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://www.ontowns.com/california_divorce_advice.c22.product|0|web|2008-03-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://www.ontowns.com/california_divorce_advice.c22.product|0|http://www.fathersrightslaw.net|2008-03-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://findafamilyattorney.com/California/Orange/Newport-Beach/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-12-11|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Midway-City/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-12-14|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://at-la.com/@la-law/oc-irvine.htm|0|fiore, albert a.|2012-02-06|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|3</Row>
+			<Row>http://www.at-oc.com/law/attorneys-irvine.htm|0|fiore, albert a.|2012-02-07|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|19</Row>
+			<Row>http://www.maaminc.com/?tag=legal|0|orange county divorce attorney|2012-02-17|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|14</Row>
+			<Row>http://www.findafamilyattorney.com/California/Alameda/Albany/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://web.7life7.com/Search.aspx?p=19&#38;q=Fiore|0|albert a. fiore, family law attorney|2011-01-11|0|0|0|0|0|0|0|http://fathersrightslaw.net|27</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Spousal-Maintenance.aspx?pageid=2|0|visit website|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Spousal-Maintenance.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Marin/Corte-Madera/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://findafamilyattorney.com/California/Orange/Newport-Coast/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-12-11|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Spousal-Support.aspx?pageid=2|0|visit website|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Spousal-Support.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://thegeniusblog.org/find-a-lawyer-in-divorce-issues|0|albert fiore|2012-02-23|0|0|0|0|0|0|0|http://www.fathersrightslaw.net/about.htm|28</Row>
+			<Row>http://thegeniusblog.org/find-a-lawyer-in-divorce-issues|0|orange county divorce lawyer|2012-02-23|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|28</Row>
+			<Row>http://www.californiaattorneylawyers.com/family-law-attorneys/more4.html|0| |2011-03-31|0|0|0|1|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://www.californiaattorneylawyers.com/family-law-attorneys/more4.html|0|albert a fiore|2011-03-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://at-la.com/cities/Irvine/legal.htm|0|fiore, albert a.|2012-02-06|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|3</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Garden-Grove/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-12-14|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.articledirectory.name/Art/688058/266/Choose-the-Right-Divorce-Attorneys.html|0|family law services|2012-01-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net/services.htm|18</Row>
+			<Row>http://www.articledirectory.name/Art/688058/266/Choose-the-Right-Divorce-Attorneys.html|0|family law services|2012-01-31|0|0|1|0|0|0|0|http://www.fathersrightslaw.net/services.htm|18</Row>
+			<Row>http://www.articledirectory.name/Art/688058/266/Choose-the-Right-Divorce-Attorneys.html|0|divorce attorney|2012-01-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|18</Row>
+			<Row>http://www.articledirectory.name/Art/688058/266/Choose-the-Right-Divorce-Attorneys.html|0|divorce attorney|2012-01-31|0|0|1|0|0|0|0|http://www.fathersrightslaw.net|18</Row>
+			<Row>http://www.californiaattorneylawyers.com/detail/8034/albert-a-fiore.html|0|http://www.fathersrightslaw.net|2010-09-17|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://www.findafamilyattorney.com/California/Monterey/Castroville/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.californiaattorneylawyers.com/detail/284944/albert-a-fiore.html|0|http://www.fathersrightslaw.net|2010-06-20|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Guardianship.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Guardianship.aspx?pageid=2|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.pspgamesdownloads.info/?feed=rss2&#38;tag=law|0|orange county divorce lawyer|2012-02-15|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|29</Row>
+			<Row>http://www.pspgamesdownloads.info/?feed=rss2&#38;tag=law|0|albert fiore|2012-02-15|0|0|0|0|0|0|0|http://www.fathersrightslaw.net/about.htm|29</Row>
+			<Row>http://advertisingforlawfirms.com/tag/law|0|orange county family law|2012-02-12|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|8</Row>
+			<Row>http://advertisingforlawfirms.com/tag/law|0|orange county divorce attorney|2012-02-12|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|8</Row>
+			<Row>http://iowahypnotist.com/iowahypnotist/tag/divorce|0|orange county family law|2012-02-22|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|11</Row>
+			<Row>http://www.findafamilyattorney.com/California/Marin/Fairfax/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.ontowns.com/a_father_right_to_a_child.a1.product|0|web|2009-03-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://www.ontowns.com/a_father_right_to_a_child.a1.product|0|http://www.fathersrightslaw.net|2009-03-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://iowahypnotist.com/iowahypnotist/tag/divorce/feed|0|orange county family law|2012-02-05|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|11</Row>
+			<Row>http://local.nbc11news.com/irvine-ky co/divorce and family law attorneys.zq.html|0|view website|2010-08-03|0|0|1|0|0|0|0|http://www.fathersrightslaw.net|30</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Modification-Proceedings.aspx?pageid=2|0|visit website|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Modification-Proceedings.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.123aaron.com/category/legal/page/2|0|orange county family law|2012-02-02|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|31</Row>
+			<Row>http://www.findafamilyattorney.com/Profile/1800/Law-Office-of-Albert-A-Fiore.aspx|0|http://www.fathersrightslaw.net/|2009-12-11|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/Profile/1800/Law-Office-of-Albert-A-Fiore/Contact_Us.aspx|0|http://www.fathersrightslaw.net/|2010-01-07|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://towernetweb.com/tag/legal|0|orange county family law|2012-02-07|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|20</Row>
+			<Row>http://www.findafamilyattorney.com/Profile/1800/Law-Office-of-Albert-A-Fiore/Firm_Profile.aspx|0|http://www.fathersrightslaw.net/|2010-01-07|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Fresno/Clovis/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Huntington-Beach/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-12-14|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.at.la/@la-law/oc-irvine.htm|0|fiore, albert a.|2012-02-14|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|32</Row>
+			<Row>http://www.findafamilyattorney.com/California/Dissolution.aspx?pageid=12|0|visit website|2010-07-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Dissolution.aspx?pageid=12|0|www.fathersrightslaw.net/|2010-07-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.at-oc.com/cities/Irvine/legal.htm|0|fiore, albert a.|2012-02-07|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|19</Row>
+			<Row>http://www.ontowns.com/profile/email.htm?mailid=2652981|0|website|2008-06-11|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://findafamilyattorney.com/Profile/1800/Law-Office-of-Albert-A-Fiore.aspx|0|http://www.fathersrightslaw.net/|2009-11-20|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://findafamilyattorney.com/Profile/1800/Law-Office-of-Albert-A-Fiore/Contact_Us.aspx|0|http://www.fathersrightslaw.net/|2009-12-16|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://findafamilyattorney.com/Profile/1800/Law-Office-of-Albert-A-Fiore/Firm_Profile.aspx|0|http://www.fathersrightslaw.net/|2009-12-16|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Newport-Beach/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-12-14|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.divorcelawyerdir.com/irvine-divorce-lawyer.html|0|albert a. fiore|2012-02-10|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|33</Row>
+			<Row>http://www.maaminc.com/?feed=rss2&#38;tag=law|0|orange county divorce attorney|2012-02-20|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|14</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine.aspx|0|visit website|2010-09-24|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine.aspx|0|www.fathersrightslaw.net/|2010-09-24|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://findafamilyattorney.com/California/Orange/Santa-Ana/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-11-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.world-class-articles.com/Art/232749/284/Seperation-Assistance-Help.html|0|family law services|2011-12-14|0|0|0|0|0|0|0|http://www.fathersrightslaw.net/services.htm|34</Row>
+			<Row>http://www.world-class-articles.com/Art/232749/284/Seperation-Assistance-Help.html|0|orange county divorce attorney|2011-12-14|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|34</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Community-Property.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Community-Property.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/San-Joaquin/Acampo/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Dissolution.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Dissolution.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.pspgamesdownloads.info/?feed=rss2&#38;tag=lawyer|0|albert fiore|2012-02-15|0|0|0|0|0|0|0|http://www.fathersrightslaw.net/about.htm|29</Row>
+			<Row>http://www.pspgamesdownloads.info/?feed=rss2&#38;tag=lawyer|0|orange county divorce lawyer|2012-02-15|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|29</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Domestic-Partnership.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Domestic-Partnership.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Domestic-Partnership.aspx?pageid=12|0|www.fathersrightslaw.net/|2010-07-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Domestic-Partnership.aspx?pageid=12|0|visit website|2010-07-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Equitable-Distribution.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Equitable-Distribution.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-11-20|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.attorneysinformationreferralservices.com/california/irvine|0| |2012-02-05|0|0|0|1|0|0|0|http://www.fathersrightslaw.net|35</Row>
+			<Row>http://www.attorneysinformationreferralservices.com/california/irvine|0|law office of albert a fiore|2012-02-05|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|35</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Fathers-Rights.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Fathers-Rights.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.modarticles.org/choose-the-best-seperation-lawyers.html|0|orange county divorce lawyer|2012-02-22|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|36</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Guardianship.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Guardianship.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Legal-Separation.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Legal-Separation.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Tustin/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-11-20|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.consultantslist.net/listing_reports.php?report=website&#38;id=281|0| |2011-12-13|1|0|0|0|0|0|0|http://www.fathersrightslaw.net|6</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Marriage.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Marriage.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Modification-Proceedings.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Modification-Proceedings.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Paternity-Proceedings.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Paternity-Proceedings.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Relocation-Proceedings.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Relocation-Proceedings.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Newport-Coast/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-12-14|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Restraining-Orders.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Restraining-Orders.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Spousal-Maintenance.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Spousal-Maintenance.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Spousal-Support.aspx|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Irvine/Spousal-Support.aspx|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Community-Property.aspx?pageid=2|0|visit website|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Community-Property.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-29|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.mbceo.com/category/news/page/6|0|orange county divorce attorney|2012-02-13|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|37</Row>
+			<Row>http://www.the-business-search.com/biz/12077135-Albert-A-Fiore|0|http://www.fathersrightslaw.net|2008-03-27|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|15</Row>
+			<Row>http://www.the-business-search.com/biz/12077135-Albert-A-Fiore?favadd=thisbiz|0|http://www.fathersrightslaw.net|2008-05-12|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|15</Row>
+			<Row>http://caraccidentorangecounty.com/top?top=yes&#38;site_url=http://www.fathersrightslaw.net|0| |2012-02-10|0|0|0|1|0|0|0|http://www.fathersrightslaw.net|38</Row>
+			<Row>http://local.timeswv.com/south-gate-ca wv/attorneys pardons and parole.zq.html|0|view website|2010-07-08|0|0|1|0|0|0|0|http://www.fathersrightslaw.net|10</Row>
+			<Row>http://findafamilyattorney.com/California/Orange/Tustin/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-11-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.quikr.eu/what-to-look-for-in-seperation-attorneys|0|orange county divorce lawyer|2012-02-11|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|39</Row>
+			<Row>http://www.quikr.eu/what-to-look-for-in-seperation-attorneys|0|family law services|2012-02-11|0|0|0|0|0|0|0|http://www.fathersrightslaw.net/services.htm|39</Row>
+			<Row>http://laokay.com/Family-Law-in-Orange-County-California.htm|0|albert a. fiore, family law attorney|2012-02-06|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|0</Row>
+			<Row>http://www.findafamilyattorney.com/California/Fresno/Fowler/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.californiaattorneylawyers.com/detail/168980/albert-a-fiore.html|0|http://www.fathersrightslaw.net|2010-06-27|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://local.nbc11news.com/irvine-ca co/divorce and family law attorneys.zq.html|0|view website|2010-08-03|0|0|1|0|0|0|0|http://www.fathersrightslaw.net|30</Row>
+			<Row>http://allaboutarticles.info/?p=222077|0|divorce attorney|2012-02-23|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|40</Row>
+			<Row>http://findafamilyattorney.com/California/Orange/Westminster/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-11-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.cylex-usa.com/company/albert-a-fiore-290783.html|0|www.fathersrightslaw.net|2012-02-07|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|41</Row>
+			<Row>http://www.findafamilyattorney.com/California/Guardianship.aspx?pageid=7|0|www.fathersrightslaw.net/|2010-08-03|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Guardianship.aspx?pageid=7|0|visit website|2010-08-03|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Santa-Barbara/Santa-Ynez/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Paternity-Proceedings.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Paternity-Proceedings.aspx?pageid=2|0|visit website|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Westminster/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-12-13|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/San-Joaquin/French-Camp/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.pspgamesdownloads.info/?feed=rss2&#38;tag=attorney|0|albert fiore|2012-02-15|0|0|0|0|0|0|0|http://www.fathersrightslaw.net/about.htm|29</Row>
+			<Row>http://www.pspgamesdownloads.info/?feed=rss2&#38;tag=attorney|0|orange county divorce lawyer|2012-02-15|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|29</Row>
+			<Row>http://www.findafamilyattorney.com/California/Sonoma/Cotati/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.californiaattorneylawyers.com/detail/144/albert-a-fiore.html|0|http://www.fathersrightslaw.net|2010-06-22|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://the-business-search.com/biz/12077135-Albert-A-Fiore|0|http://www.fathersrightslaw.net|2008-06-09|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|15</Row>
+			<Row>http://iowahypnotist.com/iowahypnotist/tag/law|0|orange county family law|2012-02-22|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|11</Row>
+			<Row>http://lawfirmattorney.com/irvine-ca-divorce-attorney-law-office-of-albert-a-fiore-339964.php|0|visit my web site|2012-02-22|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|42</Row>
+			<Row>http://lawfirmattorney.com/irvine-ca-divorce-attorney-law-office-of-albert-a-fiore-339964.php|0|view my web site|2012-02-22|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|42</Row>
+			<Row>http://www.californiaattorneylawyers.com/detail/132615/albert-a-fiore.html|0|http://www.fathersrightslaw.net|2010-08-01|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://www.findafamilyattorney.com/California/Monterey/Marina/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://articlepure.com/find-an-attorney-in-seperation-battles|0|orange county divorce attorney|2011-12-13|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|43</Row>
+			<Row>http://divorcelawyersincalifornia.com/law-office-of-albert-a-fiore.php|0|http://www.fathersrightslaw.net|2012-02-20|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|44</Row>
+			<Row>http://www.findafamilyattorney.com/California/Legal-Separation.aspx?pageid=7|0|www.fathersrightslaw.net/|2010-08-03|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Legal-Separation.aspx?pageid=7|0|visit website|2010-08-03|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.californiaattorneylawyers.com/detail/152255/albert-a-fiore.html|0|http://www.fathersrightslaw.net|2010-10-05|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://www.californiaattorneylawyers.com/tag/General Practice Attorneys|0|albert a fiore|2011-03-31|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://www.californiaattorneylawyers.com/tag/General Practice Attorneys|0| |2011-03-31|0|0|0|1|0|0|0|http://www.fathersrightslaw.net|5</Row>
+			<Row>http://www.ontowns.com/Albert-A-Fiore-2652981.profile.htm|0|http://www.fathersrightslaw.net|2008-05-16|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://www.ontowns.com/Albert-A-Fiore-2652981.profile.htm|0|website|2008-05-16|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://advertisingforlawfirms.com/tag/family-law|0|orange county family law|2012-02-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|8</Row>
+			<Row>http://advertisingforlawfirms.com/tag/family-law|0|orange county divorce attorney|2012-02-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|8</Row>
+			<Row>http://www.findafamilyattorney.com/California/Sonoma/Forestville/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://advertisingforlawfirms.com/tag/divorce|0|orange county family law|2012-02-05|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|8</Row>
+			<Row>http://advertisingforlawfirms.com/tag/divorce|0|orange county divorce attorney|2012-02-05|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|8</Row>
+			<Row>http://www.the-business-search.com/cat-4462-60005/General-Practice|0|url|2008-01-20|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|15</Row>
+			<Row>http://whatissplitdollarlifeinsurance.com/life/tag/misc|0|orange county family law|2012-02-06|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|17</Row>
+			<Row>http://www.findafamilyattorney.com/California/San-Mateo/Atherton/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.the-business-search.com/cat-4462-60005/General-Practice-Attorneys|0|url|2008-01-20|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|15</Row>
+			<Row>http://www.findafamilyattorney.com/California/San-Joaquin/Lathrop/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://findafamilyattorney.com/California/Orange/Fountain-Valley/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-12-12|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://the-business-search.com/cat-4462-60005/General-Practice|0|url|2008-05-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|15</Row>
+			<Row>http://the-business-search.com/cat-4462-60005/General-Practice-Attorneys|0|url|2008-05-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|15</Row>
+			<Row>http://advertisingforlawfirms.com/tag/family-law/feed|0|orange county divorce attorney|2012-02-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|8</Row>
+			<Row>http://advertisingforlawfirms.com/tag/family-law/feed|0|orange county family law|2012-02-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|8</Row>
+			<Row>http://www.findafamilyattorney.com/California/Sonoma/Petaluma/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://legalforms001.com/California_Attorneys_On_Line.aspx|0|www.fathersrightslaw.net|2012-02-23|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|45</Row>
+			<Row>http://www.ontowns.com/advice_california_legal.a52.product|0|http://www.fathersrightslaw.net|2008-03-27|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://www.ontowns.com/advice_california_legal.a52.product|0|web|2008-03-27|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|7</Row>
+			<Row>http://findafamilyattorney.com/California/Orange/Garden-Grove/Family-Law.aspx|0|http://www.fathersrightslaw.net/|2009-11-18|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Relocation-Proceedings.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Relocation-Proceedings.aspx?pageid=2|0|visit website|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://ireference.org/tag/divorce/feed|0|orange county divorce attorney|2012-02-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|25</Row>
+			<Row>http://www.cityfos.com/Albert-A-Fiore-2652981.map.htm|0|http://www.fathersrightslaw.net|2012-01-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|46</Row>
+			<Row>http://www.findafamilyattorney.com/Profiles/Law-Office-of-Albert-A-Fiore.aspx|0|www.fathersrightslaw.net/|2010-08-03|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/Profiles/Law-Office-of-Albert-A-Fiore/Contact-Us.aspx|0|www.fathersrightslaw.net/|2010-08-03|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.webmii.ch/Result.aspx?f=Al&#38;l=Fiore&#38;r=intl|0|http://www.fathersrightslaw.net/services.htm|2012-02-06|0|0|1|0|0|0|0|http://www.fathersrightslaw.net/services.htm|47</Row>
+			<Row>http://www.findafamilyattorney.com/California/Sonoma/Rohnert-Park/Family-Law.aspx|0| |2012-02-19|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://at.la/@la-law/oc-irvine.htm|0|fiore, albert a.|2012-02-15|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|32</Row>
+			<Row>http://www.findafamilyattorney.com/Profiles/Law-Office-of-Albert-A-Fiore/Profile.aspx|0|www.fathersrightslaw.net/|2010-08-26|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Restraining-Orders.aspx?pageid=2|0|www.fathersrightslaw.net/|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+			<Row>http://www.findafamilyattorney.com/California/Orange/Restraining-Orders.aspx?pageid=2|0|visit website|2010-08-25|0|0|0|0|0|0|0|http://www.fathersrightslaw.net|4</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="48" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD">
+			<Row>0|laokay.com|162171|17119|4704630|239621|58678|2006-10-13|2012-02-25|67.228.196.151|67.228.196.0|US|com</Row>
+			<Row>1|divorcelawyersorangecountycalifornia.com|-1|28|212|21|10|2011-04-08|2012-02-21| | | |com</Row>
+			<Row>2|ezeen.net|231271|12950|947957|113276|30080|2008-11-24|2012-02-24|210.1.58.138|210.1.58.0|TH|net</Row>
+			<Row>3|at-la.com|240464|29500|521541|47399|28356|2006-08-06|2012-02-25|206.126.142.83|206.126.142.0|US|com</Row>
+			<Row>4|findafamilyattorney.com|-1|611|138888|314110|236210|2006-10-17|2012-02-25|216.87.172.122|216.87.172.0|US|com</Row>
+			<Row>5|californiaattorneylawyers.com|-1|357|5904|669502|158001|2010-05-23|2012-02-25|70.86.13.35|70.86.13.0|US|com</Row>
+			<Row>6|consultantslist.net|-1|80|268|54237|30778|2009-07-14|2012-02-25|64.6.106.227|64.6.106.0|US|net</Row>
+			<Row>7|ontowns.com|202666|3654|48252|6375547|1507135|2007-04-24|2012-02-25|210.116.122.185|210.116.122.0|JP|com</Row>
+			<Row>8|advertisingforlawfirms.com|-1|1658|20801|41054|18634|2010-01-13|2012-02-25|12.132.193.51|12.132.193.0|US|com</Row>
+			<Row>9|hotfrog.com|2758|49078|7238471|6535125|526032|2008-01-18|2012-02-24|98.129.43.34|98.129.43.0|US|com</Row>
+			<Row>10|timeswv.com|637681|25442|521040|15468414|803333|2006-11-05|2012-02-25|74.84.203.173|74.84.203.0|US|com</Row>
+			<Row>11|iowahypnotist.com|-1|478|1913|29438|12001|2010-08-17|2012-02-25|174.120.220.179|174.120.220.0|US|com</Row>
+			<Row>12|giga-furniture.com|-1|82|131281|3811875|180048|2007-12-13|2012-02-25|202.172.28.67|202.172.28.0|JP|com</Row>
+			<Row>13|seductionsingapore.co.cc|-1|316|4202|18069|2225|2011-01-31|2012-02-24|64.64.6.63|64.64.6.0|SG|cc</Row>
+			<Row>14|maaminc.com|-1|461|1929|46625|22501|2008-07-27|2012-02-25|66.147.244.155|66.147.244.0|US|com</Row>
+			<Row>15|the-business-search.com|-1|101|166|2166420|275542|2007-02-05|2009-07-15|193.164.131.16|193.164.131.0|DE|com</Row>
+			<Row>16|articlesevents.com|-1|3158|16090|96386|22185|2009-01-20|2012-02-25|69.64.147.216|69.64.147.0|US|com</Row>
+			<Row>17|whatissplitdollarlifeinsurance.com|-1|121|246|20443|4958|2009-05-27|2012-02-25|69.41.242.9|69.41.242.0|US|com</Row>
+			<Row>18|articledirectory.name|76825|8111|794245|651019|279973|2009-07-11|2012-02-25|67.18.137.226|67.18.137.0|US|name</Row>
+			<Row>19|at-oc.com|-1|1713|6154|6266|4208|2007-01-02|2012-02-25|206.126.142.90|206.126.142.0|US|com</Row>
+			<Row>20|towernetweb.com|-1|105|772|32231|13981|2010-05-09|2012-02-25|68.178.232.100|68.178.232.0|US|com</Row>
+			<Row>21|liabilitypersonalinjury.com|-1|60|10008|27389|5993|2011-02-16|2012-02-14|69.175.2.228|69.175.2.0|US|com</Row>
+			<Row>22|webmii.co.uk|-1|230|3321348|27182077|541285|2009-12-09|2012-02-25|195.95.224.130|195.95.224.0|FR|uk</Row>
+			<Row>23|articleeffort.com|-1|3535|23190|34179|4382|2011-08-17|2012-02-25| | | |com</Row>
+			<Row>24|uniquetopgifts.com|-1|161|4829|38695|9857|2008-01-23|2012-02-25|68.178.232.100|68.178.232.0|US|com</Row>
+			<Row>25|ireference.org|-1|907|5142|233136|129517|2007-12-26|2012-02-25|67.227.132.28|67.227.132.0|US|org</Row>
+			<Row>26|totheglobe.info|153799|3975|25995|222501|71162|2007-12-14|2012-02-25|74.55.39.203|74.55.39.0|US|info</Row>
+			<Row>27|7life7.com|-1|265|10273|11753695|840584|2009-12-22|2012-02-25|174.122.236.252|174.122.236.0|US|com</Row>
+			<Row>28|thegeniusblog.org|873243|2837|14978|205988|30997|2010-12-05|2012-02-25|67.18.45.7|67.18.45.0|US|org</Row>
+			<Row>29|pspgamesdownloads.info|-1|1781|10240|297294|133566|2010-08-01|2012-02-25|65.254.248.141|65.254.248.0|US|info</Row>
+			<Row>30|nbc11news.com|387204|23472|207876|19271450|871232|2006-11-08|2012-02-25|193.184.164.152|193.184.164.0|FI|com</Row>
+			<Row>31|123aaron.com|-1|1073|130590|52632|33825|2006-10-25|2012-02-25|74.54.56.146|74.54.56.0|US|com</Row>
+			<Row>32|at.la|-1|1506|6373|5530|4186|2006-10-13|2012-02-25|206.126.142.83|206.126.142.0|US|la</Row>
+			<Row>33|divorcelawyerdir.com|-1|41|84|247|241|2011-11-04|2012-02-25|72.44.85.54|72.44.85.0|US|com</Row>
+			<Row>34|world-class-articles.com|-1|4880|36688|205893|45308|2007-11-22|2012-02-25|74.53.110.130|74.53.110.0|US|com</Row>
+			<Row>35|attorneysinformationreferralservices.com|-1|94|887|14557|8238|2010-06-08|2012-02-25|67.228.179.152|67.228.179.0|US|com</Row>
+			<Row>36|modarticles.org|-1|1407|5775|32556|5207|2011-04-29|2012-02-25| | | |org</Row>
+			<Row>37|mbceo.com|-1|2691|15848|6310498|302517|2006-07-28|2012-02-25|75.126.243.12|75.126.243.0|US|com</Row>
+			<Row>38|caraccidentorangecounty.com|-1|65|12459|2042|1065|2010-10-27|2012-02-15|69.175.2.228|69.175.2.0|US|com</Row>
+			<Row>39|quikr.eu|393254|939|162507|62951|20125|2010-07-16|2012-02-25|205.234.236.51|205.234.236.0|US|eu</Row>
+			<Row>40|allaboutarticles.info|-1|3721|32572|103189|23867|2011-04-15|2012-02-25|118.219.232.177|118.219.232.0|SG|info</Row>
+			<Row>41|cylex-usa.com|50944|8714|729868|12111958|1406373|2008-10-18|2012-02-25|82.207.174.148|82.207.174.0|DE|com</Row>
+			<Row>42|lawfirmattorney.com|-1|191|1027378|930290|190500|2006-07-27|2012-02-25|74.53.201.242|74.53.201.0|US|com</Row>
+			<Row>43|articlepure.com|-1|5444|44508|79220|7960|2011-06-15|2012-02-21| | | |com</Row>
+			<Row>44|divorcelawyersincalifornia.com|-1|11|16|2399|2292|2011-04-01|2012-02-25|67.222.22.232|67.222.22.0|US|com</Row>
+			<Row>45|legalforms001.com|-1|452|1203|522|327|2009-10-17|2012-02-25|207.46.222.29|207.46.222.0|US|com</Row>
+			<Row>46|cityfos.com|-1|511|43612|254787|39457|2011-04-24|2012-02-25| | | |com</Row>
+			<Row>47|webmii.ch|-1|238|3474739|42596315|380436|2009-12-05|2012-02-25|195.95.224.130|195.95.224.0|FR|ch</Row>
+		</DataTable>
+	</DataTables>
+</Result>

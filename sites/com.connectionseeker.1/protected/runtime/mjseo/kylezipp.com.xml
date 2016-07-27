@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="0" IndexType="1" RemainingAnalysisResUnits="103070000" RemainingDetailedReportsPerPeriod="989" RemainingRetrievalResUnits="20254133" RemainingStandardReports="989" ServerBuild="2012-04-06 19:21:42" ServerName="OPYRT" ServerVersion="1.0.4479.33051"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="0" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID" BackLinkItem="kylezipp.com" BackLinkType="RootDomain" TotalBackLinks="0" TotalLines="0" TotalMatches="0">
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="0" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD">
+		</DataTable>
+	</DataTables>
+</Result>

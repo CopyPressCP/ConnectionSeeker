@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="291" IndexType="0" RemainingAnalysisResUnits="103360000" RemainingDetailedReportsPerPeriod="989" RemainingRetrievalResUnits="20362566" RemainingStandardReports="989" ServerBuild="2012-04-04 15:35:30" ServerName="SILVERTHORNE" ServerVersion="1.0.4477.26265"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="291" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID" BackLinkItem="bankruptcyattorneycareer.com" BackLinkType="RootDomain" TotalBackLinks="513" TotalLines="291" TotalMatches="291">
+			<Row>http://www.akwaibomstategov.com|8|a lawyer|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|0</Row>
+			<Row>http://huttolawyer.com|7|fee and salary for hiring lawyer|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney-s-fee-and-salary-2|1</Row>
+			<Row>http://www.solutionfinder.org.uk|7|personal bankruptcy defense|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|2</Row>
+			<Row>http://russads.com|7|chapter seven|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|3</Row>
+			<Row>http://www.opirguoft.org|7|exprienced attorney|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|4</Row>
+			<Row>http://www.bestcareer-4you.com|7|fee and salary for hiring lawyer|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney-s-fee-and-salary-2|5</Row>
+			<Row>http://www.bestcareer-4you.com|7|career|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney|5</Row>
+			<Row>http://inside.oberlin.edu/toomanynotes/entries/so-what-about-women.shtml|5|bankruptcy lawyer|2012-02-24|0|0|1|0|0|0|0|http://bankruptcyattorneycareer.com|6</Row>
+			<Row>http://www.uvapostbacpremed.info|5|choosing an experienced lawyer|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/how-to-choose-a-bankruptcy-attorney-2|7</Row>
+			<Row>http://www.wealth-management-tips.com/category/main-content/debt-management|4|bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.wealth-management-tips.com/category/main-content/debt-management|4|bankruptcy’s faq|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.businessconcernfacts.com|4|salary legal professional|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney-s-fee-and-salary-2|9</Row>
+			<Row>http://mortgage.c65.net|4|salary and fee|2012-02-20|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney-s-fee-and-salary-2|10</Row>
+			<Row>http://www.nishidosousa.com|4|this link|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/the-process-of-how-for-filing-a-bankruptcy-petition|11</Row>
+			<Row>http://jdfdesign.com|4|free bankruptcy attorney, click here!!!|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|12</Row>
+			<Row>http://bankruptcydirection.info|3|bankruptcy attorney career|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|13</Row>
+			<Row>http://brittany4hd84.com/page/2|2|bankruptcy attorney|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|14</Row>
+			<Row>http://how-to-get-a-girl-to-like-you.net/category/alpha-male|2|bankruptcy attorney|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|15</Row>
+			<Row>http://www.feedage.com/blender/blender.php?id=1264142|2|chapter 7&#39;s attorneys|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|16</Row>
+			<Row>http://www.feedage.com/blender/blender.php?id=1264142|2|bankruptcy lawyer|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|16</Row>
+			<Row>http://www.feedage.com/blender/blender.php?id=1264142|2|the process of how for filing a bankruptcy petition|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/the-process-of-how-for-filing-a-bankruptcy-petition|16</Row>
+			<Row>http://www.feedage.com/blender/blender.php?id=1264143|2|bankruptcy lawyer|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|16</Row>
+			<Row>http://www.feedage.com/blender/blender.php?id=1264143|2|the process of how for filing a bankruptcy petition|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/the-process-of-how-for-filing-a-bankruptcy-petition|16</Row>
+			<Row>http://www.feedage.com/blender/blender.php?id=1264143|2|chapter 7&#39;s attorneys|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|16</Row>
+			<Row>http://www.akwaibomstategov.com/feed|2|a lawyer|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|0</Row>
+			<Row>http://www.aaceivallegrandesection.com|2|a lawyer|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|17</Row>
+			<Row>http://www.learnhowtotrade.org/category/credit-cards|1|(department of bankrutpcy attorney)|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.makingapersonalinjuryclaim.org/tag/attorney/feed|0|attorney for bankruptcy.|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|19</Row>
+			<Row>http://www.makingapersonalinjuryclaim.org/tag/attorney/feed|0|bankruptcy attorney|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|19</Row>
+			<Row>http://russads.com/page/2|0|choosing the best bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/effective-tips-for-choosing-a-right-bankruptcy-attorney|3</Row>
+			<Row>http://www.learnhowtotrade.org/tag/bankruptcy-lawyer|0|bankruptcy attorney|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/bankruptcy-lawyer|0|bankruptcy’s faq|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/financial|0|bankruptcy attorney|2012-02-14|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|20</Row>
+			<Row>http://privateloanmortgage.com/search/home-loan|0|lawyer for bankrupty.|2012-02-10|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|21</Row>
+			<Row>http://wrtac.org|0|bankruptcy petition|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/the-process-of-how-for-filing-a-bankruptcy-petition|22</Row>
+			<Row>http://wrtac.org|0|bankruptcy resources page|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|22</Row>
+			<Row>http://www.solutionfinder.org.uk/minnesota-personal-bankruptcy-legal-professional-that-means-and-introduction-of-a-creditor|0|bankruptcy lawyer|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|2</Row>
+			<Row>http://sandtra.com|0|bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|23</Row>
+			<Row>http://www.learnhowtotrade.org/tag/bankruptcy/feed|0|lawyer for bankrupty.|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/bankruptcy/feed|0|attorney for bankruptcy|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/bankruptcy/feed|0|attorney for bankrupty.|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.minasexporta.com/tag/career-2|0|bankruptcy attorney.|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|24</Row>
+			<Row>http://www.wealth-management-tips.com/tag/attorney|0|bankruptcy’s faq|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.wealth-management-tips.com/tag/attorney|0|our bankruptcy attorney.|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.wealth-management-tips.com/tag/attorney|0|attorney for bankruptcy.|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.wealth-management-tips.com/tag/attorney|0|bankruptcy attorney|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.akanyangafrica.co.za/2012/02|0|bankruptcy lawyers|2012-02-10|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|25</Row>
+			<Row>http://www.stmarysmgmts.org/tag/bankruptcy|0|bankruptcy attorney.|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|26</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/business|0|bankruptcy attorney|2012-02-14|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|20</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=mortgage|0|bankruptcy lawyer|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.stmarysmgmts.org/tag/bankruptcy-attorney|0|bankruptcy attorney.|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|26</Row>
+			<Row>http://privateloanmortgage.com/california-bankruptcy-laws-learning-the-best-way-to-use-them|0|lawyer for bankrupty.|2012-02-17|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|21</Row>
+			<Row>http://privateloanmortgage.com/california-bankruptcy-laws-learning-the-best-way-to-use-them?donttouchthis=true|0|lawyer for bankrupty.|2012-02-17|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|21</Row>
+			<Row>http://www.akanyangafrica.co.za/2012/02/08|0|bankruptcy lawyers|2012-02-17|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|25</Row>
+			<Row>http://www.stmarysmgmts.org/page/5/?option=com_content&#38;task=view&#38;id=19&#38;Itemid=32|0|bankruptcy attorney.|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|26</Row>
+			<Row>http://www.primesouth.biz/tag/career|0|bankruptcy attorney|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|28</Row>
+			<Row>http://www.primesouth.biz/tag/career|0|bankruptcy’s faq|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|28</Row>
+			<Row>http://www.itecodeclaration.org/tag/career|0|attorney for bankruptcy|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|29</Row>
+			<Row>http://www.market-forex.info/?nobid=1|0|bankruptcy attorney.|2012-02-17|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|30</Row>
+			<Row>http://www.reducemydebts.org/page/3|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|31</Row>
+			<Row>http://www.letmeknowitall.com/tag/lawyer/feed|0|successful bankruptcy legal professional|2012-02-20|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.letmeknowitall.com/tag/lawyer/feed|0|have to have efficient bankruptcy lawyer|2012-02-20|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.letmeknowitall.com/tag/lawyer/feed|0|attorney for bankruptcy|2012-02-20|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.letmeknowitall.com/tag/bankruptcy|0|attorney for bankruptcy|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.letmeknowitall.com/tag/bankruptcy|0|have to have efficient bankruptcy lawyer|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.itecodeclaration.org/tag/bankruptcy|0|attorney for bankruptcy|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|29</Row>
+			<Row>http://www.letmeknowitall.com/tag/bankruptcy/feed|0|bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.letmeknowitall.com/tag/bankruptcy/feed|0|attorney for bankruptcy|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.letmeknowitall.com/tag/bankruptcy/feed|0|attorney for bankruptcy.|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.letmeknowitall.com/tag/bankruptcy/feed|0|have to have efficient bankruptcy lawyer|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.letmeknowitall.com/tag/bankruptcy/feed|0|bankruptcy attorney.|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.letmeknowitall.com/tag/bankruptcy/feed|0|successful bankruptcy legal professional|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.webvoiceover.com/tag/attorney|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|33</Row>
+			<Row>http://www.webvoiceover.com/tag/attorney|0|bankruptcy’s faq|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|33</Row>
+			<Row>http://www.reducemydebts.org/tag/bankruptcy/feed|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|31</Row>
+			<Row>http://www.presenttensevolunteers.org/must-i-use-my-retirement-fund-to-go-over-urgent-economic-demands|0|bankruptcy attorney|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|34</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/bankruptcy/feed|0|lawyer for bankrupty.|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|20</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/bankruptcy/feed|0|bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|20</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/bankruptcy/page/2|0|bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|20</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/bankruptcy/page/2|0|lawyer for bankrupty.|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|20</Row>
+			<Row>http://www.resolveyourdebtonline.com/a rel=|0|bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/a rel=|0|bankruptcy’s faq|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.webvoiceover.com/tag/attorney/feed|0|bankruptcy’s faq|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|33</Row>
+			<Row>http://www.webvoiceover.com/tag/attorney/feed|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|33</Row>
+			<Row>http://007chaxun.com/?author=1|0|a bankruptcy proceeding assist|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|35</Row>
+			<Row>http://thefibercast.com/feed|0|bankruptcy attorney|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|36</Row>
+			<Row>http://thefibercast.com/feed|0|bankruptcy’s faq|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|36</Row>
+			<Row>http://www.permaculture.org/nm/index.php/member/memberlist/0-total_posts-desc-20-220|0|http://bankruptcyattorneycareer.com/|2012-02-17|0|0|0|1|0|0|0|http://bankruptcyattorneycareer.com|37</Row>
+			<Row>http://www.cheaphouseinsuranceblog.com/page/3|0|attorney for bankruptcy|2012-02-20|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|38</Row>
+			<Row>http://hbcapitalpartners.net/blog/category/uncategorized/page/4|0|(department of bankrutpcy attorney)|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|39</Row>
+			<Row>http://ieeemems.org/?snc=15601|0|bankruptcy attorney|2012-02-09|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|40</Row>
+			<Row>http://huttolawyer.com/tag/attorney/feed|0|attorney for bankrupty.|2012-02-20|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|1</Row>
+			<Row>http://theacaipills.com/category/business/feed|0|bankruptcy attorney|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|41</Row>
+			<Row>http://www.newportmesameasurea.com/feed|0|bankruptcy’s faq|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|42</Row>
+			<Row>http://www.newportmesameasurea.com/feed|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|42</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=filing-bankruptcy|0|this link|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/the-process-of-how-for-filing-a-bankruptcy-petition|27</Row>
+			<Row>http://www.wealth-management-tips.com/?imrn|0|bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.wealth-management-tips.com/?imrn|0|bankruptcy’s faq|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://topics-advice.com/legal/category/regulatory-compliance|0|bankruptcy attorney|2012-02-07|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|43</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/loan|0|the process of how for filing a bankruptcy petition|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/the-process-of-how-for-filing-a-bankruptcy-petition|20</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/loan|0|chapter 7′s attorneys|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|20</Row>
+			<Row>http://www.gdsol.uta.cl/wiki/index.php/Usuario:Tirta_guna_two_reinle|0|bankruptcy attorney|2012-02-14|0|0|1|0|0|0|0|http://bankruptcyattorneycareer.com|44</Row>
+			<Row>http://www.gdsol.uta.cl/wiki/index.php/Usuario:Tirta_guna_two_reinle|0|bankruptcy lawyer|2012-02-14|0|0|1|0|0|0|0|http://bankruptcyattorneycareer.com|44</Row>
+			<Row>http://www.graspweb.com/?p=d|0|bankruptcy attorney|2012-02-07|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|45</Row>
+			<Row>http://hmjproject.com/tag/career|0|bankruptcy attorney.|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|46</Row>
+			<Row>http://www.graspweb.com/?p=h|0|bankruptcy attorney|2012-02-07|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|45</Row>
+			<Row>http://www.makingapersonalinjuryclaim.org/tag/bankruptcy/feed|0|attorney for bankruptcy.|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|19</Row>
+			<Row>http://www.makingapersonalinjuryclaim.org/tag/bankruptcy/feed|0|bankruptcy attorney|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|19</Row>
+			<Row>http://tudojoia.org/?tag=bankruptcy|0|attorney for bankruptcy|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|47</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=bankruptcy|0|filing bankruptcy attorney form|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=bankruptcy|0|your selected bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=bankruptcy|0|bankruptcy lawyer|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=bankruptcy|0|attorney for bankruptcy.|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=bankruptcy|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.wealth-management-tips.com/page/2/?imrn|0|bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.wealth-management-tips.com/page/2/?imrn|0|bankruptcy’s faq|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.wealth-management-tips.com/page/3|0|bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.portlandbeyond2020.com/page/3|0|bankruptcy attorney|2012-02-07|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|48</Row>
+			<Row>http://www.free-gifts-and-discounts.co.uk/tag/bankruptcy|0|bankruptcy attorney|2012-02-12|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|49</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/business/feed|0|bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|20</Row>
+			<Row>http://www.cordsen.info/tag/career|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|50</Row>
+			<Row>http://www.cordsen.info/tag/career|0|bankruptcy’s faq|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|50</Row>
+			<Row>http://www.forexmanagedaccounts4u.co.uk/tag/balance|0|bankruptcy attorney|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|51</Row>
+			<Row>http://www.wealth-management-tips.com/page/5|0|bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=bankruptcy-attorney|0|bankruptcy’s faq|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=bankruptcy-attorney|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=bankruptcy-attorney|0|attorney for bankruptcy.|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/applyforcreditcardapplications.com/the-best-credit-card-search-a-comparative-study-between-visa-and-mastercard|0|filing bankruptcy attorney form|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/applyforcreditcardapplications.com/the-best-credit-card-search-a-comparative-study-between-visa-and-mastercard|0|bankruptcy lawyer|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/applyforcreditcardapplications.com/the-best-credit-card-search-a-comparative-study-between-visa-and-mastercard|0|your selected bankruptcy attorney|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.publishedrage.com/tag/bankruptcy-attorney|0|bankruptcy attorney career|2012-02-10|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|52</Row>
+			<Row>http://gloucestercountycancercoalition.org/tag/career|0|filing for composing petition|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/the-process-of-how-for-filing-a-bankruptcy-petition|53</Row>
+			<Row>http://gloucestercountycancercoalition.org/tag/career|0|bankruptcy attorneys|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|53</Row>
+			<Row>http://www.buycarwithbadcredit.net/tag/bankruptcy|0|attorney for bankruptcy.|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|54</Row>
+			<Row>http://www.buycarwithbadcredit.net/tag/bankruptcy|0|bankruptcy attorney|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|54</Row>
+			<Row>http://www.buycarwithbadcredit.net/tag/bankruptcy|0|lawyer for bankrupty.|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|54</Row>
+			<Row>http://www.buycarwithbadcredit.net/tag/bankruptcy|0|filing bankruptcy attorney form|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|54</Row>
+			<Row>http://www.buycarwithbadcredit.net/tag/bankruptcy|0|your selected bankruptcy lawyer|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|54</Row>
+			<Row>http://www.skanska-akademien.org/?tag=attorney|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|55</Row>
+			<Row>http://www.skanska-akademien.org/?tag=attorney|0|bankruptcy’s faq|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|55</Row>
+			<Row>http://www.newportmesameasurea.com/author/admin|0|bankruptcy’s faq|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|42</Row>
+			<Row>http://www.newportmesameasurea.com/author/admin|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|42</Row>
+			<Row>http://www.akanyangafrica.co.za/federal-credit-card-debt-collection-procedures-act-rights|0|bankruptcy lawyers|2012-02-17|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|25</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/loan/feed|0|the process of how for filing a bankruptcy petition|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/the-process-of-how-for-filing-a-bankruptcy-petition|20</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/loan/feed|0|chapter 7′s attorneys|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|20</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=business|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=education|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.phollow.me/tag/attorney|0|bankruptcy attorney|2012-02-22|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|57</Row>
+			<Row>http://www.phollow.me/tag/attorney|0|bankruptcy’s faq|2012-02-22|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|57</Row>
+			<Row>http://www.forexmanagedaccounts4u.co.uk/tag/interest|0|bankruptcy attorney|2012-02-22|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|51</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=entertainment|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/credit/feed|0|bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|20</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=family|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://bestmortgageratetips.info/blog/tag/credit/page/2|0|bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|20</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=fashion|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=finance|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=games|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=general|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.theblogfactory.net/tag/bankruptcy|0|bancruptcy help|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/effective-tips-for-choosing-a-right-bankruptcy-attorney|58</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=health|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=bankruptcy-lawyer|0|bankruptcy’s faq|2012-02-09|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=bankruptcy-lawyer|0|bankruptcy attorney|2012-02-09|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=internet|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=life-style|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.wealth-management-tips.com/tag/bankruptcy-attorney|0|bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.wealth-management-tips.com/tag/bankruptcy-attorney|0|bankruptcy’s faq|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=other|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=people|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=society|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.buycarwithbadcredit.net/tag/business/page/3|0|bankruptcy attorney|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|54</Row>
+			<Row>http://www.buycarwithbadcredit.net/tag/business/page/3|0|bankruptcy’s faq|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|54</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=sports|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=technology|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=travel|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=web-design|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;category=world-news|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.learnhowtotrade.org/tag/lawyer|0|attorney for bankruptcy|2012-02-17|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/lawyer|0|lawyer for bankrupty.|2012-02-17|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;part=alltime|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;part=month|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.widgetlike.com/index.php?page=7&#38;part=recent|0|http://bankruptcyattorneycareer.com/|2012-02-04|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|56</Row>
+			<Row>http://www.akanyangafrica.co.za/page/2|0|bankruptcy lawyers|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|25</Row>
+			<Row>http://www.wealth-management-tips.com/category/main-content/personal-finances-main-content/budgeting/feed|0|bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://www.eatatyoshis.com/tag/finance-2|0|want productive bankruptcy legal professional|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|59</Row>
+			<Row>http://www.thegrapevineblog.info/tag/bankruptcy-attorney|0|bankruptcy attorney|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|60</Row>
+			<Row>http://www.thegrapevineblog.info/tag/bankruptcy-attorney|0|bankruptcy’s faq|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|60</Row>
+			<Row>http://www.bad-credit-remortgage-advice.co.uk/tag/judgment|0|bankruptcy’s faq|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|61</Row>
+			<Row>http://www.bad-credit-remortgage-advice.co.uk/tag/judgment|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|61</Row>
+			<Row>http://www.outdoor-bbqgrills.com/category/bbq-grill-store/weber-store/weber-accessories/accessories-tools|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|62</Row>
+			<Row>http://www.detailsdetails.biz/page/5|0|bankruptcy attorney|2012-02-12|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|63</Row>
+			<Row>http://www.bad-credit-remortgage-advice.co.uk/tag/bankruptcy-attorney|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|61</Row>
+			<Row>http://www.bad-credit-remortgage-advice.co.uk/tag/bankruptcy-attorney|0|bankruptcy’s faq|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|61</Row>
+			<Row>http://www.learnhowtotrade.org/page/2|0|(department of bankrutpcy attorney)|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/debt|0|(department of bankrutpcy attorney)|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.pfotm.org/tag/business-2/feed|0|productive bankruptcy legal professional|2012-02-22|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|64</Row>
+			<Row>http://www.phollow.me/tag/bankruptcy|0|bankruptcy attorney|2012-02-22|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|57</Row>
+			<Row>http://www.phollow.me/tag/bankruptcy|0|bankruptcy’s faq|2012-02-22|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|57</Row>
+			<Row>http://esolarpowergreen.com/category/e-solar-power/page/3|0|bankruptcy attorney|2012-02-06|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|65</Row>
+			<Row>http://www.wealth-management-tips.com/tag/financial/feed|0|bankruptcy attorney|2012-02-07|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://seroglucompany.eu/?format=feed&#38;type=atom|0|bankruptcy attorney s fee and salary|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney-s-fee-and-salary-2|66</Row>
+			<Row>http://seroglucompany.eu/?format=feed&#38;type=rss|0|bankruptcy attorney s fee and salary|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney-s-fee-and-salary-2|66</Row>
+			<Row>http://seroglucompany.eu/?option=com_aicontactsafe&#38;view=message&#38;layout=message&#38;pf=3&#38;Itemid=5|0|bankruptcy attorney s fee and salary|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney-s-fee-and-salary-2|66</Row>
+			<Row>http://seroglucompany.eu/?option=com_content&#38;view=article&#38;id=5&#38;Itemid=4|0|bankruptcy attorney s fee and salary|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney-s-fee-and-salary-2|66</Row>
+			<Row>http://make-money-easy.us/2012/02/making-ready-for-individual-bankruptcy-and-evaluating-your-possibilities-carefully|0|individual bankruptcy attorney|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|67</Row>
+			<Row>http://seroglucompany.eu/?option=com_content&#38;view=article&#38;id=8&#38;Itemid=6|0|bankruptcy attorney s fee and salary|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney-s-fee-and-salary-2|66</Row>
+			<Row>http://www.akanyangafrica.co.za/tag/business|0|bankruptcy lawyers|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|25</Row>
+			<Row>http://seroglucompany.eu/?option=com_virtuemart&#38;Itemid=8|0|bankruptcy attorney s fee and salary|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney-s-fee-and-salary-2|66</Row>
+			<Row>http://finance-4all.com/tag/career|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|68</Row>
+			<Row>http://www.oralbtriumph.info/tag/business-2|0|attorney for bankruptcy|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|69</Row>
+			<Row>http://seroglucompany.eu/?option=com_virtuemart&#38;page=shop.parameter_search&#38;Itemid=7|0|bankruptcy attorney s fee and salary|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney-s-fee-and-salary-2|66</Row>
+			<Row>http://www.learnhowtotrade.org/?-start-buying-and-selling-the-foreign-exchange-market-half-5|0|salary and price|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/bankruptcy-attorney-s-fee-and-salary-2|18</Row>
+			<Row>http://electlindell.org/?tag=bankruptcy|0|bankruptcy attorney|2012-02-12|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|70</Row>
+			<Row>http://www.bad-credit-remortgage-advice.co.uk/tag/chapter|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|61</Row>
+			<Row>http://www.bad-credit-remortgage-advice.co.uk/tag/chapter|0|bankruptcy’s faq|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|61</Row>
+			<Row>http://www.ana-eflight.com/category/product-reviews/feed|0|bankruptcy attorney career|2012-02-02|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|71</Row>
+			<Row>http://www.eastforktreasure.com/category/credit/feed|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|72</Row>
+			<Row>http://o-ne.us/?p=765|0|bankruptcy attorney|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|73</Row>
+			<Row>http://thefibercast.com/category/uncategorized|0|bankruptcy attorney|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|36</Row>
+			<Row>http://thefibercast.com/category/uncategorized|0|bankruptcy’s faq|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|36</Row>
+			<Row>http://www.cenomes.com/page/3|0|bankruptcy attorney|2012-02-10|0|0|1|0|0|0|0|http://bankruptcyattorneycareer.com|74</Row>
+			<Row>http://www.cenomes.com/page/3|0|bankruptcy’s faq|2012-02-10|0|0|1|0|0|0|0|http://bankruptcyattorneycareer.com|74</Row>
+			<Row>http://www.sharynkopf.com/index.php/member/memberlist/0-total_posts-desc-20-40|0|http://bankruptcyattorneycareer.com/|2012-02-20|0|0|0|1|0|0|0|http://bankruptcyattorneycareer.com|75</Row>
+			<Row>http://yourfuturepei.com/?tag=loan|0|(department of bankrutpcy attorney)|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|76</Row>
+			<Row>http://www.buycarwithbadcredit.net/tag/debt|0|bankruptcy attorney|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|54</Row>
+			<Row>http://www.solutionfinder.org.uk/bankruptcy-attorney-go-for-competent-advice|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|2</Row>
+			<Row>http://www.nusholsun.com/category/fine-cooking-salad|0|a bankruptcy proceeding assistance|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|77</Row>
+			<Row>http://www.solutionfinder.org.uk/bankruptcy-legal-professional-service-fees-ways-to-enable-it-to-be-less-difficult-to-spend-for-them|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|2</Row>
+			<Row>http://www.learnhowtotrade.org/tag/career|0|attorney for bankruptcy|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/career|0|bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/career|0|attorney for bankrupty.|2012-02-19|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://firstclassrealtors.com/page/5|0|bankruptcy attorney|2012-02-10|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|78</Row>
+			<Row>http://www.internerding.com/tag/career-2|0|bankruptcy’s faq|2012-02-20|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|79</Row>
+			<Row>http://www.internerding.com/tag/career-2|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|79</Row>
+			<Row>http://patiencelaw.com/feed|0|bankruptcy’s faq|2012-02-15|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|80</Row>
+			<Row>http://patiencelaw.com/feed|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|80</Row>
+			<Row>http://www.dialup911.com/tag/credit/feed|0|bankruptcy attorney|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|81</Row>
+			<Row>http://toddmeady.com/tag/bankruptcy|0|helpful bankruptcy attorney|2012-02-25|0|0|1|0|0|0|0|http://bankruptcyattorneycareer.com|82</Row>
+			<Row>http://www.forexmanagedaccounts4u.co.uk/tag/limit|0|bankruptcy attorney|2012-02-22|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|51</Row>
+			<Row>http://www.learnhowtotrade.org/category/credit-cards/feed|0|(department of bankrutpcy attorney)|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.primesouth.biz/2012/02|0|bankruptcy attorney|2012-02-10|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|28</Row>
+			<Row>http://www.primesouth.biz/2012/02|0|bankruptcy’s faq|2012-02-10|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|28</Row>
+			<Row>http://www.therightvoice.org/category/alli-diet-pill|0|attorney for bankruptcy|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|83</Row>
+			<Row>http://www.buycarwithbadcredit.net/tag/debt/feed|0|bankruptcy attorney|2012-02-18|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|54</Row>
+			<Row>http://teamepic.tv/index.php/forums/member/memberlist/0-total_posts-desc-20-2320|0|http://bankruptcyattorneycareer.com/|2012-02-21|0|0|0|1|0|0|0|http://bankruptcyattorneycareer.com|84</Row>
+			<Row>http://octoberstorm.org/category/vt|0|effective tips for choosing|2012-02-22|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/effective-tips-for-choosing-a-right-bankruptcy-attorney|85</Row>
+			<Row>http://www.letmeknowitall.com/tag/attorney|0|attorney for bankruptcy|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.letmeknowitall.com/tag/attorney|0|have to have efficient bankruptcy lawyer|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|32</Row>
+			<Row>http://www.maxagro2541.com/?paged=2|0|bankruptcy petition|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/the-process-of-how-for-filing-a-bankruptcy-petition|86</Row>
+			<Row>http://www.maxagro2541.com/?paged=2|0|bankruptcy resources page|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|86</Row>
+			<Row>http://www.akwaibomstategov.com/category/uncategorized|0|a lawyer|2012-02-23|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|0</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=attorney|0|your selected bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=attorney|0|bankruptcy lawyer|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=attorney|0|chapter 7 bankruptcy|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=attorney|0|attorney for bankruptcy.|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=attorney|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?tag=attorney|0|filing bankruptcy attorney form|2012-02-25|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.learnhowtotrade.org/tag/business|0|attorney for bankruptcy|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.resolveyourdebtonline.com/?category_name=debt-resolutions|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.resolveyourdebtonline.com/?category_name=debt-resolutions|0|attorney for bankruptcy.|2012-02-15|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|27</Row>
+			<Row>http://www.wealth-management-tips.com/category/main-content/budgeting|0|bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|8</Row>
+			<Row>http://toddmeady.com/tag/career|0|helpful bankruptcy attorney|2012-02-25|0|0|1|0|0|0|0|http://bankruptcyattorneycareer.com|82</Row>
+			<Row>http://www.technoworldinc.com/mlist.html;sort=emailAddress;start=4640|0|bankruptcy attorney career|2012-02-19|0|0|0|1|0|0|0|http://bankruptcyattorneycareer.com|87</Row>
+			<Row>http://www.solutionfinder.org.uk/what-to-anticipate-at-your-chapter-seven-individual-bankruptcy-meeting|0|bankruptcy’s faq|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|2</Row>
+			<Row>http://www.solutionfinder.org.uk/what-to-anticipate-at-your-chapter-seven-individual-bankruptcy-meeting|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|2</Row>
+			<Row>http://accentnursery.biz/?p=261|0|bankruptcy lawyer|2012-02-14|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|88</Row>
+			<Row>http://www.eastforktreasure.com/tag/debt-2/feed|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|72</Row>
+			<Row>http://saynotosally.org|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|89</Row>
+			<Row>http://www.newportmesameasurea.com/category/uncategorized|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|42</Row>
+			<Row>http://www.newportmesameasurea.com/category/uncategorized|0|bankruptcy’s faq|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|42</Row>
+			<Row>http://www.webvoiceover.com/tag/bankruptcy|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|33</Row>
+			<Row>http://www.webvoiceover.com/tag/bankruptcy|0|bankruptcy’s faq|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|33</Row>
+			<Row>http://www.learnhowtotrade.org/tag/bankruptcy|0|(department of bankrutpcy attorney)|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/bankruptcy|0|free bankruptcy attorney, click here!!!|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/attorney|0|attorney for bankrupty.|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/attorney|0|free bankruptcy attorney, click here!!!|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/attorney|0|attorney for bankruptcy|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/bankruptcy-attorney|0|bankruptcy’s faq|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/bankruptcy-attorney|0|free bankruptcy attorney, click here!!!|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.learnhowtotrade.org/tag/bankruptcy-attorney|0|bankruptcy attorney|2012-02-24|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|18</Row>
+			<Row>http://www.africa-faithforpeace.org/?feed=rss2&#38;cat=1|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|90</Row>
+			<Row>http://www.africa-faithforpeace.org/?feed=rss2&#38;cat=1|0|bankruptcy attorney requirements|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com/how-to-choose-a-bankruptcy-attorney-2|90</Row>
+			<Row>http://firstclassrealtors.com/tag/finance|0|bankruptcy attorney|2012-02-11|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|78</Row>
+			<Row>http://www.webvoiceover.com/tag/bankruptcy/feed|0|bankruptcy’s faq|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|33</Row>
+			<Row>http://www.webvoiceover.com/tag/bankruptcy/feed|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|33</Row>
+			<Row>http://o-ne.us/?tag=bankruptcy-attorney|0|bankruptcy attorney|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|73</Row>
+			<Row>http://o-ne.us/?tag=bankruptcy-attorney-career|0|bankruptcy attorney|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|73</Row>
+			<Row>http://o-ne.us/?tag=bankruptcy-attorney-careers|0|bankruptcy attorney|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|73</Row>
+			<Row>http://o-ne.us/?tag=bankruptcy-lawye|0|bankruptcy attorney|2012-02-13|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|73</Row>
+			<Row>http://www.inetmonster.com/search/web?search=attorney&#38;type=web&#38;startpage=5|0| |2012-02-07|0|0|0|1|0|0|0|http://bankruptcyattorneycareer.com|91</Row>
+			<Row>http://www.inetmonster.com/search/web?search=attorney&#38;type=web&#38;startpage=5|0|bankruptcy attorney|2012-02-07|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|91</Row>
+			<Row>http://www.hi-supervisory11.net/feed|0|bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://bankruptcyattorneycareer.com|92</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="93" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD">
+			<Row>0|akwaibomstategov.com|-1|2272|12550|5913|4512|2006-09-25|2012-02-25|75.126.211.148|75.126.211.0|US|com</Row>
+			<Row>1|huttolawyer.com|-1|1988|15873|26665|10223|2006-11-26|2012-02-25|198.81.200.30|198.81.200.0|US|com</Row>
+			<Row>2|solutionfinder.org.uk|-1|574|5617|9594|3811|2007-07-02|2012-02-25|193.110.243.15|193.110.243.0|UK|uk</Row>
+			<Row>3|russads.com|-1|397|4560|7064|2431|2011-02-13|2012-02-25|74.54.131.210|74.54.131.0|US|com</Row>
+			<Row>4|opirguoft.org|-1|870|3865|4783|1941|2006-10-20|2012-02-25|64.246.4.36|64.246.4.0|US|org</Row>
+			<Row>5|bestcareer-4you.com|-1|518|6370|3314|2342|2009-11-01|2012-02-25|174.120.40.187|174.120.40.0|US|com</Row>
+			<Row>6|oberlin.edu|96430|53725|1002848|949996|277505|2006-07-29|2012-02-25|132.162.1.208|132.162.1.0|US|edu</Row>
+			<Row>7|uvapostbacpremed.info|-1|60|200|242|5|2009-06-15|2012-02-23|216.1.60.18|216.1.60.0|US|info</Row>
+			<Row>8|wealth-management-tips.com|-1|1719|20993|80489|43789|2008-08-29|2012-02-25|72.52.141.47|72.52.141.0|US|com</Row>
+			<Row>9|businessconcernfacts.com|-1|81|341|3993|2720|2011-03-31|2012-02-25|64.64.10.149|64.64.10.0|US|com</Row>
+			<Row>10|c65.net|-1|121|17271|23889|14116|2010-07-08|2012-02-25|70.35.16.182|70.35.16.0|CA|net</Row>
+			<Row>11|nishidosousa.com|-1|40|127|2432|713|2011-04-01|2012-02-24|74.125.43.121|74.125.43.0|US|com</Row>
+			<Row>12|jdfdesign.com|-1|292|1917|10083|3661|2011-10-13|2012-02-25|82.98.86.164|82.98.86.0|DE|com</Row>
+			<Row>13|bankruptcydirection.info|-1|10|99|46|2|2012-02-18|2012-02-25| | | |info</Row>
+			<Row>14|brittany4hd84.com|-1|386|2671|4681|1090|2010-10-05|2012-02-25|67.213.211.48|67.213.211.0|US|com</Row>
+			<Row>15|how-to-get-a-girl-to-like-you.net|-1|1432|24153|30141|13270|2009-10-30|2012-02-25|74.220.207.120|74.220.207.0|US|net</Row>
+			<Row>16|feedage.com|4805|79722|1594608259|20599262|1902968|2007-01-08|2012-02-25|64.34.174.17|64.34.174.0|US|com</Row>
+			<Row>17|aaceivallegrandesection.com|-1|186|2668|15374|7355|2009-11-19|2012-02-25|72.167.232.213|72.167.232.0|US|com</Row>
+			<Row>18|learnhowtotrade.org|-1|1262|9252|64084|31255|2010-04-21|2012-02-25|174.120.195.252|174.120.195.0|US|org</Row>
+			<Row>19|makingapersonalinjuryclaim.org|-1|330|1563|26098|9031|2010-08-21|2012-02-25|77.72.4.98|77.72.4.0|UK|org</Row>
+			<Row>20|bestmortgageratetips.info|-1|3038|44567|19503|11210|2009-09-24|2012-02-25|69.147.244.82|69.147.244.0|US|info</Row>
+			<Row>21|privateloanmortgage.com|-1|1202|21260|33326|20096|2009-10-13|2012-02-25|74.54.76.69|74.54.76.0|US|com</Row>
+			<Row>22|wrtac.org|-1|36|101|263|41|2012-02-20|2012-02-23|208.109.181.198|208.109.181.0|US|org</Row>
+			<Row>23|sandtra.com|-1|4|47|179|12|2011-11-02|2012-02-19|74.208.89.45|74.208.89.0|US|com</Row>
+			<Row>24|minasexporta.com|-1|1254|3358|16715|9033|2011-03-18|2012-02-25|201.76.59.95|201.76.59.0|BR|com</Row>
+			<Row>25|akanyangafrica.co.za|-1|269|1776|8752|6520|2010-05-04|2012-02-25|70.87.114.80|70.87.114.0|US|za</Row>
+			<Row>26|stmarysmgmts.org|-1|2223|9019|58528|19490|2010-08-22|2012-02-25|67.214.171.155|67.214.171.0|US|org</Row>
+			<Row>27|resolveyourdebtonline.com|-1|592|9290|15305|10262|2010-07-22|2012-02-25|69.56.129.38|69.56.129.0|US|com</Row>
+			<Row>28|primesouth.biz|-1|1796|7713|40827|15856|2006-08-11|2012-02-25|72.167.232.185|72.167.232.0|US|biz</Row>
+			<Row>29|itecodeclaration.org|-1|1591|6869|18624|9984|2006-11-25|2012-02-25|82.98.86.178|82.98.86.0|DE|org</Row>
+			<Row>30|market-forex.info|-1|86|204|1265|90|2011-03-26|2012-02-25|216.240.187.103|216.240.187.0|US|info</Row>
+			<Row>31|reducemydebts.org|-1|346|793|2075|1381|2006-08-14|2012-02-24|64.202.189.170|64.202.189.0|US|org</Row>
+			<Row>32|letmeknowitall.com|-1|117|475|72446|21855|2010-08-14|2012-02-25|115.124.117.240|115.124.117.0|IN|com</Row>
+			<Row>33|webvoiceover.com|-1|1948|10257|87799|39864|2007-04-04|2012-02-25|69.56.199.6|69.56.199.0|US|com</Row>
+			<Row>34|presenttensevolunteers.org|-1|1163|3752|30966|13055|2010-12-28|2012-02-24|64.233.179.121|64.233.179.0|US|org</Row>
+			<Row>35|007chaxun.com|-1|121|1987|54261|18768|2010-11-27|2012-02-25|173.192.169.123|173.192.169.0|US|com</Row>
+			<Row>36|thefibercast.com|-1|268|4655|25823|9136|2006-12-19|2012-02-25|68.178.232.100|68.178.232.0|US|com</Row>
+			<Row>37|permaculture.org|205413|12978|195805|38912|11920|2006-11-19|2012-02-25|64.14.74.35|64.14.74.0|US|org</Row>
+			<Row>38|cheaphouseinsuranceblog.com|-1|374|1716|39442|10251|2010-10-27|2012-02-25|77.240.14.67|77.240.14.0|UK|com</Row>
+			<Row>39|hbcapitalpartners.net|-1|632|6640|22043|10086|2007-11-14|2012-02-25|209.51.142.102|209.51.142.0|US|net</Row>
+			<Row>40|ieeemems.org|-1|225|757|535|107|2009-09-26|2012-02-23|203.194.138.119|203.194.138.0|HK|org</Row>
+			<Row>41|theacaipills.com|-1|337|1002|2095|298|2009-11-26|2012-02-25|74.86.69.8|74.86.69.0|US|com</Row>
+			<Row>42|newportmesameasurea.com|-1|258|8835|43972|21704|2007-04-13|2012-02-25|69.64.155.120|69.64.155.0|US|com</Row>
+			<Row>43|topics-advice.com|-1|2664|16397|68959|11248|2011-04-12|2012-02-25| | | |com</Row>
+			<Row>44|uta.cl|463745|16894|1647726|237819|112535|2006-10-13|2012-02-25|146.83.111.140|146.83.111.0|CL|cl</Row>
+			<Row>45|graspweb.com|-1|1127|110697|1375984|601393|2008-04-07|2012-02-25|68.178.232.99|68.178.232.0|US|com</Row>
+			<Row>46|hmjproject.com|-1|2096|13713|491605|273239|2008-05-26|2012-02-25|202.172.26.3|202.172.26.0|JP|com</Row>
+			<Row>47|tudojoia.org|-1|167|1691|15463|7814|2007-08-17|2012-02-25|208.76.245.210|208.76.245.0|US|org</Row>
+			<Row>48|portlandbeyond2020.com|-1|54|1587|6016|1638|2010-10-14|2012-02-25|72.233.2.59|72.233.2.0|US|com</Row>
+			<Row>49|free-gifts-and-discounts.co.uk|-1|29|1371|9784|3502|2008-03-22|2012-02-15|184.82.3.176|184.82.3.0|US|uk</Row>
+			<Row>50|cordsen.info|-1|1163|2164|18596|8617|2011-08-16|2012-02-25|212.43.241.106|212.43.241.0|FR|info</Row>
+			<Row>51|forexmanagedaccounts4u.co.uk|-1|75|775|45718|16193|2010-11-28|2012-02-25|77.240.14.69|77.240.14.0|UK|uk</Row>
+			<Row>52|publishedrage.com|-1|3253|38916|102447|50611|2009-10-13|2012-02-25|69.50.209.112|69.50.209.0|US|com</Row>
+			<Row>53|gloucestercountycancercoalition.org|-1|64|94|5080|1924|2011-01-05|2012-02-25|96.30.1.108|96.30.1.0|US|org</Row>
+			<Row>54|buycarwithbadcredit.net|-1|531|3060|14449|7340|2010-07-30|2012-02-19|174.120.195.252|174.120.195.0|US|net</Row>
+			<Row>55|skanska-akademien.org|-1|181|1323|23457|8329|2010-10-22|2012-02-25|82.99.57.58|82.99.57.0|SE|org</Row>
+			<Row>56|widgetlike.com|33054|1954|414205|144153|21040|2010-03-18|2012-02-25|69.93.225.5|69.93.225.0|US|com</Row>
+			<Row>57|phollow.me|-1|182|1125|52198|26241|2010-01-30|2012-02-25|69.50.197.25|69.50.197.0|US|me</Row>
+			<Row>58|theblogfactory.net|-1|4527|49110|114948|50386|2007-01-09|2012-02-25|69.56.232.226|69.56.232.0|US|net</Row>
+			<Row>59|eatatyoshis.com|-1|53|235|11643|5036|2009-10-11|2012-02-25|208.79.209.10|208.79.209.0|US|com</Row>
+			<Row>60|thegrapevineblog.info|-1|638|4157|98276|51357|2009-12-21|2012-02-25|69.50.208.31|69.50.208.0|US|info</Row>
+			<Row>61|bad-credit-remortgage-advice.co.uk|-1|457|1254|55343|17625|2010-09-28|2012-02-25|77.240.14.65|77.240.14.0|UK|uk</Row>
+			<Row>62|outdoor-bbqgrills.com|-1|913|12478|32793|10921|2010-10-04|2012-02-25|174.120.1.226|174.120.1.0|US|com</Row>
+			<Row>63|detailsdetails.biz|-1|340|3955|99558|52940|2006-10-15|2012-02-25|69.89.31.179|69.89.31.0|US|biz</Row>
+			<Row>64|pfotm.org|-1|525|1876|8687|3494|2006-10-10|2012-02-25|74.53.52.66|74.53.52.0|US|org</Row>
+			<Row>65|esolarpowergreen.com|-1|279|2240|12396|8012|2010-02-02|2012-02-25|67.225.162.95|67.225.162.0|US|com</Row>
+			<Row>66|seroglucompany.eu|-1|441|903|548|112|2011-05-23|2012-02-22|174.120.9.156|174.120.9.0|US|eu</Row>
+			<Row>67|make-money-easy.us|-1|359|1177|1766|692|2009-12-05|2012-02-25|72.167.232.76|72.167.232.0|US|us</Row>
+			<Row>68|finance-4all.com|-1|1787|84637|6616|580|2006-10-01|2012-02-25|66.246.235.42|66.246.235.0|US|com</Row>
+			<Row>69|oralbtriumph.info|-1|45|384|9696|2570|2011-08-30|2012-02-25| | | |info</Row>
+			<Row>70|electlindell.org|-1|378|1702|8475|2866|2011-10-20|2012-02-25|208.109.181.220|208.109.181.0|US|org</Row>
+			<Row>71|ana-eflight.com|-1|953|6557|12812|6434|2011-03-17|2012-02-25|203.27.227.29|203.27.227.0|AU|com</Row>
+			<Row>72|eastforktreasure.com|-1|170|809|2027|1157|2006-10-02|2012-02-25|64.202.163.57|64.202.163.0|US|com</Row>
+			<Row>73|o-ne.us|-1|21|38|3081|1171|2011-12-01|2012-02-25|64.202.189.170|64.202.189.0|US|us</Row>
+			<Row>74|cenomes.com|-1|215|2950|10554|7257|2010-09-23|2012-02-25|213.203.203.101|213.203.203.0|DE|com</Row>
+			<Row>75|sharynkopf.com|-1|6909|170335|3738|1189|2011-04-16|2012-02-25|209.240.81.158|209.240.81.0|US|com</Row>
+			<Row>76|yourfuturepei.com|-1|100|4102|3751|293|2008-06-11|2012-02-25|208.75.250.58|208.75.250.0|US|com</Row>
+			<Row>77|nusholsun.com|-1|3260|43097|12682|4706|2011-02-05|2012-02-25|68.178.254.109|68.178.254.0|US|com</Row>
+			<Row>78|firstclassrealtors.com|-1|41|7188|2849|488|2008-12-10|2012-02-24|69.46.228.179|69.46.228.0|US|com</Row>
+			<Row>79|internerding.com|-1|956|8898|75238|36526|2009-05-08|2012-02-25|69.50.193.29|69.50.193.0|US|com</Row>
+			<Row>80|patiencelaw.com|-1|3548|1047756|1106196|136987|2009-12-16|2012-02-25|82.98.86.173|82.98.86.0|DE|com</Row>
+			<Row>81|dialup911.com|-1|897|3187|15625|4566|2011-01-05|2012-02-25|82.98.86.175|82.98.86.0|DE|com</Row>
+			<Row>82|toddmeady.com|-1|458|1824|13549|7077|2010-12-02|2012-02-25|69.64.155.174|69.64.155.0|US|com</Row>
+			<Row>83|therightvoice.org|-1|259|1945|2859|1216|2006-08-24|2012-02-25|67.18.8.2|67.18.8.0|US|org</Row>
+			<Row>84|teamepic.tv|630034|8041|46918|29940|10614|2008-02-25|2012-02-25|64.34.162.70|64.34.162.0|US|tv</Row>
+			<Row>85|octoberstorm.org|-1|438|7653|18283|14882|2007-12-28|2012-02-24|216.86.146.14|216.86.146.0|US|org</Row>
+			<Row>86|maxagro2541.com|-1|418|1581|6051|2500|2010-09-15|2012-02-25|203.146.129.243|203.146.129.0|TH|com</Row>
+			<Row>87|technoworldinc.com|229184|3654|262941|720964|607980|2007-01-07|2012-02-25|208.86.159.120|208.86.159.0|US|com</Row>
+			<Row>88|accentnursery.biz|-1|17|26|687|149|2011-03-22|2012-02-23|97.74.144.202|97.74.144.0|US|biz</Row>
+			<Row>89|saynotosally.org|-1|0|0|3|1|2011-02-07|2012-02-17| | | |org</Row>
+			<Row>90|africa-faithforpeace.org|-1|184|505|5774|3652|2006-11-19|2012-02-24|64.71.33.74|64.71.33.0|US|org</Row>
+			<Row>91|inetmonster.com|-1|334|975|1025468|74185|2009-10-11|2012-02-25|174.120.43.153|174.120.43.0|US|com</Row>
+			<Row>92|hi-supervisory11.net|-1|33|375|6700|1459|2009-11-16|2012-02-25|74.125.43.121|74.125.43.0|US|net</Row>
+		</DataTable>
+	</DataTables>
+</Result>

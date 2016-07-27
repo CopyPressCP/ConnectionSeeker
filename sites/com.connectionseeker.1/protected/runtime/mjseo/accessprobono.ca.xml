@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="246" IndexType="1" RemainingAnalysisResUnits="104610000" RemainingDetailedReportsPerPeriod="1010" RemainingRetrievalResUnits="20853662" RemainingStandardReports="1010" ServerBuild="2012-04-07 16:01:43" ServerName="SCEPTIC" ServerVersion="1.0.4480.27051"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="246" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID" BackLinkItem="accessprobono.ca" BackLinkType="RootDomain" TotalBackLinks="231" TotalLines="246" TotalMatches="246">
+			<Row>http://www.accessjustice.ca|6| |2012-04-13|1|0|0|0|0|0|0|http://www.accessprobono.ca|0</Row>
+			<Row>http://www.bclawwatch.ca|5|notes|2012-04-13|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/former-g-geoff-plant-counters-recent-public-statement-bcs-chief-justices|1</Row>
+			<Row>http://www.cba.org/CBA/Links/Main|4|access pro bono|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.probonoconference.ca|4| |2012-04-12|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.cba.org/BC/public_media/lawyers/430.aspx|4|www.accessprobono.ca|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.cba.org/bc/public_media/lawyers/430.aspx|4|www.accessprobono.ca|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.advice-a-thon.ca|4|organizing sponsors|2012-04-13|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://accessjustice.ca|3| |2012-04-13|1|0|0|0|0|0|0|http://www.accessprobono.ca|0</Row>
+			<Row>http://www.miss604.com/2010/05/hockey-canada-store-giveaway.html|3|jamie|2012-04-11|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.accessjustice.ca/index.asp|3| |2012-04-09|1|0|0|0|0|0|0|http://www.accessprobono.ca|0</Row>
+			<Row>http://www.huffingtonpost.com/2010/01/29/bcs-antitrust-investigati_n_442654.html|3|north shore news: bc&#39;s justice system in crisis || access pro bono|2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2011/north-shore-news-bcs-justice-system-crisis|6</Row>
+			<Row>http://www.cba.org/CBA/links/Main|3|access pro bono|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.cba.org/bc/public_media/family/155.aspx|3|www.accessprobono.ca|2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.miss604.com/2010/05/east-coast-good-times-out-west.html|3|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.miss604.com/2010/07/canada-vs-china-basketball-at-rogers-arena.html|3|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.internationalprobono.com/links/item.566-Pro_Bono_Organisations|2|access pro bono society of british columbia|2012-03-25|0|0|0|0|0|0|0|http://www.accessprobono.ca|7</Row>
+			<Row>http://www.canadalegal.info/prov-bc/index.html|2|www.accessprobono.ca|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|8</Row>
+			<Row>http://www.gifttool.com/athon/MyFundraisingPage?ID=1875&#38;AID=1235&#38;PID=157874|2|organizing sponsors|2012-04-10|0|0|0|1|0|0|0|http://www.accessprobono.ca|9</Row>
+			<Row>http://www.miss604.com/2010/05/theatre-profile-the-buddy-holly-story-at-the-arts-club.html|2|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.pivotlegal.org/legal-help|2|www.accessprobono.ca|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|10</Row>
+			<Row>http://www.bclawwatch.ca/2011/07|2|access pro bono|2012-04-02|0|0|0|0|0|0|0|http://www.accessprobono.ca|1</Row>
+			<Row>http://www.bcfamilylawresource.com/08/0803body.htm|2|access pro bono|2012-03-23|0|0|0|0|0|0|0|http://www.accessprobono.ca|11</Row>
+			<Row>http://www.courthouselibrary.ca/blogs.rss.ashx|2|access probono|2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/clicklaw-wiki-legal-reference-guide-and-running|12</Row>
+			<Row>http://www.bclawwatch.ca/2011/09|2|access pro bono|2012-04-02|0|0|0|0|0|0|0|http://www.accessprobono.ca|1</Row>
+			<Row>http://www.bclawwatch.ca/2012/01|2|another bc judge warns of dire consequences of legal system neglect|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/another-bc-judge-warns-dire-consequences-legal-system-neglect|1</Row>
+			<Row>http://www.bclawwatch.ca/2012/01|2|access pro bono|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca|1</Row>
+			<Row>http://www.bclawwatch.ca/2012/01|2|via rss|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca/feed|1</Row>
+			<Row>http://www.bclawwatch.ca/2012/01|2|vancouver sun: committed ag needed to reform bc justice system|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2011/vancouver-sun-committed-ag-needed-reform-bc-justice-system|1</Row>
+			<Row>http://www.bclawwatch.ca/2012/01|2|judge decries “shameful” state of access to justice in bc family case judgment|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/judge-decries-shameful-state-access-justice-bc-family-case-judgment|1</Row>
+			<Row>http://www.bclawwatch.ca/2012/01|2|victoria times colonist calls for overhaul of bc provincial court|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/victoria-times-colonist-calls-overhaul-bc-provincial-court|1</Row>
+			<Row>http://www.bclawwatch.ca/2012/03|2|notes|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/former-g-geoff-plant-counters-recent-public-statement-bcs-chief-justices|1</Row>
+			<Row>http://www.probonoconference.ca/index.php|2| |2012-04-03|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.courthouselibrary.ca/training/stream.aspx|2|access probono|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/clicklaw-wiki-legal-reference-guide-and-running|12</Row>
+			<Row>http://www.cba.org/BC/public_media/family/155.aspx|2|www.accessprobono.ca|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.bclawwatch.ca/feed|2|notes|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/former-g-geoff-plant-counters-recent-public-statement-bcs-chief-justices|1</Row>
+			<Row>http://www.advice-a-thon.ca/index.php|2|organizing sponsors|2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://accessjustice.ca/index.asp|1| |2012-03-31|1|0|0|0|0|0|0|http://www.accessprobono.ca|0</Row>
+			<Row>http://www.gifttool.com/athon/MyFundraisingPage?ID=1875&#38;AID=1604&#38;PID=221677|1|organizing sponsors|2012-04-10|0|0|0|1|0|0|0|http://www.accessprobono.ca|9</Row>
+			<Row>http://legaltree.ca/node/111|1|www.accessprobono.ca|2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca|13</Row>
+			<Row>http://www.probonoconference.ca/agenda.php|1| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.probonoconference.ca/awards.php|1| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.bclawwatch.ca/2012/03/former-ag-geoff-plant-responds-to-bc-chief-justices-joint-statement|1|notes|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/former-g-geoff-plant-counters-recent-public-statement-bcs-chief-justices|1</Row>
+			<Row>http://www.bclawwatch.ca/2010/04/access-justice-pro-bono-law-of-bc-merge|1|www.accessprobono.ca|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|1</Row>
+			<Row>http://www.courthouselibrary.ca/NewAndNotable.rss.ashx|1|access pro bono|2012-04-04|0|0|0|0|0|0|0|http://accessprobono.ca/news/2012/coalition-public-legal-services-challenges-bc-government|12</Row>
+			<Row>http://www.miss604.com/2010/06/river-rafting-in-the-fraser-canyon-with-reo-rafting.html|1|jamie|2012-04-13|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.facetheworldfoundation.com/recipients.htm|1|access pro bono society|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|14</Row>
+			<Row>http://www.justiceeducation.ca/resources/legal-help-and-info-represent-yourself|1|www.accessprobono.ca|2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca|15</Row>
+			<Row>http://advice-a-thon.ca/about.php|1|www.accessprobono.ca|2012-04-02|0|0|0|0|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://advice-a-thon.ca/about.php|1|organizing sponsors|2012-04-02|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://advice-a-thon.ca/contact.php|1|organizing sponsors|2012-04-02|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://advice-a-thon.ca/getfreelegaladvice.php|1|organizing sponsors|2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://advice-a-thon.ca/getfreelegaladvice.php|1| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://advice-a-thon.ca/index.php|1|organizing sponsors|2012-04-02|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://advice-a-thon.ca/sponsors.php|1| |2012-04-02|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://advice-a-thon.ca/sponsors.php|1|organizing sponsors|2012-04-02|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://www.advice-a-thon.ca/getfreelegaladvice.php|1|organizing sponsors|2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://www.advice-a-thon.ca/getfreelegaladvice.php|1| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://www.advice-a-thon.ca/sponsors.php|1|organizing sponsors|2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://www.advice-a-thon.ca/sponsors.php|1| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://www.miss604.com/2010/05/hockey-canada-store-giveaway.html?c=rmk-lncanwest_bnnr_rihanna_vcr_2277|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.cba.org/Dev/BC/public_media/family/PrintHtml.aspx?DocId=22199|0|www.accessprobono.ca|2012-04-08|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.canadalegal.info/prov-bc|0|www.accessprobono.ca|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca|8</Row>
+			<Row>http://www.cba.org/Dev/BC/public_media/lawyers/430.aspx|0|www.accessprobono.ca|2012-04-08|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://bcsth.ca/category/categories/safety|0|www.accessprobono.ca|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|16</Row>
+			<Row>http://cba.org/cba/groups/probono/PrintHtml.aspx?DocId=32391|0|national pro bono conference|2012-04-08|0|0|0|0|0|0|0|http://accessprobono.ca/4th-national-pro-bono-conference|2</Row>
+			<Row>http://artistslegaloutreach.ca/faq|0|access probono|2012-04-07|0|0|0|0|0|0|0|http://www.accessprobono.ca|17</Row>
+			<Row>http://cfcj-fcjc.org/clearinghouse/publication.php?lang=fr&#38;id=22491|0|online (en)|2012-04-03|0|0|0|0|0|0|0|http://www.accessprobono.ca|18</Row>
+			<Row>http://cfcj-fcjc.org/clearinghouse/publication.php?lang=fr&#38;id=22491|0|http://www.accessprobono.ca/|2012-04-03|0|0|0|0|0|0|0|http://www.accessprobono.ca|18</Row>
+			<Row>http://cfcj-fcjc.org/clearinghouse/publication.php?lang=fr&#38;id=22491|0|external link|2012-04-03|0|0|0|1|0|0|0|http://www.accessprobono.ca|18</Row>
+			<Row>http://www.justiceinourtimes.ca/feed|0|access pro bono|2012-04-11|0|0|0|0|0|0|0|http://accessprobono.ca|19</Row>
+			<Row>http://www.justiceinourtimes.ca/feed/atom|0|access pro bono|2012-04-11|0|0|0|0|0|0|0|http://accessprobono.ca|19</Row>
+			<Row>http://www.gifttool.com/athon/MyFundraisingPage?ID=1875&#38;AID=1235&#38;PID=147911|0|organizing sponsors|2012-04-10|0|0|0|1|0|0|0|http://www.accessprobono.ca|9</Row>
+			<Row>http://www.fhplawyers.com/news/fhandp-lawyers-support-access-pro-bono|0|access pro bono society of british columbia|2012-04-02|0|0|0|0|0|0|0|http://www.accessprobono.ca|20</Row>
+			<Row>http://www.fhplawyers.com/news/fhandp-lawyers-support-access-pro-bono|0|www.accessprobono.ca|2012-04-02|0|0|0|0|0|0|0|http://www.accessprobono.ca|20</Row>
+			<Row>http://www.gifttool.com/athon/MyFundraisingPage?ID=1875&#38;AID=1235&#38;PID=149710|0|organizing sponsors|2012-04-10|0|0|0|1|0|0|0|http://www.accessprobono.ca|9</Row>
+			<Row>http://bcfamilylawresource.com/08/0803body.htm|0|access pro bono|2012-03-23|0|0|0|0|0|0|0|http://www.accessprobono.ca|11</Row>
+			<Row>http://artistslegaloutreach.ca/links|0|access probono|2012-04-07|0|0|0|0|0|0|0|http://www.accessprobono.ca|17</Row>
+			<Row>http://www.povnet.org/taxonomy/term/1080/0/feed|0|http://www.accessprobono.ca/|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|21</Row>
+			<Row>http://bcfamilylawresource.com/13/1305body.htm|0|access pro bono society british columbia|2012-03-23|0|0|0|0|0|0|0|http://www.accessprobono.ca|11</Row>
+			<Row>http://www.miss604.com/2010/05/sex-and-the-city-with-opus-hotel.html|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://bcsth.ca/taxonomy/term/4/0|0|www.accessprobono.ca|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|16</Row>
+			<Row>http://bcfamilylawresource.com/13/1306body.htm|0|access pro bono|2012-03-23|0|0|0|0|0|0|0|http://www.accessprobono.ca|11</Row>
+			<Row>http://www.povnet.org/node/3847|0|http://www.accessprobono.ca/|2012-04-11|0|0|0|0|0|0|0|http://www.accessprobono.ca|21</Row>
+			<Row>http://www.miss604.com/2010/05/theatre-profile-godspell-at-pacific-theatre.html|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://bajpai.ca/10101.html|0|access pro bono|2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca|22</Row>
+			<Row>http://kelowna.cioc.ca/record/KNA0042|0|www.accessprobono.ca|2012-03-28|0|0|0|0|0|0|0|http://www.accessprobono.ca|23</Row>
+			<Row>http://kelowna.cioc.ca/record/KNA0042?Number=4|0|www.accessprobono.ca|2012-03-27|0|0|0|0|0|0|0|http://www.accessprobono.ca|23</Row>
+			<Row>http://www.bajpai.ca/10101.html|0|access pro bono|2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca|22</Row>
+			<Row>http://immigrantlegal.ca/directory/access-pro-bono-society-british-columbia|0|www.accessprobono.ca|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|24</Row>
+			<Row>http://justiceeducation.ca/resources/legal-help-and-info-represent-yourself|0|www.accessprobono.ca|2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca|15</Row>
+			<Row>http://www.immigrantlegal.ca/resources|0|access pro bono society of bc|2012-04-06|0|0|0|0|0|0|0|http://www.accessprobono.ca|24</Row>
+			<Row>http://www.sba-bc.ca/node/37703|0|legal help for non-profit organizations|2012-04-06|0|0|0|0|0|0|0|http://accessprobono.ca/node/97|25</Row>
+			<Row>http://www.bcepilepsy.com/publications_and_resources/Web_Links.aspx|0|access pro bono|2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca|26</Row>
+			<Row>http://www.blg.com/fr/home/our-professionals/Pages/Gunn-Angus.aspx|0|access pro bono society of british columbia,|2012-04-03|0|0|0|0|0|0|0|http://www.accessprobono.ca|27</Row>
+			<Row>http://www.cbc.ca/news/canada/british-columbia/story/2010/12/06/bc-creditdispute.html|0|access pro bono|2012-03-27|0|0|0|0|0|0|0|http://www.accessprobono.ca|28</Row>
+			<Row>http://www.miss604.com/2010/05/wine-tasting-with-a-social-twist-contest.html|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.cbc.ca/news/canada/british-columbia/story/2010/12/06/bc-creditdispute.html?ref=rss|0|access pro bono|2012-03-27|0|0|0|0|0|0|0|http://www.accessprobono.ca|28</Row>
+			<Row>http://northshorewomen.ca/resources/legal|0|www.accessprobono.ca|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|29</Row>
+			<Row>http://www.bclawwatch.ca/2011/07/legal-clinic-for-temporary-foreign-workers-in-bc|0|access pro bono|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|1</Row>
+			<Row>http://www.trustlawyers.ca/our_team/index.html|0|western canada society to access justice|2012-04-06|0|0|0|0|0|0|0|http://www.accessprobono.ca|30</Row>
+			<Row>http://www.pbla.ca/links|0|access pro bono british columbia|2012-04-09|0|0|0|0|0|0|0|http://accessprobono.ca|31</Row>
+			<Row>http://www.povnet.org/taxonomy/term/295/www.dialalaw.org/feed|0|http://www.accessprobono.ca/|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|21</Row>
+			<Row>http://www.libbydavies.ca/news/update/2010/8/15/community-links-bulletin-september-october-2010|0|www.accessprobono.ca|2012-03-15|0|0|0|0|0|0|0|http://www.accessprobono.ca|32</Row>
+			<Row>http://www.bcfamilylawresource.com/13/1305body.htm|0|access pro bono society british columbia|2012-03-23|0|0|0|0|0|0|0|http://www.accessprobono.ca|11</Row>
+			<Row>http://www.bcfamilylawresource.com/13/1306body.htm|0|access pro bono|2012-03-23|0|0|0|0|0|0|0|http://www.accessprobono.ca|11</Row>
+			<Row>http://prodtest.courthouselibrary.ca/training/stream.aspx|0|access probono|2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/clicklaw-wiki-legal-reference-guide-and-running|12</Row>
+			<Row>http://esvc000179.wic041u.server-web.com/page.asp?from=6&#38;id=69|0|access pro bono law society of british columbia|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|33</Row>
+			<Row>http://www.povnet.org/regional/british-columbia/legal-assistance|0|http://www.accessprobono.ca/|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|21</Row>
+			<Row>http://www.miss604.com/2010/06/axe-power-anthem-flip-cam-contest.html|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.slaw.ca/2010/04/22/access-justice-pro-bono-law-of-bc-merge|0|www.accessprobono.ca|2012-03-27|0|0|0|0|0|0|0|http://www.accessprobono.ca|34</Row>
+			<Row>http://www.povnet.org/regional/british-columbia/legal-info-(plei)|0|http://www.accessprobono.ca/|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|21</Row>
+			<Row>http://www.miss604.com/2010/06/axe-power-anthem-flip-cam-contest.html?BV_UseBVCookie=yes&#38;oid=60867077|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.slaw.ca/2010/04/22/access-justice-pro-bono-law-of-bc-merge/?wpmp_switcher=desktop|0|www.accessprobono.ca|2012-03-27|0|0|0|0|0|0|0|http://www.accessprobono.ca|34</Row>
+			<Row>http://www.criminaljusticedegree.net/resources/canadian-legal-links|0|access probono|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|35</Row>
+			<Row>http://www.slaw.ca/2010/04/22/access-justice-pro-bono-law-of-bc-merge/?wpmp_switcher=mobile|0|www.accessprobono.ca|2012-03-27|0|0|0|0|0|0|0|http://www.accessprobono.ca|34</Row>
+			<Row>http://www.povnet.org/regional/british-columbia/legal-research|0|http://www.accessprobono.ca/|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|21</Row>
+			<Row>http://www.chinasmile.net/forums/showthread.php?p=4516080|0|http://www.accessprobono.ca/，|2012-04-06|0|0|0|0|0|0|0|http://www.accessprobono.ca/，|36</Row>
+			<Row>http://www.miss604.com/2010/06/bard-on-the-beach-much-ado-about-nothing.html|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.miss604.com/2010/06/bard-on-the-beach-much-ado-about-nothing.html?c=rmk-lncanwest_bnnr_gorillaz_vcr_1006|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://en.fdpdf.com/bono-pdf-ebook.htm|0|download|2012-03-16|0|0|0|0|0|0|0|http://accessprobono.ca/sites/default/files/pro_bono_guide_for_students.pdf|37</Row>
+			<Row>http://en.fdpdf.com/bono-pdf-ebook.htm|0|pro bono guide|2012-03-16|0|0|1|0|0|0|0|http://accessprobono.ca/sites/default/files/pro_bono_guide_for_students.pdf|37</Row>
+			<Row>http://en.fdpdf.com/bono-pdf-ebook.htm|0|pdf ebook: pro bono guide|2012-03-16|0|0|1|1|0|0|0|http://accessprobono.ca/sites/default/files/pro_bono_guide_for_students.pdf|37</Row>
+			<Row>http://www.surreylibraries.ca/research/4751.aspx|0|access pro bono|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|38</Row>
+			<Row>http://prodtest.courthouselibrary.ca/training/stream.aspx?BlogCatID=83b1132a-c981-452b-bf1d-8a394cdd1ac6|0|access probono|2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/clicklaw-wiki-legal-reference-guide-and-running|12</Row>
+			<Row>http://www.samar.ca/legal-information.html|0|access pro bono society of british columbia|2012-04-13|0|0|0|0|0|0|0|http://www.accessprobono.ca|39</Row>
+			<Row>http://mediatebc.com/Resources-for-Mediators/Links.aspx|0|access pro bono|2012-04-08|0|0|0|0|0|0|0|http://www.accessprobono.ca|40</Row>
+			<Row>http://www.nwpl.ca/your_library/electronic_resources/legal_reference_and_research.php|0|access probono|2012-04-10|0|0|0|0|0|0|0|http://www.accessprobono.ca|41</Row>
+			<Row>http://www.bclawwatch.ca/2011/09/pro-bono-going-public-this-month|0|access pro bono|2012-04-02|0|0|0|0|0|0|0|http://www.accessprobono.ca|1</Row>
+			<Row>http://www.accesslaw.ca/about_lawyers_phil.php|0|western canada society to access justice|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|42</Row>
+			<Row>http://slaw.practicesource.com/blog/tag/columns-justice-issues/page/2|0|access pro bono|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|43</Row>
+			<Row>http://www.courthouselibrary.ca/training/NewsArchive/NewsDetails.aspx?Id=31ceb566-0da4-412b-973b-703111f0df03|0|access pro bono|2012-04-04|0|0|0|0|0|0|0|http://accessprobono.ca/news/2012/coalition-public-legal-services-challenges-bc-government|12</Row>
+			<Row>http://www.slaw.ca/search/rebuilding/feed/rss2|0|access pro bono|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|34</Row>
+			<Row>http://probonoconference.ca|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.blg.com/en/home/our-professionals/Pages/Gunn-Angus.aspx|0|access pro bono society of british columbia,|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|27</Row>
+			<Row>http://probonoconference.ca/agenda.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://probonoconference.ca/awards.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.successbc.ca/chn/component/option,com_mtree/task,visit/link_id,169|0| |2012-04-05|1|0|0|0|0|0|0|http://www.accessprobono.ca|44</Row>
+			<Row>http://probonoconference.ca/dougmunro.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://probonoconference.ca/index.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://probonoconference.ca/info.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://probonoconference.ca/lawrencescanlan.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://probonoconference.ca/registration.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://probonoconference.ca/sponsors.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.probonoconference.ca/events.php|0| |2012-04-13|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.probonoconference.ca/info.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.probonoconference.ca/lawrencescanlan.php|0| |2012-04-03|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://prodtest.courthouselibrary.ca/training/stream.aspx?Year=2011&#38;Month=1|0|the access to pro bono society of bc|2012-03-28|0|0|0|0|0|0|0|http://www.accessprobono.ca|12</Row>
+			<Row>http://www.probonoconference.ca/mariedeschamps.php|0| |2012-04-03|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.probonoconference.ca/materials.php|0| |2012-04-03|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.probonoconference.ca/photos.php|0| |2012-04-03|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://cba.org/CBA/groups/probono/links_of_interest.aspx|0|national pro bono conference|2012-04-05|0|0|0|0|0|0|0|http://accessprobono.ca/4th-national-pro-bono-conference|2</Row>
+			<Row>http://www.probonoconference.ca/registration.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.slaw.ca/author/maclaren/feed|0|access pro bono|2012-04-08|0|0|0|0|0|0|0|http://www.accessprobono.ca|34</Row>
+			<Row>http://prodtest.courthouselibrary.ca/training/stream.aspx?Year=2012&#38;Month=3|0|access probono|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/clicklaw-wiki-legal-reference-guide-and-running|12</Row>
+			<Row>http://www.probonoconference.ca/sponsors.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://www.probonoconference.ca/stephenlewis.php|0| |2012-04-03|0|0|0|1|0|0|0|http://www.accessprobono.ca|3</Row>
+			<Row>http://splsurreyds.yellowpencilpreview.com/research/4751.aspx|0|access pro bono|2012-04-08|0|0|0|0|0|0|0|http://www.accessprobono.ca|45</Row>
+			<Row>http://libbydavies.ca/news/update/2010/8/15/community-links-bulletin-september-october-2010|0|www.accessprobono.ca|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca|32</Row>
+			<Row>http://artistslegaloutreach.ca/FAQ|0|access probono|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|17</Row>
+			<Row>http://www.courthouselibrary.ca/Blogs.rss.ashx|0|access probono|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/clicklaw-wiki-legal-reference-guide-and-running|12</Row>
+			<Row>http://businesslawgroup.ca/community|0| |2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca|46</Row>
+			<Row>http://businesslawgroup.ca/community|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|46</Row>
+			<Row>http://cba.org/BC/public_media/lawyers/430.aspx|0|www.accessprobono.ca|2012-04-03|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://cba.org/BC/public_media/lawyers/PrintHtml.aspx?DocId=22237|0|www.accessprobono.ca|2012-04-03|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.miss604.com/2010/06/kidsport-and-triple-os-contest.html|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.cba.org/dev/BC/public_media/family/155.aspx|0|www.accessprobono.ca|2012-03-27|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.cba.org/dev/BC/public_media/family/PrintHtml.aspx?DocId=22199|0|www.accessprobono.ca|2012-03-27|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.povnet.org/node?page=2|0|http://www.accessprobono.ca/|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|21</Row>
+			<Row>http://www.cbc.ca/news/health/story/2010/12/06/bc-creditdispute.html?ref=rss|0|access pro bono|2012-03-27|0|0|0|0|0|0|0|http://www.accessprobono.ca|28</Row>
+			<Row>http://www.bclawwatch.ca/category/bc-law-reform|0|victoria times colonist calls for overhaul of bc provincial court|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/victoria-times-colonist-calls-overhaul-bc-provincial-court|1</Row>
+			<Row>http://www.bclawwatch.ca/category/bc-law-reform|0|judge decries “shameful” state of|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/judge-decries-shameful-state-access-justice-bc-family-case-judgment|1</Row>
+			<Row>http://www.bclawwatch.ca/category/bc-law-reform|0|access pro bono|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|1</Row>
+			<Row>http://www.bclawwatch.ca/category/bc-law-reform|0|vancouver sun: committed ag needed to reform bc justice system|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2011/vancouver-sun-committed-ag-needed-reform-bc-justice-system|1</Row>
+			<Row>http://www.bclawwatch.ca/category/bc-law-reform|0|notes|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/former-g-geoff-plant-counters-recent-public-statement-bcs-chief-justices|1</Row>
+			<Row>http://www.povnet.org/taxonomy/term/804/0/feed|0|http://www.accessprobono.ca/|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|21</Row>
+			<Row>http://www.courthouselibrary.ca/training/stream.aspx?BlogTagID=96ec091a-dada-4db7-9294-1e97255fa7da|0|access probono|2012-03-30|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/clicklaw-wiki-legal-reference-guide-and-running|12</Row>
+			<Row>http://cba.org/CBA/Links/Main|0|access pro bono|2012-04-03|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.povnet.org/taxonomy/term/805/0/feed|0|http://www.accessprobono.ca/|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|21</Row>
+			<Row>http://www.povnet.org/node?page=29|0|http://www.accessprobono.ca/|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|21</Row>
+			<Row>http://www.bclawwatch.ca/2010/04|0|www.accessprobono.ca|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|1</Row>
+			<Row>http://www.courthouselibrary.ca/training/stream.aspx?Year=2012&#38;Month=3|0|access probono|2012-03-30|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/clicklaw-wiki-legal-reference-guide-and-running|12</Row>
+			<Row>http://cfcj-fcjc.org/links|0|external link|2012-04-09|0|0|0|1|0|0|0|http://www.accessprobono.ca|18</Row>
+			<Row>http://cfcj-fcjc.org/links|0|access pro bono|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|18</Row>
+			<Row>http://www.nationalprobono.org.au/page.asp?from=5&#38;id=69|0|access pro bono law society of british columbia|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|47</Row>
+			<Row>http://www.courthouselibrary.ca/training/stream/12-03-21/BC_lawyers_team_up_for_new_Clicklaw_wikibook.aspx|0|access probono|2012-04-03|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/clicklaw-wiki-legal-reference-guide-and-running|12</Row>
+			<Row>http://cfcj-fcjc.org/links/?lang=fr|0|access pro bono|2012-04-13|0|0|0|0|0|0|0|http://www.accessprobono.ca|18</Row>
+			<Row>http://cfcj-fcjc.org/links/?lang=fr|0|external link|2012-04-13|0|0|0|1|0|0|0|http://www.accessprobono.ca|18</Row>
+			<Row>http://www.bclawwatch.ca/category/events|0|access pro bono|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|1</Row>
+			<Row>http://facetheworldfoundation.com/recipients.htm|0|access pro bono society|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|14</Row>
+			<Row>http://realestatelawgroup.ca/community|0| |2012-04-05|0|0|0|1|0|0|0|http://www.accessprobono.ca|48</Row>
+			<Row>http://realestatelawgroup.ca/community|0| |2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|48</Row>
+			<Row>http://cfcj-fcjc.org/links/index.php|0|external link|2012-04-03|0|0|0|1|0|0|0|http://www.accessprobono.ca|18</Row>
+			<Row>http://cfcj-fcjc.org/links/index.php|0|access pro bono|2012-04-03|0|0|0|0|0|0|0|http://www.accessprobono.ca|18</Row>
+			<Row>http://www.nationalprobono.org.au/page.asp?from=6&#38;id=69|0|access pro bono law society of british columbia|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|47</Row>
+			<Row>http://www.bclawwatch.ca/category/legal-aid-access-to-justice|0|access pro bono|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|1</Row>
+			<Row>http://www.bclawwatch.ca/category/legal-aid-access-to-justice|0|access pro bono|2012-04-09|0|0|0|0|0|0|0|http://accessprobono.ca|1</Row>
+			<Row>http://www.bclawwatch.ca/category/legal-aid-access-to-justice/feed|0|access pro bono|2012-04-05|0|0|0|0|0|0|0|http://accessprobono.ca|1</Row>
+			<Row>http://www.cba.org/BC/public_media/family/PrintHtml.aspx?DocId=22199|0|www.accessprobono.ca|2012-03-21|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.miss604.com/2010/06/river-rafting-in-the-fraser-canyon-with-reo-rafting.html?BV_UseBVCookie=yes&#38;oid=60867077|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://canadalegal.info/prov-bc/index.html|0|www.accessprobono.ca|2012-04-07|0|0|0|0|0|0|0|http://www.accessprobono.ca|8</Row>
+			<Row>http://immigrantlegal.ca/resources|0|access pro bono society of bc|2012-04-06|0|0|0|0|0|0|0|http://www.accessprobono.ca|24</Row>
+			<Row>http://www.miss604.com/2010/08/the-2010-bc-lions-season-so-far.html|0|jamie|2012-04-09|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.bclawwatch.ca/2010/07|0|access pro bono|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|1</Row>
+			<Row>http://www.bclawwatch.ca/2010/07/access-pro-bono-seeks-volunteers-for-september-advice-a-thon|0|access pro bono|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|1</Row>
+			<Row>http://www.bclawwatch.ca/feed/atom|0|notes|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca/news/2012/former-g-geoff-plant-counters-recent-public-statement-bcs-chief-justices|1</Row>
+			<Row>http://www.northshorewomen.ca/resources/legal|0|www.accessprobono.ca|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|29</Row>
+			<Row>http://finday.com/search?q=pro bono&#38;s=link|0|home || access pro bono|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|49</Row>
+			<Row>http://finday.com/search?q=pro bono&#38;s=link|0|accessprobono.ca|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|49</Row>
+			<Row>http://parenting.familieschange.ca/resources/lawyer-services|0|access pro bono bc|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|50</Row>
+			<Row>http://www.immigrantlegal.ca/directory/access-pro-bono-society-british-columbia|0|www.accessprobono.ca|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|24</Row>
+			<Row>http://www.cba.org/BC/Public_Media/main/legal_community.aspx|0|access pro bono|2012-04-08|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.artistslegaloutreach.ca/faq|0|access probono|2012-04-07|0|0|0|0|0|0|0|http://www.accessprobono.ca|17</Row>
+			<Row>http://www.vancouver-directory.info/People_and_Society/Law/Info_www.accessprobono.ca|0| |2012-04-08|0|0|1|1|0|0|0|http://www.accessprobono.ca|51</Row>
+			<Row>http://www.vancouver-directory.info/People_and_Society/Law/Info_www.accessprobono.ca|0|access pro bono|2012-04-08|0|0|1|0|0|0|0|http://www.accessprobono.ca|51</Row>
+			<Row>http://www.artistslegaloutreach.ca/links|0|access probono|2012-04-07|0|0|0|0|0|0|0|http://www.accessprobono.ca|17</Row>
+			<Row>http://www.yourlibrary.ca/redirect.cfm?http://www.accessjustice.ca|0| |2012-03-28|1|0|0|0|0|0|0|http://www.accessprobono.ca|52</Row>
+			<Row>http://www.yourlibrary.ca/redirect.cfm?http://www.accessprobono.ca|0| |2012-04-03|1|0|0|0|0|0|0|http://www.accessprobono.ca|52</Row>
+			<Row>http://www.cba.org/lawweek/events/2011/displayers.aspx|0|access pro bono|2012-03-27|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://www.cba.org/BC/public_media/lawyers/PrintHtml.aspx?DocId=22237|0|www.accessprobono.ca|2012-03-29|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://bcepilepsy.com/publications_and_resources/Web_Links.aspx|0|access pro bono|2012-04-04|0|0|0|0|0|0|0|http://www.accessprobono.ca|26</Row>
+			<Row>http://www.victimlinkbc.ca/vlbc/help/sudden_death.page|0|access pro bono society of bc|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|53</Row>
+			<Row>http://www.victimlinkbc.ca/vlbc/help/sudden_death.page|0|website|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|53</Row>
+			<Row>http://www.victimlinkbc.ca/vlbc/links/index.page|0|access pro bono society of b.c.|2012-04-05|0|0|0|0|0|0|0|http://www.accessprobono.ca|53</Row>
+			<Row>http://pivotlegal.org/legal-help|0|www.accessprobono.ca|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|10</Row>
+			<Row>http://www.miss604.com/2010/05/100-years-of-the-pne-playland-contest.html|0|jamie|2012-04-13|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.az10.com/dir/singers/bono.shtml|0|access pro bono|2012-03-24|0|0|1|0|0|0|0|http://www.accessprobono.ca|54</Row>
+			<Row>http://www.miss604.com/2010/05/100-years-of-the-pne-playland-contest.html?BV_UseBVCookie=yes&#38;oid=60867077|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://cba.org/bc/public_media/family/155.aspx|0|www.accessprobono.ca|2012-04-08|0|0|0|0|0|0|0|http://www.accessprobono.ca|2</Row>
+			<Row>http://advice-a-thon.ca|0|organizing sponsors|2012-04-13|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://www.ubcpbsc.com/itoolkit.asp?pg=PROJECT_DESCRIPTIONS&#38;k=1&#38;pp=1|0|access pro bono|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|55</Row>
+			<Row>http://macadamslaw.com/resources/links.php|0|www.accessprobono.ca|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|56</Row>
+			<Row>http://advice-a-thon.ca/tshirt.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://www.advice-a-thon.ca/about.php|0|organizing sponsors|2012-04-02|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://www.advice-a-thon.ca/about.php|0|www.accessprobono.ca|2012-04-02|0|0|0|0|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://janedoelegal.org/legal-services/lawyer-referral-legal-clinics|0|http://www.accessprobono.ca/|2012-04-06|0|0|0|0|0|0|0|http://www.accessprobono.ca|57</Row>
+			<Row>http://www.advice-a-thon.ca/contact.php|0|organizing sponsors|2012-04-02|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://www.advice-a-thon.ca/prizes.php|0|organizing sponsors|2012-04-07|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://www.macadamslaw.com/resources/links.php|0|www.accessprobono.ca|2012-04-09|0|0|0|0|0|0|0|http://www.accessprobono.ca|56</Row>
+			<Row>http://www.advice-a-thon.ca/tshirt.php|0| |2012-04-04|0|0|0|1|0|0|0|http://www.accessprobono.ca|4</Row>
+			<Row>http://cfcj-fcjc.org/clearinghouse/publication.php?id=22491|0|external link|2012-04-03|0|0|0|1|0|0|0|http://www.accessprobono.ca|18</Row>
+			<Row>http://cfcj-fcjc.org/clearinghouse/publication.php?id=22491|0|http://www.accessprobono.ca/|2012-04-03|0|0|0|0|0|0|0|http://www.accessprobono.ca|18</Row>
+			<Row>http://cfcj-fcjc.org/clearinghouse/publication.php?id=22491|0|online|2012-04-03|0|0|0|0|0|0|0|http://www.accessprobono.ca|18</Row>
+			<Row>http://www.miss604.com/2010/05/east-coast-good-times-out-west.html?BV_UseBVCookie=yes&#38;oid=60867077|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+			<Row>http://www.gatewaylaw.ca/index.php?page=pages&#38;pid=19|0|access pro bono society of british columbia|2012-04-12|0|0|0|0|0|0|0|http://www.accessprobono.ca|58</Row>
+			<Row>http://www.janedoelegal.org/legal-services/lawyer-referral-legal-clinics|0|http://www.accessprobono.ca/|2012-04-06|0|0|0|0|0|0|0|http://www.accessprobono.ca|57</Row>
+			<Row>http://www.miss604.com/2010/07/canada-vs-china-basketball-at-rogers-arena.html?c=rmk-lncanwest_bnnr_gorillaz_vcr_1006|0|jamie|2012-04-10|0|0|1|0|0|0|0|http://accessprobono.ca|5</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="59" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD">
+			<Row>0|accessjustice.ca|-1|163|456|345|75|2012-03-25|2012-04-09|64.46.34.28|64.46.34.0|CA|ca</Row>
+			<Row>1|bclawwatch.ca|-1|56|11661|901|297|2012-03-14|2012-04-13|69.89.31.158|69.89.31.0|US|ca</Row>
+			<Row>2|cba.org|241492|3738|71278|25468|6746|2012-03-14|2012-04-13|209.87.245.61|209.87.245.0|CA|org</Row>
+			<Row>3|probonoconference.ca|-1|29|65|133|23|2012-04-03|2012-04-13|69.163.138.147|69.163.138.0|US|ca</Row>
+			<Row>4|advice-a-thon.ca|-1|21|72|21|16|2012-03-31|2012-04-13|66.147.242.167|66.147.242.0|US|ca</Row>
+			<Row>5|miss604.com|200800|2250|51055|40107|8883|2012-03-14|2012-04-13|173.199.144.217|173.199.144.0|US|com</Row>
+			<Row>6|huffingtonpost.com|123|264501|55516055|1880006|156945|2012-03-14|2012-04-13|84.53.132.80|84.53.132.0|EU|com</Row>
+			<Row>7|internationalprobono.com|-1|61|2895|1124|302|2012-03-25|2012-04-13|64.235.21.19|64.235.21.0|US|com</Row>
+			<Row>8|canadalegal.info|-1|143|1277|223|149|2012-03-29|2012-04-13|216.187.94.181|216.187.94.0|CA|info</Row>
+			<Row>9|gifttool.com|357052|2406|142300|12482|3768|2012-03-15|2012-04-13|66.207.199.234|66.207.199.0|CA|com</Row>
+			<Row>10|pivotlegal.org|-1|503|14211|986|647|2012-03-14|2012-04-13|69.67.166.246|69.67.166.0|CA|org</Row>
+			<Row>11|bcfamilylawresource.com|-1|240|565|404|87|2012-03-23|2012-04-13|199.239.248.46|199.239.248.0|US|com</Row>
+			<Row>12|courthouselibrary.ca|-1|159|1928|2031|1292|2012-03-14|2012-04-13|209.17.147.129|209.17.147.0|CA|ca</Row>
+			<Row>13|legaltree.ca|-1|221|1678|3460|614|2012-03-23|2012-04-13|67.212.91.2|67.212.91.0|CA|ca</Row>
+			<Row>14|facetheworldfoundation.com|-1|79|169|49|17|2012-03-16|2012-04-13|66.51.171.215|66.51.171.0|CA|com</Row>
+			<Row>15|justiceeducation.ca|-1|209|1355|856|208|2012-03-14|2012-04-13|208.70.247.56|208.70.247.0|CA|ca</Row>
+			<Row>16|bcsth.ca|-1|53|236|469|104|2012-03-15|2012-04-13|204.244.182.169|204.244.182.0|CA|ca</Row>
+			<Row>17|artistslegaloutreach.ca|-1|110|2477|1361|348|2012-03-23|2012-04-13|142.58.248.28|142.58.248.0|CA|ca</Row>
+			<Row>18|cfcj-fcjc.org|-1|350|1074|1170|282|2012-03-16|2012-04-13|216.86.156.149|216.86.156.0|US|org</Row>
+			<Row>19|justiceinourtimes.ca|-1|18|460|116|45|2012-04-04|2012-04-13|208.70.247.56|208.70.247.0|CA|ca</Row>
+			<Row>20|fhplawyers.com|-1|59|174|213|108|2012-03-20|2012-04-13|216.65.11.5|216.65.11.0|US|com</Row>
+			<Row>21|povnet.org|942808|696|14135|9729|4951|2012-03-14|2012-04-13|207.102.64.25|207.102.64.0|CA|org</Row>
+			<Row>22|bajpai.ca|-1|4|4|10|8|2012-04-01|2012-04-07|66.96.160.143|66.96.160.0|US|ca</Row>
+			<Row>23|cioc.ca|116158|2210|508437|231729|57912|2012-03-14|2012-04-13|72.14.166.154|72.14.166.0|CA|ca</Row>
+			<Row>24|immigrantlegal.ca|-1|22|330|639|266|2012-04-05|2012-04-13|208.70.247.56|208.70.247.0|CA|ca</Row>
+			<Row>25|sba-bc.ca|-1|59|172|2457|536|2012-03-15|2012-04-13|142.103.160.114|142.103.160.0|CA|ca</Row>
+			<Row>26|bcepilepsy.com|-1|231|514|718|237|2012-03-14|2012-04-13|64.40.104.76|64.40.104.0|CA|com</Row>
+			<Row>27|blg.com|568392|521|8149|3280|1299|2012-03-14|2012-04-13|204.138.124.120|204.138.124.0|CA|com</Row>
+			<Row>28|cbc.ca|1236|157123|4626700|753006|176529|2012-03-14|2012-04-13|64.211.144.161|64.211.144.0|US|ca</Row>
+			<Row>29|northshorewomen.ca|-1|63|160|901|230|2012-03-15|2012-04-13|207.102.64.27|207.102.64.0|CA|ca</Row>
+			<Row>30|trustlawyers.ca|-1|7|8|64|23|2012-04-04|2012-04-12|216.251.43.6|216.251.43.0|US|ca</Row>
+			<Row>31|pbla.ca|-1|82|3026|464|120|2012-03-15|2012-04-13|64.235.21.19|64.235.21.0|US|ca</Row>
+			<Row>32|libbydavies.ca|-1|312|3150|18200|5239|2012-03-14|2012-04-13|208.70.247.20|208.70.247.0|CA|ca</Row>
+			<Row>33|server-web.com|158735|4390|33664|98465|34394|2012-03-14|2012-04-13|46.4.229.187|46.4.229.0|DE|com</Row>
+			<Row>34|slaw.ca|253571|3464|113227|36929|21826|2012-03-14|2012-04-13|216.86.156.70|216.86.156.0|US|ca</Row>
+			<Row>35|criminaljusticedegree.net|-1|318|5067|202|103|2012-03-26|2012-04-13|69.56.189.142|69.56.189.0|US|net</Row>
+			<Row>36|chinasmile.net|56583|549|4349|830645|57564|2012-03-14|2012-04-13|69.65.43.224|69.65.43.0|US|net</Row>
+			<Row>37|fdpdf.com|-1|38|197901|588602|106073|2012-03-14|2012-04-13|69.163.134.149|69.163.134.0|US|com</Row>
+			<Row>38|surreylibraries.ca|698348|111|4121|1356|250|2012-03-22|2012-04-12|208.123.216.109|208.123.216.0|US|ca</Row>
+			<Row>39|samar.ca|-1|1|2|85|41|2012-04-05|2012-04-13|67.215.77.132|67.215.77.0|US|ca</Row>
+			<Row>40|mediatebc.com|-1|49|405|129|20|2012-03-28|2012-04-12|199.103.57.143|199.103.57.0|CA|com</Row>
+			<Row>41|nwpl.ca|-1|182|1708|1055|688|2012-03-14|2012-04-13|216.129.64.115|216.129.64.0|CA|ca</Row>
+			<Row>42|accesslaw.ca|-1|32|104|41|38|2012-03-31|2012-04-13|204.174.223.150|204.174.223.0|CA|ca</Row>
+			<Row>43|practicesource.com|439858|447|41976|10656|5183|2012-03-14|2012-04-13|206.123.87.59|206.123.87.0|US|com</Row>
+			<Row>44|successbc.ca|-1|520|4228|6038|3300|2012-03-14|2012-04-13|69.90.112.189|69.90.112.0|CA|ca</Row>
+			<Row>45|yellowpencilpreview.com|-1|3|3|1035|295|2012-04-01|2012-04-09| | | |com</Row>
+			<Row>46|businesslawgroup.ca|-1|13|37|102|38|2012-04-02|2012-04-12|75.125.192.84|75.125.192.0|US|ca</Row>
+			<Row>47|nationalprobono.org.au|-1|159|639|574|229|2012-03-26|2012-04-13|210.247.179.109|210.247.179.0|AU|au</Row>
+			<Row>48|realestatelawgroup.ca|-1|5|31|77|30|2012-04-04|2012-04-12|75.125.192.84|75.125.192.0|US|ca</Row>
+			<Row>49|finday.com|154509|677|95737|508767|55577|2012-03-14|2012-04-13|194.110.201.104|194.110.201.0|ES|com</Row>
+			<Row>50|familieschange.ca|-1|289|894|530|156|2012-03-16|2012-04-13|64.40.118.104|64.40.118.0|CA|ca</Row>
+			<Row>51|vancouver-directory.info|-1|58|33480|38772|22499|2012-03-14|2012-04-13|209.5.157.47|209.5.157.0|CA|info</Row>
+			<Row>52|yourlibrary.ca|188969|1127|25649|14987|8593|2012-03-14|2012-04-13|72.2.54.37|72.2.54.0|CA|ca</Row>
+			<Row>53|victimlinkbc.ca|-1|57|383|33|21|2012-04-05|2012-04-13|142.32.252.190|142.32.252.0|CA|ca</Row>
+			<Row>54|az10.com|426011|132|1446|1575|783|2012-03-14|2012-04-13|173.236.131.175|173.236.131.0|US|com</Row>
+			<Row>55|ubcpbsc.com|-1|9|16|41|24|2012-03-14|2012-04-12|76.74.239.148|76.74.239.0|US|com</Row>
+			<Row>56|macadamslaw.com|-1|4|13|26|22|2012-03-27|2012-04-09|209.217.209.33|209.217.209.0|US|com</Row>
+			<Row>57|janedoelegal.org|-1|7|11|97|30|2012-03-30|2012-04-13|204.11.55.249|204.11.55.0|CA|org</Row>
+			<Row>58|gatewaylaw.ca|-1|1|2|42|24|2012-04-03|2012-04-13|96.49.102.20|96.49.102.0|CA|ca</Row>
+		</DataTable>
+	</DataTables>
+</Result>

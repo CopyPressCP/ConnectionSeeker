@@ -1,0 +1,42 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 4,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2014-06-01 02:47:49",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 99373750,
+	"RemainingRetrievalResUnits" : 19967971,
+	"ServerBuild" : "2014-06-10 17:35:22",
+	"ServerName" : "HUMMERR",
+	"ServerVersion" : "1.0.5274.29861",
+	"UniqueIndexID" : "20140601024749-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "fuegowireless.com", "UsedRootDomain" : "fuegowireless.com", "TotalRefDomains" : 4, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 4
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "wikipedia.org", "RefDomains" : 9480139, "AlexaRank" : 6, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 13145566093, "IndexedURLs" : 668135914, "CrawledURLs" : 9286825, "FirstCrawled" : "2008-09-26", "LastSuccessfulCrawl" : "2014-04-28", "IP" : "208.80.154.224", "SubNet" : "208.80.154.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 98, "TrustFlow" : 98, "TopicalTrustFlow_Topic_0" : "Recreation/Travel", "TopicalTrustFlow_Value_0" : "95", "BackLinks_fuegowireless.com" : "2", "FirstLinkDate_fuegowireless.com" : "2014-02-28", "LastLinkDate_fuegowireless.com" : "2014-04-02" },
+				{ "Position" : 2, "Domain" : "digplanet.com", "RefDomains" : 16855, "AlexaRank" : 57645, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 1040511, "IndexedURLs" : 4420456, "CrawledURLs" : 319187, "FirstCrawled" : "2011-11-08", "LastSuccessfulCrawl" : "2014-04-28", "IP" : "216.137.41.199", "SubNet" : "216.137.41.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 54, "TrustFlow" : 17, "TopicalTrustFlow_Topic_0" : "Science/Publications", "TopicalTrustFlow_Value_0" : "14", "BackLinks_fuegowireless.com" : "1", "FirstLinkDate_fuegowireless.com" : "2014-02-24", "LastLinkDate_fuegowireless.com" : "2014-03-30" },
+				{ "Position" : 3, "Domain" : "cdg.org", "RefDomains" : 13086, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 73, "ExtBackLinks" : 218002, "IndexedURLs" : 398489, "CrawledURLs" : 187685, "FirstCrawled" : "2008-09-27", "LastSuccessfulCrawl" : "2014-04-28", "IP" : "204.232.165.27", "SubNet" : "204.232.165.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 37, "TrustFlow" : 51, "TopicalTrustFlow_Topic_0" : "Science/Technology", "TopicalTrustFlow_Value_0" : "51", "BackLinks_fuegowireless.com" : "73", "FirstLinkDate_fuegowireless.com" : "2014-03-14", "LastLinkDate_fuegowireless.com" : "2014-03-14" },
+				{ "Position" : 4, "Domain" : "sms-expert.de", "RefDomains" : 451, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 58887, "IndexedURLs" : 1231, "CrawledURLs" : 1092, "FirstCrawled" : "2009-07-23", "LastSuccessfulCrawl" : "2014-04-28", "IP" : "93.187.235.33", "SubNet" : "93.187.235.0", "CountryCode" : "DE", "TLD" : "de", "CitationFlow" : 27, "TrustFlow" : 39, "TopicalTrustFlow_Topic_0" : "Computers/Graphics", "TopicalTrustFlow_Value_0" : "39", "BackLinks_fuegowireless.com" : "2", "FirstLinkDate_fuegowireless.com" : "2014-03-30", "LastLinkDate_fuegowireless.com" : "2014-03-30" }
+			]
+			}
+		}
+}

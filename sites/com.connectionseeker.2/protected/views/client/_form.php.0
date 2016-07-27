@@ -1,0 +1,172 @@
+<?php
+$cs=Yii::app()->clientScript;
+$cs->registerCoreScript( 'jquery.ui' );
+//$cs->registerScriptFile(Yii::app()->baseUrl . '/js/timepicker/jquery.timePicker.min.js', CClientScript::POS_HEAD);
+//$cs->registerScriptFile(Yii::app()->baseUrl . '/js/charCount.js', CClientScript::POS_HEAD);
+//http://stackoverflow.com/questions/6964265/how-can-i-modify-jquery-ui-tabs-in-yii-framework
+//http://luwenxiang1990.blog.163.com/blog/static/17360763920117149561935/
+//http://www.yiiframework.com/forum/index.php?/topic/7508-ajax-form-submission-inside-cjuitabs/
+?>
+
+<div class="form">
+
+<?php $form=$this->beginWidget('CActiveForm', array(
+	'id'=>'client-form',
+	'enableAjaxValidation'=>false,
+)); ?>
+
+	<p class="note">Fields with <span class="required">*</span> are required.</p>
+
+	<?php echo $form->errorSummary(array($model,$domodel,$kymodel)); ?>
+
+<div id="basicinfo">
+  <div id="leftbasicinfo">
+	<div class="row">
+		<?php echo $form->labelEx($model,'company'); ?>
+		<?php echo $form->textField($model,'company',array('size'=>60,'maxlength'=>255)); ?>
+		<?php echo $form->error($model,'company'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'name'); ?>
+		<?php echo $form->textField($model,'name',array('size'=>60,'maxlength'=>128)); ?>
+		<?php echo $form->error($model,'name'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'contact_name'); ?>
+		<?php echo $form->textField($model,'contact_name',array('size'=>60,'maxlength'=>128)); ?>
+		<?php echo $form->error($model,'contact_name'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'email'); ?>
+		<?php echo $form->textField($model,'email',array('size'=>60,'maxlength'=>128)); ?>
+		<?php echo $form->error($model,'email'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'telephone'); ?>
+		<?php echo $form->textField($model,'telephone',array('size'=>60,'maxlength'=>255)); ?>
+		<?php echo $form->error($model,'telephone'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'cellphone'); ?>
+		<?php echo $form->textField($model,'cellphone',array('size'=>60,'maxlength'=>255)); ?>
+		<?php echo $form->error($model,'cellphone'); ?>
+	</div>
+
+	<div class="row horizonleft">
+		<?php echo $form->labelEx($model,'use_historic_index'); ?>
+		<?php echo $form->checkBox($model,'use_historic_index', array('class'=>'chkbox')); ?>
+		<?php echo $form->error($model,'use_historic_index'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'note'); ?>
+		<?php echo $form->textArea($model,'note',array('rows'=>6, 'cols'=>50)); ?>
+		<?php echo $form->error($model,'note'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'assignee'); ?>
+		<?php echo $form->textField($model,'assignee'); ?>
+		<?php echo $form->error($model,'assignee'); ?>
+	</div>
+
+	<div class="row horizonleft">
+		<?php echo $form->labelEx($model,'status'); ?>
+		<?php echo $form->checkBox($model,'status', array('class'=>'chkbox')); ?>
+		<?php echo $form->error($model,'status'); ?>
+	</div>
+  </div>
+
+  <div id="rightbasicinfo">
+	<div class="row" id="client_domains">
+        <?php
+        echo $form->labelEx($domodel,'domain', array('label'=>'Domains (subdomains ok, no www)'));
+        echo $form->error($domodel,'domain');
+
+        if (isset($model->id) && $model->id > 0) {
+            $_domodel = $domodel->findAllByAttributes(array('client_id'=>$model->id));
+            //if (count($_domodel)) {
+            if (count($_domodel) > 0) {
+                //print_r($_domodel);
+                foreach($_domodel as $_dv) {
+                    echo $form->textField($_dv,'domain',array('size'=>60,'maxlength'=>255,'name'=>get_class($domodel)."[domain][cd_"."$_dv->id]"));
+                }
+            }
+        } else {
+            echo $form->textField($domodel,'domain[]',array('size'=>60,'maxlength'=>255));
+            echo $form->textField($domodel,'domain[]',array('size'=>60,'maxlength'=>255));
+            echo $form->textField($domodel,'domain[]',array('size'=>60,'maxlength'=>255));
+        }
+        ?>
+	</div>
+	<div class="row" id="add_more_domain">
+        <?php echo CHtml::link(Yii::t('Client', '+Add More'), 'javascript:void(0);'); ?>
+	</div>
+  </div>
+
+  <div style="clear:both"></div>
+</div><!-- end of #basicinfo -->
+
+<div id="relatedinfo">
+	<div class="row" id="client_keywords">
+		<?php echo $form->labelEx($kymodel,'keyword'); ?>
+		<?php echo $form->error($kymodel,'keyword'); ?>
+		<?php echo $form->textField($kymodel,'keyword[]',array('size'=>60,'maxlength'=>255)); ?>
+	</div>
+	<div class="row" id="add_more_keyword">
+        <?php echo CHtml::link(Yii::t('Client', '+Add More'), 'javascript:void(0);'); ?>
+	</div>
+</div>
+
+<?php
+$this->widget('zii.widgets.jui.CJuiTabs', array(
+    'tabs'=>array(
+        Yii::t('Client', 'Basic Info')=>array('content'=>'Basic', 'id'=>'clienttab1'),
+        Yii::t('Client', 'Related Info')=>array('content'=>'Related', 'id'=>'clienttab2'),
+        // panel 3 contains the content rendered by a partial view
+        //'AjaxTab'=>array('ajax'=>$ajaxUrl),
+    ),
+    // additional javascript options for the tabs plugin
+    'options'=>array(
+        //'collapsible'=>true,
+    ),
+    'theme'=>'redmond',
+    //记得把jui\css\redmond\jquery-ui-1.8.16.custom.css重命名为jquery-ui.css
+    //或者把'cssFile'=>'jquery-ui-1.8.16.custom.css'不然theme的改动不会起效果的
+));
+?>
+
+	<div class="row buttons">
+		<?php echo CHtml::submitButton($model->isNewRecord ? 'Create' : 'Save'); ?> | 
+        <?php echo CHtml::link(Yii::t('Client', 'Cancel'), array("client/index")); ?>
+	</div>
+<?php //var_dump(Yii::app()->user);?>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#clienttab1').html($('#basicinfo'));
+    $('#clienttab2').html($('#relatedinfo'));
+    $('#add_more_domain').click(function(){
+        $('#client_domains').append('<?php echo $form->textField($domodel,"domain[]",array("size"=>60,"maxlength"=>255)); ?>');
+        $('#client_domains').append('<?php echo $form->textField($domodel,"domain[]",array("size"=>60,"maxlength"=>255)); ?>');
+    });
+
+    $('#add_more_keyword').click(function(){
+        $('#client_keywords').append('<?php echo $form->textField($kymodel,"keyword[]",array("size"=>60,"maxlength"=>255)); ?>');
+        $('#client_keywords').append('<?php echo $form->textField($kymodel,"keyword[]",array("size"=>60,"maxlength"=>255)); ?>');
+    });
+});
+</script>
+
+<?php $this->endWidget(); ?>
+
+
+
+</div><!-- form -->
+

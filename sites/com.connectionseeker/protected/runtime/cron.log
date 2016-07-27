@@ -1,0 +1,130 @@
+2016/07/26 17:10:03 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 17:10:03 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}
+2016/07/26 17:15:02 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 17:15:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}
+2016/07/26 17:20:02 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 17:20:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}
+2016/07/26 17:25:01 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 17:25:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}
+2016/07/26 17:30:02 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 17:30:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}
+2016/07/26 17:35:04 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 17:35:04 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}
+2016/07/26 17:40:03 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 17:40:03 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}
+2016/07/26 17:45:03 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 17:45:03 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}
+2016/07/26 17:50:05 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 17:50:05 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}
+2016/07/26 17:55:02 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 17:55:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}
+2016/07/26 18:00:02 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 18:00:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}
+2016/07/26 18:05:05 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 18:05:05 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}
+2016/07/26 18:10:03 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `lkm_copypress_content` (`id`, `title`, `length`, `text`, `html`) VALUES (:id, :title, :length, :text, :html).
+2016/07/26 18:10:03 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '233272' for key 'PRIMARY'' in /var/www/html/commonframework/framework/db/CDbCommand.php:336
+Stack trace:
+#0 /var/www/html/commonframework/framework/db/CDbCommand.php(1166): CDbCommand->execute(Array)
+#1 /var/www/html/commonframework/sites/com.connectionseeker/protected/commands/SyncCopypressArticlesCommand.php(75): CDbCommand->insert('{{copypress_con...', Array)
+#2 /var/www/html/commonframework/framework/console/CConsoleCommandRunner.php(63): SyncCopypressArticlesCommand->run(Array)
+#3 /var/www/html/commonframework/framework/console/CConsoleApplication.php(88): CConsoleCommandRunner->run(Array)
+#4 /var/www/html/commonframework/framework/base/CApplication.php(158): CConsoleApplication->processRequest()
+#5 /var/www/html/commonframework/sites/com.connectionseeker/cron.php(17): CApplication->run()
+#6 {main}

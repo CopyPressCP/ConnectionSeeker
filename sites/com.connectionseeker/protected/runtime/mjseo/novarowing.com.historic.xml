@@ -1,0 +1,40 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 2,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2015-01-08 21:31:53",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 99653000,
+	"RemainingRetrievalResUnits" : 19830086,
+	"ServerBuild" : "2015-02-06 00:49:41",
+	"ServerName" : "HUMMERR",
+	"ServerVersion" : "1.0.5515.1490",
+	"UniqueIndexID" : "20150108213153-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "novarowing.com", "UsedRootDomain" : "novarowing.com", "TotalRefDomains" : 2, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 2
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "villanova.edu", "RefDomains" : 51320, "AlexaRank" : 47697, "Matches" : 1, "MatchedLinks" : 6, "ExtBackLinks" : 3043653, "IndexedURLs" : 8341730, "CrawledURLs" : 1003216, "FirstCrawled" : "2009-06-02", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "153.104.6.101", "SubNet" : "153.104.6.0", "CountryCode" : "US", "TLD" : "edu", "CitationFlow" : 45, "TrustFlow" : 57, "TopicalTrustFlow_Topic_0" : "Reference/Education", "TopicalTrustFlow_Value_0" : "57", "BackLinks_novarowing.com" : "6", "FirstLinkDate_novarowing.com" : "2014-08-11", "LastLinkDate_novarowing.com" : "2014-12-07" },
+				{ "Position" : 2, "Domain" : "row2k.com", "RefDomains" : 9287, "AlexaRank" : 264494, "Matches" : 1, "MatchedLinks" : 7, "ExtBackLinks" : 754240, "IndexedURLs" : 883140, "CrawledURLs" : 360757, "FirstCrawled" : "2009-05-28", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "209.164.9.210", "SubNet" : "209.164.9.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 38, "TrustFlow" : 45, "TopicalTrustFlow_Topic_0" : "Sports/Water Sports", "TopicalTrustFlow_Value_0" : "45", "BackLinks_novarowing.com" : "7", "FirstLinkDate_novarowing.com" : "2014-03-26", "LastLinkDate_novarowing.com" : "2014-10-04" }
+			]
+			}
+		}
+}

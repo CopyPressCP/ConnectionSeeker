@@ -1,0 +1,126 @@
+body {
+	    background-color:#eee9e9;
+}
+
+.logo{
+	width:364px;
+	height:128px;
+	background-repeat:no-repeat;
+	text-shadow: 0px 1px 1px #fff;
+	font-size:15px;
+	padding-top:20px;
+	margin-top:10px;
+	}
+	
+.logo img{
+	margin-left:287px;
+	margin-top:-10px;
+}
+	
+.login{
+	background: url(../images/home-login.png);
+	width:90px;
+	height:auto;
+	padding-right:250px;
+	padding-top:12px;
+	padding-left:0px;
+	height:73px;
+	float:right;
+	font-family: Trebuchet MS, Helvetica, sans-serif;
+	font-size:15px;
+	color:#fff;
+	text-shadow: 1px 1px 1px #999;	
+	background-repeat:no-repeat;
+
+		}
+		
+.login a{
+	margin-left:23px;
+}
+	
+.top{
+	background-color:#d33c1a;
+	height:10px;
+	}
+	
+.bgimage{
+		width:100%;
+		height:auto;
+		padding:20px;
+		opacity:.5;
+		}
+
+.title{
+	text-shadow: 0px 1px 1px #ccc;
+	font-size:15px;
+	color:#4a176e;
+
+	}
+	
+
+.center{
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	
+	}
+.signup{
+	font-size:28px;
+color: #0075b0;
+font-family: Trebuchet MS, Helvetica, sans-serif;
+text-shadow: 0px 1px 1px #fff;
+letter-spacing:1px;
+}	
+
+.shadow {
+background-color:#f7f7f7;
+-moz-box-shadow:    2px 2px 5px 3px #ccc;
+-webkit-box-shadow: 2px 2px 5px 3px #ccc;
+box-shadow:         2px 2px 5px 3px #ccc;
+border-radius: 15px;
+padding: 15px;
+line-height:25px;
+text-align:left;
+
+}
+
+.button{
+	background: url(../images/button.png);
+	width:245px;
+	height:64px;
+font-family: Trebuchet MS, Helvetica, sans-serif;
+	font-size:22px;
+	color:#fff;
+	text-shadow: 1px 1px 1px #999;	
+	background-repeat:no-repeat;
+	padding-top:20px;
+		}
+	
+	.login A:link {text-decoration: none;
+	color:#fff;}
+	.login A:hover {text-decoration: none;color:#000;}
+
+	A:link {text-decoration: none;
+	color:#fff;}
+A:visited {text-decoration: none;color:#fff;}
+A:active {text-decoration: none;color:#d33c1a;}
+A:hover {text-decoration: none;color:#000;}
+	
+	
+	.footer{
+	background-color:#0075b0;
+	height:30px;
+	font-size:12px;
+	color:#fff;
+	width:100%;
+	text-align:center;
+	padding-top:10px;
+	-moz-box-shadow:    2px 2px 5px 3px #ccc;
+	-webkit-box-shadow: 2px 2px 5px 3px #ccc;
+	box-shadow:         2px 2px 5px 3px #ccc;
+	border-radius: 15px;
+	}
+	
+	.footer a{
+		margin: 0 15px;
+	}

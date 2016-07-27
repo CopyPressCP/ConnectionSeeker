@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="20" IndexBuildDate="2014-02-14 22:31:38" IndexType="0" RemainingAnalysisResUnits="99599821" RemainingDetailedReportsPerPeriod="947" RemainingRetrievalResUnits="19989384" RemainingStandardReports="947" ServerBuild="2014-02-17 16:04:53" ServerName="SHADOJAGUAR" ServerVersion="1.0.5161.28946" UniqueIndexID="20140214223138-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="20" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="lenovo.com" BackLinkType="RootDomain" TotalBackLinks="34943944" TotalLines="50000" TotalMatches="20">
+			<Row>http://www.ibm.com/sitemap/us/en/|11|lenovo thinkpads and thinkcentres|2014-01-24|0|0|0|0|0|0|0|http://support.lenovo.com/en_US/default.page|0|2013-08-28|2014-01-24| | |TextLink|TextLink_Normal|45|41|70|74</Row>
+			<Row>http://www.lenovo.com.cn/|9|gab 专供系列|2014-01-26|0|0|0|0|0|0|0|http://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_US/catalog.workflow:expandcategory?current-catalog-id=12F0696583E04D86B9B79B0FEC01C087&#38;current-category-id=8CB8551D4C074DF8ACF6F9E491992357|1|2009-08-21|2014-01-26| | |TextLink|TextLink_Normal|40|49|60|70</Row>
+			<Row>http://www.gputechconf.com/page/home.html|9|lenovo|2014-01-26|0|0|1|1|0|0|0|http://www.lenovo.com/|2|2011-06-12|2014-01-26| | |ImageLink|ImageLink_Normal|59|57|59|66</Row>
+			<Row>http://online.wsj.com/conferences?mod=WSJ_footer|9| |2014-01-23|0|0|0|1|0|0|0|http://www.lenovo.com/us/en/|3|2013-11-07|2014-01-23| | |ImageLink|ImageLink_Normal|54|51|63|55</Row>
+			<Row>http://www.tuxera.com/|8|netgear|2014-01-26|0|0|0|1|0|0|0|http://www.lenovo.com/|4|2014-01-11|2014-01-26| | |ImageLink|ImageLink_Normal|59|57|54|62</Row>
+			<Row>http://www.72g.com/|8|所有友情链接|2014-01-26|0|0|0|0|0|0|0|http://app.lenovo.com/|5|2014-01-14|2014-01-26| | |TextLink|TextLink_Normal|42|39|52|62</Row>
+			<Row>http://feeds.feedburner.com/BusinesscomBlog|8|choosing a laptop tablet|2014-01-07|0|0|0|0|0|0|0|http://shop.lenovo.com/us/en/landingpage/multimode/|6|2014-01-07|2014-01-07| | |TextLink|TextLink_Normal|31|38|51|61</Row>
+			<Row>http://www.iomega.com/|7| |2014-01-26|1|0|0|0|0|0|0|http://shop.lenovo.com/us/en/servers/network-storage/|7|2013-09-13|2014-01-26| | |Redirect|Redirect_Permanent|62|75|49|63</Row>
+			<Row>http://www.scholastic.com/administrator/?esp=CORPHP/ib/////NAV/Parents/MAIN/AdminHP////|8|lenovo|2014-01-26|0|0|0|0|0|0|0|http://forms.lenovo.com/forms/K-12_Solutions_Custom_Recommendation_Tool?ls=k12_022|8|2013-03-03|2014-01-26| | |TextLink|TextLink_Normal|30|38|50|61</Row>
+			<Row>http://www.digitaltrends.com/tablet-reviews/|9|shop.lenovo.com|2014-01-26|0|0|0|0|0|0|0|http://shop.lenovo.com/us/en/tablets/ideatab/yoga/yoga-8/?cid=us||semd||se||google||K203803||Lenovo_Yoga_Tablet_8||NE_Lenovo_Yoga_Tablet||100220&#38;ef_id=UmWIlAAAAUgAGc-4:20131101002514:s|9|2013-11-05|2014-01-26| | |TextLink|TextLink_Normal|0|0|60|51</Row>
+			<Row>http://www.digitaltrends.com/tablet-reviews/|9|see it|2014-01-26|0|0|1|0|0|0|0|http://shop.lenovo.com/us/en/tablets/ideatab/yoga/yoga-8/?cid=us||semd||se||google||K203803||Lenovo_Yoga_Tablet_8||NE_Lenovo_Yoga_Tablet||100220&#38;ef_id=UmWIlAAAAUgAGc-4:20131101002514:s|9|2013-11-05|2014-01-26| | |TextLink|TextLink_Normal|0|0|60|51</Row>
+			<Row>http://www.digitaltrends.com/tablet-reviews/|9|$249.00|2014-01-26|0|0|0|0|0|0|0|http://shop.lenovo.com/us/en/tablets/ideatab/yoga/yoga-8/?cid=us||semd||se||google||K203803||Lenovo_Yoga_Tablet_8||NE_Lenovo_Yoga_Tablet||100220&#38;ef_id=UmWIlAAAAUgAGc-4:20131101002514:s|9|2013-11-05|2014-01-26| | |TextLink|TextLink_Normal|0|0|60|51</Row>
+			<Row>http://ocw.mit.edu/donate/our-supporters/|8|lenovo|2014-01-23|0|0|0|0|0|0|0|http://www.lenovo.com?utm_source=our-supporters&#38;utm_medium=lenovo&#38;utm_campaign=text_lenovo|10|2013-07-28|2014-01-23| | |TextLink|TextLink_Normal|28|33|54|56</Row>
+			<Row>http://www.ibm.com/sitemap/cn/zh/|7|笔记本&#38;台式机 (英文)|2014-01-24|0|0|0|0|0|0|0|http://www.lenovo.com/support/?lnk=msdFP-lade-cnzh|0|2012-12-31|2014-01-24| | |TextLink|TextLink_Normal|21|32|49|60</Row>
+			<Row>http://www.tuaw.com/2014/01/21/the-subtle-brilliance-of-apples-product-names/|9|laptop and ultrabook lineup of lenovo|2014-01-22|0|0|0|0|0|0|0|http://shop.lenovo.com/us/en/laptops/|11|2014-01-21|2014-01-22| | |TextLink|TextLink_Normal|49|48|57|50</Row>
+			<Row>http://tv.sohu.com/app/|8|苏州十中|2014-01-25|0|0|0|1|0|0|0|http://www.lenovo.com/|12|2013-08-29|2014-01-25| | |ImageLink|ImageLink_Normal|59|57|54|52</Row>
+			<Row>http://app.sohu.com/|8|乐商店应用商店|2014-01-26|0|0|0|0|0|0|0|http://app.lenovo.com/|12|2013-07-31|2014-01-26| | |TextLink|TextLink_Normal|42|39|51|55</Row>
+			<Row>http://www.intel.com/support/oems.htm|8|support|2014-01-26|0|0|0|0|0|0|0|http://www.lenovo.com/support/|13|2009-08-21|2014-01-26| | |TextLink|TextLink_Normal|36|33|55|50</Row>
+			<Row>http://www.intel.com/support/oems.htm|8|software|2014-01-26|0|0|0|0|0|0|0|http://www.lenovo.com/support/|13|2009-08-21|2014-01-26| | |TextLink|TextLink_Normal|36|33|55|50</Row>
+			<Row>http://www.3dconnexion.com/buy/workstation-partners.html|8|www.lenovo.com|2014-01-26|0|0|0|0|0|0|0|http://www.lenovo.com/|14|2011-03-14|2014-01-26| | |TextLink|TextLink_Normal|59|57|55|50</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="15" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|ibm.com|565|767125|248894650|9125232|2585898|2008-06-26|2014-01-26|129.42.58.216|129.42.58.0|US|com|74|88</Row>
+			<Row>1|lenovo.com.cn|4170|106103|15694695|2519312|888836|2008-07-30|2014-01-26|218.92.227.120|218.92.227.0|CN|cn|50|72</Row>
+			<Row>2|gputechconf.com|190662|2881|272224|2970|1341|2012-04-10|2014-01-26|80.239.230.162|80.239.230.0|EU|com|42|51</Row>
+			<Row>3|wsj.com|313|1382342|1044915157|20970161|3268354|2008-06-26|2014-01-26|205.203.140.1|205.203.140.0|US|com|79|83</Row>
+			<Row>4|tuxera.com|124825|7577|164124|23034|22240|2009-11-29|2014-01-26|77.86.224.47|77.86.224.0|FI|com|41|53</Row>
+			<Row>5|72g.com|-1|2117|57733|68165|11354|2008-08-29|2014-01-26|121.10.143.66|121.10.143.0|CN|com|40|54</Row>
+			<Row>6|feedburner.com|833|2748455|9377788166|309541443|23347079|2008-06-26|2014-01-26|74.125.225.128|74.125.225.0|US|com|89|89</Row>
+			<Row>7|iomega.com|68525|48297|3021849|103763|81555|2008-06-27|2014-01-26|147.178.248.49|147.178.248.0|US|com|35|45</Row>
+			<Row>8|scholastic.com|5516|195275|21074030|6293168|1925882|2008-06-26|2014-01-26|184.85.5.116|184.85.5.0|US|com|62|75</Row>
+			<Row>9|digitaltrends.com|3136|190717|18921542|4780493|694119|2008-07-01|2014-01-26|69.31.106.65|69.31.106.0|US|com|65|62</Row>
+			<Row>10|mit.edu|1452|1037071|2464934671|9226450|1183932|2008-06-26|2014-01-26|23.50.134.151|23.50.134.0|US|edu|71|90</Row>
+			<Row>11|tuaw.com|10936|160753|206527908|2384595|1049229|2008-06-29|2014-01-26|205.188.28.118|205.188.28.0|US|com|63|62</Row>
+			<Row>12|sohu.com|52|1529226|929786390|73397295|2934691|2008-06-27|2014-01-26|180.210.234.6|180.210.234.0|CN|com|76|91</Row>
+			<Row>13|intel.com|1257|486838|763308048|9252053|3865880|2008-06-26|2014-01-26|207.152.124.49|207.152.124.0|US|com|86|87</Row>
+			<Row>14|3dconnexion.com|194757|13071|2276390|556351|392207|2008-06-30|2014-01-26|82.135.58.96|82.135.58.0|DE|com|58|59</Row>
+		</DataTable>
+	</DataTables>
+</Result>

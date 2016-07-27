@@ -1,0 +1,47 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 9,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2015-01-08 21:31:53",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 99769000,
+	"RemainingRetrievalResUnits" : 19889662,
+	"ServerBuild" : "2014-12-20 16:14:37",
+	"ServerName" : "HUMMERR",
+	"ServerVersion" : "1.0.5467.29238",
+	"UniqueIndexID" : "20150108213153-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "visihow.com", "UsedRootDomain" : "visihow.com", "TotalRefDomains" : 9, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 9
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "list-of-domains.org", "RefDomains" : 2901, "AlexaRank" : 31540, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 152944, "IndexedURLs" : 23949, "CrawledURLs" : 19335, "FirstCrawled" : "2009-06-22", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "173.201.142.193", "SubNet" : "173.201.142.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 21, "TrustFlow" : 6, "TopicalTrustFlow_Topic_0" : "Health", "TopicalTrustFlow_Value_0" : "6", "BackLinks_visihow.com" : "1", "FirstLinkDate_visihow.com" : "2014-12-15", "LastLinkDate_visihow.com" : "2014-12-15" },
+				{ "Position" : 2, "Domain" : "webnamelist.com", "RefDomains" : 2239, "AlexaRank" : 26077, "Matches" : 1, "MatchedLinks" : 5, "ExtBackLinks" : 125828, "IndexedURLs" : 16191, "CrawledURLs" : 13425, "FirstCrawled" : "2010-03-17", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "173.201.142.193", "SubNet" : "173.201.142.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 21, "TrustFlow" : 19, "TopicalTrustFlow_Topic_0" : "Computers/Graphics", "TopicalTrustFlow_Value_0" : "19", "BackLinks_visihow.com" : "5", "FirstLinkDate_visihow.com" : "2014-12-14", "LastLinkDate_visihow.com" : "2014-12-14" },
+				{ "Position" : 3, "Domain" : "howik.com", "RefDomains" : 2058, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1421, "ExtBackLinks" : 46214, "IndexedURLs" : 52434, "CrawledURLs" : 35070, "FirstCrawled" : "2013-04-16", "LastSuccessfulCrawl" : "2014-11-14", "IP" : "178.32.100.106", "SubNet" : "178.32.100.0", "CountryCode" : "FR", "TLD" : "com", "CitationFlow" : 16, "TrustFlow" : 16, "TopicalTrustFlow_Topic_0" : "Computers/Multimedia", "TopicalTrustFlow_Value_0" : "16", "BackLinks_visihow.com" : "1421", "FirstLinkDate_visihow.com" : "2014-12-10", "LastLinkDate_visihow.com" : "2014-12-15" },
+				{ "Position" : 4, "Domain" : "searchnu.com", "RefDomains" : 1255, "AlexaRank" : 135, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 202535, "IndexedURLs" : 949296, "CrawledURLs" : 356945, "FirstCrawled" : "2009-10-20", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "94.31.0.60", "SubNet" : "94.31.0.0", "CountryCode" : "UK", "TLD" : "com", "CitationFlow" : 41, "TrustFlow" : 15, "TopicalTrustFlow_Topic_0" : "News/Newspapers", "TopicalTrustFlow_Value_0" : "14", "BackLinks_visihow.com" : "2", "FirstLinkDate_visihow.com" : "2014-12-12", "LastLinkDate_visihow.com" : "2014-12-12" },
+				{ "Position" : 5, "Domain" : "listofdomains.org", "RefDomains" : 822, "AlexaRank" : 103503, "Matches" : 1, "MatchedLinks" : 3, "ExtBackLinks" : 11433, "IndexedURLs" : 17942, "CrawledURLs" : 16155, "FirstCrawled" : "2013-02-26", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "192.185.10.227", "SubNet" : "192.185.10.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 20, "TrustFlow" : 9, "TopicalTrustFlow_Topic_0" : "Arts/Music", "TopicalTrustFlow_Value_0" : "9", "BackLinks_visihow.com" : "3", "FirstLinkDate_visihow.com" : "2014-12-14", "LastLinkDate_visihow.com" : "2014-12-14" },
+				{ "Position" : 6, "Domain" : "howikis.com", "RefDomains" : 380, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1299, "ExtBackLinks" : 9616, "IndexedURLs" : 83886, "CrawledURLs" : 51165, "FirstCrawled" : "2013-07-17", "LastSuccessfulCrawl" : "2014-12-11", "IP" : "178.33.36.66", "SubNet" : "178.33.36.0", "CountryCode" : "DE", "TLD" : "com", "CitationFlow" : 36, "TrustFlow" : 39, "TopicalTrustFlow_Topic_0" : "Computers/Multimedia", "TopicalTrustFlow_Value_0" : "39", "BackLinks_visihow.com" : "1299", "FirstLinkDate_visihow.com" : "2014-12-11", "LastLinkDate_visihow.com" : "2014-12-14" },
+				{ "Position" : 7, "Domain" : "seehow.co", "RefDomains" : 181, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 4314, "IndexedURLs" : 177160, "CrawledURLs" : 60942, "FirstCrawled" : "2014-09-27", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "173.236.170.26", "SubNet" : "173.236.170.0", "CountryCode" : "US", "TLD" : "co", "CitationFlow" : 25, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_visihow.com" : "1", "FirstLinkDate_visihow.com" : "2014-12-15", "LastLinkDate_visihow.com" : "2014-12-15" },
+				{ "Position" : 8, "Domain" : "reservelivite.com", "RefDomains" : 3, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 4, "ExtBackLinks" : 3, "IndexedURLs" : 2, "CrawledURLs" : 1, "FirstCrawled" : "2014-12-12", "LastSuccessfulCrawl" : "", "IP" : "178.33.36.66", "SubNet" : "178.33.36.0", "CountryCode" : "DE", "TLD" : "com", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_visihow.com" : "4", "FirstLinkDate_visihow.com" : "2014-12-12", "LastLinkDate_visihow.com" : "2014-12-12" },
+				{ "Position" : 9, "Domain" : "reservelivite.biz", "RefDomains" : 0, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 0, "IndexedURLs" : 1, "CrawledURLs" : 1, "FirstCrawled" : "2014-12-12", "LastSuccessfulCrawl" : "", "IP" : "213.186.33.5", "SubNet" : "213.186.33.0", "CountryCode" : "FR", "TLD" : "biz", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_visihow.com" : "2", "FirstLinkDate_visihow.com" : "2014-12-12", "LastLinkDate_visihow.com" : "2014-12-12" }
+			]
+			}
+		}
+}

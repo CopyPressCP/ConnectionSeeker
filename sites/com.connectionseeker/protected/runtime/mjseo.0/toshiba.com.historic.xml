@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="250" IndexBuildDate="2014-03-19 09:04:51" IndexType="0" RemainingAnalysisResUnits="97258369" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19909038" RemainingStandardReports="950" ServerBuild="2014-03-20 15:41:30" ServerName="SHADOJAGUAR" ServerVersion="1.0.5192.28245" UniqueIndexID="20140319090451-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="250" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="toshiba.com" BackLinkType="RootDomain" TotalBackLinks="13651615" TotalLines="50000" TotalMatches="250">
+			<Row>http://www.imsa.com/|9| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|60|68</Row>
+			<Row>http://www.tuxera.com/|8|toshiba|2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-06-09|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|56|64</Row>
+			<Row>http://www.pandora.com/everywhere/home|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|2|2013-12-15|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|53|66</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/venezuela.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|38|41|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/peru.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/chile.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/panama.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|português|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/brazil.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/caribe.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/brazil.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/bolivia.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/uruguay.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/ecuador.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/guatemala.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/nicaragua.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/argentina.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/costa_rica.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/el_salvador.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|37|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/us.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|36|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/mexico.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|36|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/canada.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|36|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|français|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/canada.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|36|40|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|español|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/colombia.jsp|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|37|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/laos|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/korea/|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|繁體中文|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/taiwan/|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/taiwan/|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/brunei|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/myanmar|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/vietnam/|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/srilanka|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/thailand|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/hongkong/|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/mongolia|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/pakistan/|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/malaysia/|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/australia|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/singapore/|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/indonesia/|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/newzealand|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/bangladesh|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.toshiba.co.jp/worldwide/region/index.html|8|english|2014-02-28|0|0|0|0|0|0|0|http://www.asia.toshiba.com/philippines/|3|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|33|36|55|58</Row>
+			<Row>http://www.ultimatebootcd.com/|8|udma utility (for fujitsu mpg series hdds)|2014-02-28|0|0|0|0|0|0|0|http://storage.toshiba.com/storage-services-support/warranty-support/software-utilities|4|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|34|41|50|63</Row>
+			<Row>http://www.ultimatebootcd.com/|8|udma utility (for fujitsu mpd/mpe/mpf series hdds)|2014-02-28|0|0|0|0|0|0|0|http://storage.toshiba.com/storage-services-support/warranty-support/software-utilities|4|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|34|41|50|63</Row>
+			<Row>http://www.ultimatebootcd.com/|8|change definition utility (for fujitsu m16xx/m2915 hdds)|2014-02-28|0|0|0|0|0|0|0|http://storage.toshiba.com/storage-services-support/warranty-support/software-utilities|4|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|34|41|50|63</Row>
+			<Row>http://www.ultimatebootcd.com/|8|ata diagnostic tool (fujitsu)|2014-02-28|0|0|0|0|0|0|0|http://storage.toshiba.com/storage-services-support/warranty-support/software-utilities|4|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|34|41|50|63</Row>
+			<Row>http://www.ultimatebootcd.com/|8|fujitsu erase utility|2014-02-28|0|0|0|0|0|0|0|http://storage.toshiba.com/storage-services-support/warranty-support/software-utilities|4|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|34|41|50|63</Row>
+			<Row>http://www.sqlite.org/famous.html|8|toshiba|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/|5|2009-04-26|2014-02-28| | |TextLink|TextLink_Normal|56|68|50|59</Row>
+			<Row>http://www.sqlite.org/famous.html|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|5|2009-04-26|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|50|59</Row>
+			<Row>http://www.imsa.com/series/united-sportscar/schedule|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|55|51</Row>
+			<Row>http://www.intel.com/support/oems.htm|8|software|2014-02-28|0|0|0|0|0|0|0|http://www.csd.toshiba.com/cgi-bin/tais/support/jsp/home.jsp?nav=Product Support|6|2009-08-24|2014-02-28| | |TextLink|TextLink_Normal|36|33|54|50</Row>
+			<Row>http://www.intel.com/support/oems.htm|8|support|2014-02-28|0|0|0|0|0|0|0|http://toshiba.com/tai/support.jsp|6|2012-05-10|2014-02-28| | |TextLink|TextLink_Normal|35|33|54|50</Row>
+			<Row>http://www.youtube.com/user/toshibaUS|7|http://www.toshiba.com/us/c...|2014-02-20|0|0|1|0|0|0|0|http://www.toshiba.com/us/computers/laptops/portege/|7|2014-02-20|2014-02-20| | |TextLink|TextLink_Normal|50|54|49|54</Row>
+			<Row>http://www.youtube.com/user/toshibaUS|7| |2014-02-20|0|0|1|1|0|0|0|http://toshiba.com/|7|2014-02-20|2014-02-20| | |ImageLink|ImageLink_Normal|41|26|49|54</Row>
+			<Row>http://www.youtube.com/user/toshibaUS|7|toshiba.com|2014-02-20|0|0|1|0|0|0|0|http://toshiba.com/|7|2014-02-20|2014-02-20| | |TextLink|TextLink_Normal|41|26|49|54</Row>
+			<Row>http://www.storagereview.com/toshiba_px02sm_series_sas3_enterprise_ssd_review|8|toshiba px02sm product page|2014-02-27|0|0|0|0|0|0|0|http://storage.toshiba.com/storagesolutions/enterprise/px02sm|8|2014-02-22|2014-02-27| | |TextLink|TextLink_Normal|31|35|51|52</Row>
+			<Row>http://www.nycgo.com/restaurantweek/|8|toshiba|2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|9|2014-02-11|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|52|51</Row>
+			<Row>http://www.callboxinc.com/|7|toshiba|2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|10|2013-05-05|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|49|54</Row>
+			<Row>http://www.intel.com/content/www/us/en/it-management/intel-it/it-managers.html|9|toshiba portégé z10t-a1110*|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/us/computers/laptops/portege/Z10t/Z10t-A1110|6|2013-11-06|2014-02-28| | |TextLink|TextLink_Normal|37|28|61|41</Row>
+			<Row>http://www.intel.com/content/www/us/en/it-management/intel-it/it-managers.html|9| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/us/computers/laptops/portege/Z10t/Z10t-A1110|6|2013-11-06|2014-02-28| | |ImageLink|ImageLink_Normal|37|28|61|41</Row>
+			<Row>http://www.toshiba.it/|8|schermi video giganti|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/led/|11|2013-02-04|2014-02-28| | |TextLink|TextLink_Normal|37|42|51|51</Row>
+			<Row>http://www.toshiba.it/|8|centri assistenza internazionali|2014-02-28|0|0|0|0|0|0|0|http://www.csd.toshiba.com/cgi-bin/tais/support/jsp/gaspLocator.jsp?style=emea|11|2013-02-04|2014-02-28| | |TextLink|TextLink_Normal|33|38|51|51</Row>
+			<Row>http://www.geeksquad.com/do-it-yourself/tools/computer-restore-disc.aspx|8|toshiba|2014-02-28|0|0|0|0|0|0|0|https://www.csd.toshiba.com/cgi-bin/tais/support/jsp/serviceUnitVerification.jsp?orderType=SFF|12|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|32|33|51|50</Row>
+			<Row>http://www.geeksquad.com/do-it-yourself/tools/find-drivers-and-updates.aspx|8|toshiba|2014-02-28|0|0|0|0|0|0|0|http://support.toshiba.com/|12|2013-05-05|2014-02-28| | |TextLink|TextLink_Normal|58|58|51|50</Row>
+			<Row>http://www.toshibasecurity.com/|7|toshiba americas|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/index.jsp|13|2011-10-13|2014-02-28| | |TextLink|TextLink_Normal|50|56|47|54</Row>
+			<Row>http://www.toshibasecurity.com/|7|environment|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/csr/environment.jsp|13|2011-10-13|2014-02-28| | |TextLink|TextLink_Normal|46|54|47|54</Row>
+			<Row>http://www.toshibasecurity.com/|7|corporate social responsibility|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/csr/|13|2011-10-13|2014-02-28| | |TextLink|TextLink_Normal|44|54|47|54</Row>
+			<Row>http://www.toshibasecurity.com/|7|toshiba usa|2014-02-28|0|0|0|0|0|0|0|http://toshiba.com/tai/|13|2011-10-13|2014-02-28| | |TextLink|TextLink_Normal|46|45|47|54</Row>
+			<Row>http://buyaccessible.net/VARC/|7|http://www.telecom.toshiba.com/telephone_systems_support/accessibility.cfm|2014-02-28|0|0|0|0|0|0|0|http://www.telecom.toshiba.com/Telephone_Systems_Support/accessibility.cfm|14|2011-11-12|2014-02-28| | |TextLink|TextLink_Normal|36|39|49|52</Row>
+			<Row>http://buyaccessible.net/VARC/|7|http://mba.toshiba.com/usa/product/index.html|2014-02-28|0|0|0|0|0|0|0|http://mba.toshiba.com/usa/product/index.html|14|2011-11-12|2014-02-28| | |TextLink|TextLink_Normal|22|30|49|52</Row>
+			<Row>http://www.intel.com/support/tech101.htm|8|toshiba|2014-02-28|0|0|0|0|0|0|0|http://www.sdd.toshiba.com/|6|2011-04-16|2014-02-28| | |TextLink|TextLink_Normal|34|31|52|48</Row>
+			<Row>http://www.france24.com/en/connected-tv/|8|toshiba|2014-02-27|0|0|1|0|0|0|0|http://www.toshiba.com/|15|2013-12-20|2014-02-27| | |TextLink|TextLink_Normal|56|68|50|49</Row>
+			<Row>http://www.imsa.com/series/united-sportscar/news|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|53|46</Row>
+			<Row>http://www.ad-toshiba.jp/en/|7|newyork toshiba vision countdown 2014|2014-01-29|0|0|0|0|0|0|0|http://www.toshiba.com/tai/ToshibaVision/NYE2013/index.htm|16|2014-01-27|2014-01-29| | |TextLink|TextLink_Normal|31|37|47|52</Row>
+			<Row>http://www.imsa.com/race-events/62nd-annual-mobil-1-twelve-hours-sebring-fueled-fresh-florida/content|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2014-02-20|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|51|47</Row>
+			<Row>http://www.exploravision.org/|7|toshiba|2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|17|2010-05-21|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|46|52</Row>
+			<Row>http://www.exploravision.org/|7| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/csr/education_tomodachi_stem.jsp|17|2013-12-31|2014-02-28| | |ImageLink|ImageLink_Normal|34|39|46|52</Row>
+			<Row>http://www.toshibacameras.com/|7|toshiba americas|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/americas/index.jsp|18|2011-10-13|2014-02-28| | |TextLink|TextLink_Normal|50|56|45|53</Row>
+			<Row>http://www.toshibacameras.com/|7|environment|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/csr/environment.jsp|18|2012-06-09|2014-02-28| | |TextLink|TextLink_Normal|46|54|45|53</Row>
+			<Row>http://www.toshibacameras.com/|7|social responsibility|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/csr/|18|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|44|54|45|53</Row>
+			<Row>http://www.toshibacameras.com/|7|toshiba usa|2014-02-28|0|0|0|0|0|0|0|http://toshiba.com/tai/|18|2011-10-13|2014-02-28| | |TextLink|TextLink_Normal|46|45|45|53</Row>
+			<Row>http://www.toshibacommerce.com/wps/portal/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOItAywMPPwNjLwsjFwNDRwtAo0MjU0DDb0NDPULsh0VAQen_c4!/|7|worldwide|2014-02-28|0|0|0|0|0|0|0|http://retail.toshiba.com/|19|2014-01-11|2014-02-28| | |TextLink|TextLink_Normal|22|32|44|54</Row>
+			<Row>http://en.wikipedia.org/wiki/Flash_memory|8|http://www.toshiba.com/taec/news/press_releases/2010/memy_10_599.jsp|2014-02-19|0|0|1|0|0|0|0|http://www.toshiba.com/taec/news/press_releases/2010/memy_10_599.jsp|20|2013-10-09|2014-02-19| | |TextLink|TextLink_Normal|7|4|50|47</Row>
+			<Row>http://www.imsa.com/2014-tudor-united-sportscar-championship-standings|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2014-01-24|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|47</Row>
+			<Row>http://www.imsa.com/inside/united-sportscar|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|52|45</Row>
+			<Row>http://blogs.adobe.com/digitalpublishing/supported-devices|8|toshiba europe gmbh|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/|21|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|56|68|50|46</Row>
+			<Row>http://cn.engadget.com/category/mediapcs/|8|toshiba|2014-02-26|0|0|0|0|0|0|0|http://www.toshiba.com/us/ext-hdd?src=MAKP&#38;cm_mmc=TAI-_-Home-_-TopNav-_-DesktopHD|22|2014-02-09|2014-02-26| | |TextLink|TextLink_Normal|41|51|52|44</Row>
+			<Row>http://www.arm.com/about/newsroom/partner-news.php|7|toshiba drives power-efficient appliance design with new dual-motor, arm technology-based microcontroller|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/taec/news/press_releases/2009/mcus_09_581.jsp|23|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|19|28|45|51</Row>
+			<Row>http://nl.mouser.com/applications/audio_applications/|6|mp3 player - toshiba|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/taec/applications/sbd/mp3.jsp|24|2013-06-04|2014-02-28| | |TextLink|TextLink_Normal|19|28|43|53</Row>
+			<Row>http://nl.mouser.com/applications/audio_applications/|6|mp3 player|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/taec/applications/sbd/mp3.jsp|24|2013-06-04|2014-02-28| | |TextLink|TextLink_Normal|19|28|43|53</Row>
+			<Row>http://www.techspot.com/review/784-toshiba-encore/|8|$280 - $350|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/us/tablet-finder?family=Encore%E2%84%A2&#38;model=8|25|2014-02-27|2014-02-28| | |TextLink|TextLink_Normal|30|35|52|44</Row>
+			<Row>http://www.imsa.com/series/united-sportscar/photo-galleries|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|51|45</Row>
+			<Row>http://www.imsa.com/imsa101/how-watch|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|51|45</Row>
+			<Row>http://www.imsa.com/privacy-policy|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|46</Row>
+			<Row>http://www.imsa.com/series/united-sportscar/directory|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|51|45</Row>
+			<Row>http://www.imsa.com/series/united-sportscar/videos|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|51|45</Row>
+			<Row>http://www.imsa.com/series/united-sportscar/multimedia|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|51|45</Row>
+			<Row>http://www.imsa.com/terms-of-use|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2014-01-21|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|46</Row>
+			<Row>http://www.imsa.com/competitors|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-06|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|46</Row>
+			<Row>http://www.imsa.com/contact-us|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2014-01-21|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|46</Row>
+			<Row>http://www.imsa.com/user|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|46</Row>
+			<Row>http://www.imsa.com/email-signup|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|46</Row>
+			<Row>http://www.theregister.co.uk/2014/01/17/review_hp_elitebook_ultrabook/|8|500gb 7200rpm toshiba hdd|2014-02-26|0|0|0|0|0|0|0|http://storage.toshiba.com/storagesolutions/pc-notebook/mkxx61gsyn-series|26|2014-01-18|2014-02-26| | |TextLink|TextLink_Normal|32|27|54|41</Row>
+			<Row>http://developer.android.com/tools/extras/oem-usb.html|8|http://support.toshiba.com/sscontent?docid=4001814|2014-02-28|0|0|0|0|0|0|0|http://support.toshiba.com/sscontent?docId=4001814|27|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|28|27|51|44</Row>
+			<Row>http://www.imsa.com/series/united-sportscar/partners|8|www.toshiba.com|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |TextLink|TextLink_Normal|63|81|50|45</Row>
+			<Row>http://www.imsa.com/series/united-sportscar/partners|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|45</Row>
+			<Row>http://www.imsa.com/series/united-sportscar/team-industry|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|45</Row>
+			<Row>http://www.imsa.com/series/united-sportscar/teams|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|45</Row>
+			<Row>http://www.imsa.com/series/united-sportscar/tv-episodes|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|45</Row>
+			<Row>http://www.imsa.com/series/united-sportscar/naec|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|45</Row>
+			<Row>http://www.imsa.com/tudor-championship-wallpapers|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-28|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|45</Row>
+			<Row>http://www.imsa.com/node/26916|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|45</Row>
+			<Row>http://www.imsa.com/node/26930|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|45</Row>
+			<Row>http://www.imsa.com/all-new-mobile-app|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-12-31|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|45</Row>
+			<Row>http://www.imsa.com/node/27338|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|45</Row>
+			<Row>http://www.tuxera.com/community/ntfs-3g-download/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-06-08|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|46|49</Row>
+			<Row>http://www.calit2.net/partners/index.php|7|toyota|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/|28|2011-05-16|2014-02-28| | |TextLink|TextLink_Normal|56|68|46|49</Row>
+			<Row>http://www.calit2.net/partners/index.php|7|toshiba|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/|28|2011-05-16|2014-02-28| | |TextLink|TextLink_Normal|56|68|46|49</Row>
+			<Row>http://www.imsa.com/historical-standings|7| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2014-01-04|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|49|45</Row>
+			<Row>http://www.crackle.com/outreach/platforms/|8| |2014-02-27|0|0|0|1|0|0|0|http://us.toshiba.com/video-electronics/blu-ray-players/|29|2013-04-04|2014-02-27| | |ImageLink|ImageLink_Normal|36|40|50|44</Row>
+			<Row>http://www.crackle.com/outreach/platforms/|8| |2014-02-27|0|0|0|1|0|0|0|http://us.toshiba.com/tv/smarttv/|29|2013-04-04|2014-02-27| | |ImageLink|ImageLink_Normal|29|29|50|44</Row>
+			<Row>http://www.tuxera.com/community/ntfs-3g-advanced/|7|toshiba|2014-02-25|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-05|2014-02-25| | |ImageLink|ImageLink_Normal|56|68|44|49</Row>
+			<Row>http://www.educationworld.com/a_admin/grants/additional_grants.shtml|7|http://www.taf.toshiba.com|2014-02-28|0|0|0|0|0|0|0|http://www.taf.toshiba.com/|30|2009-12-22|2014-02-28| | |TextLink|TextLink_Normal|28|29|46|46</Row>
+			<Row>http://www.tuxera.com/about-us/careers/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-07|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/products/tuxera-xfs-enterprise/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/support/commercial-services/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-07|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/support/forums/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-07|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/markets/automotive/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/markets/industrial/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/markets/mobile-phones-tablets/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/markets/set-top-boxes-home-media/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/markets/software/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/markets/storage/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/about-us/events/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-07|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/partners/associations/|7|toshiba|2014-02-24|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-04|2014-02-24| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/about-us/management/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-07|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/partners/chipset/|7|toshiba|2014-02-24|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-04|2014-02-24| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/about-us/news/|7|toshiba|2014-02-25|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-05|2014-02-25| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/partners/operating-systems/|7|toshiba|2014-02-24|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-04|2014-02-24| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/tuxera-ntfs-for-mac-old/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/products/tuxera-exfat-embedded/|7|toshiba|2014-02-24|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-02|2014-02-24| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/about-us/trademarks-and-logos/|7|toshiba|2014-02-25|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-05|2014-02-25| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/products/tuxera-fat-embedded/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/products/tuxera-hfs-embedded/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/products/tuxera-ntfs-embedded/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/community/ntfs-3g-faq/|7|toshiba|2014-02-25|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-06-06|2014-02-25| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/community/ntfs-3g-manual/|7|toshiba|2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-08|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/community/posix-test-suite/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-07|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/community/release-history/|7|toshiba|2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-07-09|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/community/tufs/|7|toshiba|2014-02-25|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2013-03-03|2014-02-25| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/buy/oem-and-volume-licensing/|7|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-07|2014-02-27| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/about-us/about-us/|7|toshiba|2014-02-25|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-06-06|2014-02-25| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://www.tuxera.com/about-us/blog/|7|toshiba|2014-02-24|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-04|2014-02-24| | |ImageLink|ImageLink_Normal|56|68|44|48</Row>
+			<Row>http://en.wikipedia.org/wiki/Toshiba|7|http://www.telecom.toshiba.com/|2014-02-28|0|0|1|0|0|0|0|http://www.telecom.toshiba.com/|20|2014-02-25|2014-02-28| | |TextLink|TextLink_Normal|51|58|48|43</Row>
+			<Row>http://en.wikipedia.org/wiki/Toshiba|7|toshiba tvs|2014-02-28|0|0|1|0|0|0|0|http://www.toshiba.com/us/toshiba-tvs|20|2013-10-31|2014-02-28| | |TextLink|TextLink_Normal|50|55|48|43</Row>
+			<Row>http://en.wikipedia.org/wiki/Toshiba|7|toshiba laptops|2014-02-28|0|0|1|0|0|0|0|http://www.toshiba.com/us/computers/laptops/|20|2013-10-31|2014-02-28| | |TextLink|TextLink_Normal|50|54|48|43</Row>
+			<Row>http://en.wikipedia.org/wiki/Toshiba|7|toshiba’s 4k hd led tvs|2014-02-28|0|0|1|0|0|0|0|http://www.toshiba.com/us/4k-tvs|20|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|49|54|48|43</Row>
+			<Row>http://en.wikipedia.org/wiki/Toshiba|7|toshiba telecommunications|2014-02-28|0|0|1|0|0|0|0|http://telecom.toshiba.com/|20|2013-05-05|2014-02-28| | |TextLink|TextLink_Normal|31|26|48|43</Row>
+			<Row>http://www.adaptec.com/en-us/compatibility/12g/|6|toshiba|2014-02-27|0|0|0|1|0|0|0|http://www.toshiba.com/us/|31|2014-02-22|2014-02-27| | |ImageLink|ImageLink_Normal|60|63|39|52</Row>
+			<Row>http://www.tuxera.com/about-us/legal-notice/|6|toshiba|2014-02-26|0|0|0|1|0|0|0|http://www.toshiba.com/|1|2012-08-06|2014-02-26| | |ImageLink|ImageLink_Normal|56|68|43|48</Row>
+			<Row>http://www.elotrolado.net/noticias/tecnologia/|7|mg04sca series|2014-02-26|0|0|0|0|0|0|0|http://storage.toshiba.com/storagesolutions/enterprise/mg04sca|32|2014-02-21|2014-02-26| | |TextLink|TextLink_Normal|30|29|47|44</Row>
+			<Row>http://www.elotrolado.net/noticias/tecnologia/|7|mg04aca|2014-02-26|0|0|0|0|0|0|0|http://storage.toshiba.com/ProductDatasheet.aspx?product=MG04SCA|32|2014-02-21|2014-02-26| | |TextLink|TextLink_Normal|25|28|47|44</Row>
+			<Row>http://www.dolby.com/us/en/consumer/product/support.html|7|toshiba support|2014-02-28|0|0|0|0|0|0|0|http://www.csd.toshiba.com/cgi-bin/tais/support/jsp/home.jsp|33|2011-11-12|2014-02-28| | |TextLink|TextLink_Normal|39|29|44|46</Row>
+			<Row>http://info.fring.com/partners/|6|toshiba|2014-02-26|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|34|2011-12-10|2014-02-26| | |ImageLink|ImageLink_Normal|63|81|42|48</Row>
+			<Row>http://www.color.org/iccmembers.xalter|6|toshiba america business solutions|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/|35|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|56|68|40|50</Row>
+			<Row>http://www.openhandsetalliance.com/oha_members.html|6|www.toshiba.com|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/|36|2010-11-17|2014-02-28| | |TextLink|TextLink_Normal|56|68|42|48</Row>
+			<Row>http://www.chrontel.com/index.php/about-chrontel/customer-list.html|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|37|2013-08-03|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|38|51</Row>
+			<Row>http://www.qsound.com/partners/overview.htm|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|38|2011-04-16|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|39|50</Row>
+			<Row>http://chrome.blogspot.com/2014_01_01_archive.html|6|toshiba introduced|2014-01-08|0|0|0|0|0|0|0|http://www.toshiba.com/us/press-release/100947|39|2014-01-08|2014-01-08| | |TextLink|TextLink_Normal|31|32|43|45</Row>
+			<Row>http://www.intel.com/content/www/us/en/processors/vpro/core-processors-with-vpro-technology.html|8|toshiba portégé z10t-a1110*|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/us/computers/laptops/portege/Z10t/Z10t-A1110|6|2013-11-06|2014-02-28| | |TextLink|TextLink_Normal|37|28|50|38</Row>
+			<Row>http://www.intel.com/content/www/us/en/processors/vpro/core-processors-with-vpro-technology.html|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/us/computers/laptops/portege/Z10t/Z10t-A1110|6|2013-11-06|2014-02-28| | |ImageLink|ImageLink_Normal|37|28|50|38</Row>
+			<Row>http://www.intel.com/content/www/us/en/processors/vpro/core-processors-with-vpro-technology.html|8|toshiba portégé z930* ultrabook™|2014-02-28|0|0|0|0|0|0|0|http://us.toshiba.com/computers/laptops/portege/Z930/|6|2013-02-04|2014-02-28| | |TextLink|TextLink_Normal|34|26|50|38</Row>
+			<Row>http://www.intel.com/content/www/us/en/processors/vpro/core-processors-with-vpro-technology.html|8| |2014-02-28|0|0|0|1|0|0|0|http://us.toshiba.com/computers/laptops/portege/Z930/|6|2013-02-04|2014-02-28| | |ImageLink|ImageLink_Normal|34|26|50|38</Row>
+			<Row>http://www.mouser.com/applications/audio_applications/|7|mp3 player|2014-02-27|0|0|0|0|0|0|0|http://www.toshiba.com/taec/applications/sbd/mp3.jsp|24|2013-06-03|2014-02-27| | |TextLink|TextLink_Normal|19|28|45|43</Row>
+			<Row>http://www.mouser.com/applications/audio_applications/|7|mp3 player - toshiba|2014-02-27|0|0|0|0|0|0|0|http://www.toshiba.com/taec/applications/sbd/mp3.jsp|24|2013-06-03|2014-02-27| | |TextLink|TextLink_Normal|19|28|45|43</Row>
+			<Row>http://www.tlt.co.jp/tlt/index_e.htm|7|north america (120v ul)|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/lighting/products/|40|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|33|36|44|44</Row>
+			<Row>http://www.thefreecountry.com/utilities/start-menu-for-windows-8.shtml|6|toshiba|2014-02-28|0|0|1|0|0|0|0|http://www.csd.toshiba.com/cgi-bin/tais/support/jsp/downloadDetail.jsp?pf=true&#38;soid=3520679|41|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|2|1|43|45</Row>
+			<Row>http://www.timessquarenyc.org/events/new-years-eve/about-the-new-years-eve-ball/index.aspx|7|toshiba logo|2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|42|2013-01-05|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|49|39</Row>
+			<Row>http://www.afcasiancup.com/|6| |2014-02-28|0|0|0|0|0|0|0|http://asia.toshiba.com/|43|2014-01-08|2014-02-28| | |TextLink|TextLink_Normal|39|39|42|46</Row>
+			<Row>http://es.engadget.com/category/almacenamiento/|8|toshiba canvio home ve la luz para que no te compliques con el almacenamiento en red|2014-02-26|0|0|0|1|0|0|0|http://www.toshiba.com/us/ext-hdd?src=MAKP&#38;cm_mmc=TAI-_-Home-_-TopNav-_-DesktopHD|22|2014-02-06|2014-02-26| | |ImageLink|ImageLink_Normal|41|51|52|35</Row>
+			<Row>http://es.engadget.com/category/almacenamiento/|8| |2014-02-26|0|0|0|1|0|0|0|http://www.toshiba.com/us/ext-hdd?src=MAKP&#38;cm_mmc=TAI-_-Home-_-TopNav-_-DesktopHD|22|2014-02-06|2014-02-26| | |ImageLink|ImageLink_Normal|41|51|52|35</Row>
+			<Row>http://es.engadget.com/category/almacenamiento/|8|leer|2014-02-26|0|0|0|0|0|0|0|http://www.toshiba.com/us/ext-hdd?src=MAKP&#38;cm_mmc=TAI-_-Home-_-TopNav-_-DesktopHD|22|2014-02-06|2014-02-26| | |TextLink|TextLink_Normal|41|51|52|35</Row>
+			<Row>http://es.engadget.com/category/almacenamiento/|8|toshiba presenta su disco duro de 5 tb especial para empresas|2014-02-26|0|0|0|1|0|0|0|http://storage.toshiba.com/es/soluciones-de-almacenamiento/empresas/serie-mg04sca|22|2014-02-16|2014-02-26| | |ImageLink|ImageLink_Normal|27|21|52|35</Row>
+			<Row>http://es.engadget.com/category/almacenamiento/|8| |2014-02-26|0|0|0|1|0|0|0|http://storage.toshiba.com/es/soluciones-de-almacenamiento/empresas/serie-mg04sca|22|2014-02-16|2014-02-26| | |ImageLink|ImageLink_Normal|27|21|52|35</Row>
+			<Row>http://es.engadget.com/category/almacenamiento/|8|leer|2014-02-26|0|0|0|0|0|0|0|http://storage.toshiba.com/es/soluciones-de-almacenamiento/empresas/serie-mg04sca|22|2014-02-16|2014-02-26| | |TextLink|TextLink_Normal|27|21|52|35</Row>
+			<Row>http://www.imsa.com/node/26908|8| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|50|37</Row>
+			<Row>http://www.nticorp.com/en/us/company/partners.asp|6|toshiba|2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/support/support_cons.jsp|44|2010-05-21|2014-02-28| | |ImageLink|ImageLink_Normal|28|31|40|47</Row>
+			<Row>http://blog.xkcd.com/2009/06/|7|toshiba r600|2014-02-24|0|0|0|0|0|0|0|http://laptops.toshiba.com/laptops/portege/R600|45|2010-01-17|2014-02-24| | |TextLink|TextLink_Normal|25|28|45|41</Row>
+			<Row>http://www.ibj.com/events|7|toshiba|2014-02-28|0|0|0|1|0|0|0|http://www.tbs.toshiba.com/|46|2014-02-25|2014-02-28| | |ImageLink|ImageLink_Normal|27|30|44|42</Row>
+			<Row>http://www.ibj.com/events|7| |2014-02-28|0|0|0|0|0|0|0|http://www.tbs.toshiba.com/|46|2014-02-25|2014-02-28| | |TextLink|TextLink_Normal|27|30|44|42</Row>
+			<Row>http://ecos.sourceware.org/hardware.html|6|toshiba information systems|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/|47|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|56|68|40|46</Row>
+			<Row>http://ecos.sourceware.org/hardware.html|6|toshiba tx49 tmpr4955f|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/taec/cgi-bin/display.cgi?table=Category&#38;CategoryID=132|47|2008-08-29|2014-02-28| | |TextLink|TextLink_Normal|17|26|40|46</Row>
+			<Row>http://ecos.sourceware.org/hardware.html|6|toshiba tx39 tmpr3904af|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/taec/cgi-bin/display.cgi?table=Category&#38;CategoryID=131|47|2008-08-29|2014-02-28| | |TextLink|TextLink_Normal|16|26|40|46</Row>
+			<Row>http://upnp.org/membership/list/|6|toshiba corporation|2014-02-27|0|0|0|0|0|0|0|http://www.toshiba.com/|48|2010-12-16|2014-02-27| | |TextLink|TextLink_Normal|56|68|38|48</Row>
+			<Row>http://www.msfn.org/board/rss/ccs/1c36-frontpage/|7|mlc nand|2014-02-27|0|0|1|0|0|0|0|http://www.toshiba.com/taec/Catalog/Family.do?familyid=7|49|2013-10-01|2014-02-27| | |TextLink|TextLink_Normal|43|41|44|42</Row>
+			<Row>http://www.lvr.com/usbchips.htm|6|toshiba|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/|50|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|56|68|39|47</Row>
+			<Row>http://www.france24.com/fr/tv-connectee/|7|toshiba|2014-02-25|0|0|1|0|0|0|0|http://www.toshiba.com/|15|2013-12-17|2014-02-25| | |TextLink|TextLink_Normal|56|68|48|37</Row>
+			<Row>http://www.bio-rad.com/en-us/education/teaching-resources|6|toshiba exploravision awards|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/tai/exploravision/|51|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|27|29|38|47</Row>
+			<Row>http://www.the-afc.com/en/tournaments/men/afc-asian-cup-qualifiers.html|6|toshiba|2014-02-28|0|0|0|1|0|0|0|http://asia.toshiba.com/|52|2014-01-10|2014-02-28| | |ImageLink|ImageLink_Normal|39|39|39|46</Row>
+			<Row>http://www.the-afc.com/en/tournaments/men/afc-u16-championship.html|6|toshiba|2014-02-28|0|0|0|1|0|0|0|http://asia.toshiba.com/|52|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|39|39|39|46</Row>
+			<Row>http://www.the-afc.com/en/tournaments/men/afc-u19-championship.html|6|toshiba|2014-02-28|0|0|0|1|0|0|0|http://asia.toshiba.com/|52|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|39|39|39|46</Row>
+			<Row>http://www.the-afc.com/en/tournaments/women/afc-u16-womens-championship.html|6|toshiba|2014-02-28|0|0|0|1|0|0|0|http://asia.toshiba.com/|52|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|39|39|39|46</Row>
+			<Row>http://www.the-afc.com/en/tournaments/men/fifa-world-cup-asian-qualifiers.html|6|toshiba|2014-02-28|0|0|0|1|0|0|0|http://asia.toshiba.com/|52|2013-04-05|2014-02-28| | |ImageLink|ImageLink_Normal|39|39|39|46</Row>
+			<Row>http://www.the-afc.com/en/tournaments/futsal/afc-futsal-championship.html|6|spon_toshiba|2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|52|2013-08-03|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|39|46</Row>
+			<Row>http://www.the-afc.com/en/tournaments/men/afc-u22-championship.html|6|spon_toshiba|2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|52|2013-08-03|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|39|46</Row>
+			<Row>http://www.the-afc.com/en/tournaments/women/afc-womens-asian-cup-2014.html|6|spon_toshiba|2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/|52|2013-08-03|2014-02-28| | |ImageLink|ImageLink_Normal|56|68|39|46</Row>
+			<Row>http://www.the-afc.com/en/tournaments/men/afc-u14-championship.html|6|toshiba|2014-02-28|0|0|0|1|0|0|0|http://asia.toshiba.com/|52|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|39|39|39|46</Row>
+			<Row>http://www.the-afc.com/en/tournaments/women/afc-u19-womens-championship.html|6|toshiba|2014-02-28|0|0|0|1|0|0|0|http://asia.toshiba.com/|52|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|39|39|39|46</Row>
+			<Row>http://www.the-afc.com/en/tournaments/men/afc-challenge-cup.html|6|toshiba|2014-02-28|0|0|0|1|0|0|0|http://asia.toshiba.com/|52|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|39|39|39|46</Row>
+			<Row>http://www.aarons.com/m-14-toshiba.aspx|6|visit the toshiba website|2014-02-27|0|0|0|0|0|0|0|http://www.toshiba.com/tai/|53|2013-11-07|2014-02-27| | |TextLink|TextLink_Normal|63|81|40|45</Row>
+			<Row>http://www.theregister.co.uk/2014/02/25/toshiba_makes_thinnest_ssd_module/|7|the hg6 range (pdf)|2014-02-25|0|0|0|0|0|0|0|http://storage.toshiba.com/docs/default-source/press-releases/hg6_series_release.pdf?sfvrsn=0|26|2014-02-25|2014-02-25| | |TextLink|TextLink_Normal|32|34|46|38</Row>
+			<Row>http://www.lightfair.com/lightfair/V40/index.cvn?id=10202|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/lighting/|54|2012-03-11|2014-02-28| | |ImageLink|ImageLink_Normal|46|54|38|46</Row>
+			<Row>http://www.foodprocessing.com/supplier-guides/equipment/|6|www.tic.toshiba.com|2014-02-27|0|0|0|0|0|0|0|http://www.tic.toshiba.com/|55|2013-12-11|2014-02-27| | |TextLink|TextLink_Normal|34|24|42|42</Row>
+			<Row>http://www.gsc-game.com/main.php?t=support&#38;s=driver|6|http://www.toshiba.com|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/|56|2011-04-16|2014-02-28| | |TextLink|TextLink_Normal|56|68|38|46</Row>
+			<Row>http://www.mikrocontroller.net/articles/Linksammlung|6|toshiba|2014-02-28|0|0|1|0|0|0|0|http://www.toshiba.com/taec/|57|2010-07-20|2014-02-28| | |TextLink|TextLink_Normal|48|54|42|42</Row>
+			<Row>http://www.bootdisk.com/utility.htm|6|toshiba|2014-02-28|0|0|0|0|0|0|0|http://www.csd.toshiba.com/cgi-bin/tais/su/su_sc_modSel.jsp|58|2009-05-26|2014-02-28| | |TextLink|TextLink_Normal|37|35|38|46</Row>
+			<Row>http://support.amd.com/en-us/kb-articles/Pages/737-28041SupportforATIMobility.aspx|7|www.csd.toshiba.com|2014-02-27|0|0|0|0|0|0|0|http://www.csd.toshiba.com/|59|2013-10-23|2014-02-27| | |TextLink|TextLink_Normal|40|29|45|38</Row>
+			<Row>http://www.nintendo.com/consumer/systems/wiiu/en_na/system_external_storage.jsp|7|http://us.toshiba.com/computers/storage/desktop/canvio-desk|2014-02-27|0|0|0|0|0|0|0|http://us.toshiba.com/computers/storage/desktop/canvio-desk/|60|2013-03-05|2014-02-27| | |TextLink|TextLink_Normal|26|25|44|39</Row>
+			<Row>http://www.storagereview.com/toshiba_px02sm_series_enterprise_ssd_review|6|toshiba px02sm product page|2014-02-28|0|0|0|0|0|0|0|http://storage.toshiba.com/storagesolutions/enterprise/px02sm|8|2013-06-04|2014-02-28| | |TextLink|TextLink_Normal|31|35|40|43</Row>
+			<Row>http://www.imsa.com/races/circuit-americas-0|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|40|43</Row>
+			<Row>http://www.imsa.com/articles/seefried-headed-sebring-good-feeling|6| |2014-02-26|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2014-02-26|2014-02-26| | |ImageLink|ImageLink_Normal|63|81|41|42</Row>
+			<Row>http://www.ultimatebootcd.com/index.html|6|udma utility (for fujitsu mpg series hdds)|2014-02-28|0|0|0|0|0|0|0|http://storage.toshiba.com/storage-services-support/warranty-support/software-utilities|4|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|34|41|39|44</Row>
+			<Row>http://www.ultimatebootcd.com/index.html|6|udma utility (for fujitsu mpd/mpe/mpf series hdds)|2014-02-28|0|0|0|0|0|0|0|http://storage.toshiba.com/storage-services-support/warranty-support/software-utilities|4|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|34|41|39|44</Row>
+			<Row>http://www.ultimatebootcd.com/index.html|6|ata diagnostic tool (fujitsu)|2014-02-28|0|0|0|0|0|0|0|http://storage.toshiba.com/storage-services-support/warranty-support/software-utilities|4|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|34|41|39|44</Row>
+			<Row>http://www.ultimatebootcd.com/index.html|6|fujitsu erase utility|2014-02-28|0|0|0|0|0|0|0|http://storage.toshiba.com/storage-services-support/warranty-support/software-utilities|4|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|34|41|39|44</Row>
+			<Row>http://www.ultimatebootcd.com/index.html|6|change definition utility (for fujitsu m16xx/m2915 hdds)|2014-02-28|0|0|0|0|0|0|0|http://storage.toshiba.com/storage-services-support/warranty-support/software-utilities|4|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|34|41|39|44</Row>
+			<Row>http://www.bristolelectronics.com/line-card|8|toshiba|2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/taec/|61|2012-06-09|2014-02-28| | |TextLink|TextLink_Normal|48|54|51|32</Row>
+			<Row>http://www.bristolelectronics.com/line-card|8| |2014-02-28|0|0|0|0|0|0|0|http://www.toshiba.com/taec/|61|2012-06-09|2014-02-28| | |TextLink|TextLink_Normal|48|54|51|32</Row>
+			<Row>http://crazypc.ro/asrock-z87m-oc-formula-review/|6|toshiba hg5d series 128gb|2014-02-27|0|0|0|0|0|0|0|http://storage.toshiba.com/storagesolutions/pc-notebook/hg5d-series|62|2014-01-28|2014-02-27| | |TextLink|TextLink_Normal|25|26|41|42</Row>
+			<Row>http://www.sru.org/|5| |2014-02-28|0|0|0|1|0|0|0|http://www.medical.toshiba.com/|63|2008-08-29|2014-02-28| | |ImageLink|ImageLink_Normal|40|41|36|47</Row>
+			<Row>http://gigaom.com/author/kevintofel/feed/|7|which retails for $299|2014-02-27|0|0|0|0|0|0|0|http://www.toshiba.com/us/computers/laptops/chromebook/cb30/CB30-A3120|64|2014-02-27|2014-02-27| | |TextLink|TextLink_Normal|33|34|47|35</Row>
+			<Row>http://www.business.com/retail-and-restaurant/pos-systems/|6|toshiba point of sale systems and solutions|2014-02-25|0|0|0|0|0|0|0|http://business.toshiba.com/usa/product/retail/index.html|65|2013-02-01|2014-02-25| | |TextLink|TextLink_Normal|36|38|37|45</Row>
+			<Row>http://www.business.com/retail-and-restaurant/pos-systems/|6|http://business.toshiba.com|2014-02-25|0|0|0|0|0|0|0|http://business.toshiba.com/usa/product/retail/index.html|65|2013-02-01|2014-02-25| | |TextLink|TextLink_Normal|36|38|37|45</Row>
+			<Row>http://www.business.com/office-equipment-and-supplies/copiers/|6|http://business.toshiba.com|2014-02-25|0|0|0|0|0|0|0|http://business.toshiba.com/usa/ppc/index-copiers.html|65|2013-01-02|2014-02-25| | |TextLink|TextLink_Normal|24|35|37|45</Row>
+			<Row>http://www.business.com/office-equipment-and-supplies/copiers/|6|toshiba copiers|2014-02-25|0|0|0|0|0|0|0|http://business.toshiba.com/usa/ppc/index-copiers.html|65|2013-01-02|2014-02-25| | |TextLink|TextLink_Normal|24|35|37|45</Row>
+			<Row>http://www.imsa.com/races/brickyard-grand-prix|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|39|43</Row>
+			<Row>http://www.imsa.com/races/canadian-tire-motorsport-park|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|39|43</Row>
+			<Row>http://www.imsa.com/races/continental-tire-monterey-grand-prix-powered-mazda|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2014-02-07|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|39|43</Row>
+			<Row>http://www.imsa.com/races/kansas-speedway|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|39|43</Row>
+			<Row>http://www.imsa.com/races/petit-le-mans-7|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|39|43</Row>
+			<Row>http://www.imsa.com/races/raceway-belle-isle-park|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-20|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|39|43</Row>
+			<Row>http://www.imsa.com/races/road-america|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|39|43</Row>
+			<Row>http://www.imsa.com/races/sahlen%E2%80%99s-six-hours-glen|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|39|43</Row>
+			<Row>http://www.imsa.com/races/tequila-patr%C3%B3n-sports-car-showcase-long-beach|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2014-02-15|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|39|43</Row>
+			<Row>http://www.imsa.com/races/virginia-international-raceway|6| |2014-02-28|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2013-11-03|2014-02-28| | |ImageLink|ImageLink_Normal|63|81|39|43</Row>
+			<Row>http://www.imsa.com/articles/gainscobob-stallings-racing-suspends-operations-remaining-2014-imsa-tudor-united-sportscar|6| |2014-02-25|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2014-02-25|2014-02-25| | |ImageLink|ImageLink_Normal|63|81|40|42</Row>
+			<Row>http://www.imsa.com/articles/trg-amr-forms-partnership-bayshore-capital|6| |2014-02-26|0|0|0|1|0|0|0|http://www.toshiba.com/tai/|0|2014-02-26|2014-02-26| | |ImageLink|ImageLink_Normal|63|81|40|42</Row>
+			<Row>http://www.mikroe.com/add-on-boards/display/|6|t6963c|2014-02-25|0|0|0|0|0|0|0|http://www.toshiba.com/taec/components/Datasheet/T6963CDS.pdf|66|2012-09-04|2014-02-25| | |TextLink|TextLink_Normal|17|25|41|41</Row>
+			<Row>http://www.tacktech.com/display.cfm?ttid=287|7|toshiba|2014-02-28|0|0|0|0|0|0|0|http://sdd.toshiba.com/|67|2008-09-28|2014-02-28| | |TextLink|TextLink_Normal|41|43|49|33</Row>
+			<Row>http://www.tacktech.com/display.cfm?ttid=287|7|toshiba sdd repair center|2014-02-28|0|0|0|0|0|0|0|http://sdd.toshiba.com/main.aspx?Path=8182000000220000000100006598000015a5/818200000108000000010000659c00000f09|67|2008-09-28|2014-02-28| | |TextLink|TextLink_Normal|27|21|49|33</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="68" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|imsa.com|-1|1448|215598|58802|55034|2009-09-17|2014-02-28|67.222.8.60|67.222.8.0|US|com|53|56</Row>
+			<Row>1|tuxera.com|124825|7681|167146|23437|22645|2009-11-29|2014-02-28|77.86.224.47|77.86.224.0|FI|com|45|56</Row>
+			<Row>2|pandora.com|286|168834|36273030|16671810|1941918|2008-07-29|2014-02-28|208.85.40.20|208.85.40.0|US|com|58|83</Row>
+			<Row>3|toshiba.co.jp|12080|74393|9746475|3383195|312433|2008-07-30|2014-02-28|111.87.30.33|111.87.30.0|JP|jp|64|75</Row>
+			<Row>4|ultimatebootcd.com|138027|21942|754457|1776651|221485|2008-07-30|2014-02-28|195.49.147.150|195.49.147.0|UK|com|39|50</Row>
+			<Row>5|sqlite.org|28459|57637|40241715|274434|146580|2008-08-13|2014-02-28|67.18.92.124|67.18.92.0|US|org|58|79</Row>
+			<Row>6|intel.com|1257|487171|757927053|9761534|4264083|2008-07-29|2014-02-28|207.152.124.49|207.152.124.0|US|com|84|81</Row>
+			<Row>7|youtube.com|3|20066674|44703649169|4469107929|262867016|2008-07-29|2014-02-28|74.125.226.206|74.125.226.0|US|com|99|99</Row>
+			<Row>8|storagereview.com|61956|22026|1229246|831959|365714|2008-07-29|2014-02-28|209.212.243.19|209.212.243.0|US|com|56|63</Row>
+			<Row>9|nycgo.com|35616|40355|1634112|1435194|229148|2008-11-28|2014-02-28|207.152.124.51|207.152.124.0|US|com|52|62</Row>
+			<Row>10|callboxinc.com|161181|11857|401220|19171|9968|2008-08-08|2014-02-28|173.247.245.11|173.247.245.0|US|com|44|53</Row>
+			<Row>11|toshiba.it|263291|3343|538690|20536|16104|2008-08-18|2014-02-28|213.161.81.133|213.161.81.0|UK|it|38|46</Row>
+			<Row>12|geeksquad.com|38445|19016|2202776|44544|37037|2008-09-14|2014-02-28|23.34.85.185|23.34.85.0|US|com|53|58</Row>
+			<Row>13|toshibasecurity.com|-1|2050|108803|2669|1240|2008-09-08|2014-02-28|209.137.147.134|209.137.147.0|US|com|37|45</Row>
+			<Row>14|buyaccessible.net|-1|235|58376|1124|1094|2008-11-28|2014-02-28|65.168.27.165|65.168.27.0|US|net|34|44</Row>
+			<Row>15|france24.com|2924|172111|41897557|6684891|1450366|2008-07-29|2014-02-28|23.15.9.161|23.15.9.0|US|com|60|61</Row>
+			<Row>16|ad-toshiba.jp|-1|198|4985|90468|88607|2012-02-09|2014-02-28|61.202.161.182|61.202.161.0|JP|jp|32|43</Row>
+			<Row>17|exploravision.org|-1|3174|83549|877|511|2008-09-04|2014-02-28|209.137.147.134|209.137.147.0|US|org|35|44</Row>
+			<Row>18|toshibacameras.com|-1|278|1557|607|223|2011-10-16|2014-02-28|209.137.147.134|209.137.147.0|US|com|33|44</Row>
+			<Row>19|toshibacommerce.com|-1|51|1005|2478|2322|2014-01-12|2014-02-28| | | |com|31|44</Row>
+			<Row>20|wikipedia.org|6|9103190|12880302063|639748086|9451938|2008-07-29|2014-02-28|208.80.154.225|208.80.154.0|US|org|98|98</Row>
+			<Row>21|adobe.com|71|9255722|4738722854|12461449|3001308|2008-07-29|2014-02-28|192.150.16.64|192.150.16.0|US|com|99|99</Row>
+			<Row>22|engadget.com|543|595464|669584339|25934266|8396665|2008-07-29|2014-02-28|149.174.144.2|149.174.144.0|US|com|93|82</Row>
+			<Row>23|arm.com|29063|81239|7942174|498868|189756|2008-07-31|2014-02-28|217.140.108.97|217.140.108.0|UK|com|58|74</Row>
+			<Row>24|mouser.com|9943|34716|6442424|22996887|2712475|2008-07-29|2014-02-28|69.164.16.14|69.164.16.0|US|com|55|74</Row>
+			<Row>25|techspot.com|4621|83387|16570955|4392351|1103144|2008-07-30|2014-02-28|50.22.252.218|50.22.252.0|US|com|64|59</Row>
+			<Row>26|theregister.co.uk|3875|299189|63158250|4748787|935718|2008-07-29|2014-02-28|92.52.96.89|92.52.96.0|UK|uk|83|77</Row>
+			<Row>27|android.com|1169|455658|237922779|2077174|426681|2008-09-28|2014-02-28|74.125.225.128|74.125.225.0|US|com|76|82</Row>
+			<Row>28|calit2.net|226367|45642|4723740|1625047|584004|2008-08-12|2014-02-28|132.239.8.229|132.239.8.0|US|net|45|50</Row>
+			<Row>29|crackle.com|3716|53575|7871633|1066147|550325|2008-07-29|2014-02-28|23.53.177.162|23.53.177.0|US|com|50|48</Row>
+			<Row>30|educationworld.com|49696|46326|3615408|372910|178684|2008-07-29|2014-02-28|69.43.199.47|69.43.199.0|US|com|58|70</Row>
+			<Row>31|adaptec.com|83563|41186|2518278|297335|183284|2008-07-29|2014-02-28|216.241.235.162|216.241.235.0|CA|com|49|72</Row>
+			<Row>32|elotrolado.net|6881|19358|3877365|3328784|1079041|2008-07-30|2014-02-28|195.78.228.226|195.78.228.0|ES|net|49|52</Row>
+			<Row>33|dolby.com|97379|34415|2961392|44653|38275|2008-08-02|2014-02-28|198.47.108.91|198.47.108.0|US|com|53|71</Row>
+			<Row>34|fring.com|111738|40859|3063410|189076|90978|2008-07-30|2014-02-28|50.19.122.222|50.19.122.0|US|com|49|65</Row>
+			<Row>35|color.org|679782|15691|310337|119548|91915|2008-08-13|2014-02-28|195.102.186.25|195.102.186.0|UK|org|44|61</Row>
+			<Row>36|openhandsetalliance.com|622332|19437|378787|468|179|2008-09-19|2014-02-28|74.125.225.70|74.125.225.0|US|com|42|56</Row>
+			<Row>37|chrontel.com|-1|3232|32486|1380|888|2009-06-14|2014-02-28|199.46.124.50|199.46.124.0|US|com|35|52</Row>
+			<Row>38|qsound.com|-1|4618|297605|1754|1091|2008-10-15|2014-02-28|67.226.167.220|67.226.167.0|CA|com|37|50</Row>
+			<Row>39|blogspot.com|11|10499622|34314763741|4798901165|274639552|2008-07-29|2014-02-28|173.194.73.191|173.194.73.0|US|com|94|89</Row>
+			<Row>40|tlt.co.jp|127830|6543|520860|53240|36084|2008-08-05|2014-02-28|111.87.30.34|111.87.30.0|JP|jp|46|52</Row>
+			<Row>41|thefreecountry.com|108797|27570|435248|2558|1741|2008-08-25|2014-02-28|216.92.13.12|216.92.13.0|US|com|44|51</Row>
+			<Row>42|timessquarenyc.org|459757|18374|349310|22314|16167|2008-08-14|2014-02-28|206.230.235.47|206.230.235.0|US|org|42|37</Row>
+			<Row>43|afcasiancup.com|-1|4079|141711|264448|124463|2009-09-15|2014-02-20|110.74.170.203|110.74.170.0|MY|com|30|40</Row>
+			<Row>44|nticorp.com|288888|3102|5025855|109851|74784|2010-04-25|2014-02-28|50.23.26.147|50.23.26.0|US|com|43|54</Row>
+			<Row>45|xkcd.com|2176|210367|40808966|1742187|461063|2008-07-29|2014-02-28|107.6.106.82|107.6.106.0|US|com|66|72</Row>
+			<Row>46|ibj.com|121823|60219|2568573|739713|242158|2008-07-30|2014-02-28|205.234.169.41|205.234.169.0|US|com|51|56</Row>
+			<Row>47|sourceware.org|-1|26728|1397280|7615493|1221429|2008-08-01|2014-02-28|209.132.180.131|209.132.180.0|US|org|49|58</Row>
+			<Row>48|upnp.org|608331|8139|116839|7545|5065|2008-09-07|2014-02-28|50.201.25.74|50.201.25.0|US|org|41|57</Row>
+			<Row>49|msfn.org|47172|31487|2698471|5470604|1745468|2008-07-29|2014-02-28|67.228.40.30|67.228.40.0|US|org|48|48</Row>
+			<Row>50|lvr.com|594372|9560|74956|4885|2410|2008-09-21|2014-02-28|66.39.98.163|66.39.98.0|US|com|38|49</Row>
+			<Row>51|bio-rad.com|140088|14414|1115271|378072|163907|2008-07-31|2014-02-28|192.153.51.10|192.153.51.0|US|com|47|63</Row>
+			<Row>52|the-afc.com|34136|30296|5337256|488400|247419|2008-07-31|2014-02-28|23.62.236.171|23.62.236.0|US|com|46|62</Row>
+			<Row>53|aarons.com|34030|7207|647736|89408|80706|2010-04-28|2014-02-28|12.177.80.16|12.177.80.0|US|com|45|54</Row>
+			<Row>54|lightfair.com|348809|6690|322113|17636|7670|2008-08-08|2014-02-28|12.6.136.30|12.6.136.0|US|com|42|55</Row>
+			<Row>55|foodprocessing.com|229090|40657|2216574|398390|251117|2008-07-30|2014-02-28|208.67.40.21|208.67.40.0|US|com|46|50</Row>
+			<Row>56|gsc-game.com|411892|10398|968045|680310|83763|2008-07-31|2014-02-28|213.186.115.56|213.186.115.0|UA|com|44|52</Row>
+			<Row>57|mikrocontroller.net|52871|14328|900831|27294126|529181|2008-08-02|2014-02-28|188.40.52.210|188.40.52.0|DE|net|44|49</Row>
+			<Row>58|bootdisk.com|178872|22809|1658944|4635|1510|2008-08-01|2014-02-28|69.93.195.218|69.93.195.0|US|com|40|49</Row>
+			<Row>59|amd.com|2705|245899|41714909|37213557|1292225|2008-07-30|2014-02-28|184.169.93.40|184.169.93.0|FR|com|67|81</Row>
+			<Row>60|nintendo.com|4825|157881|25106781|1667113|838319|2008-07-30|2014-02-28|192.195.204.26|192.195.204.0|US|com|64|75</Row>
+			<Row>61|bristolelectronics.com|-1|56|7426|10136|9367|2013-01-17|2014-02-28|69.160.58.145|69.160.58.0|US|com|43|35</Row>
+			<Row>62|crazypc.ro|-1|1400|249301|1184577|280060|2008-08-13|2014-02-28|93.114.42.17|93.114.42.0|RO|ro|34|37</Row>
+			<Row>63|sru.org|-1|2877|17186|1160|500|2008-10-02|2014-02-28|95.215.225.215|95.215.225.0|UK|org|26|44</Row>
+			<Row>64|gigaom.com|4139|242601|81415517|4862822|1071930|2008-07-29|2014-02-28|72.233.127.217|72.233.127.0|US|com|76|65</Row>
+			<Row>65|business.com|9986|146936|27679583|11861900|1153013|2008-07-29|2014-02-28|87.248.202.154|87.248.202.0|IT|com|50|67</Row>
+			<Row>66|mikroe.com|81895|9082|662319|508078|273414|2008-08-01|2014-02-28|67.227.206.92|67.227.206.0|US|com|50|53</Row>
+			<Row>67|tacktech.com|363134|10022|937437|278894|203284|2008-07-29|2014-02-28|64.235.54.54|64.235.54.0|US|com|55|43</Row>
+		</DataTable>
+	</DataTables>
+</Result>

@@ -1,0 +1,151 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+h1, p, ul, li, img {margin:0px; padding:0px; border:0px;}
+
+
+body	{margin:0px auto 0px auto;
+			/*background-image:url(../images/bg-mid.jpg);
+			background-repeat:no-repeat;
+			background-color:#00668f;*/
+			background-color:#eee9e9;
+			font-family:Arial, Helvetica, sans-serif;
+			color:#333333;}
+
+	
+#wrapper	{width:1200px; height:auto; margin:0px auto 0px auto;}
+#contentmain	{width:1200px; height:auto; float:left;}
+
+#mid		{width:1200px; height:auto; float:left;}
+.upmid		{background-image:url(../images/upbody.png); width:1200px; height:24px; float:left;}
+.midbody	{background-image:url(../images/midbody.png); width:1200px; height:auto; float:left;}
+.bottommid		{background-image:url(../images/bottombody.png); width:1200px; height:32px; float:left;}
+
+
+#logo		{width:555px; height:78px; float:left; margin:20px 0px 0px 40px;}
+#logo img	{height:80px;}
+.login-logo{text-align:center;width:555px;}
+#acct		{width:auto; height:auto; float:right; margin-right:50px; margin-top:80px; color:#D33C1A; font-weight:bold; font-size:14px; }
+#acct a		{color:#D33C1A; text-decoration:none; font-weight:bold; font-size:14px;}
+#acct a:hover	{color:#00ccff;}
+
+
+#midcont	{width:1122px; height:auto; margin:0px auto 0px auto;}
+#contup		{width:1122px; height:9px; background-image:url(../images/mid-up.png); float:left;}
+#contmid	{width:1102px; height:auto; background-image:url(../images/mid.png); float:left; padding:10px 10px 10px 10px;}
+#contmid	h1	{font-size:36px; color:#333333; padding-left:0px; padding-top:5px;}
+#contmid	p	{font-size:14px; color:#333333; padding-left:0px; padding-top:5px;}
+#contmid iframe	{border:thin solid #cccccc; background-color:#ffffff; width:560px; height:260px;}
+#contmid textarea	{border:thin solid #cccccc; background-color:#ffffff; width:300px; height:100px;}
+#contbottom	{width:1122px; height:9px; background-image:url(../images/mid-bottom.png); float:left;}
+
+.menubase	{background-image:url(../images/menu_base.png); width:auto; height:66px; float:left; padding:20px 0px 0px 0px}
+.menubaseleft	 {background-image:url(../images/menu_base-left.png); width:10px; height:86px; float:left;}
+.menubaseright {background-image:url(../images/menu_base-right.png); width:10px; height:86px; float:left;}
+
+#menuup		{background-image:url(../images/menu_up.png); width:auto; height:43px; float:left; padding:0px 0px 0px 0px;}
+.menuupleft	 {background-image:url(../images/menu_up-left.png); width:21px; height:43px; float:left;}
+.menuupright {background-image:url(../images/menu_up-right.png); width:21px; height:43px; float:left;}
+
+
+#menuup a	{text-decoration:none; font-size:14px; font-weight:bold; color:#333333;}
+#menuup		li {float:left; list-style:none; background:url(../images/border.png) no-repeat scroll right top transparent; padding: 8px 14px 0px 14px; height:43px; }
+
+.conttd		{font-weight:bold; font-size:12px; background-image:url(../images/bg-table.jpg); height:35px; border-top:thick solid #cccccc; padding-left:5px; padding-right:5px; border-right:thin solid #cccccc;}
+.conttd-a	{border-top:thin solid #cccccc; height:45px; padding-left:5px; padding-right:5px; border-right:thin solid #cccccc;}
+.conttd-b	{font-size:14px; background-image:url(../images/bg-table.jpg); height:35px; border-top:thin solid #cccccc; padding-left:5px; padding-right:5px; border-right:thin solid #cccccc;}
+.conttd-c	{border-top:thin solid #cccccc; height:35px; border-bottom:thick solid #cccccc; height:45px; padding-left:5px; padding-right:5px; border-right:thin solid #cccccc;}
+.tdsize		{font-size:14px;}
+
+.conttda	{height:35px; font-weight:bold; font-size:14px; border-left:thick solid #cccccc; border-right:thick solid #cccccc; border-top:thick solid #cccccc;}
+
+.table		{border-top:thick solid #cccccc; border-left:thick solid #cccccc; background-color:#e5e5e5; 
+			border-right:thick solid #cccccc; background-image:url(../images/bg-table2.jpg); font-size:20px; color:#ffffff; padding-left:20px;}
+.table1		{border-bottom:thick solid #cccccc; border-left:thick solid #cccccc; background-color:#e5e5e5; padding:20px 0px 20px 20px;}
+.table2		{border-bottom:thick solid #cccccc; border-right:thick solid #cccccc; background-color:#e5e5e5; padding:20px 0px 20px 00px;}
+
+.txtfrm		{padding:5px 0px 0px 10px; font-size:14px;}
+.firsttxt   {padding:5px 0px 0px 0px;}
+
+.search		{width:160px; padding:10px; border:#cccccc solid 2px; -webkit-border-radius: 10px; -moz-border-radius:4px; border-radius:10px; height:11px;}
+.tbox		{width:100px; padding:10px; border:#cccccc solid 2px; -webkit-border-radius: 10px; -moz-border-radius:4px; border-radius:10px; height:11px;}
+.txtbox2	{width:260px; padding:10px; border:#cccccc solid 2px; -webkit-border-radius: 10px; -moz-border-radius:4px; border-radius:10px; height:11px;}
+.txtbox		{width:16px; padding:10px; border:#cccccc solid 2px; -webkit-border-radius: 10px; -moz-border-radius:4px; border-radius:10px; height:11px;}
+
+.formSearch {padding-left:10px;}
+.formSearch input {width:160px; padding:10px; border:#cccccc solid 2px; -webkit-border-radius: 10px; -moz-border-radius:4px; border-radius:10px; height:11px;}
+
+#loginboxbody {
+    background: url("../images/bg_page.gif") repeat-x scroll 0 0 transparent;
+    margin: 0;
+    padding: 0;
+}
+
+#loginbox {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #D4E6F7;
+    height: 386px;
+    margin: 104px auto 0;
+    width: 555px;
+	padding: 0px 15px;
+}
+
+.footercp{
+	padding: 10px;
+	margin: 10px;
+	font-size: 0.8em;
+	text-align: center;
+}
+
+#contlogin{
+	margin: 8px 20px;
+}
+
+#contlogin .fixedlabe{
+   display:inline;
+   font-size:1.1em;
+}
+
+#contlogin .fixedinput{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px 10px 10px 10px;
+    height: 11px;
+    padding: 10px;
+    width: 160px;
+}
+
+
+div.breadcrumbs
+{
+	font-size: 0.9em;
+	padding: 5px 0;
+}
+
+div.breadcrumbs span
+{
+	font-weight: bold;
+}
+
+a:focus, a:hover {color:#09f;}
+div.breadcrumbs a, div.breadcrumbs a:visited{color: #0066A4;}
+div.breadcrumbs a:hover{color:#09f;}
+
+tr.bltr td div.backlinks table.childitems{
+	font-size:13px;
+	padding:0px;
+	width:100%;
+}
+
+tr.bltr td div.backlinks table.childitems th{
+	background-color:#9900ff !important;
+    font-size: 13px;
+    height: 35px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+tr.bltr td{
+padding:0px !important;
+}

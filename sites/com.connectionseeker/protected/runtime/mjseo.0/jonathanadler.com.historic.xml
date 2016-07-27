@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="250" IndexBuildDate="2014-03-19 09:04:51" IndexType="0" RemainingAnalysisResUnits="96447361" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19871474" RemainingStandardReports="950" ServerBuild="2014-04-16 03:14:48" ServerName="HUMMERR" ServerVersion="1.0.5219.4044" UniqueIndexID="20140319090451-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="250" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="jonathanadler.com" BackLinkType="RootDomain" TotalBackLinks="805112" TotalLines="50000" TotalMatches="250">
+			<Row>http://on.aol.com/show/inspiration-point-517880800/episode/517897453|9|jonathanadler.com|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|0|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|48|38|58|58</Row>
+			<Row>http://blog.hgtv.com/design/|8|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|1|2011-11-12|2014-02-28| | |TextLink|TextLink_Normal|48|38|55|54</Row>
+			<Row>http://www.designsponge.com/2014/02/10-cute-poufs.html|8|leather pouf|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/leather-moroccan-pouf/|2|2014-02-25|2014-02-28| | |TextLink|TextLink_Normal|32|31|50|51</Row>
+			<Row>http://www.art.com/me/Jonathan-Adler/|8|http://www.jonathanadler.com/|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/|3|2013-11-18|2014-02-26| | |TextLink|TextLink_Normal|48|38|51|48</Row>
+			<Row>http://www.countryliving.com/homes/how-to-get-the-look/seaside-style-0609?click=clg_more|7|jonathanadler.com|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|4|2014-01-24|2014-02-28| | |TextLink|TextLink_Normal|48|38|46|45</Row>
+			<Row>http://www.travelportland.com/article/shopping-districts-and-destinations/|6|website|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/locations.php|5|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|36|29|42|49</Row>
+			<Row>http://blog.thenest.com/|8|jonathanadler.com|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/platinum-glazed-ceramic-gazelle/?cat=952|6|2014-02-07|2014-02-28| | |TextLink|TextLink_Normal|28|25|51|40</Row>
+			<Row>http://www.enkshows.com/coterie/|6|jonathan adler|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/|7|2013-07-02|2014-02-26| | |TextLink|TextLink_Normal|48|38|43|47</Row>
+			<Row>http://www.swedenunlimited.com/|8|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://jonathanadler.com/|8|2013-11-18|2014-02-28| | |TextLink|TextLink_Normal|38|27|50|39</Row>
+			<Row>http://www.swedenunlimited.com/|8|jonathan adler|2014-02-28|0|0|0|1|0|0|0|http://jonathanadler.com/|8|2013-11-18|2014-02-28| | |ImageLink|ImageLink_Normal|38|27|50|39</Row>
+			<Row>http://designsponge.blogspot.com/|7| |2014-02-28|0|0|0|1|0|0|0|http://jonathanadler.com/shop/product.php?productid=17328&#38;cat=370&#38;page=1|9|2008-08-29|2014-02-28| | |ImageLink|ImageLink_Normal|29|25|49|38</Row>
+			<Row>http://www.themodernshop.ca/|7| |2014-02-28|0|0|0|1|0|0|0|http://www.jonathanadler.com/|10|2011-12-12|2014-02-28| | |ImageLink|ImageLink_Normal|48|38|45|42</Row>
+			<Row>http://www.designsponge.com/2014/02/15-modern-trivets.html|7|brown and gold agate coasters|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/brown-and-gold-agate-coasters/?xid=da24d9bc1ca693baa35ea46800d072ac|2|2014-02-18|2014-02-28| | |TextLink|TextLink_Normal|24|24|47|39</Row>
+			<Row>http://decor8blog.com/2013/05/|6|jonathan adler’s|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/|11|2013-08-01|2014-02-26| | |TextLink|TextLink_Normal|48|38|41|43</Row>
+			<Row>http://decor8blog.com/2012/04/|6|jonathan adler.|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/Rugs/|11|2012-12-04|2014-02-26| | |TextLink|TextLink_Normal|35|28|41|43</Row>
+			<Row>http://decor8blog.com/2013/02/|6|jonathan adler|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/blog/|11|2013-05-03|2014-02-26| | |TextLink|TextLink_Normal|36|29|41|43</Row>
+			<Row>http://decor8blog.com/2007/03/|6|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/shop/club_ja.php|11|2010-12-16|2014-02-27| | |TextLink|TextLink_Normal|20|27|41|43</Row>
+			<Row>http://decor8blog.com/2007/03/|6|click here to learn more|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/shop/club_ja.php|11|2010-12-16|2014-02-27| | |TextLink|TextLink_Normal|20|27|41|43</Row>
+			<Row>http://www.polyvore.com/home_decor/shop?category_id=182|7|jonathanadler.com|2014-01-03|0|0|0|0|0|0|0|http://www.jonathanadler.com/white-ceramic-gorilla/?cat=952|12|2014-01-03|2014-01-03| | |TextLink|TextLink_Normal|24|22|47|37</Row>
+			<Row>http://www.polyvore.com/home_decor/shop?category_id=182|7|jonathan adler white ceramic gorilla|2014-01-03|0|0|0|1|0|0|0|http://www.jonathanadler.com/white-ceramic-gorilla/?cat=952|12|2014-01-03|2014-01-03| | |ImageLink|ImageLink_Normal|24|22|47|37</Row>
+			<Row>http://www.telegraph.co.uk/property/interiorsandshopping/8845941/The-20-best-interiors-blogs.html|7|jonathanadler.com/blog|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/blog/|13|2011-12-12|2014-02-28| | |TextLink|TextLink_Normal|36|29|44|39</Row>
+			<Row>http://www.santamonicaplace.com/Map/|6|visit website|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|14|2013-10-23|2014-02-27| | |TextLink|TextLink_Normal|48|38|37|46</Row>
+			<Row>http://www.telegraph.co.uk/property/interiorsandshopping/10648830/Interiors-restoring-our-1950s-New-England-house.html|6|jonathanadler.com|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|13|2014-02-20|2014-02-28| | |TextLink|TextLink_Normal|48|38|43|38</Row>
+			<Row>http://www.seattlemet.com/home-and-garden/articles/trend-alert-brass-copper-and-gold-shine-at-home-february-2014|6|jonathanadler.com|2014-02-25|0|0|0|0|0|0|0|http://www.jonathanadler.com/|15|2014-02-13|2014-02-25| | |TextLink|TextLink_Normal|48|38|43|38</Row>
+			<Row>http://www.kravet.com/products/collections/jonathanadler/|5|website|2014-02-24|0|0|1|0|0|0|0|http://www.jonathanadler.com/|16|2013-09-28|2014-02-24| | |TextLink|TextLink_Normal|48|38|34|45</Row>
+			<Row>http://www.homestyler.com/|7|jonathan adler|2014-02-28|0|0|1|1|0|0|0|http://www.jonathanadler.com/|17|2013-05-05|2014-02-28| | |ImageLink|ImageLink_Normal|48|38|46|33</Row>
+			<Row>http://www.porterhousedesigns.com/colorsizzle/|8|jonathanadler.com|2014-02-28|0|0|0|0|0|0|0|http://jonathanadler.com/|18|2011-08-14|2014-02-28| | |TextLink|TextLink_Normal|38|27|50|29</Row>
+			<Row>http://www.internationalcheckout.com/cs.php|6|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|19|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|48|38|40|38</Row>
+			<Row>http://www.stylebeatblog.com/|6| |2014-02-28|0|0|0|1|0|0|0|http://www.jonathanadler.com/content.php?pageid=i_want_marisamarcantonio|20|2014-01-03|2014-02-28| | |ImageLink|ImageLink_Normal|21|21|42|36</Row>
+			<Row>https://www.internationalcheckout.com/login.php|6|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|19|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|48|38|40|37</Row>
+			<Row>http://www.youbeauty.com/mind/science-of-attraction-to-shiny-things|7|jonathan adler carnaby zebra stacking dish|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/platinum-carnaby-zebra-stacking-dish|21|2014-02-05|2014-02-26| | |TextLink|TextLink_Normal|21|19|44|32</Row>
+			<Row>http://www.notcot.com/tag/porcelain|6|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|22|2009-05-26|2014-02-28| | |TextLink|TextLink_Normal|48|38|38|37</Row>
+			<Row>http://www.thefoodsection.com/foodsection/2006/06/index.html|5|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/shop/about.php|23|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|14|22|36|39</Row>
+			<Row>http://meadedesigngroup.blogspot.com/|6|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|9|2008-09-27|2014-02-27| | |TextLink|TextLink_Normal|48|38|37|37</Row>
+			<Row>http://www.househunting.ca/decorating/Colour Eight cheerful cushions/9421110/story.html|6|jonathan adler|2014-02-25|0|0|0|0|0|0|0|http://www.jonathanadler.com/multi-bargello-diamonds-pillow/?cat=1068|24|2014-01-25|2014-02-25| | |TextLink|TextLink_Normal|21|23|38|36</Row>
+			<Row>http://blog.theknot.com/2013/12/12/7-registry-picks-in-pantones-color-of-the-year-radiant-orchid/|6|jonathanadler.com|2014-02-28|0|0|1|0|0|0|0|http://www.jonathanadler.com/Reversible-Purple-Peace-Love-Pop-Throw-Pillow/?cat=1073|25|2013-12-14|2014-02-28| | |TextLink|TextLink_Normal|0|0|39|34</Row>
+			<Row>http://greenweddingshoes.com/2010/11/|7|jonathan adler pillow|2014-02-24|0|0|0|0|0|0|0|http://www.jonathanadler.com/Happy/?cat=564&#38;initial=|26|2011-11-08|2014-02-24| | |TextLink|TextLink_Normal|22|16|44|28</Row>
+			<Row>http://www.designsponge.blogspot.com/|6| |2014-02-15|0|0|0|1|0|0|0|http://jonathanadler.com/shop/product.php?productid=17328&#38;cat=370&#38;page=1|9|2008-08-16|2014-02-15| | |ImageLink|ImageLink_Normal|29|25|38|33</Row>
+			<Row>http://www.blablakids.blogspot.com/|5|jonathan adler bookends|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/junior-ceramic-dachshund-bookends/|9|2013-12-15|2014-02-27| | |TextLink|TextLink_Normal|22|25|33|38</Row>
+			<Row>http://www.bhg.com/blogs/better-homes-and-gardens-style-blog/author/nbalch/|6|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/Zig-Zag-Baby-Alpaca-Throw/?cat=1071&#38;initial=8243|27|2013-12-15|2014-02-27| | |TextLink|TextLink_Normal|17|17|40|31</Row>
+			<Row>http://www.goodhousekeeping.com/home/design/mothers-day-gifts?click=ghk-more|5|carnaby vase|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/Carnaby-Scale-Vase/?cat=700&#38;initial=|28|2012-07-07|2014-02-26| | |TextLink|TextLink_Normal|16|21|36|35</Row>
+			<Row>http://www.minted.com/judge|5|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|29|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|48|38|36|35</Row>
+			<Row>http://www.stylemepretty.com/living/category/travel/|6|jonathan adler|2014-02-26|0|0|1|0|0|0|0|http://www.jonathanadler.com/|30|2014-01-21|2014-02-26| | |TextLink|TextLink_Normal|48|38|42|29</Row>
+			<Row>http://on.aol.com/show/inspiration-point-517880800/episodes|5|jonathanadler.com|2014-01-13|0|0|0|0|0|0|0|http://www.jonathanadler.com/|0|2014-01-13|2014-01-13| | |TextLink|TextLink_Normal|48|38|35|35</Row>
+			<Row>http://heidiklum.aol.com/category/i-love/|5|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/fuchsia-sun-hat/|0|2013-08-02|2014-02-27| | |TextLink|TextLink_Normal|18|21|36|34</Row>
+			<Row>http://www.designsponge.com/2014/02/veterans-and-startups-jonathan-adler.html|6|jonathan adler|2014-02-14|0|0|0|0|0|0|0|http://www.jonathanadler.com/|2|2014-02-07|2014-02-14| | |TextLink|TextLink_Normal|48|38|37|33</Row>
+			<Row>http://remotecontrol.mtv.com/2013/12/02/girl-code-2013-holiday-gift-guide/|5|jonathan adler|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/utopia-condom-caddy/|31|2013-12-29|2014-02-23| | |TextLink|TextLink_Normal|20|24|35|34</Row>
+			<Row>http://decor8blog.com/page/9/|5|champagne pop candle|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/champagne-pop-candle/?cat=378|11|2014-02-26|2014-02-26| | |TextLink|TextLink_Normal|11|23|31|38</Row>
+			<Row>http://decor8blog.com/page/9/|5|elephant match strike|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/elephant-match-strike/?cat=378|11|2014-02-26|2014-02-26| | |TextLink|TextLink_Normal|11|23|31|38</Row>
+			<Row>http://www.torontolife.com/informer/toronto-real-estate/2014/02/10/sale-week-playter-estates-1-hurndale-ave/|5|jonathan adler|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/|32|2014-02-11|2014-02-26| | |TextLink|TextLink_Normal|48|38|31|38</Row>
+			<Row>http://www.torontolife.com/tag/sale-of-the-week/|5|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|32|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|48|38|31|38</Row>
+			<Row>http://www.thewordygirl.com/|6|here|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/pink-heart-sunglass-case-7763-pr-20369/?xid=be827b02026b0bac52e7d6cdc50681d2|33|2014-02-11|2014-02-28| | |TextLink|TextLink_Normal|23|20|38|31</Row>
+			<Row>http://www.smittenstudioonline.com/|6|georgia cookie jar by jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/Georgia-Cookie-Jar/?xid=ae78b85f036ec064d382bebd296c8587|34|2014-02-19|2014-02-28| | |TextLink|TextLink_Normal|18|17|40|29</Row>
+			<Row>http://www.oldbrandnewblog.com/|6|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|35|2014-02-17|2014-02-28| | |TextLink|TextLink_Normal|48|38|39|30</Row>
+			<Row>http://sohaute.typepad.com/sohaute/|5|greek key letterpressed note cards|2014-02-25|0|0|1|0|0|0|0|http://www.jonathanadler.com/product.php?productid=18273&#38;cat=566&#38;page=1&#38;initial=7639|36|2010-06-17|2014-02-25| | |TextLink|TextLink_Normal|0|0|32|36</Row>
+			<Row>http://blog.thenest.com/2014/02/07/valentines-gifts-by-personality-2/|5|jonathanadler.com|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/platinum-glazed-ceramic-gazelle/?cat=952|6|2014-02-08|2014-02-28| | |TextLink|TextLink_Normal|28|25|34|34</Row>
+			<Row>http://www.torontolife.com/category/informer/toronto-real-estate/|5|jonathan adler|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/|32|2014-02-12|2014-02-23| | |TextLink|TextLink_Normal|48|38|32|36</Row>
+			<Row>http://www.larsonjuhl.com/partnerships.aspx|5|click here|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/shop/index.php|37|2010-08-18|2014-02-27| | |TextLink|TextLink_Normal|33|27|30|38</Row>
+			<Row>http://models.com/feed/?m=201012|5|jonathan adler angel &#38; devil mugs|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/Utopia-Devil-Angel-Mug/?cat=658&#38;initial=|38|2011-04-16|2014-02-28| | |TextLink|TextLink_Normal|16|19|35|32</Row>
+			<Row>http://decor8blog.com/category/shopping/|5|champagne pop candle|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/champagne-pop-candle/?cat=378|11|2013-12-15|2014-02-26| | |TextLink|TextLink_Normal|11|23|31|36</Row>
+			<Row>http://decor8blog.com/category/shopping/|5|elephant match strike|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/elephant-match-strike/?cat=378|11|2013-12-15|2014-02-26| | |TextLink|TextLink_Normal|11|23|31|36</Row>
+			<Row>https://www.internationalcheckout.com/cs.php|5|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|19|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|48|38|33|34</Row>
+			<Row>http://wandaharland.blogspot.com/|6|jonathan adler|2014-02-12|0|0|0|0|0|0|0|http://www.jonathanadler.com/blog/|9|2011-09-27|2014-02-12| | |TextLink|TextLink_Normal|36|29|37|29</Row>
+			<Row>http://homedesign.marthastewart.com/category/gifts-2|5|jonathan adler|2014-02-28|0|0|1|0|0|0|0|http://www.jonathanadler.com/lacquer-playing-card-set|39|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|6|13|32|34</Row>
+			<Row>http://blog.thenest.com/category/house-and-home/|5|jonathanadler.com|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/platinum-glazed-ceramic-gazelle/?cat=952|6|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|28|25|34|32</Row>
+			<Row>http://thekit.ca/fashion/shoes/toms-jonathan-adler/|5|jonathan adler|2014-02-20|0|0|0|0|0|0|0|http://www.jonathanadler.com/|40|2014-02-20|2014-02-20| | |TextLink|TextLink_Normal|48|38|32|34</Row>
+			<Row>http://thekit.ca/fashion/shoes/toms-jonathan-adler/|5|throw pillows|2014-02-20|0|0|0|0|0|0|0|http://www.jonathanadler.com/reversible-letter-pillow/?cat=1068|40|2014-02-20|2014-02-20| | |TextLink|TextLink_Normal|20|21|32|34</Row>
+			<Row>http://thekit.ca/fashion/shoes/toms-jonathan-adler/|5|handbags|2014-02-20|0|0|0|0|0|0|0|http://www.jonathanadler.com/Small-Nixon-Tote/?cat=1045&#38;initial=19558|40|2014-02-20|2014-02-20| | |TextLink|TextLink_Normal|15|21|32|34</Row>
+			<Row>http://thekit.ca/fashion/shoes/toms-jonathan-adler/|5|salt-and-pepper shakers|2014-02-20|0|0|0|0|0|0|0|http://www.jonathanadler.com/sailor-siren-salt-and-pepper-shakers/?xid=3c746b19ec9e5df169639efdb695d412|40|2014-02-20|2014-02-20| | |TextLink|TextLink_Normal|15|21|32|34</Row>
+			<Row>http://thekit.ca/fashion/shoes/toms-jonathan-adler/|5|home accents|2014-02-20|0|0|0|0|0|0|0|http://www.jonathanadler.com/GIANT-DORA-MAAR-VASE/?cat=1067|40|2014-02-20|2014-02-20| | |TextLink|TextLink_Normal|14|20|32|34</Row>
+			<Row>http://www.ivillage.com/neutral-rooms-decor-and-nurseries/7-b-336508|5|jonathan adler|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/camel-and-pink-lucky-strike/?cat=346&#38;initial=|41|2011-05-11|2014-02-23| | |TextLink|TextLink_Normal|16|21|32|33</Row>
+			<Row>http://www.ivillage.com/40-bright-rooms/7-b-336494|5|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/Meurice-Square-table-lamp/?cat=385&#38;initial=5867|41|2011-05-16|2014-02-28| | |TextLink|TextLink_Normal|19|21|32|33</Row>
+			<Row>http://www.ivillage.com/40-bright-rooms/7-b-336494|5|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/Desmond-Screen-5409/?cat=0&#38;initial=|41|2011-05-16|2014-02-28| | |TextLink|TextLink_Normal|17|21|32|33</Row>
+			<Row>http://blog.thenest.com/2014/02/|5|jonathanadler.com|2014-02-25|0|0|0|0|0|0|0|http://www.jonathanadler.com/platinum-glazed-ceramic-gazelle/?cat=952|6|2014-02-10|2014-02-25| | |TextLink|TextLink_Normal|28|25|33|32</Row>
+			<Row>http://www.torontolife.com/tag/real-estate/|5|jonathan adler|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/|32|2014-02-11|2014-02-23| | |TextLink|TextLink_Normal|48|38|30|35</Row>
+			<Row>http://www.designsponge.com/2013/12/before-after-a-nursery-gets-the-black-white-treatment.html|5|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|2|2013-12-14|2014-02-27| | |TextLink|TextLink_Normal|48|38|32|32</Row>
+			<Row>http://www.housebeautiful.com/decorating/house-pictures/san-francisco-victorian-ken-fulk-0611|5|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|42|2011-08-13|2014-02-27| | |TextLink|TextLink_Normal|48|38|34|30</Row>
+			<Row>http://www.jccmanhattan.org/neighborhood-partners|4|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/shop/index.php|43|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|33|27|29|35</Row>
+			<Row>http://santamonicaplace.com/Map/|4|visit website|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|14|2013-11-16|2014-02-27| | |TextLink|TextLink_Normal|48|38|29|35</Row>
+			<Row>http://enkshows.com/coterie/|5|jonathan adler|2014-02-24|0|0|0|0|0|0|0|http://www.jonathanadler.com/|7|2013-06-30|2014-02-24| | |TextLink|TextLink_Normal|48|38|33|31</Row>
+			<Row>http://www.myadventureisyouradvantage.com/|5|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|44|2012-06-09|2014-02-28| | |TextLink|TextLink_Normal|48|38|35|29</Row>
+			<Row>http://blog.hgtv.com/design/2011/02/03/where-to-buy-wallpaper-online/|5|www.jonathanadler.com|2014-02-18|0|0|0|0|0|0|0|http://jonathanadler.com/index.php|1|2011-03-07|2014-02-18| | |TextLink|TextLink_Normal|25|21|30|33</Row>
+			<Row>http://blog.hgtv.com/design/2011/02/03/where-to-buy-wallpaper-online/|5|syrie in blue &#38; silver|2014-02-18|0|0|0|0|0|0|0|http://www.jonathanadler.com/Syrie-Wallpaper/?cat=419&#38;initial=7812|1|2011-03-07|2014-02-18| | |TextLink|TextLink_Normal|11|19|30|33</Row>
+			<Row>http://blog.hgtv.com/design/2011/02/03/where-to-buy-wallpaper-online/|5|bamboo in green|2014-02-18|0|0|0|0|0|0|0|http://www.jonathanadler.com/Bamboo-Wallpaper/?cat=419&#38;initial=4919|1|2011-03-07|2014-02-18| | |TextLink|TextLink_Normal|11|19|30|33</Row>
+			<Row>http://blog.hgtv.com/design/2011/02/03/where-to-buy-wallpaper-online/|5|greek key|2014-02-18|0|0|0|0|0|0|0|http://www.jonathanadler.com/Greek-Key-Wallpaper/?cat=419&#38;initial=4924|1|2011-03-07|2014-02-18| | |TextLink|TextLink_Normal|11|19|30|33</Row>
+			<Row>http://blog.hgtv.com/design/2014/02/26/jonathan-adler-partners-with-toms-shoes/|5|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|1|2014-02-27|2014-02-27| | |TextLink|TextLink_Normal|48|38|31|32</Row>
+			<Row>http://www.torontolife.com/tag/housing-market/|4|jonathan adler|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/|32|2014-02-11|2014-02-23| | |TextLink|TextLink_Normal|48|38|29|34</Row>
+			<Row>http://www.homestyler.com/home|6|jonathan adler|2014-02-28|0|0|1|1|0|0|0|http://www.jonathanadler.com/|17|2013-05-05|2014-02-28| | |ImageLink|ImageLink_Normal|48|38|38|25</Row>
+			<Row>http://www.internationalcheckout.com/|5|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|19|2013-12-11|2014-02-28| | |TextLink|TextLink_Normal|48|38|34|29</Row>
+			<Row>http://amberinteriordesign.com/|6|here|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/metallic-lantern-gourd-vase/?cat=1085|45|2014-02-26|2014-02-28| | |TextLink|TextLink_Normal|18|12|40|23</Row>
+			<Row>http://theconcernsofmindykaling.com/|6|these special edition polo shirts|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/lacoste-special-edition-women-s-polo-and-pillow-cove-10488/?cat=764&#38;initial=|46|2012-04-10|2014-02-28| | |TextLink|TextLink_Normal|19|13|40|23</Row>
+			<Row>http://hamptonhostess.blogspot.com/|5|jonathan adler&#39;s|2014-01-31|0|0|0|0|0|0|0|http://www.jonathanadler.com/giant-sputnik-chandelier/?cat=1006&#38;initial=11662|9|2014-01-31|2014-01-31| | |TextLink|TextLink_Normal|20|16|34|28</Row>
+			<Row>http://carriesdesignmusings.blogspot.com/|5|jonathan adler|2014-02-06|0|0|0|0|0|0|0|http://www.jonathanadler.com/|9|2014-02-06|2014-02-06| | |TextLink|TextLink_Normal|48|38|31|31</Row>
+			<Row>http://www.stern.de/reise/fernreisen/einkaufen-in-new-york-auf-schnaeppchenjagd-durch-manhattan-1514594.html|5|www.jonathanadler.com|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|47|2010-11-16|2014-02-27| | |TextLink|TextLink_Normal|48|38|31|31</Row>
+			<Row>http://blogs.denverpost.com/coloradoathome/|4|jonathan adler|2014-02-26|0|0|0|0|0|0|0|http://jonathanadler.com/|48|2013-10-06|2014-02-26| | |TextLink|TextLink_Normal|38|27|28|34</Row>
+			<Row>http://dooce.com/2014/01/10/relationship-with-wildlife/|4|jonathan adler|2014-01-12|0|0|0|0|0|0|0|http://www.jonathanadler.com/all-handbags-and-accessories/|49|2014-01-11|2014-01-12| | |TextLink|TextLink_Normal|35|25|27|35</Row>
+			<Row>http://99u.com/conference/speakers?url=conference-2012|6|jonathanadler.com|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|50|2012-08-07|2014-02-27| | |TextLink|TextLink_Normal|48|38|38|24</Row>
+			<Row>http://www.housebeautiful.com/decorating/home-makeovers/blogger-interior-design-trends-2014|5|jonathan adler throw|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/Richard-Nixon-Throw/?cat=1071&#38;initial=5442|42|2013-12-09|2014-02-27| | |TextLink|TextLink_Normal|19|20|30|32</Row>
+			<Row>http://www.red.org/en/shop/jonathan-adler-productred-tomato-pop-candle|5|buy|2014-02-07|0|0|0|0|0|0|0|http://www.jonathanadler.com/Tomato-Pop-Candle/?cat=1238|51|2014-02-07|2014-02-07| | |TextLink|TextLink_Normal|18|17|35|27</Row>
+			<Row>http://www.shelterrific.com/category/decorating/collecting/|5|jonathan adler|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/index.php|52|2013-08-28|2014-02-23| | |TextLink|TextLink_Normal|47|28|34|28</Row>
+			<Row>http://www.shelterrific.com/category/decorating/collecting/|5|jonathanadler.com to see more of slim aarons’ work|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/Slim-Aarons/?viewall=|52|2013-08-28|2014-02-23| | |TextLink|TextLink_Normal|15|16|34|28</Row>
+			<Row>http://www.shelterrific.com/category/decorating/collecting/|5|truman capote at home|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/capote-at-home/?cat=1160|52|2013-08-28|2014-02-23| | |TextLink|TextLink_Normal|15|16|34|28</Row>
+			<Row>http://www.shelterrific.com/category/shopping/|5|click here to buy today and use the code givegetpop|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/Pop-Candles/|52|2013-12-19|2014-02-26| | |TextLink|TextLink_Normal|17|18|34|28</Row>
+			<Row>http://www.shelterrific.com/category/shopping/giving/|5|click here to buy today and use the code givegetpop|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/Pop-Candles/|52|2013-12-19|2014-02-26| | |TextLink|TextLink_Normal|17|18|34|28</Row>
+			<Row>http://www.mintdesignblog.com/category/make-it-your-own/|6|jonathan adler canisters|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/canisters/|53|2013-04-03|2014-02-26| | |TextLink|TextLink_Normal|21|15|37|25</Row>
+			<Row>http://blog.hgtv.com/design/2014/02/17/mood-board-monday-presidents-day/|5|george sculpture|2014-02-18|0|0|0|0|0|0|0|http://www.jonathanadler.com/george-sculpture/?cat=952|1|2014-02-18|2014-02-18| | |TextLink|TextLink_Normal|19|19|32|29</Row>
+			<Row>http://blog.hgtv.com/design/2014/02/17/mood-board-monday-presidents-day/|5|pillow|2014-02-18|0|0|0|0|0|0|0|http://www.jonathanadler.com/george-washington-needlepoint-pillow/?xid=c34341ffdf95ac27a381c966d09342b3|1|2014-02-18|2014-02-18| | |TextLink|TextLink_Normal|18|19|32|29</Row>
+			<Row>http://www.bhg.com/blogs/better-homes-and-gardens-style-blog/tag/dining-room/|5|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/rio-pendant/?cat=836&#38;initial=11665|27|2013-10-01|2014-02-27| | |TextLink|TextLink_Normal|10|17|31|30</Row>
+			<Row>http://www.bhg.com/blogs/better-homes-and-gardens-style-blog/tag/storage/|5|2|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/Aztec-Diamond-Monogrammed-Name-Tray/?cat=0&#38;initial=|27|2013-08-02|2014-02-27| | |TextLink|TextLink_Normal|10|17|31|30</Row>
+			<Row>http://www.bhg.com/blogs/better-homes-and-gardens-style-blog/category/behind-the-scenes/|5|gold sculptural objects|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/Medium-Gold-Bird-Bowl/?cat=954|27|2013-06-03|2014-02-27| | |TextLink|TextLink_Normal|11|17|31|30</Row>
+			<Row>http://www.bhg.com/blogs/better-homes-and-gardens-style-blog/category/behind-the-scenes/|5|not52g_bbowl_m|2014-02-27|0|0|0|1|0|0|0|http://www.jonathanadler.com/Medium-Gold-Bird-Bowl/?cat=954|27|2013-06-03|2014-02-27| | |ImageLink|ImageLink_Normal|11|17|31|30</Row>
+			<Row>http://www.vogue.com/guides/the-social-shopper-december-21-2013-presents-for-pets/|4|jonathanadler.com|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/custom-portrait-18-x-18/?cat=908|54|2013-12-24|2014-02-23| | |TextLink|TextLink_Normal|10|19|28|33</Row>
+			<Row>http://www.vogue.com/guides/the-social-shopper-december-21-2013-presents-for-pets/|4|jonathanadler.com|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/donald-leas/?xid=0283df890dd9b91e34b8d64f00e0d8b6|54|2013-12-24|2014-02-23| | |TextLink|TextLink_Normal|10|19|28|33</Row>
+			<Row>http://www.vogue.com/guides/the-social-shopper-december-21-2013-presents-for-pets/|4|jonathanadler.com|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/gloria-schiff/?xid=0283df890dd9b91e34b8d64f00e0d8b6|54|2013-12-24|2014-02-23| | |TextLink|TextLink_Normal|10|19|28|33</Row>
+			<Row>http://www.vogue.com/guides/the-social-shopper-december-21-2013-presents-for-pets/|4|jonathanadler.com|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/custom-portrait-24-x-24/?xid=0283df890dd9b91e34b8d64f00e0d8b6|54|2013-12-24|2014-02-23| | |TextLink|TextLink_Normal|10|19|28|33</Row>
+			<Row>http://www.vogue.com/guides/the-social-shopper-december-21-2013-presents-for-pets/|4|jonathanadler.com|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/custom-portrait-30-x-30/?xid=0283df890dd9b91e34b8d64f00e0d8b6|54|2013-12-24|2014-02-23| | |TextLink|TextLink_Normal|10|19|28|33</Row>
+			<Row>http://www.vogue.com/guides/the-social-shopper-december-21-2013-presents-for-pets/|4|jonathanadler.com|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/large-gold-glazed-ceramic-bird-bowl/?xid=0283df890dd9b91e34b8d64f00e0d8b6|54|2013-12-24|2014-02-23| | |TextLink|TextLink_Normal|10|19|28|33</Row>
+			<Row>http://blog.landofnod.com/honest-to-nod/soft-quiet/|5|2|2014-02-24|0|0|0|0|0|0|0|http://www.jonathanadler.com/utopia-mermaid/?cat=0&#38;initial=|55|2013-04-01|2014-02-24| | |TextLink|TextLink_Normal|14|18|30|31</Row>
+			<Row>http://www.washingtonian.com/blogs/openhouse/home-design-shopping/|4|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/muse-bowl/?xid=7a7302387f2f759656508e921194b2a2|56|2014-02-11|2014-02-27| | |TextLink|TextLink_Normal|15|21|29|32</Row>
+			<Row>http://blog.thenest.com/2013/12/03/holiday-gift-guide-100-gifts-under-100/|5|jonathanadler.com|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/glitter-canister/?cat=476|6|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|14|17|31|30</Row>
+			<Row>http://www.notcot.org/page/897/|5|jonathan adler brass hippo|2014-02-27|0|0|0|1|0|0|0|http://www.jonathanadler.com/Brass-Hippo-on-Marble/?cat=370&#38;initial=|57|2014-02-22|2014-02-27| | |ImageLink|ImageLink_Normal|10|14|34|27</Row>
+			<Row>http://www.torontolife.com/tag/housing/|4|jonathan adler|2014-02-17|0|0|0|0|0|0|0|http://www.jonathanadler.com/|32|2014-02-17|2014-02-17| | |TextLink|TextLink_Normal|48|38|27|34</Row>
+			<Row>http://www.chezlarsson.com/myblog/travel/|6|jonathan adler|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/|58|2013-05-30|2014-02-23| | |TextLink|TextLink_Normal|48|38|37|24</Row>
+			<Row>http://www.chezlarsson.com/myblog/travel/|6|zebra dish|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/carnaby-zebra-stacking-dish/?cat=952&#38;initial=11548|58|2013-05-30|2014-02-23| | |TextLink|TextLink_Normal|19|13|37|24</Row>
+			<Row>http://www.chezlarsson.com/myblog/travel/|6|this|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/arcade-iphone-4-case/?cat=1047|58|2013-05-30|2014-02-23| | |TextLink|TextLink_Normal|18|13|37|24</Row>
+			<Row>http://www.swedenunlimited.com/clients/|5|jonathan adler|2014-02-23|0|0|0|0|0|0|0|http://jonathanadler.com/|8|2013-11-18|2014-02-23| | |TextLink|TextLink_Normal|38|27|34|27</Row>
+			<Row>http://www.swedenunlimited.com/clients/|5|jonathan adler|2014-02-23|0|0|0|1|0|0|0|http://jonathanadler.com/|8|2013-11-18|2014-02-23| | |ImageLink|ImageLink_Normal|38|27|34|27</Row>
+			<Row>http://www.swedenunlimited.com/contact/|5|jonathan adler|2014-02-23|0|0|0|1|0|0|0|http://jonathanadler.com/|8|2013-11-17|2014-02-23| | |ImageLink|ImageLink_Normal|38|27|34|27</Row>
+			<Row>http://www.swedenunlimited.com/contact/|5|jonathan adler|2014-02-23|0|0|0|0|0|0|0|http://jonathanadler.com/|8|2013-11-17|2014-02-23| | |TextLink|TextLink_Normal|38|27|34|27</Row>
+			<Row>http://www.swedenunlimited.com/featured/|5|jonathan adler|2014-02-23|0|0|0|1|0|0|0|http://jonathanadler.com/|8|2013-11-18|2014-02-23| | |ImageLink|ImageLink_Normal|38|27|34|27</Row>
+			<Row>http://www.swedenunlimited.com/featured/|5|jonathan adler|2014-02-23|0|0|0|0|0|0|0|http://jonathanadler.com/|8|2013-11-18|2014-02-23| | |TextLink|TextLink_Normal|38|27|34|27</Row>
+			<Row>http://www.swedenunlimited.com/services/|5|jonathan adler|2014-02-23|0|0|0|1|0|0|0|http://jonathanadler.com/|8|2013-11-17|2014-02-23| | |ImageLink|ImageLink_Normal|38|27|34|27</Row>
+			<Row>http://www.swedenunlimited.com/services/|5|jonathan adler|2014-02-23|0|0|0|0|0|0|0|http://jonathanadler.com/|8|2013-11-17|2014-02-23| | |TextLink|TextLink_Normal|38|27|34|27</Row>
+			<Row>http://kenziekate.blogspot.com/|5|jonathan adler|2014-02-12|0|0|0|0|0|0|0|http://www.jonathanadler.com/shop/index.php|9|2009-12-06|2014-02-12| | |TextLink|TextLink_Normal|33|27|36|24</Row>
+			<Row>http://www.people.com/people/package/gallery/0,,20360857_20691818,00.html|6|adler|2014-02-25|0|0|0|0|0|0|0|http://www.jonathanadler.com/|59|2013-05-02|2014-02-25| | |TextLink|TextLink_Normal|48|38|37|23</Row>
+			<Row>http://www.cookinglight.com/healthy-living/beauty/fig-beauty-products-00412000084830/|5|jonathan adler pop body wash in fig|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/fig-pop-body-wash|60|2013-09-01|2014-02-27| | |TextLink|TextLink_Normal|11|18|30|30</Row>
+			<Row>http://www.torontolife.com/tag/homes/|4|jonathan adler|2014-02-24|0|0|0|0|0|0|0|http://www.jonathanadler.com/|32|2014-02-24|2014-02-24| | |TextLink|TextLink_Normal|48|38|26|34</Row>
+			<Row>http://houston.culturemap.com/news/fashion/02-25-14-houstons-elaine-turner-takes-on-new-york-with-a-glam-texas-touch-at-her-new-upscale-manhattan-store/|5|alexis bittar|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/|61|2014-02-26|2014-02-26| | |TextLink|TextLink_Normal|48|38|35|25</Row>
+			<Row>http://houston.culturemap.com/news/fashion/02-25-14-houstons-elaine-turner-takes-on-new-york-with-a-glam-texas-touch-at-her-new-upscale-manhattan-store/|5|jonathan adler|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/|61|2014-02-26|2014-02-26| | |TextLink|TextLink_Normal|48|38|35|25</Row>
+			<Row>http://www.traditionalhome.com/design/beautiful-homes/home-bill-and-giuliana-rancic|4|jonathanadler.com|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|62|2014-01-28|2014-02-27| | |TextLink|TextLink_Normal|48|38|28|32</Row>
+			<Row>http://poeticandchic.com/|5|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|63|2012-12-06|2014-02-28| | |TextLink|TextLink_Normal|48|38|36|24</Row>
+			<Row>http://moderncraft.blogspot.com/|5|jonathan adler|2014-01-29|0|0|0|0|0|0|0|http://www.jonathanadler.com/shop/home.php?cat=541|9|2010-12-17|2014-01-29| | |TextLink|TextLink_Normal|11|17|30|29</Row>
+			<Row>http://www.kenziekate.blogspot.com/|5|jonathan adler|2014-02-12|0|0|0|0|0|0|0|http://www.jonathanadler.com/shop/index.php|9|2011-03-31|2014-02-12| | |TextLink|TextLink_Normal|33|27|34|25</Row>
+			<Row>http://heidiklum.aol.com/category/i-love/fuchsia-sun-hat/|5|jonathan adler|2014-02-18|0|0|0|0|0|0|0|http://www.jonathanadler.com/fuchsia-sun-hat/|0|2014-01-14|2014-02-18| | |TextLink|TextLink_Normal|18|21|30|29</Row>
+			<Row>http://www.independent.co.uk/extras/indybest/house-garden/the-10-best-christmas-gifts-for-pet-lovers-8978086.html|5|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://uk.jonathanadler.com/Puppy-Uppers-10283/?cat=0&#38;initial=10282|64|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|11|16|31|28</Row>
+			<Row>http://www.washingtonian.com/blogs/openhouse/home-design/design-decoder-recreate-this-mondrian-inspired-home.php|4|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/large-ceramic-horse/?xid=3e128718b860d4d572aeaa41fc21e7c7|56|2013-11-08|2014-02-28| | |TextLink|TextLink_Normal|15|20|28|31</Row>
+			<Row>http://www.traditionalhome.com/design/beautiful-homes/updated-california-classic|4|jonathanadler.com|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|62|2014-01-29|2014-02-27| | |TextLink|TextLink_Normal|48|38|26|33</Row>
+			<Row>http://www.baltimoremagazine.net/talkshop/|4|jonathan adler|2014-02-25|0|0|0|0|0|0|0|http://www.jonathanadler.com/|65|2014-02-25|2014-02-25| | |TextLink|TextLink_Normal|48|38|27|32</Row>
+			<Row>http://www.cribcandy.com/vases|5|link »|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/shop/product.php?productid=16622&#38;cat=452&#38;page=1|66|2009-06-23|2014-02-26| | |TextLink|TextLink_Normal|17|18|30|29</Row>
+			<Row>http://www.mommyshorts.com/big-ticket-little-ticket/|5|jonathan adler table lamp|2014-02-25|0|0|0|0|0|0|0|http://www.jonathanadler.com/Staffordshire-Spaniel-Lamp-Left/?cat=654&#38;initial=|67|2011-07-12|2014-02-25| | |TextLink|TextLink_Normal|13|15|33|26</Row>
+			<Row>http://www.askmi.com.br/|6|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/index.php|68|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|47|28|40|19</Row>
+			<Row>http://www.pinterest.com/jonathanadler/|5|www.jonathanadler.com|2014-01-03|0|0|1|0|0|0|0|http://www.jonathanadler.com/|69|2014-01-03|2014-01-03| | |TextLink|TextLink_Normal|48|38|36|22</Row>
+			<Row>http://feeds.feedburner.com/seattlemet-home-and-garden|4|jonathanadler.com|2014-02-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/|70|2014-02-23|2014-02-23| | |TextLink|TextLink_Normal|48|38|29|29</Row>
+			<Row>http://www.traditionalhome.com/design/greenspace/art-filled-and-eco-conscious-home|4|jonathanadler.com|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/|62|2014-02-05|2014-02-26| | |TextLink|TextLink_Normal|48|38|26|32</Row>
+			<Row>http://thevivant.com/tablescape-southwest-dinner-party/|5|jonathan adler|2014-02-25|0|0|0|0|0|0|0|http://www.jonathanadler.com/Decor-Objects/|71|2014-02-01|2014-02-25| | |TextLink|TextLink_Normal|35|23|32|26</Row>
+			<Row>http://thevivant.com/tablescape-southwest-dinner-party/|5|available at jonathan adler|2014-02-25|0|0|0|0|0|0|0|http://www.jonathanadler.com/Small-Horn-Sculpture/?cat=1086|71|2014-02-01|2014-02-25| | |TextLink|TextLink_Normal|19|16|32|26</Row>
+			<Row>http://mightygoods.com/categories/pets|5|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/Dog-Bone-Green-Blue/?cat=811&#38;initial=|72|2012-12-06|2014-02-28| | |TextLink|TextLink_Normal|15|14|34|24</Row>
+			<Row>http://mightygoods.com/categories/pets|5|buy|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/Dog-Bone-Green-Blue/?cat=811&#38;initial=|72|2012-12-06|2014-02-28| | |TextLink|TextLink_Normal|15|14|34|24</Row>
+			<Row>http://maisonetdemeure.com/blogue/bricolage/|5|jonathan adler|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/Carnaby-Hollywood-Tray/?cat=0&#38;initial=|73|2013-02-02|2014-02-26| | |TextLink|TextLink_Normal|17|16|30|28</Row>
+			<Row>http://maisonetdemeure.com/blogue/bricolage/|5|plateau jaune|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/Carnaby-Hollywood-Tray/?cat=0&#38;initial=|73|2013-02-02|2014-02-26| | |TextLink|TextLink_Normal|17|16|30|28</Row>
+			<Row>http://www.matchbookmag.com/directory/|6|jonathan adler|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/|74|2013-01-03|2014-02-26| | |TextLink|TextLink_Normal|48|38|38|20</Row>
+			<Row>https://www.internationalcheckout.com/|4|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|19|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|48|38|29|29</Row>
+			<Row>http://www.mychicmyway.com/|5|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|75|2011-08-13|2014-02-27| | |TextLink|TextLink_Normal|48|38|32|26</Row>
+			<Row>http://bonitoclub.wordpress.com/|5|jonathan adler|2014-02-25|0|0|0|0|0|0|0|http://www.jonathanadler.com/|76|2011-01-13|2014-02-25| | |TextLink|TextLink_Normal|48|38|30|27</Row>
+			<Row>http://ohjoy.blogs.com/my_weblog/make-someone-happy/|4|jonathan adler|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/sailor-siren-salt-and-pepper-shakers/?cat=0&#38;initial=|77|2012-12-04|2014-02-26| | |TextLink|TextLink_Normal|16|20|27|30</Row>
+			<Row>http://www.refinery29.com/dorm-room-essentials|5|jonathan adler|2014-02-27|0|0|1|0|0|0|0|http://www.jonathanadler.com/Lacquer-Hexagon-tray/?initial=6003&#38;xid=4f245a13ba1a3da81f251c6aab63ba14|78|2014-01-28|2014-02-27| | |TextLink|TextLink_Normal|0|0|33|24</Row>
+			<Row>http://www.traditionalhome.com/design/showhouses/dazzling-hamptons-showhouse|4|jonathanadler.com|2014-02-25|0|0|0|0|0|0|0|http://www.jonathanadler.com/|62|2014-02-03|2014-02-25| | |TextLink|TextLink_Normal|48|38|27|30</Row>
+			<Row>http://cribcandy.com/vases|5|link »|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/shop/product.php?productid=16622&#38;cat=452&#38;page=1|66|2009-06-24|2014-02-27| | |TextLink|TextLink_Normal|17|18|31|26</Row>
+			<Row>http://theeverygirl.com/lauren-mizrahis-san-francisco-studio-apartment-tour/|6|jonathan adler|2014-02-16|0|0|0|0|0|0|0|http://www.jonathanadler.com/gold-carnaby-zebra-stacking-dish/?xid=d43eac10f876861f63665f09dd5ba5b3|79|2014-01-17|2014-02-16| | |TextLink|TextLink_Normal|16|11|37|20</Row>
+			<Row>http://bostoncommon-magazine.com/the-latest/style-and-beauty/postings/springs-best-sartorial-pursuits|5|jonathan adler|2014-02-24|0|0|0|0|0|0|0|http://jonathanadler.com/|80|2014-02-24|2014-02-24| | |TextLink|TextLink_Normal|38|27|30|27</Row>
+			<Row>http://www.changethethought.com/category/interior-design/|5|jonathan adler!|2014-02-03|0|0|0|0|0|0|0|http://jonathanadler.com/shop/index.php|81|2010-12-22|2014-02-03| | |TextLink|TextLink_Normal|17|15|36|21</Row>
+			<Row>http://design-elements-blog.com/|6|jonathan adler|2014-02-28|0|0|0|1|0|0|0|http://www.jonathanadler.com/|82|2010-10-18|2014-02-28| | |ImageLink|ImageLink_Normal|48|38|38|19</Row>
+			<Row>http://www.piewacketblog.com/|6|jonathan adler&#39;s|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|83|2011-12-12|2014-02-28| | |TextLink|TextLink_Normal|48|38|37|20</Row>
+			<Row>http://www.piewacketblog.com/|6|brigitte lounge chair|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/brigitte-chair/?cat=985|83|2014-01-16|2014-02-28| | |TextLink|TextLink_Normal|20|16|37|20</Row>
+			<Row>http://primpandprime.com/|5|here|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/Victorian-LOVE-needlepoint-pillow/|84|2014-01-08|2014-02-28| | |TextLink|TextLink_Normal|24|14|32|25</Row>
+			<Row>http://primpandprime.com/|5|pink monogram pillow|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/Reversible-Pink-Junior-Letter-Pillow/?cat=1068|84|2014-01-27|2014-02-28| | |TextLink|TextLink_Normal|15|14|32|25</Row>
+			<Row>http://livinglivelier.blogspot.com/|4|jonathan adler|2014-02-08|0|0|0|0|0|0|0|http://www.jonathanadler.com/|9|2013-04-15|2014-02-08| | |TextLink|TextLink_Normal|48|38|29|27</Row>
+			<Row>http://livinglivelier.blogspot.com/|4|owl bank|2014-02-08|0|0|0|0|0|0|0|http://www.jonathanadler.com/Junior-Owl-bank/?cat=1056|9|2013-07-14|2014-02-08| | |TextLink|TextLink_Normal|14|15|29|27</Row>
+			<Row>http://livinglivelier.blogspot.com/|4|lamp|2014-02-08|0|0|0|0|0|0|0|http://www.jonathanadler.com/Utopia-Elephant-Lamp/?cat=1056|9|2013-07-14|2014-02-08| | |TextLink|TextLink_Normal|10|15|29|27</Row>
+			<Row>http://livinglivelier.blogspot.com/|4|bookends|2014-02-08|0|0|0|0|0|0|0|http://www.jonathanadler.com/Junior-dachshund-bookends/?cat=1056&#38;initial=7860|9|2013-07-14|2014-02-08| | |TextLink|TextLink_Normal|10|15|29|27</Row>
+			<Row>http://www.bhg.com/blogs/centsational-style/|4|pink pouf|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/Moroccan-Pouf/?cat=993|27|2013-07-03|2014-02-27| | |TextLink|TextLink_Normal|14|16|28|28</Row>
+			<Row>http://www.washingtonian.com/blogs/openhouse/home-design-shopping/bringing-in-spring-fast-fixes-to-dewinterize-your-space.php|4|jonathan adler vase|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/Carnaby-Talitha-Vase/?cat=0&#38;initial=|56|2012-07-08|2014-02-27| | |TextLink|TextLink_Normal|10|18|26|30</Row>
+			<Row>http://www.refinery29.com/2014/01/60285/super-bowl-essentials|5|jonathan adler|2014-02-27|0|0|1|0|0|0|0|http://www.jonathanadler.com/Lacquer-Hexagon-tray/?cat=1009&#38;initial=5999|78|2014-01-31|2014-02-27| | |TextLink|TextLink_Normal|0|0|33|23</Row>
+			<Row>http://www.refinery29.com/2013/07/49357/dorm-essentials/|5|jonathan adler|2014-02-16|0|0|1|0|0|0|0|http://www.jonathanadler.com/gold-piggy-bank/?cat=0&#38;initial=|78|2013-11-18|2014-02-16| | |TextLink|TextLink_Normal|3|1|33|23</Row>
+			<Row>http://www.refinery29.com/home-decor|5|jonathan adler|2014-02-27|0|0|1|0|0|0|0|http://www.jonathanadler.com/blue-leather-and-linen-pillow/?initial=23301&#38;xid=1457317df7d60176a9987e67d65e3ff7|78|2014-02-12|2014-02-27| | |TextLink|TextLink_Normal|0|0|33|23</Row>
+			<Row>http://blog.crane.com/author/hereitisbam/|4|jonathan adler’s soho boutique|2014-01-31|0|0|0|0|0|0|0|http://www.jonathanadler.com/locations.php|85|2012-07-11|2014-01-31| | |TextLink|TextLink_Normal|36|29|24|32</Row>
+			<Row>http://simmerandboil.cookinglight.com/feed/|4|jonathanadler.com|2014-02-25|0|0|0|0|0|0|0|http://www.jonathanadler.com/search-results.php?keywords=jaipur|60|2014-02-18|2014-02-25| | |TextLink|TextLink_Normal|17|20|28|28</Row>
+			<Row>http://www.traditionalhome.com/design/beautiful-homes/colorful-stylish-family-home|4|jonathanadler.com|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/|62|2014-01-28|2014-02-26| | |TextLink|TextLink_Normal|48|38|26|30</Row>
+			<Row>http://www.residence.nl/interieur/badkamer/41265-badkamerstijl-2-eclectisch/|4|www.jonathanadler.com|2014-01-23|0|0|0|0|0|0|0|http://www.jonathanadler.com/|86|2014-01-23|2014-01-23| | |TextLink|TextLink_Normal|48|38|26|30</Row>
+			<Row>http://on.aol.ca/show/inspiration-point-517880800/episode/517897453|5|jonathanadler.com|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/|87|2013-08-31|2014-02-26| | |TextLink|TextLink_Normal|48|38|32|24</Row>
+			<Row>http://snippetandink.com/2009/07/|6|salt and pepper|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/shop/product.php?productid=17945&#38;cat=475&#38;page=1&#38;initial=|88|2013-05-04|2014-02-27| | |TextLink|TextLink_Normal|15|9|38|18</Row>
+			<Row>http://www.swedenunlimited.com/featured-work/|5|jonathan adler|2014-02-13|0|0|0|0|0|0|0|http://jonathanadler.com/|8|2013-11-19|2014-02-13| | |TextLink|TextLink_Normal|38|27|31|25</Row>
+			<Row>http://www.swedenunlimited.com/featured-work/|5|jonathan adler|2014-02-13|0|0|0|1|0|0|0|http://jonathanadler.com/|8|2013-11-19|2014-02-13| | |ImageLink|ImageLink_Normal|38|27|31|25</Row>
+			<Row>http://www.swedenunlimited.com/work/jonathan-adler|5|www.jonathanadler.com|2014-02-13|0|0|0|0|0|0|0|http://www.jonathanadler.com/|8|2013-11-18|2014-02-13| | |TextLink|TextLink_Normal|48|38|30|26</Row>
+			<Row>http://swedenunlimited.com/|5|jonathan adler|2014-02-27|0|0|0|1|0|0|0|http://jonathanadler.com/|8|2013-06-03|2014-02-27| | |ImageLink|ImageLink_Normal|38|27|32|24</Row>
+			<Row>http://swedenunlimited.com/|5|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://jonathanadler.com/|8|2013-06-03|2014-02-27| | |TextLink|TextLink_Normal|38|27|32|24</Row>
+			<Row>http://www.eatdrinkchic.com/archives.cfm/category/moody-hues/|5|jonathan adler|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/Stylish-Stationery/|89|2010-10-16|2014-02-26| | |TextLink|TextLink_Normal|23|12|33|23</Row>
+			<Row>http://www.eatdrinkchic.com/archives.cfm/category/moody-hues/|5|jonathan adler|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/Mr.-and-Mrs.-Muse-Mug/?cat=370&#38;initial=|89|2011-04-14|2014-02-26| | |TextLink|TextLink_Normal|18|12|33|23</Row>
+			<Row>http://www.eatdrinkchic.com/archives.cfm/category/moody-hues/|5|jonathan adler|2014-02-26|0|0|0|0|0|0|0|http://www.jonathanadler.com/Mrs.-Godfrey-chair-starting-at/?cat=563&#38;initial=|89|2011-04-14|2014-02-26| | |TextLink|TextLink_Normal|18|12|33|23</Row>
+			<Row>http://bellesreveries.com/2011/05/|8|mr. adler|2014-02-20|0|0|0|0|0|0|0|http://www.jonathanadler.com/|90|2013-02-26|2014-02-20| | |TextLink|TextLink_Normal|48|38|50|6</Row>
+			<Row>http://anthologymag.com/blog3/category/object-found/|5|jonathan adler|2014-02-14|0|0|0|0|0|0|0|http://www.jonathanadler.com/|91|2011-06-01|2014-02-14| | |TextLink|TextLink_Normal|48|38|35|21</Row>
+			<Row>http://anthologymag.com/blog3/category/object-found/|5|meurice chandelier|2014-02-14|0|0|0|0|0|0|0|http://www.jonathanadler.com/Meurice-Rectangle-Chandelier/?cat=676&#38;initial=8672|91|2011-06-01|2014-02-14| | |TextLink|TextLink_Normal|17|13|35|21</Row>
+			<Row>http://anthologymag.com/blog3/category/vintage-2/|5|jonathan adler|2014-02-14|0|0|0|0|0|0|0|http://www.jonathanadler.com/|91|2011-06-01|2014-02-14| | |TextLink|TextLink_Normal|48|38|35|21</Row>
+			<Row>http://anthologymag.com/blog3/category/vintage-2/|5|meurice chandelier|2014-02-14|0|0|0|0|0|0|0|http://www.jonathanadler.com/Meurice-Rectangle-Chandelier/?cat=676&#38;initial=8672|91|2011-06-01|2014-02-14| | |TextLink|TextLink_Normal|17|13|35|21</Row>
+			<Row>https://www.internationalcheckout.com/index.php|4|jonathan adler|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/|19|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|48|38|29|27</Row>
+			<Row>http://www.thehousethatlarsbuilt.com/p/about.html|5|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/shop/index.php|92|2012-08-07|2014-02-27| | |TextLink|TextLink_Normal|33|27|33|23</Row>
+			<Row>http://www.powermobydick.com/|5| |2014-02-28|0|0|0|1|0|0|0|http://www.jonathanadler.com/moby-dick-bottle-stopper-set/|93|2012-07-09|2014-02-28| | |ImageLink|ImageLink_Normal|11|14|31|25</Row>
+			<Row>http://www.powermobydick.com/|5|moby-dick bottle stoppers|2014-02-28|0|0|0|0|0|0|0|http://www.jonathanadler.com/moby-dick-bottle-stopper-set/|93|2012-07-09|2014-02-28| | |TextLink|TextLink_Normal|11|14|31|25</Row>
+			<Row>http://ellietennant.com/blog/|5|jonathan adler|2014-02-25|0|0|0|0|0|0|0|http://uk.jonathanadler.com/|94|2013-12-07|2014-02-25| | |TextLink|TextLink_Normal|36|24|33|23</Row>
+			<Row>http://www.boston.com/lifestyle/fashion/2014/02/01/brighten-winter-morning-with-cheerful-mugs/AME9XPhgDB291si1DhzYrM/story.html|4|www.jonathanadler.com|2014-02-09|0|0|0|0|0|0|0|http://www.jonathanadler.com/|95|2014-02-09|2014-02-09| | |TextLink|TextLink_Normal|48|38|25|30</Row>
+			<Row>http://www.boston.com/lifestyle/fashion/2014/02/01/brighten-winter-morning-with-cheerful-mugs/AME9XPhgDB291si1DhzYrM/story.html|4| |2014-02-09|0|0|0|0|0|0|0|http://www.jonathanadler.com/|95|2014-02-09|2014-02-09| | |TextLink|TextLink_Normal|48|38|25|30</Row>
+			<Row>http://bloggar.aftonbladet.se/bohemchic/tag/farg/|4|webshop|2014-02-03|0|0|0|0|0|0|0|http://www.jonathanadler.com/|96|2014-02-03|2014-02-03| | |TextLink|TextLink_Normal|48|38|25|30</Row>
+			<Row>http://bloggar.aftonbladet.se/bohemchic/tag/monster-2/|4|webshop|2014-02-03|0|0|0|0|0|0|0|http://www.jonathanadler.com/|96|2013-06-09|2014-02-03| | |TextLink|TextLink_Normal|48|38|25|30</Row>
+			<Row>http://bloggar.aftonbladet.se/bohemchic/tag/monster-2/|4|jonathan adler|2014-02-03|0|0|0|0|0|0|0|http://www.jonathanadler.com/search-results.php?keywords=zebra&#38;x=-1112&#38;y=-40|96|2014-02-03|2014-02-03| | |TextLink|TextLink_Normal|14|19|25|30</Row>
+			<Row>http://www.logotv.com/shows/beautiful_people/series.jhtml|4|jonathan adler&#39;s&#39; site|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|97|2010-04-20|2014-02-27| | |TextLink|TextLink_Normal|48|38|28|27</Row>
+			<Row>http://www.logotv.com/shows/beautiful_people/series.jhtml|4|jonathan adler:|2014-02-27|0|0|0|1|0|0|0|http://www.jonathanadler.com/|97|2010-04-20|2014-02-27| | |ImageLink|ImageLink_Normal|48|38|28|27</Row>
+			<Row>http://www.logotv.com/shows/beautiful_people/series.jhtml|4|jonathan adler:|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|97|2010-04-20|2014-02-27| | |TextLink|TextLink_Normal|48|38|28|27</Row>
+			<Row>http://www.refinery29.com/party-decorations|5|jonathan adler.|2014-02-27|0|0|1|0|0|0|0|http://uk.jonathanadler.com/mr.-and-mrs.-muse-brass-place-card-holders/?cat=1035&#38;initial=|78|2014-02-10|2014-02-27| | |TextLink|TextLink_Normal|0|0|32|23</Row>
+			<Row>http://www.refinery29.com/bright-home-decor|5|jonathan adler|2014-02-26|0|0|1|0|0|0|0|http://www.jonathanadler.com/green-and-natural-zebra/?cat=1068|78|2014-02-13|2014-02-26| | |TextLink|TextLink_Normal|9|9|32|23</Row>
+			<Row>http://www.santamonicaplace.com/Map/?tid=173955|3|visit website|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|14|2013-10-20|2014-02-27| | |TextLink|TextLink_Normal|48|38|22|33</Row>
+			<Row>http://www.santamonicaplace.com/Map/?tid=197058|3|visit website|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|14|2014-02-04|2014-02-27| | |TextLink|TextLink_Normal|48|38|22|33</Row>
+			<Row>http://www.santamonicaplace.com/Map/?tid=106455|3|visit website|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|14|2013-10-20|2014-02-27| | |TextLink|TextLink_Normal|48|38|22|33</Row>
+			<Row>http://www.santamonicaplace.com/Map/?tid=106457|3|visit website|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|14|2013-10-20|2014-02-27| | |TextLink|TextLink_Normal|48|38|22|33</Row>
+			<Row>http://www.santamonicaplace.com/Map/?tid=106484|3|visit website|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|14|2013-10-20|2014-02-27| | |TextLink|TextLink_Normal|48|38|22|33</Row>
+			<Row>http://www.santamonicaplace.com/Map/?tid=106602|3|visit website|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|14|2013-10-20|2014-02-27| | |TextLink|TextLink_Normal|48|38|22|33</Row>
+			<Row>http://www.santamonicaplace.com/Map/?tid=106604|3|visit website|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|14|2013-10-20|2014-02-27| | |TextLink|TextLink_Normal|48|38|22|33</Row>
+			<Row>http://www.santamonicaplace.com/Map/?tid=106623|3|visit website|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|14|2013-10-20|2014-02-27| | |TextLink|TextLink_Normal|48|38|22|33</Row>
+			<Row>http://www.santamonicaplace.com/Map/?tid=154885|3|visit website|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/|14|2013-10-20|2014-02-27| | |TextLink|TextLink_Normal|48|38|22|33</Row>
+			<Row>http://www.residence.nl/interieurtrends/41279-interieurtrend-beestenboel/|4|www.jonathanadler.com|2014-02-02|0|0|0|0|0|0|0|http://www.jonathanadler.com/|86|2014-02-02|2014-02-02| | |TextLink|TextLink_Normal|48|38|25|30</Row>
+			<Row>http://www.designlovefest.com/2013/02/single-ladies-valentines-day-brunch/|5|jonathan adler|2014-02-15|0|0|0|0|0|0|0|http://www.jonathanadler.com/mr.-and-mrs.-muse-brass-place-card-holders/?cat=901|98|2013-02-21|2014-02-15| | |TextLink|TextLink_Normal|18|16|30|25</Row>
+			<Row>http://www.designlovefest.com/2013/02/single-ladies-valentines-day-brunch/|5|jonathan adler|2014-02-15|0|0|0|0|0|0|0|http://www.jonathanadler.com/Pop-Rocks-Glass/?cat=501&#38;initial=6240|98|2013-02-21|2014-02-15| | |TextLink|TextLink_Normal|17|16|30|25</Row>
+			<Row>http://www.thecollegeprepster.com/2011_02_01_archive.html|4|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://jonathanadler.com/|99|2011-03-16|2014-02-27| | |TextLink|TextLink_Normal|38|27|29|26</Row>
+			<Row>http://www.thecollegeprepster.com/2011_02_01_archive.html|4|jonathan adler rug, $995|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/Zebra-Rug/?cat=486&#38;initial=7822|99|2011-03-16|2014-02-27| | |TextLink|TextLink_Normal|11|14|29|26</Row>
+			<Row>http://www.thecollegeprepster.com/2011_02_01_archive.html|4|jonathan adler pillow, $165|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/Wasp-Pillow/?cat=347&#38;initial=|99|2011-03-16|2014-02-27| | |TextLink|TextLink_Normal|10|14|29|26</Row>
+			<Row>http://www.thecollegeprepster.com/2011_02_01_archive.html|4|jonathan adler umbrella stand, $295|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/Lacquer-Umbrella-stand/?cat=369&#38;initial=5987|99|2011-03-16|2014-02-27| | |TextLink|TextLink_Normal|10|14|29|26</Row>
+			<Row>http://www.somebits.com/weblog/2003/07/|5|nelson minor lamp|2014-02-14|0|0|0|0|0|0|0|http://www.jonathanadler.com/lighting/lantern/nelson_minor_lamp.html|100|2009-04-12|2014-02-14| | |TextLink|TextLink_Normal|11|12|32|23</Row>
+			<Row>http://www.somebits.com/weblog/2003/07/|5| |2014-02-14|0|0|0|1|0|0|0|http://www.jonathanadler.com/lighting/lantern/nelson_minor_lamp.html|100|2009-04-12|2014-02-14| | |ImageLink|ImageLink_Normal|11|12|32|23</Row>
+			<Row>http://www.thefacultylounge.org/culture_of_commerce/|4|jonathan|2014-02-25|0|0|0|0|0|0|0|http://www.jonathanadler.com/about.php|101|2013-10-05|2014-02-25| | |TextLink|TextLink_Normal|36|24|28|27</Row>
+			<Row>http://www.thefacultylounge.org/beyond_categorization/|4|jonathan|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/about.php|101|2013-10-23|2014-02-27| | |TextLink|TextLink_Normal|36|24|28|27</Row>
+			<Row>http://www.theglow.com/zoe-buckman/|5|jonathan adler pillow|2014-02-14|0|0|0|0|0|0|0|http://jonathanadler.com/Blue-Junior-Letter-Pillow/?cat=568&#38;initial=|102|2012-03-27|2014-02-14| | |TextLink|TextLink_Normal|16|12|34|21</Row>
+			<Row>http://www.theglow.com/elizabeth-stewart/|5|jonathan adler|2014-02-14|0|0|0|0|0|0|0|http://jonathanadler.com/Pillows-and-throws|102|2013-02-20|2014-02-14| | |TextLink|TextLink_Normal|16|12|34|21</Row>
+			<Row>http://bigdaddyseashell.wordpress.com/|4|jonathan adler|2014-02-27|0|0|0|0|0|0|0|http://www.jonathanadler.com/index.php|76|2010-11-16|2014-02-27| | |TextLink|TextLink_Normal|47|28|28|26</Row>
+			<Row>http://designsponge.blogspot.com/2004_09_01_archive.html|4| |2014-02-12|0|0|0|1|0|0|0|http://jonathanadler.com/shop/product.php?productid=17328&#38;cat=370&#38;page=1|9|2010-12-31|2014-02-12| | |ImageLink|ImageLink_Normal|29|25|29|25</Row>
+			<Row>http://designsponge.blogspot.com/2004_10_01_archive.html|4| |2014-02-12|0|0|0|1|0|0|0|http://jonathanadler.com/shop/product.php?productid=17328&#38;cat=370&#38;page=1|9|2011-01-30|2014-02-12| | |ImageLink|ImageLink_Normal|29|25|29|25</Row>
+			<Row>http://designsponge.blogspot.com/2004_11_01_archive.html|4| |2014-02-12|0|0|0|1|0|0|0|http://jonathanadler.com/shop/product.php?productid=17328&#38;cat=370&#38;page=1|9|2010-12-31|2014-02-12| | |ImageLink|ImageLink_Normal|29|25|29|25</Row>
+			<Row>http://designsponge.blogspot.com/2004_12_01_archive.html|4| |2014-02-12|0|0|0|1|0|0|0|http://jonathanadler.com/shop/product.php?productid=17328&#38;cat=370&#38;page=1|9|2011-01-30|2014-02-12| | |ImageLink|ImageLink_Normal|29|25|29|25</Row>
+			<Row>http://designsponge.blogspot.com/2007_01_01_archive.html|4| |2014-02-12|0|0|0|1|0|0|0|http://jonathanadler.com/shop/product.php?productid=17328&#38;cat=370&#38;page=1|9|2011-01-30|2014-02-12| | |ImageLink|ImageLink_Normal|29|25|29|25</Row>
+			<Row>http://designsponge.blogspot.com/2007_02_01_archive.html|4| |2014-02-12|0|0|0|1|0|0|0|http://jonathanadler.com/shop/product.php?productid=17328&#38;cat=370&#38;page=1|9|2010-12-31|2014-02-12| | |ImageLink|ImageLink_Normal|29|25|29|25</Row>
+			<Row>http://designsponge.blogspot.com/2007_03_01_archive.html|4| |2014-02-12|0|0|0|1|0|0|0|http://jonathanadler.com/shop/product.php?productid=17328&#38;cat=370&#38;page=1|9|2011-01-30|2014-02-12| | |ImageLink|ImageLink_Normal|29|25|29|25</Row>
+			<Row>http://designsponge.blogspot.com/2007_04_01_archive.html|4| |2014-02-12|0|0|0|1|0|0|0|http://jonathanadler.com/shop/product.php?productid=17328&#38;cat=370&#38;page=1|9|2010-12-31|2014-02-12| | |ImageLink|ImageLink_Normal|29|25|29|25</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="103" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|aol.com|67|1509031|1923482705|110754220|4980113|2008-07-29|2014-02-28|205.188.19.16|205.188.19.0|US|com|91|90</Row>
+			<Row>1|hgtv.com|3375|151689|118148725|5939011|1582967|2008-07-29|2014-02-28|207.152.124.42|207.152.124.0|US|com|64|71</Row>
+			<Row>2|designsponge.com|13246|41469|10586612|1165002|165012|2010-09-22|2014-02-28|141.101.126.193|141.101.126.0|EU|com|59|64</Row>
+			<Row>3|art.com|9925|122770|80632837|117368943|2058629|2008-07-29|2014-02-28|23.13.154.98|23.13.154.0|US|com|64|69</Row>
+			<Row>4|countryliving.com|25437|49258|7189959|235372|92218|2008-07-31|2014-02-28|79.140.80.198|79.140.80.0|IT|com|53|58</Row>
+			<Row>5|travelportland.com|191718|15675|892195|156372|85290|2008-08-02|2014-02-28|69.30.23.12|69.30.23.0|US|com|47|60</Row>
+			<Row>6|thenest.com|10720|36256|54365634|11624058|2842839|2008-07-30|2014-02-28|69.48.201.105|69.48.201.0|US|com|52|54</Row>
+			<Row>7|enkshows.com|413238|2834|2060096|3308|1448|2008-09-11|2014-02-28|173.193.219.164|173.193.219.0|US|com|36|46</Row>
+			<Row>8|swedenunlimited.com|-1|907|397473|518747|180383|2008-07-31|2014-02-28|69.93.241.50|69.93.241.0|US|com|35|35</Row>
+			<Row>9|blogspot.com|11|10499622|34314763741|4798901165|274639552|2008-07-29|2014-02-28|173.194.73.191|173.194.73.0|US|com|94|89</Row>
+			<Row>10|themodernshop.ca|-1|318|25978|26051|23309|2011-03-06|2014-02-28|204.93.213.40|204.93.213.0|US|ca|33|40</Row>
+			<Row>11|decor8blog.com|42524|23549|7163407|104031|83667|2008-11-11|2014-02-28|74.204.167.136|74.204.167.0|US|com|48|57</Row>
+			<Row>12|polyvore.com|1353|227927|69705472|39639141|1453184|2008-07-31|2014-02-28|8.25.205.51|8.25.205.0|US|com|52|45</Row>
+			<Row>13|telegraph.co.uk|277|1081305|239401899|52307827|2608439|2008-07-29|2014-02-28|69.22.154.26|69.22.154.0|US|uk|89|84</Row>
+			<Row>14|santamonicaplace.com|-1|2810|98418|16153|13422|2009-10-24|2014-02-28|174.143.40.137|174.143.40.0|US|com|36|48</Row>
+			<Row>15|seattlemet.com|106623|13757|5235590|188384|124032|2008-09-15|2014-02-28|96.126.99.184|96.126.99.0|US|com|53|49</Row>
+			<Row>16|kravet.com|356423|6403|373197|549338|160005|2008-08-16|2014-02-28|12.25.94.38|12.25.94.0|US|com|38|54</Row>
+			<Row>17|homestyler.com|28290|6460|196832|427557|195356|2010-06-12|2014-02-28|184.73.209.95|184.73.209.0|US|com|37|31</Row>
+			<Row>18|porterhousedesigns.com|-1|2493|75836|5580|3381|2008-08-18|2014-02-28|205.178.145.101|205.178.145.0|US|com|37|26</Row>
+			<Row>19|internationalcheckout.com|139131|1887|1505457|1123|1009|2008-08-01|2014-02-28|94.103.24.89|94.103.24.0|NL|com|28|35</Row>
+			<Row>20|stylebeatblog.com|-1|101|10539|7975|4879|2014-01-03|2014-02-28| | | |com|30|32</Row>
+			<Row>21|youbeauty.com|15962|6249|1855388|140066|89091|2011-10-15|2014-02-28|67.214.223.176|67.214.223.0|US|com|50|42</Row>
+			<Row>22|notcot.com|111149|28183|5416506|55217|33107|2008-08-25|2014-02-28|173.199.145.52|173.199.145.0|US|com|51|53</Row>
+			<Row>23|thefoodsection.com|218459|11183|936840|15246|13612|2008-09-19|2014-02-28|204.9.177.195|204.9.177.0|US|com|45|51</Row>
+			<Row>24|househunting.ca|119384|7114|252630889|1321944|482046|2008-07-31|2014-02-28|63.235.36.59|63.235.36.0|US|ca|52|52</Row>
+			<Row>25|theknot.com|4400|121508|161227757|24320914|2180672|2008-07-29|2014-02-28|69.48.201.71|69.48.201.0|US|com|63|73</Row>
+			<Row>26|greenweddingshoes.com|47440|18534|3198184|199211|134834|2010-07-13|2014-02-28|166.78.232.85|166.78.232.0|US|com|51|38</Row>
+			<Row>27|bhg.com|2367|115235|21044479|31730626|1577947|2008-07-29|2014-02-28|198.186.175.84|198.186.175.0|US|com|60|70</Row>
+			<Row>28|goodhousekeeping.com|11982|66388|12049508|1610996|808789|2008-07-30|2014-02-28|90.84.59.115|90.84.59.0|FR|com|62|65</Row>
+			<Row>29|minted.com|30047|20005|3302983|3694993|374064|2008-09-15|2014-02-28|50.57.22.44|50.57.22.0|US|com|52|57</Row>
+			<Row>30|stylemepretty.com|12762|68998|17946291|3046720|472718|2008-08-22|2014-02-28|173.203.60.34|173.203.60.0|US|com|63|46</Row>
+			<Row>31|mtv.com|1435|531266|263920994|7436906|2309490|2008-07-29|2014-02-28|23.15.7.89|23.15.7.0|US|com|82|82</Row>
+			<Row>32|torontolife.com|43580|35275|4817796|517426|261247|2008-07-30|2014-02-28|50.56.232.75|50.56.232.0|US|com|47|53</Row>
+			<Row>33|thewordygirl.com|-1|90|53081|3901|3527|2013-09-05|2014-02-28|68.180.151.96|68.180.151.0|US|com|32|29</Row>
+			<Row>34|smittenstudioonline.com|825999|814|106626|4239|3406|2012-06-02|2014-02-28|173.201.145.1|173.201.145.0|US|com|28|28</Row>
+			<Row>35|oldbrandnewblog.com|-1|1140|221779|10356|2387|2011-10-09|2014-02-28|173.194.74.121|173.194.74.0|US|com|26|27</Row>
+			<Row>36|typepad.com|517|1707059|2567878605|96760976|12479706|2008-07-29|2014-02-28|204.9.178.11|204.9.178.0|US|com|80|77</Row>
+			<Row>37|larsonjuhl.com|582801|4331|63622|39258|35399|2008-10-14|2014-02-28|174.132.99.251|174.132.99.0|US|com|41|52</Row>
+			<Row>38|models.com|16476|50072|3354880|928270|395951|2008-07-29|2014-02-28|208.78.30.175|208.78.30.0|US|com|57|59</Row>
+			<Row>39|marthastewart.com|2471|185214|475343455|4446633|1488768|2008-07-30|2014-02-28|207.152.124.65|207.152.124.0|US|com|64|72</Row>
+			<Row>40|thekit.ca|427127|1981|2779430|294931|135439|2010-10-22|2014-02-28|98.129.229.38|98.129.229.0|US|ca|41|45</Row>
+			<Row>41|ivillage.com|4554|182007|69836405|61117657|2407648|2008-07-29|2014-02-28|23.38.33.131|23.38.33.0|US|com|64|70</Row>
+			<Row>42|housebeautiful.com|23821|31259|4764999|76889|47340|2008-08-25|2014-02-28|205.234.225.163|205.234.225.0|US|com|50|46</Row>
+			<Row>43|jccmanhattan.org|499881|5048|1584081|42664|35859|2008-08-13|2014-02-28|69.60.137.70|69.60.137.0|US|org|44|46</Row>
+			<Row>44|myadventureisyouradvantage.com|-1|1064|107469|12911|11819|2009-11-12|2014-02-28|65.39.205.54|65.39.205.0|US|com|23|25</Row>
+			<Row>45|amberinteriordesign.com|-1|531|186604|10149|8742|2013-02-17|2014-02-28|184.168.235.1|184.168.235.0|US|com|28|21</Row>
+			<Row>46|theconcernsofmindykaling.com|-1|1342|72681|1053|863|2012-01-12|2014-02-28|50.63.35.1|50.63.35.0|US|com|26|19</Row>
+			<Row>47|stern.de|2138|183499|81634107|17371068|2161698|2008-07-29|2014-02-28|8.254.60.254|8.254.60.0|US|de|66|71</Row>
+			<Row>48|denverpost.com|3981|390916|61323265|9762287|2113828|2008-07-29|2014-02-28|23.67.242.120|23.67.242.0|US|com|63|62</Row>
+			<Row>49|dooce.com|26772|32877|10419942|600204|377690|2008-08-06|2014-02-28|50.28.72.192|50.28.72.0|US|com|48|65</Row>
+			<Row>50|99u.com|17823|12903|1629780|15158|14115|2008-09-11|2014-02-28|74.205.63.95|74.205.63.0|US|com|59|44</Row>
+			<Row>51|red.org|-1|2559|55272|3816|3659|2008-12-04|2014-02-28|98.129.229.202|98.129.229.0|US|org|47|45</Row>
+			<Row>52|shelterrific.com|468830|11721|2750819|30585|24106|2008-07-30|2014-02-28|75.119.206.36|75.119.206.0|US|com|37|36</Row>
+			<Row>53|mintdesignblog.com|484375|6232|955864|77027|60409|2008-09-11|2014-02-28|204.61.222.46|204.61.222.0|US|com|36|33</Row>
+			<Row>54|vogue.com|19819|84266|8747856|165072|114087|2008-09-22|2014-02-28|157.238.74.99|157.238.74.0|US|com|58|71</Row>
+			<Row>55|landofnod.com|29843|23727|2673589|1193707|480643|2008-07-30|2014-02-28|184.85.13.134|184.85.13.0|US|com|51|60</Row>
+			<Row>56|washingtonian.com|31020|52014|20858263|6915533|218544|2008-07-29|2014-02-28|50.57.203.56|50.57.203.0|US|com|52|55</Row>
+			<Row>57|notcot.org|18521|30031|12021062|2117777|969628|2008-08-12|2014-02-28|173.199.145.52|173.199.145.0|US|org|58|46</Row>
+			<Row>58|chezlarsson.com|245192|3878|853642|103976|94304|2009-05-23|2014-02-28|204.9.177.195|204.9.177.0|US|com|41|34</Row>
+			<Row>59|people.com|769|256470|124798397|1506069|691494|2008-07-29|2014-02-28|23.15.9.155|23.15.9.0|US|com|77|54</Row>
+			<Row>60|cookinglight.com|8736|66750|10109982|3799033|609138|2008-07-29|2014-02-28|207.152.124.17|207.152.124.0|US|com|52|50</Row>
+			<Row>61|culturemap.com|50521|35253|1330481|1906106|360352|2009-11-28|2014-02-28|96.126.117.115|96.126.117.0|US|com|54|44</Row>
+			<Row>62|traditionalhome.com|92371|10454|1081544|82274|32601|2008-09-18|2014-02-28|198.186.175.49|198.186.175.0|US|com|44|52</Row>
+			<Row>63|poeticandchic.com|-1|1442|145618|11613|9998|2008-07-31|2014-02-28|65.39.205.54|65.39.205.0|US|com|26|21</Row>
+			<Row>64|independent.co.uk|985|679306|135266525|14318963|1833679|2008-07-29|2014-02-28|81.52.160.51|81.52.160.0|FR|uk|84|81</Row>
+			<Row>65|baltimoremagazine.net|345470|9424|4421032|4555286|645546|2008-08-04|2014-02-28|64.90.34.163|64.90.34.0|US|net|41|46</Row>
+			<Row>66|cribcandy.com|709107|7080|3505317|404865|314780|2008-07-30|2014-02-28|107.22.73.117|107.22.73.0|US|com|40|41</Row>
+			<Row>67|mommyshorts.com|173577|2027|510344|34332|27560|2010-10-06|2014-02-28|204.9.177.195|204.9.177.0|US|com|35|36</Row>
+			<Row>68|askmi.com.br|277887|359|721459|12312|1489|2012-06-11|2014-02-28|173.194.72.121|173.194.72.0|US|br|23|14</Row>
+			<Row>69|pinterest.com|34|3173462|8009099755|847198400|108994824|2010-05-02|2014-02-28|23.23.228.190|23.23.228.0|US|com|94|96</Row>
+			<Row>70|feedburner.com|833|2769520|9545031235|316926619|23014773|2008-07-29|2014-02-28|74.125.225.128|74.125.225.0|US|com|91|90</Row>
+			<Row>71|thevivant.com|530239|1930|1036838|15501|15269|2013-01-21|2014-02-28|66.155.9.244|66.155.9.0|US|com|38|35</Row>
+			<Row>72|mightygoods.com|959010|6922|477824|25100|23852|2008-08-01|2014-02-28|165.225.129.50|165.225.129.0|US|com|37|33</Row>
+			<Row>73|maisonetdemeure.com|707512|552|669924|51360|32339|2008-11-21|2014-02-28|107.22.252.238|107.22.252.0|US|com|33|37</Row>
+			<Row>74|matchbookmag.com|193359|3509|813787|44407|39546|2009-10-11|2014-02-28|108.162.198.152|108.162.198.0|US|com|37|27</Row>
+			<Row>75|mychicmyway.com|-1|156|22633|5461|3935|2011-11-04|2014-02-28|74.125.132.121|74.125.132.0|US|com|19|22</Row>
+			<Row>76|wordpress.com|21|7315284|15589175359|880818991|63733765|2008-07-29|2014-02-28|66.155.11.238|66.155.11.0|US|com|93|91</Row>
+			<Row>77|blogs.com|3957|440866|191176732|16882027|4452564|2008-07-29|2014-02-28|204.9.177.220|204.9.177.0|US|com|62|59</Row>
+			<Row>78|refinery29.com|4731|71589|14725456|702050|267819|2008-07-30|2014-02-28|23.0.20.161|23.0.20.0|US|com|60|45</Row>
+			<Row>79|theeverygirl.com|87438|4393|915565|11084|10209|2012-04-21|2014-02-28|184.107.149.132|184.107.149.0|CA|com|44|31</Row>
+			<Row>80|bostoncommon-magazine.com|-1|1730|354350|6587|5310|2009-08-25|2014-02-28|199.91.169.140|199.91.169.0|US|com|36|37</Row>
+			<Row>81|changethethought.com|711927|8406|407321|98098|81393|2008-07-30|2014-02-28|72.10.38.23|72.10.38.0|US|com|37|29</Row>
+			<Row>82|design-elements-blog.com|-1|2554|250112|11915|10807|2010-10-11|2014-02-28|85.13.144.149|85.13.144.0|DE|com|36|16</Row>
+			<Row>83|piewacketblog.com|-1|989|173348|15727|13938|2010-02-01|2014-02-28|65.39.205.54|65.39.205.0|US|com|25|23</Row>
+			<Row>84|primpandprime.com|-1|18|56|295|179|2014-01-10|2014-02-28| | | |com|19|21</Row>
+			<Row>85|crane.com|262353|14518|371730|239541|180848|2008-07-29|2014-02-28|50.57.6.30|50.57.6.0|US|com|45|58</Row>
+			<Row>86|residence.nl|-1|756|98508|170299|161179|2008-12-26|2014-02-28|89.200.203.68|89.200.203.0|NL|nl|41|42</Row>
+			<Row>87|aol.ca|25805|53077|20910477|19592279|1553251|2008-07-30|2014-02-28|64.12.107.131|64.12.107.0|US|ca|42|38</Row>
+			<Row>88|snippetandink.com|128398|7127|1192602|247113|149346|2010-08-26|2014-02-28|174.120.129.220|174.120.129.0|US|com|46|30</Row>
+			<Row>89|eatdrinkchic.com|149703|9850|1276219|10151|8318|2010-09-16|2014-02-28|184.169.146.136|184.169.146.0|US|com|35|34</Row>
+			<Row>90|bellesreveries.com|-1|102|100512|22335|20537|2013-05-31|2014-02-28|74.125.133.121|74.125.133.0|US|com|56|12</Row>
+			<Row>91|anthologymag.com|332196|3592|297294|14344|10629|2010-10-10|2014-02-28|68.180.151.76|68.180.151.0|US|com|37|30</Row>
+			<Row>92|thehousethatlarsbuilt.com|284162|1795|213182|26080|6964|2012-07-04|2014-02-28|74.125.140.121|74.125.140.0|US|com|28|31</Row>
+			<Row>93|powermobydick.com|-1|6114|165618|772|631|2009-04-17|2014-02-28|208.109.181.237|208.109.181.0|US|com|22|21</Row>
+			<Row>94|ellietennant.com|-1|173|25804|1586|1326|2013-05-30|2014-02-28|94.136.40.103|94.136.40.0|UK|com|20|19</Row>
+			<Row>95|boston.com|1469|785638|141649951|12283000|2703386|2008-07-29|2014-02-28|66.151.183.41|66.151.183.0|US|com|67|73</Row>
+			<Row>96|aftonbladet.se|901|147924|99224829|21347593|2039288|2008-07-30|2014-02-28|192.71.240.23|192.71.240.0|SE|se|71|64</Row>
+			<Row>97|logotv.com|29642|14686|5307427|495218|272796|2010-03-06|2014-02-28|23.15.7.99|23.15.7.0|US|com|52|59</Row>
+			<Row>98|designlovefest.com|66235|8625|2111212|21164|13166|2009-12-24|2014-02-28|205.186.175.197|205.186.175.0|US|com|38|38</Row>
+			<Row>99|thecollegeprepster.com|318467|2163|244640|33595|5388|2010-04-11|2014-02-28|74.125.136.121|74.125.136.0|US|com|35|37</Row>
+			<Row>100|somebits.com|884330|4572|141659|21442|19345|2008-07-29|2014-02-28|208.110.64.210|208.110.64.0|US|com|38|33</Row>
+			<Row>101|thefacultylounge.org|-1|4450|408898|46803|43300|2008-08-14|2014-02-28|204.9.177.195|204.9.177.0|US|org|33|37</Row>
+			<Row>102|theglow.com|751242|1474|319544|429|317|2011-11-14|2014-02-28|209.59.221.155|209.59.221.0|US|com|35|27</Row>
+		</DataTable>
+	</DataTables>
+</Result>

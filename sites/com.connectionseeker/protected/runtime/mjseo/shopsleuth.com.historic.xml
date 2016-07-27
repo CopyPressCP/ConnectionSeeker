@@ -1,0 +1,40 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 2,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2014-11-24 10:55:19",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 99741000,
+	"RemainingRetrievalResUnits" : 19869154,
+	"ServerBuild" : "2014-12-20 16:14:37",
+	"ServerName" : "SHADOJAGUAR",
+	"ServerVersion" : "1.0.5467.29238",
+	"UniqueIndexID" : "20141124105519-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "shopsleuth.com", "UsedRootDomain" : "shopsleuth.com", "TotalRefDomains" : 2, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 2
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "aier.org", "RefDomains" : 9294, "AlexaRank" : 916980, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 878704, "IndexedURLs" : 794973, "CrawledURLs" : 272738, "FirstCrawled" : "2009-04-03", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "65.61.189.123", "SubNet" : "65.61.189.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 35, "TrustFlow" : 38, "TopicalTrustFlow_Topic_0" : "Reference/Education", "TopicalTrustFlow_Value_0" : "38", "BackLinks_shopsleuth.com" : "1", "FirstLinkDate_shopsleuth.com" : "2014-03-28", "LastLinkDate_shopsleuth.com" : "2014-03-28" },
+				{ "Position" : 2, "Domain" : "houstonacfe.org", "RefDomains" : 61, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 5, "ExtBackLinks" : 376, "IndexedURLs" : 4947, "CrawledURLs" : 4531, "FirstCrawled" : "2013-02-16", "LastSuccessfulCrawl" : "2014-10-27", "IP" : "192.186.213.40", "SubNet" : "192.186.213.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 11, "TrustFlow" : 14, "TopicalTrustFlow_Topic_0" : "Business/Business Services", "TopicalTrustFlow_Value_0" : "14", "BackLinks_shopsleuth.com" : "5", "FirstLinkDate_shopsleuth.com" : "2013-12-12", "LastLinkDate_shopsleuth.com" : "2014-03-02" }
+			]
+			}
+		}
+}

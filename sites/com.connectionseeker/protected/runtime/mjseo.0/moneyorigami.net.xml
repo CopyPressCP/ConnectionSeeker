@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="25" IndexType="0" RemainingAnalysisResUnits="103690000" RemainingDetailedReportsPerPeriod="989" RemainingRetrievalResUnits="20483994" RemainingStandardReports="989" ServerBuild="2012-04-04 15:35:30" ServerName="SILVERTHORNE" ServerVersion="1.0.4477.26265"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="25" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID" BackLinkItem="moneyorigami.net" BackLinkType="RootDomain" TotalBackLinks="84" TotalLines="25" TotalMatches="25">
+			<Row>http://www.skyfi-industries.com/home-family/crafts/beginner-or-expert-money-origami|4|money origami|2012-01-14|0|0|0|0|0|0|0|http://moneyorigami.net|0</Row>
+			<Row>http://elarcoiris.com/computers-technology-article/the-arithmetic-of-origami-17286|2|money origami|2011-12-19|0|0|0|0|0|0|0|http://moneyorigami.net|1</Row>
+			<Row>http://www.iia2010atl.org/tag/money-origami|0|money origami|2011-12-18|0|0|0|0|0|0|0|http://moneyorigami.net|2</Row>
+			<Row>http://www.kreativedomain.com/category/home-family/crafts|0|money origami|2011-12-04|0|0|0|0|0|0|0|http://moneyorigami.net|3</Row>
+			<Row>http://www.skyfi-industries.com/tag/money-origami/feed|0|money origami|2012-01-02|0|0|0|0|0|0|0|http://moneyorigami.net|0</Row>
+			<Row>http://www.aliciasacramone.net/what-you-can-do-with-money-origami/246|0|money origami|2011-12-17|0|0|0|0|0|0|0|http://www.moneyorigami.net|4</Row>
+			<Row>http://www.hillrisefarms.com/author/tilleyhope873|0|money origami|2011-12-13|0|0|0|0|0|0|0|http://moneyorigami.net|5</Row>
+			<Row>http://www.aliciasacramone.net/category/home-family|0|money origami|2011-12-17|0|0|0|0|0|0|0|http://www.moneyorigami.net|4</Row>
+			<Row>http://www.aliciasacramone.net/category/home-family/crafts|0|money origami|2011-12-17|0|0|0|0|0|0|0|http://www.moneyorigami.net|4</Row>
+			<Row>http://www.villagecraftmarket.com/home-family/crafts/money-origami-as-an-icebreaker|0|money origami|2011-12-16|0|0|0|0|0|0|0|http://moneyorigami.net|6</Row>
+			<Row>http://www.villagecraftmarket.com/tag/money-origami|0|money origami|2011-12-16|0|0|0|0|0|0|0|http://moneyorigami.net|6</Row>
+			<Row>http://www.iia2010atl.org/category/home-family/crafts/feed|0|money origami|2011-12-17|0|0|0|0|0|0|0|http://moneyorigami.net|2</Row>
+			<Row>http://www.hdz-smz.com/home-family/crafts/origins-of-money-origami|0|money origami|2011-12-14|0|0|0|0|0|0|0|http://www.moneyorigami.net|7</Row>
+			<Row>http://lygaria.com/2011/12/10/the-arithmetic-of-origami|0|money origami|2011-12-21|0|0|0|0|0|0|0|http://moneyorigami.net|8</Row>
+			<Row>http://www.iia2010atl.org/money-origami-as-therapy/626|0|money origami|2011-12-18|0|0|0|0|0|0|0|http://moneyorigami.net|2</Row>
+			<Row>http://www.hdz-smz.com/tag/money-origami|0|money origami|2011-12-14|0|0|0|0|0|0|0|http://www.moneyorigami.net|7</Row>
+			<Row>http://www.lah2hummerlimos.com/tag/money-origami|0|money origami|2011-12-19|0|0|0|0|0|0|0|http://www.moneyorigami.net|9</Row>
+			<Row>http://www.aliciasacramone.net/tag/money-origami|0|money origami|2011-12-17|0|0|0|0|0|0|0|http://www.moneyorigami.net|4</Row>
+			<Row>http://www.fxsnowball.com/clients-posts/the-arithmetic-of-origami|0|money origami|2011-12-19|0|0|0|0|0|0|0|http://moneyorigami.net|10</Row>
+			<Row>http://www.lah2hummerlimos.com/home-family/crafts/money-origami-designs|0|money origami|2011-12-19|0|0|0|0|0|0|0|http://www.moneyorigami.net|9</Row>
+			<Row>http://www.uk-blog.co.uk/content/the-arithmetic-of-origami|0|money origami|2012-01-30|0|0|0|0|0|0|0|http://moneyorigami.net|11</Row>
+			<Row>http://www.iia2010atl.org/date/2011/12/04|0|money origami|2011-12-18|0|0|0|0|0|0|0|http://moneyorigami.net|2</Row>
+			<Row>http://www.fallriverart.org/home-family/crafts/eco-friendly-with-money-origami|0|money origami|2011-12-25|0|0|0|0|0|0|0|http://moneyorigami.net|12</Row>
+			<Row>http://www.go92.com/articles/the-mathematics-of-origami_15917.html|0|money origami|2011-12-20|0|0|0|0|0|0|0|http://moneyorigami.net|13</Row>
+			<Row>http://www.asriman.com/page/120|0|money origami|2011-12-21|0|0|0|0|0|0|0|http://moneyorigami.net|14</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="15" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD">
+			<Row>0|skyfi-industries.com|-1|420|4658|6041|3503|2008-12-20|2012-02-25|97.74.144.119|97.74.144.0|US|com</Row>
+			<Row>1|elarcoiris.com|-1|458|9676|9038|2914|2011-05-02|2012-02-25|66.246.235.42|66.246.235.0|US|com</Row>
+			<Row>2|iia2010atl.org|-1|508|2673|4547|2807|2009-07-24|2012-02-25|208.109.131.190|208.109.131.0|US|org</Row>
+			<Row>3|kreativedomain.com|-1|120|2492|3981|2450|2008-04-04|2012-02-25|69.89.31.109|69.89.31.0|US|com</Row>
+			<Row>4|aliciasacramone.net|-1|789|3133|17063|8237|2006-11-29|2012-02-25|72.29.71.247|72.29.71.0|US|net</Row>
+			<Row>5|hillrisefarms.com|-1|10473|119940|71360|10243|2010-11-13|2012-02-25|173.201.238.128|173.201.238.0|US|com</Row>
+			<Row>6|villagecraftmarket.com|-1|319|3048|7298|3602|2009-11-30|2012-02-25|204.2.183.5|204.2.183.0|US|com</Row>
+			<Row>7|hdz-smz.com|-1|438|1832|6220|3367|2009-05-10|2012-02-24|85.94.76.102|85.94.76.0|HR|com</Row>
+			<Row>8|lygaria.com|-1|671|6387|26854|5614|2006-12-04|2012-02-25|72.18.137.178|72.18.137.0|US|com</Row>
+			<Row>9|lah2hummerlimos.com|-1|930|6746|6634|4856|2008-02-10|2012-02-25|67.15.97.220|67.15.97.0|US|com</Row>
+			<Row>10|fxsnowball.com|-1|32|103|5536|1242|2010-03-30|2011-12-19|69.175.85.66|69.175.85.0|US|com</Row>
+			<Row>11|uk-blog.co.uk|-1|588|6666|122871|17890|2010-09-28|2012-02-25|109.104.93.208|109.104.93.0|UK|uk</Row>
+			<Row>12|fallriverart.org|-1|488|3389|11815|9657|2006-11-30|2012-02-25|216.109.146.208|216.109.146.0|US|org</Row>
+			<Row>13|go92.com|-1|684|1313060|17609|5991|2010-03-29|2012-01-27|203.171.225.92|203.171.225.0|CN|com</Row>
+			<Row>14|asriman.com|-1|145|2460|8130|2790|2009-12-14|2012-02-25|208.71.209.215|208.71.209.0|US|com</Row>
+		</DataTable>
+	</DataTables>
+</Result>

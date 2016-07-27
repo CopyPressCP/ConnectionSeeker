@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="FailedRequestViaAPI" ErrorMessage="Enterprise API access required" FullError="Majestic12.SearchIndexReportResponse+ResponseException: Enterprise API access required&#13;&#10;   at Majestic12.Commands.SearchIndexReportRequest_CreateStandardReport.GetReport(SearchConfig oConfig, SearchIndex oSI, SearchIndexReportRequest oReq, SearchIndexReportManager oSIRM) in w:\VersionFiles\WorldSource\MJ12searchLib\Commands\CreateStandardReport.cs:line 1216&#13;&#10;   at Majestic12.SearchIndexReportManager.RunReport(SearchConfig oConfig, SearchIndex oSI, SearchIndexReportRequest oReq, Boolean bAvoidQueueing, SearchIndexReportResponse&#38; oRes) in w:\VersionFiles\WorldSource\MJ12searchLib\SearchIndexReportManager.cs:line 2236">
+		<GlobalVars IndexBuildDate="2013-01-28 16:23:35" IndexType="0" ServerBuild="2013-02-12 14:26:20" ServerName="ELEKT" ServerVersion="1.0.4791.25990" UniqueIndexID="20130128162335-HISTORICAL"/>
+</Result>

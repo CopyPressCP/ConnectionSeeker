@@ -1,0 +1,44 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 6,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2014-11-24 10:55:19",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 98763000,
+	"RemainingRetrievalResUnits" : 19525484,
+	"ServerBuild" : "2014-12-02 15:11:13",
+	"ServerName" : "SHADOJAGUAR",
+	"ServerVersion" : "1.0.5449.27336",
+	"UniqueIndexID" : "20141124105519-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "mypenndentist.org", "UsedRootDomain" : "mypenndentist.org", "TotalRefDomains" : 6, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 6
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "upenn.edu", "RefDomains" : 472305, "AlexaRank" : 3897, "Matches" : 1, "MatchedLinks" : 11, "ExtBackLinks" : 62506246, "IndexedURLs" : 36530750, "CrawledURLs" : 1643215, "FirstCrawled" : "2009-03-30", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "81.23.243.152", "SubNet" : "81.23.243.0", "CountryCode" : "NL", "TLD" : "edu", "CitationFlow" : 59, "TrustFlow" : 80, "TopicalTrustFlow_Topic_0" : "Reference/Education", "TopicalTrustFlow_Value_0" : "73", "BackLinks_mypenndentist.org" : "11", "FirstLinkDate_mypenndentist.org" : "2013-06-20", "LastLinkDate_mypenndentist.org" : "2014-04-07" },
+				{ "Position" : 2, "Domain" : "hccs.edu", "RefDomains" : 25342, "AlexaRank" : 34974, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 2775308, "IndexedURLs" : 558791, "CrawledURLs" : 235709, "FirstCrawled" : "2009-04-09", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "166.78.34.6", "SubNet" : "166.78.34.0", "CountryCode" : "US", "TLD" : "edu", "CitationFlow" : 41, "TrustFlow" : 54, "TopicalTrustFlow_Topic_0" : "Reference/Education", "TopicalTrustFlow_Value_0" : "54", "BackLinks_mypenndentist.org" : "2", "FirstLinkDate_mypenndentist.org" : "2013-07-09", "LastLinkDate_mypenndentist.org" : "2013-07-09" },
+				{ "Position" : 3, "Domain" : "pennathletics.com", "RefDomains" : 8772, "AlexaRank" : 518482, "Matches" : 1, "MatchedLinks" : 4, "ExtBackLinks" : 843632, "IndexedURLs" : 5253454, "CrawledURLs" : 497985, "FirstCrawled" : "2009-04-04", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "216.58.245.102", "SubNet" : "216.58.245.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 37, "TrustFlow" : 41, "TopicalTrustFlow_Topic_0" : "Reference/Education", "TopicalTrustFlow_Value_0" : "41", "BackLinks_mypenndentist.org" : "4", "FirstLinkDate_mypenndentist.org" : "2014-09-25", "LastLinkDate_mypenndentist.org" : "2014-10-02" },
+				{ "Position" : 4, "Domain" : "downselot.com", "RefDomains" : 4146, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 189104, "IndexedURLs" : 3281295, "CrawledURLs" : 771130, "FirstCrawled" : "2009-05-08", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "188.92.75.58", "SubNet" : "188.92.75.0", "CountryCode" : "LV", "TLD" : "com", "CitationFlow" : 20, "TrustFlow" : 1, "TopicalTrustFlow_Topic_0" : "Recreation/Aviation", "TopicalTrustFlow_Value_0" : "1", "BackLinks_mypenndentist.org" : "1", "FirstLinkDate_mypenndentist.org" : "2014-07-01", "LastLinkDate_mypenndentist.org" : "2014-07-01" },
+				{ "Position" : 5, "Domain" : "technologycompie.com", "RefDomains" : 174, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 13280, "IndexedURLs" : 182342, "CrawledURLs" : 50879, "FirstCrawled" : "2013-06-21", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "199.16.189.43", "SubNet" : "199.16.189.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 9, "TrustFlow" : 5, "TopicalTrustFlow_Topic_0" : "Business/Investing", "TopicalTrustFlow_Value_0" : "5", "BackLinks_mypenndentist.org" : "1", "FirstLinkDate_mypenndentist.org" : "2014-04-16", "LastLinkDate_mypenndentist.org" : "2014-04-16" },
+				{ "Position" : 6, "Domain" : "mypenndentist.com", "RefDomains" : 0, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 0, "IndexedURLs" : 2, "CrawledURLs" : 2, "FirstCrawled" : "2013-07-16", "LastSuccessfulCrawl" : "", "IP" : "128.91.35.13", "SubNet" : "128.91.35.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_mypenndentist.org" : "1", "FirstLinkDate_mypenndentist.org" : "2013-07-17", "LastLinkDate_mypenndentist.org" : "2014-09-09" }
+			]
+			}
+		}
+}

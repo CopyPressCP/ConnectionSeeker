@@ -1,0 +1,10 @@
+Article Creation Guidelines:
+
+- If you have Microsoft Word, please just use that. Otherwise use Open Office and save it as .doc or .docx.
+- Article Title at the top using Heading 1 style
+- Intro paragraph that is at least 3.75 lines long (With Calibri size 11 font on an 8.5x11 page with 1 inch margins)
+- All headings after the title will be Heading 2(3,4,5) style. Heading 3 style will be used for subheadings of Heading 2, etc.
+- For Code Blocks: Make sure it's a new paragraph. Monospace font.
+- Inline Code: Place [c] or [code] right before the code. I can figure out where the code ends. (this is mostly to help me when I'm converting the article into HTML)
+- I will create the image that is used at the top of the article, but if you have some images that you want to use in that image, send those to me.
+- If you wish to have other images in the content, insert them into the Word document where you want them AND send me the original image files.

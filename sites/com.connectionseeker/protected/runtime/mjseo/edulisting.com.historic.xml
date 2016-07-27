@@ -1,0 +1,39 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 1,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2014-07-28 00:39:26",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 99397904,
+	"RemainingRetrievalResUnits" : 19941368,
+	"ServerBuild" : "2014-09-04 13:57:21",
+	"ServerName" : "SHADOJAGUAR",
+	"ServerVersion" : "1.0.5360.23320",
+	"UniqueIndexID" : "20140728003926-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "edulisting.com", "UsedRootDomain" : "edulisting.com", "TotalRefDomains" : 1, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 1
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "local-nursing-homes.com", "RefDomains" : 1546, "AlexaRank" : 538075, "Matches" : 1, "MatchedLinks" : 122, "ExtBackLinks" : 25244, "IndexedURLs" : 1270317, "CrawledURLs" : 353076, "FirstCrawled" : "2008-12-07", "LastSuccessfulCrawl" : "2014-07-07", "IP" : "204.12.20.251", "SubNet" : "204.12.20.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 28, "TrustFlow" : 24, "TopicalTrustFlow_Topic_0" : "Shopping/Publications", "TopicalTrustFlow_Value_0" : "24", "BackLinks_edulisting.com" : "122", "FirstLinkDate_edulisting.com" : "2013-07-31", "LastLinkDate_edulisting.com" : "2014-06-13" }
+			]
+			}
+		}
+}

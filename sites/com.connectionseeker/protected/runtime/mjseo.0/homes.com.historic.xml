@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="250" IndexBuildDate="2014-04-16 10:01:34" IndexType="0" RemainingAnalysisResUnits="96365027" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19867491" RemainingStandardReports="950" ServerBuild="2014-04-16 03:14:48" ServerName="SHADOJAGUAR" ServerVersion="1.0.5219.4044" UniqueIndexID="20140416100134-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="250" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="homes.com" BackLinkType="RootDomain" TotalBackLinks="46611907" TotalLines="50000" TotalMatches="250">
+			<Row>http://www.remax.com/|10|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2012-01-31|2014-03-20| | |TextLink|TextLink_Normal|63|63|66|63</Row>
+			<Row>http://www.mysanantonio.com/|8|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|56|57</Row>
+			<Row>http://www.era.com/|8|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|2|2012-06-29|2014-03-20| | |TextLink|TextLink_Normal|63|63|56|56</Row>
+			<Row>http://www.remax.com/homevalues/search/|8|homes.com|2014-03-19|0|0|0|0|0|0|0|http://www.homes.com/|0|2013-02-23|2014-03-19| | |TextLink|TextLink_Normal|63|63|54|55</Row>
+			<Row>http://www.remax.com/advancedsearch/|8|homes.com|2014-03-19|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-10|2014-03-19| | |TextLink|TextLink_Normal|63|63|54|54</Row>
+			<Row>http://www.remax.com/officeagentsearch/|8|homes.com|2014-03-19|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-06|2014-03-19| | |TextLink|TextLink_Normal|63|63|54|54</Row>
+			<Row>http://www.advancedaccess.com/|9| |2014-03-20|1|0|0|0|0|0|0|http://connect.homes.com/advanced-access/|3|2013-12-16|2014-03-20| | |Redirect|Redirect_Temporary|30|10|59|47</Row>
+			<Row>http://www.jobs.vt.edu/|7|top cities to raise a family (#1)|2014-03-20|0|0|0|0|0|0|0|http://blog.homes.com/2012/09/americas-top-10-cities-to-raise-a-family/|4|2013-09-22|2014-03-20| | |TextLink|TextLink_Normal|29|36|47|54</Row>
+			<Row>http://www.mysanantonio.com/about_us/privacy_policy/|8|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|54|46</Row>
+			<Row>http://www.era.com/worldwide/|8|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|2|2012-06-29|2014-03-20| | |TextLink|TextLink_Normal|63|63|50|50</Row>
+			<Row>http://www.mysanantonio.com/business/top-work-places/|8|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|52|47</Row>
+			<Row>http://www.forrent.com/tips/|8|real estate|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|5|2014-02-03|2014-03-20| | |TextLink|TextLink_Normal|63|63|50|49</Row>
+			<Row>http://www.era.com/twitter/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2014-02-06|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/agents/|7|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|2|2012-07-29|2014-03-20| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/Articles/newspress.aspx|7|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/aboutera/aboutera/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2014-02-06|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/franchiseopportunities/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2014-02-06|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/privacy-policy/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/youtube/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2014-02-06|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/guidetoselling/adviceTools/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/guidetoselling/choosinganagent/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/guidetoselling/homevalue/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/guidetoselling/homewarranties/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/careers/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2014-02-06|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/guidetoselling/marketconditions/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/guidetoselling/openhouses/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/guidetoselling/preparingyourhomeforsale/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/guidetoselling/sellerssecurityplan/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/guidetoselling/sellingadvice/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homebuying/1stTimeHomeBuyer/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homebuying/forecosures/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homebuying/rentvsbuy/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homebuying/searchforhomes/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homebuying/thebuyingprocess/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homebuying/toolsandapps/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/Pages/GoldStarSelling.aspx|7|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homefinancing/affordability/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homefinancing/calculators/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homefinancing/closingcost/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homefinancing/consumerfraudalert/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-06-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/sitemap/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2014-02-06|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homefinancing/mortgage/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/Pages/InternationalCollection.aspx|7|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homefinancing/mortgagecalc/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homefinancing/preapproval/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homefinancing/prepareforclosing/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/homefinancing/theloanprocess/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/aboutera/calculateyourhomecost/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/aboutera/choosinganagent/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/aboutera/homeprotectionplan/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/aboutera/realestatedefined/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/aboutera/yourquestionsanswered/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/contactus/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2014-02-06|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/FranchiseOpportunities/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/GoldStar/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/facebook/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2014-02-06|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/terms/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/toolsandapps/|7|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|2|2013-02-22|2014-03-18| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.era.com/offices/|7|homes.com|2014-03-16|0|0|0|0|0|0|0|http://www.homes.com/|2|2012-09-23|2014-03-16| | |TextLink|TextLink_Normal|63|63|49|50</Row>
+			<Row>http://www.mysanantonio.com/about_us/terms_conditions/|8|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|52|45</Row>
+			<Row>http://www.dominionenterprises.com/our-brands/homes-apartments|8|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|6|2014-02-03|2014-03-20| | |TextLink|TextLink_Normal|63|63|52|45</Row>
+			<Row>http://www.dominionenterprises.com/our-brands/homes-apartments|8|visit homes.com|2014-03-20|0|0|0|1|0|0|0|http://www.homes.com/|6|2014-02-03|2014-03-20| | |ImageLink|ImageLink_Normal|63|63|52|45</Row>
+			<Row>http://www.dominionenterprises.com/our-brands/homes-apartments/homes|8|visit homes.com|2014-03-20|0|0|0|1|0|0|0|http://www.homes.com/|6|2012-04-30|2014-03-20| | |ImageLink|ImageLink_Normal|63|63|52|45</Row>
+			<Row>http://www.mysanantonio.com/rss/|8|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|52|44</Row>
+			<Row>http://www.mysanantonio.com/entertainment/|8|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|48|43|51|43</Row>
+			<Row>http://www.mysanantonio.com/news/local/|8|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|50|44</Row>
+			<Row>http://www.wwmt.com/|7|real estate|2014-03-20|0|0|0|0|0|0|0|http://wwmt.homes.com/|7|2012-12-26|2014-03-20| | |TextLink|TextLink_Normal|35|39|46|48</Row>
+			<Row>http://www.vtnews.vt.edu/articles/2012/11/111312-hr-homesranking.html|6|top 10 cities to raise a family|2014-03-20|0|0|0|0|0|0|0|http://blog.homes.com/2012/09/americas-top-10-cities-to-raise-a-family/|4|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|29|36|42|51</Row>
+			<Row>http://www.mysanantonio.com/sports/|8|apartment search|2014-03-17|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-21|2014-03-17| | |TextLink|TextLink_Normal|48|43|50|43</Row>
+			<Row>http://www.mysanantonio.com/lifestyle/|8|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|50|43</Row>
+			<Row>http://www.mysanantonio.com/food/|8|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|50|43</Row>
+			<Row>http://www.mysanantonio.com/jobs/|8|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|50|43</Row>
+			<Row>http://www.forrent.com/blog/|7|real estate|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|5|2013-11-18|2014-03-20| | |TextLink|TextLink_Normal|63|63|48|45</Row>
+			<Row>http://www.mysanantonio.com/real-estate/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|49|43</Row>
+			<Row>http://www.mysanantonio.com/opinion/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|49|43</Row>
+			<Row>http://www.mysanantonio.com/news/local/communities/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|49|43</Row>
+			<Row>http://www.mysanantonio.com/lifestyle/home-garden/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|49|43</Row>
+			<Row>http://www.mysanantonio.com/business/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|49|43</Row>
+			<Row>http://www.mysanantonio.com/news/us-world/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|49|43</Row>
+			<Row>http://www.mysanantonio.com/lifestyle/health-family/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|49|43</Row>
+			<Row>http://www.mysanantonio.com/about_us/classifieds/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|49|43</Row>
+			<Row>http://www.weartv.com/|7|real estate|2014-03-20|0|0|0|0|0|0|0|http://weartv.homes.com/|8|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|36|37|44|48</Row>
+			<Row>http://www.pinterest.com/homesdotcom/|7|www.homes.com|2014-02-28|0|0|1|0|0|0|0|http://www.homes.com/|9|2014-02-09|2014-02-28| | |TextLink|TextLink_Normal|63|63|47|44</Row>
+			<Row>http://www.mysanantonio.com/news/us-world/us/strange-news/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/news/us-world/world/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/news/local/military/|7|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/business/eagle-ford-energy/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/columnists/|7|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/food/restaurants/|7|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/opinion/letters_to_the_editor/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/sports/other-sports/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/jobs/healthcareerstoday/|7|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/jobs/item/MEGA-Job-Fair-9086.php|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/entertainment/arts-culture/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/about_us/enie/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|49|42</Row>
+			<Row>http://www.mysanantonio.com/entertainment/movies-tv/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/entertainment/columnists/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/lifestyle/trends-style/|7|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/news/local/history-culture/|7|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/business/local/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/sports/pro-sports/|7|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/lifestyle/travel-outdoors/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/real-estate/rentals/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/real-estate/rentals/|7|homes for rent in san antonio texas|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/rentals/TX/City/SAN ANTONIO/?partner=mysanantonio|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|24|27|48|43</Row>
+			<Row>http://www.mysanantonio.com/real-estate/rentals/|7|powered by homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com?partner=mysanantonio|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|21|25|48|43</Row>
+			<Row>http://www.mysanantonio.com/real-estate/rentals/|7| |2014-03-18|0|1|0|0|0|0|0|http://www.homes.com/widget/medium-search/frame/?text_color=%23ad0c0f&#38;listing_status=FOR RENT&#38;cobrand=mysanantonio&#38;location=SAN ANTONIO, TX|1|2013-08-21|2014-03-18| | |Frame|Frame_IFRAME|21|25|48|43</Row>
+			<Row>http://www.mysanantonio.com/food/recipes-cooking/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/blogs/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/business/press-releases/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-23|2014-03-20| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/lifestyle/columnists/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/food/bars-drinks/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/business/national/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/opinion/editorials/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/news/local/texas/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/sports/high-school/|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/news/us-world/border-mexico/|7|apartment search|2014-03-16|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-20|2014-03-16| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/opinion/commentary/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/news/us-world/us/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/entertainment/music-stage/|7|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/news/local/traffic/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/entertainment/comics_games/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/entertainment/horoscope/|7|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/?controllerName=cmfThirdPartyHeader&#38;flyouts=0|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-23|2014-03-20| | |TextLink|TextLink_Normal|48|43|49|42</Row>
+			<Row>http://www.mysanantonio.com/food/columnists/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/business/automotive/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/sports/colleges/|7|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://www.mysanantonio.com/san_antonio_charity/|7|apartment search|2014-03-15|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-12-15|2014-03-15| | |TextLink|TextLink_Normal|48|43|48|43</Row>
+			<Row>http://pressroom.forrent.com/|7|real estate|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|5|2011-06-05|2014-03-20| | |TextLink|TextLink_Normal|63|63|47|44</Row>
+			<Row>http://rismedia.com/events/power-broker-forum-annual/|7|homes|2014-03-18|0|0|0|1|0|0|0|http://www.homes.com/|10|2013-12-27|2014-03-18| | |ImageLink|ImageLink_Normal|63|63|49|42</Row>
+			<Row>http://rismedia.com/events/rismedias-real-estate-ceo-exchange/|7|homes|2014-03-18|0|0|0|1|0|0|0|http://www.homes.com/|10|2013-08-21|2014-03-18| | |ImageLink|ImageLink_Normal|63|63|49|42</Row>
+			<Row>http://www.foxbaltimore.com/|6|real estate|2014-03-20|0|0|0|0|0|0|0|http://foxbaltimore.homes.com/|11|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|33|37|43|48</Row>
+			<Row>http://www.cbs6albany.com/|7|real estate|2014-03-20|0|0|0|0|0|0|0|http://cbs6albany.homes.com/|12|2012-12-26|2014-03-20| | |TextLink|TextLink_Normal|33|38|44|47</Row>
+			<Row>http://www.wchstv.com/|6|real estate|2014-03-20|0|0|0|0|0|0|0|http://wchstv.homes.com/|13|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|33|37|43|48</Row>
+			<Row>http://www.wchstv.com/|6|homes for sale in charleston west virginia|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/Real_Estate/WV/City/CHARLESTON/?partner=wchstv|13|2013-05-25|2014-03-20| | |TextLink|TextLink_Normal|25|35|43|48</Row>
+			<Row>http://www.wchstv.com/|6|powered by homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com?partner=wchstv|13|2013-05-25|2014-03-20| | |TextLink|TextLink_Normal|21|30|43|48</Row>
+			<Row>http://www.wchstv.com/|6| |2014-03-20|0|1|0|0|0|0|0|http://www.homes.com/widget/simple-search/frame/?text_color=%23760101&#38;listing_status=FOR SALE&#38;cobrand=wchstv&#38;location=CHARLESTON, WV|13|2013-05-25|2014-03-20| | |Frame|Frame_IFRAME|21|30|43|48</Row>
+			<Row>http://www.youtube.com/user/homesdotcom|7| |2014-02-08|0|0|1|1|0|0|0|http://www.homes.com/|14|2011-08-24|2014-02-08| | |ImageLink|ImageLink_Normal|63|63|46|44</Row>
+			<Row>http://www.youtube.com/user/homesdotcom|7|homes.com|2014-02-08|0|0|1|0|0|0|0|http://www.homes.com/|14|2011-08-24|2014-02-08| | |TextLink|TextLink_Normal|63|63|46|44</Row>
+			<Row>http://www.mysanantonio.com/contests/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|49|41</Row>
+			<Row>http://www.mysanantonio.com/about_us/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|49|41</Row>
+			<Row>http://www.mysanantonio.com/news/politics/|7|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2014-03-04|2014-03-19| | |TextLink|TextLink_Normal|48|43|47|43</Row>
+			<Row>http://www.mysanantonio.com/index/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|49|41</Row>
+			<Row>http://blog.sina.com.cn/u/1183862321/|7|ushomes|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|15|2012-03-31|2014-03-20| | |TextLink|TextLink_Normal|63|63|46|43</Row>
+			<Row>http://www.cvent.com/events/local-online-advertising-conference-2014/event-summary-24de354d08af4e48b2b75f12b502db64.aspx|8|homes.com|2014-03-20|0|0|0|1|0|0|0|http://www.homes.com/|16|2014-03-03|2014-03-20| | |ImageLink|ImageLink_Normal|63|63|50|39</Row>
+			<Row>http://www.mysanantonio.com/about_us/contact_us/contact_the_newsroom/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|41</Row>
+			<Row>http://www.mysanantonio.com/about_us/contact_us/executive_team/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|41</Row>
+			<Row>http://www.mysanantonio.com/jobs/employment_sales/deadlines_hours/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|41</Row>
+			<Row>http://www.mysanantonio.com/newsletters/subscribe/|7|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-21|2014-03-18| | |TextLink|TextLink_Normal|48|43|48|41</Row>
+			<Row>http://www.mysanantonio.com/about_us/item/About-Us-Copyright-and-Reprint-Permission-9221.php|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-23|2014-03-20| | |TextLink|TextLink_Normal|48|43|48|41</Row>
+			<Row>http://www.forrent.com/search-apartments-by-area/HI.php|7|hawaii real estate|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/Real_Estate/Counties/HI/|5|2009-04-16|2014-03-20| | |TextLink|TextLink_Normal|21|28|44|45</Row>
+			<Row>http://www.forrent.com/search-apartments-by-area/VI.php|7|virgin islands real estate|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/Real_Estate/Counties/VI/|5|2008-10-18|2014-03-20| | |TextLink|TextLink_Normal|23|30|44|45</Row>
+			<Row>http://www.forrent.com/search-apartments-by-area/PR.php|7|puerto rico real estate|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/Real_Estate/Counties/PR/|5|2008-10-18|2014-03-20| | |TextLink|TextLink_Normal|21|28|44|45</Row>
+			<Row>http://www.forrent.com/search-apartments-by-area/WV.php|7|west virginia real estate|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/Real_Estate/Counties/WV/|5|2009-08-14|2014-03-20| | |TextLink|TextLink_Normal|26|30|44|45</Row>
+			<Row>http://www.forrent.com/search-apartments-by-area/MT.php|7|montana real estate|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/Real_Estate/Counties/MT/|5|2011-01-06|2014-03-20| | |TextLink|TextLink_Normal|20|28|44|45</Row>
+			<Row>http://www.forrent.com/search-apartments-by-area/ME.php|7|maine real estate|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/Real_Estate/Counties/ME/|5|2009-09-13|2014-03-20| | |TextLink|TextLink_Normal|21|28|44|45</Row>
+			<Row>http://www.forrent.com/search-apartments-by-area/ND.php|7|north dakota real estate|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/Real_Estate/Counties/ND/|5|2009-09-13|2014-03-20| | |TextLink|TextLink_Normal|23|29|44|45</Row>
+			<Row>http://www.mysanantonio.com/lifestyle/home-garden/article/Garden-chores-March-15-5317934.php|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2014-03-15|2014-03-20| | |TextLink|TextLink_Normal|48|43|46|42</Row>
+			<Row>http://www.mysanantonio.com/lifestyle/home-garden/article/Grow-your-garden-with-different-veggies-fruits-5317941.php|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2014-03-15|2014-03-20| | |TextLink|TextLink_Normal|48|43|46|42</Row>
+			<Row>http://www.newschannel9.com/|6|real estate|2014-03-20|0|0|0|0|0|0|0|http://newschannel9.homes.com/|17|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|35|39|40|48</Row>
+			<Row>http://www.mysanantonio.com/?controllerName=cmfThirdPartyHeader&#38;partnerName=RealEstate&#38;flyouts=0|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-08-23|2014-03-20| | |TextLink|TextLink_Normal|48|43|46|41</Row>
+			<Row>http://www.mysanantonio.com/?controllerName=reportProblem|7|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|48|43|46|40</Row>
+			<Row>http://www.local21news.com/|8|real estate|2014-03-20|0|0|0|0|0|0|0|http://local21news.homes.com/|18|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|37|21|53|33</Row>
+			<Row>http://www.wvah.com/|7|houses for sale in charleston west virginia|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/Real_Estate/WV/City/CHARLESTON/?partner=wvah|19|2013-05-25|2014-03-20| | |TextLink|TextLink_Normal|27|29|45|40</Row>
+			<Row>http://www.wvah.com/|7| |2014-03-20|0|1|0|0|0|0|0|http://www.homes.com/widget/simple-search/frame/?text_color=%230151ae&#38;listing_status=FOR SALE&#38;cobrand=wvah&#38;location=CHARLESTON, WV|19|2013-05-25|2014-03-20| | |Frame|Frame_IFRAME|27|29|45|40</Row>
+			<Row>http://www.wvah.com/|7|powered by homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com?partner=wvah|19|2013-05-25|2014-03-20| | |TextLink|TextLink_Normal|23|27|45|40</Row>
+			<Row>https://plus.google.com/102457322714862842033/?prsrc=3|7|homes.com|2014-01-08|0|0|0|0|0|0|0|http://homes.com/|20|2014-01-08|2014-01-08| | |TextLink|TextLink_Normal|42|34|45|39</Row>
+			<Row>http://lakeland.texas.remax.com/realestatehomesforsale/houston-tx-p001.html?query=price-dorder/|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-03-03|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|43</Row>
+			<Row>http://islandrealty5.southcarolina.remax.com/realestatehomesforsale/29920-p001.html?query=price-dorder/|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|43</Row>
+			<Row>http://preferred19.wisconsin.remax.com/realestatehomesforsale/madison-wi-p001.html?query=price-dorder/|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-03-17|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|43</Row>
+			<Row>http://realestateexperts4.northcarolina.remax.com/realestatehomesforsale/charlotte-nc-p001.html?query=price-dorder/|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-03|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|43</Row>
+			<Row>http://attheshore5.newjersey.remax.com/realestatehomesforsale/08260-p001.html?query=price-dorder/|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-04|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|43</Row>
+			<Row>http://1stchoice1.texas.remax.com/realestatehomesforsale/77554-p001.html?query=price-dorder/|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-13|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|43</Row>
+			<Row>http://www.mysanantonio.com/business/local/article/Nominate-companies-to-be-San-Antonio-s-top-5319164.php|6|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2014-03-18|2014-03-18| | |TextLink|TextLink_Normal|48|43|43|41</Row>
+			<Row>http://www.wjactv.com/|6|real estate|2014-03-20|0|0|0|0|0|0|0|http://wjactv.homes.com/|21|2013-10-22|2014-03-20| | |TextLink|TextLink_Normal|31|36|38|46</Row>
+			<Row>http://www.wchstv.com/privacy.shtml|6|real estate|2014-03-20|0|0|0|0|0|0|0|http://wchstv.homes.com/|13|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|33|37|42|42</Row>
+			<Row>http://www.number1expert.com/|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|22|2012-08-28|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|43</Row>
+			<Row>http://www.realtee.com/default.asp|5|homes|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|23|2012-08-28|2014-03-20| | |TextLink|TextLink_Normal|63|63|36|48</Row>
+			<Row>http://www.mysanantonio.com/business/local/article/It-s-good-to-be-green-on-Wall-Street-5325934.php|6|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2014-03-18|2014-03-20| | |TextLink|TextLink_Normal|48|43|43|40</Row>
+			<Row>http://www.wchstv.com/dmcapolicy.shtml|6|real estate|2014-03-20|0|0|0|0|0|0|0|http://wchstv.homes.com/|13|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|33|37|41|42</Row>
+			<Row>http://www.wchstv.com/terms-conditions.shtml|6|real estate|2014-03-20|0|0|0|0|0|0|0|http://wchstv.homes.com/|13|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|33|37|41|42</Row>
+			<Row>http://www.wchstv.com/about.shtml|6|real estate|2014-03-20|0|0|0|0|0|0|0|http://wchstv.homes.com/|13|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|33|37|41|42</Row>
+			<Row>http://www.agentadvantage.com/|8| |2014-03-20|1|0|0|0|0|0|0|http://connect.homes.com/|24|2012-03-31|2014-03-20| | |Redirect|Redirect_Permanent|59|47|54|29</Row>
+			<Row>http://www.mysanantonio.com/opinion/commentary/article/Anti-vaccine-movement-breathes-life-into-diseases-5332265.php|6|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2014-03-20|2014-03-20| | |TextLink|TextLink_Normal|48|43|42|40</Row>
+			<Row>http://www.mysanantonio.com/lifestyle/health-family/article/Pet-Project-March-18-5325148.php|6|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2014-03-18|2014-03-19| | |TextLink|TextLink_Normal|48|43|43|39</Row>
+			<Row>http://www.mysanantonio.com/business/local/article/Lipper-recognizes-Martin-Capital-5325345.php|6|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2014-03-18|2014-03-20| | |TextLink|TextLink_Normal|48|43|43|39</Row>
+			<Row>http://www.wchstv.com/faq.shtml|6|real estate|2014-03-20|0|0|0|0|0|0|0|http://wchstv.homes.com/|13|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|33|37|41|41</Row>
+			<Row>http://www.directhomes.com/|6| |2014-03-20|0|0|1|1|0|0|0|http://www.homes.com/|25|2012-08-28|2014-03-20| | |ImageLink|ImageLink_Normal|63|63|41|41</Row>
+			<Row>http://www.directhomes.com/|6|customer support|2014-03-20|0|0|1|0|0|0|0|http://corporate.homes.com/about-us/support/|25|2010-03-12|2014-03-20| | |TextLink|TextLink_Normal|25|30|41|41</Row>
+			<Row>http://www.directhomes.com/|6|advertise with us|2014-03-20|0|0|1|0|0|0|0|http://corporate.homes.com/about-us/sales|25|2010-03-12|2014-03-20| | |TextLink|TextLink_Normal|6|13|41|41</Row>
+			<Row>http://www.traderonline.com/|8|homes.com|2014-03-20|0|0|1|0|0|0|0|http://www.homes.com/|26|2008-11-17|2014-03-20| | |TextLink|TextLink_Normal|63|63|50|32</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/fortlauderdale-fl-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/myrtlebeach-sc-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/ma-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/lasvegas-nv-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/fl-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/miami-fl-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/ak-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/maricopacounty-az-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/nd-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2012-12-26|2014-03-20| | |TextLink|TextLink_Normal|63|63|41|40</Row>
+			<Row>http://www.mysanantonio.com/news/politics/article/New-Fed-chair-s-dashboard-of-job-market-gauges-5332481.php|6|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2014-03-20|2014-03-20| | |TextLink|TextLink_Normal|48|43|41|40</Row>
+			<Row>http://www.mysanantonio.com/food/restaurants/article/A-search-for-the-best-chicken-fried-steak-5315529.php|6|apartment search|2014-03-19|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2014-03-15|2014-03-19| | |TextLink|TextLink_Normal|48|43|43|38</Row>
+			<Row>http://www.mysanantonio.com/news/texas/article/Ex-San-Antonio-police-officer-sentenced-to-prison-5326029.php|6|apartment search|2014-03-18|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2014-03-18|2014-03-18| | |TextLink|TextLink_Normal|48|43|41|40</Row>
+			<Row>http://www.mysanantonio.com/news/local/article/Protesters-push-for-ban-on-single-use-bags-5332788.php|6|apartment search|2014-03-20|0|0|0|0|0|0|0|http://mysanantonio.homes.com/|1|2014-03-20|2014-03-20| | |TextLink|TextLink_Normal|48|43|41|40</Row>
+			<Row>http://www.number1expert.com/Homes/|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|22|2010-11-07|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|41</Row>
+			<Row>http://www.number1expert.com/Join/|6|homes.com|2014-03-18|0|0|0|0|0|0|0|http://www.homes.com/|22|2011-04-04|2014-03-18| | |TextLink|TextLink_Normal|63|63|39|42</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/ms-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/34145-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-07|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/tn-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/mt-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/orangecounty-ca-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/81252-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/maricopacounty-az-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/92260-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/sanantonio-tx-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/suffolkcounty-ny-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/douglascounty-co-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/30512-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/sanbernardinocounty-ca-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/30143-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/washingtoncounty-ar-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/losangelescounty-ca-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/sd-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/ga-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/in-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/madisoncounty-il-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/33160-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-04|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/phoenix-az-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/vt-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/yorkcounty-sc-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-03-17|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/29455-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/wv-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/cumberlandcounty-nc-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/ri-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/30540-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/franklincounty-oh-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/springfield-mo-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/hi-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/co-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/lakecounty-in-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/28461-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/zipcodes-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/78657-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/wy-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/92270-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/ia-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/riversidecounty-ca-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/la-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/palmbeachcounty-fl-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/losangeles-ca-p001.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+			<Row>http://www.remax.com/realestatehomesforsale/orangecounty-ca-sitemap.html|6|homes.com|2014-03-20|0|0|0|0|0|0|0|http://www.homes.com/|0|2014-02-02|2014-03-20| | |TextLink|TextLink_Normal|63|63|40|40</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="27" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|remax.com|10597|88950|95184124|11815951|2200073|2008-08-18|2014-03-20|64.68.36.1|64.68.36.0|US|com|59|65</Row>
+			<Row>1|mysanantonio.com|16194|233651|19526590|9177829|1845110|2008-08-18|2014-03-20|23.62.61.42|23.62.61.0|US|com|59|57</Row>
+			<Row>2|era.com|105013|25285|39524523|6293596|1681266|2008-08-18|2014-03-20|64.68.36.8|64.68.36.0|US|com|51|58</Row>
+			<Row>3|advancedaccess.com|624981|30413|5293870|27109|21671|2008-08-21|2014-03-20|64.68.32.49|64.68.32.0|US|com|40|39</Row>
+			<Row>4|vt.edu|6129|338633|75835227|7905381|1343553|2008-08-18|2014-03-20|198.82.183.54|198.82.183.0|US|edu|62|78</Row>
+			<Row>5|forrent.com|10078|37937|4295939|38876925|1677950|2008-08-18|2014-03-20|204.154.41.235|204.154.41.0|US|com|52|59</Row>
+			<Row>6|dominionenterprises.com|143555|4572|32137604|448014|279219|2008-10-26|2014-03-20|204.154.41.42|204.154.41.0|US|com|55|50</Row>
+			<Row>7|wwmt.com|83518|36954|1634935|20554938|1530425|2008-08-19|2014-03-20|174.127.81.161|174.127.81.0|US|com|40|47</Row>
+			<Row>8|weartv.com|221021|13315|470640|650884|309259|2008-08-25|2014-03-20|50.22.217.250|50.22.217.0|US|com|44|51</Row>
+			<Row>9|pinterest.com|34|3278848|8414553246|895118250|121782337|2010-05-02|2014-03-20|23.23.228.190|23.23.228.0|US|com|94|96</Row>
+			<Row>10|rismedia.com|105418|76235|10627635|5191704|442157|2008-08-19|2014-03-20|184.106.58.63|184.106.58.0|US|com|55|52</Row>
+			<Row>11|foxbaltimore.com|221957|12807|2735281|7647090|361931|2008-09-19|2014-03-20|50.22.217.250|50.22.217.0|US|com|43|48</Row>
+			<Row>12|cbs6albany.com|121916|40476|4923929|20024453|1458356|2008-08-18|2014-03-20|174.127.81.161|174.127.81.0|US|com|42|48</Row>
+			<Row>13|wchstv.com|41698|26059|915343|487935|263655|2008-08-29|2014-03-20|174.127.81.161|174.127.81.0|US|com|42|46</Row>
+			<Row>14|youtube.com|3|20486283|45658615963|4458230701|260000209|2008-08-18|2014-03-20|74.125.226.206|74.125.226.0|US|com|99|99</Row>
+			<Row>15|sina.com.cn|17|2333610|2779534410|218170019|6503411|2008-08-18|2014-03-20|58.63.236.32|58.63.236.0|CN|cn|89|93</Row>
+			<Row>16|cvent.com|6465|107383|41362656|6612543|1852155|2008-08-22|2014-03-20|65.97.54.17|65.97.54.0|US|com|62|70</Row>
+			<Row>17|newschannel9.com|186508|37832|2351573|16024732|1266129|2008-08-18|2014-03-20|174.127.81.162|174.127.81.0|US|com|41|48</Row>
+			<Row>18|local21news.com|-1|2018|1199514|328979|143842|2013-07-23|2014-03-20| | | |com|45|32</Row>
+			<Row>19|wvah.com|-1|5572|304099|68883|67391|2008-10-24|2014-03-20|174.127.81.162|174.127.81.0|US|com|41|42</Row>
+			<Row>20|google.com|1|30359996|80832559758|12561332570|681129273|2008-08-18|2014-03-20|173.194.75.103|173.194.75.0|US|com|100|100</Row>
+			<Row>21|wjactv.com|124688|30827|2330643|799566|521582|2008-08-18|2014-03-20|95.100.249.97|95.100.249.0|EU|com|41|47</Row>
+			<Row>22|number1expert.com|-1|9511|2999742|549769|281302|2008-08-18|2014-03-20|64.78.128.12|64.78.128.0|US|com|35|44</Row>
+			<Row>23|realtee.com|-1|2458|74152|252|154|2009-09-20|2014-03-20|64.140.128.39|64.140.128.0|US|com|30|46</Row>
+			<Row>24|agentadvantage.com|-1|12288|16997678|2110|1550|2008-08-19|2014-03-20|199.44.153.139|199.44.153.0|US|com|44|28</Row>
+			<Row>25|directhomes.com|372937|9340|823114|2688042|896182|2008-08-18|2014-03-20|64.68.48.40|64.68.48.0|US|com|31|38</Row>
+			<Row>26|traderonline.com|64926|17703|18097267|649389|34683|2008-09-11|2014-03-20|204.154.41.95|204.154.41.0|US|com|34|32</Row>
+		</DataTable>
+	</DataTables>
+</Result>

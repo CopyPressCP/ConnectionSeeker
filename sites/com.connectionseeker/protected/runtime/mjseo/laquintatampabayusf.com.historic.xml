@@ -1,0 +1,41 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 3,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2015-02-17 10:09:41",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 98980000,
+	"RemainingRetrievalResUnits" : 19617663,
+	"ServerBuild" : "2015-02-19 12:30:10",
+	"ServerName" : "SHADOJAGUAR",
+	"ServerVersion" : "1.0.5528.22505",
+	"UniqueIndexID" : "20150217100941-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "laquintatampabayusf.com", "UsedRootDomain" : "laquintatampabayusf.com", "TotalRefDomains" : 3, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 3
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "toolsforwriters.com", "RefDomains" : 2477, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 14, "ExtBackLinks" : 35173, "IndexedURLs" : 1472, "CrawledURLs" : 881, "FirstCrawled" : "2010-12-04", "LastSuccessfulCrawl" : "2015-01-11", "IP" : "68.178.254.10", "SubNet" : "68.178.254.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 30, "TrustFlow" : 15, "TopicalTrustFlow_Topic_0" : "Reference/Education", "TopicalTrustFlow_Value_0" : "15", "BackLinks_laquintatampabayusf.com" : "14", "FirstLinkDate_laquintatampabayusf.com" : "2013-10-25", "LastLinkDate_laquintatampabayusf.com" : "2014-01-21" },
+				{ "Position" : 2, "Domain" : "adoresearch.com", "RefDomains" : 206, "AlexaRank" : 13486, "Matches" : 1, "MatchedLinks" : 3, "ExtBackLinks" : 1464, "IndexedURLs" : 343010, "CrawledURLs" : 128439, "FirstCrawled" : "2013-03-07", "LastSuccessfulCrawl" : "2014-11-15", "IP" : "94.31.0.60", "SubNet" : "94.31.0.0", "CountryCode" : "UK", "TLD" : "com", "CitationFlow" : 11, "TrustFlow" : 5, "TopicalTrustFlow_Topic_0" : "Computers/Data Formats", "TopicalTrustFlow_Value_0" : "5", "BackLinks_laquintatampabayusf.com" : "3", "FirstLinkDate_laquintatampabayusf.com" : "2014-02-07", "LastLinkDate_laquintatampabayusf.com" : "2014-02-07" },
+				{ "Position" : 3, "Domain" : "hotelfolia.com", "RefDomains" : 125, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 3361, "IndexedURLs" : 160983, "CrawledURLs" : 83848, "FirstCrawled" : "2009-09-21", "LastSuccessfulCrawl" : "2015-01-12", "IP" : "204.44.66.171", "SubNet" : "204.44.66.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 31, "TrustFlow" : 3, "TopicalTrustFlow_Topic_0" : "Science/Technology", "TopicalTrustFlow_Value_0" : "3", "BackLinks_laquintatampabayusf.com" : "1", "FirstLinkDate_laquintatampabayusf.com" : "2014-08-08", "LastLinkDate_laquintatampabayusf.com" : "2014-08-15" }
+			]
+			}
+		}
+}

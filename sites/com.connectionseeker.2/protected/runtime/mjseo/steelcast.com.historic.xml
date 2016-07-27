@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="374" IndexType="0" RemainingAnalysisResUnits="99995000" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="20000000" RemainingStandardReports="950" ServerBuild="2012-06-05 16:51:02" ServerName="SILVERTHORNE" ServerVersion="1.0.4539.28531"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="374" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" BackLinkItem="steelcast.com" BackLinkType="RootDomain" TotalBackLinks="562" TotalLines="374" TotalMatches="374">
+			<Row>http://feeds.feedburner.com/chitika-blog|8|steelcast|2012-05-27|0|0|0|0|0|0|0|http://www.steelcast.com|0|33|35|51|49</Row>
+			<Row>http://tweet.grader.com/location/?Location=Tampa, FL, United States|6|www.steelcast…|2012-05-14|0|0|1|0|0|0|0|http://www.steelcast.com|1|33|35|37|34</Row>
+			<Row>http://www.snydeysense.com|6|steelcast|2012-05-28|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|38|24</Row>
+			<Row>http://www.snydeysense.com|6| |2012-05-28|0|0|0|1|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|38|24</Row>
+			<Row>http://www.snydeysense.com|6|guest post: 5 more strategies to boost the authority of a new domain|2012-05-28|0|0|0|0|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|38|24</Row>
+			<Row>http://www.brentcsutoras.com/category/conferences|4|steelcast|2012-05-27|0|0|0|0|0|0|0|http://www.steelcast.com|3|33|35|25|26</Row>
+			<Row>http://blog.chitika.com/feed|4|steelcast|2012-05-22|0|0|0|0|0|0|0|http://www.steelcast.com|4|33|35|24|22</Row>
+			<Row>http://www.snydeysense.com/2009/11/04/most-dangerous-man-internet|5|steelcast|2012-05-28|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|30|16</Row>
+			<Row>http://cash-bandit.com/feed|4|steelcast|2012-05-10|0|0|0|0|0|0|0|http://www.steelcast.com|5|33|35|28|17</Row>
+			<Row>http://www.snydeysense.com/2009/10/17/my-short-response-to-derek-powazek|4|steelcast|2012-05-23|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|26|18</Row>
+			<Row>http://www.snydeysense.com/about|4|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|28|16</Row>
+			<Row>http://www.snydeysense.com/2008/09/26/advanced-keyword-tactics|3|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|19|23</Row>
+			<Row>http://www.snydeysense.com/category/beyond-keyword-research|4|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|26|16</Row>
+			<Row>http://www.blueglass.com/blog/the-end-of-blueglass-tpa|3|the week in startups|2012-05-02|0|0|1|0|0|0|0|http://www.steelcast.com/blog/the-week-in-startups|6|0|0|20|21</Row>
+			<Row>http://www.snydeysense.com/category/about-dave|4|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|26|15</Row>
+			<Row>http://www.snydeysense.com/category/12-days-of-daveness|4|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/category/analytics|4|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/category/business-tips|4|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/category/by-the-numbers|4|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/category/copy|4|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/category/internet-business|4|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/category/link-lust|4|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/category/search-engines|4|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/category/search-marketing|4|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/category/seo|4|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/category/social-media|4|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/category/tools-tips|4|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/category/uncategorized|4|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|15</Row>
+			<Row>http://www.snydeysense.com/2008/06/04/link-lust-a-lesson-in-edu-link-building|4|steelcast|2012-05-23|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|25|13</Row>
+			<Row>http://www.insidemobileapps.com/2011/06/17/facebook-html5-mobile-platform-project-spartan|4|facebook hopes to unveil 2011′s ‘like’ button at f8|2012-05-27|0|0|1|0|0|0|0|http://www.steelcast.com/blog/facebook-hopes-to-unveil-2011s-like-button-at-f8|7|0|0|24|13</Row>
+			<Row>http://www.snydeysense.com/2010/04/13/verizon-data-roaming-nightmare|4|steelcast|2012-05-23|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|27|9</Row>
+			<Row>http://www.snydeysense.com/2008/09/22/write-a-solid-article-in-15-minutes|3|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|23|9</Row>
+			<Row>http://www.snydeysense.com/2008/05/07/beyond-keyword-research-utilizing-analytics|3|steelcast|2012-05-23|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|22|10</Row>
+			<Row>http://smartblogs.com/social-media/2011/09/27/what-all-great-fan-communities-have-in-common|3|top 5 most unoriginal internet marketing trends|2012-04-16|0|0|1|0|0|0|0|http://www.steelcast.com/blog/top-5-most-unoriginal-internet-marketing-trends|8|5|6|19|12</Row>
+			<Row>http://www.snydeysense.com/2008/10/13/10-rules-for-not-being-a-complete-douche-bag|3|steelcast|2012-05-16|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|22|9</Row>
+			<Row>http://www.snydeysense.com/2008/05/10/the-triangle-is-a-hot-bed-for-social-media|3|steelcast|2012-05-21|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|21|10</Row>
+			<Row>http://seo-blog.brightedge.com/page/2|2|top 5 most unoriginal internet marketing trends|2012-04-14|0|0|0|0|0|0|0|http://www.steelcast.com/blog/top-5-most-unoriginal-internet-marketing-trends|9|5|6|16|14</Row>
+			<Row>http://www.snydeysense.com/2010/02/04/reality-punched-me-square-in-the-jaw|3|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|21|9</Row>
+			<Row>http://www.snydeysense.com/2010/11/07/seo-dinner-with-greg-and-dave|3|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|20|10</Row>
+			<Row>http://www.snydeysense.com/2008/07/15/be-an-internet-glass-chewer-not-a-glass-jaw|3|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|18|11</Row>
+			<Row>http://www.snydeysense.com/2008/11/05/figure-out-what-your-job-is-already|3|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|19|10</Row>
+			<Row>http://www.snydeysense.com/2008/05/23/beyond-keyword-research-heuristic-evaluations|3|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|19|10</Row>
+			<Row>http://www.arnoldsofficefurniture.com/blog/page/2|2|steelcast.com|2012-05-06|0|0|0|0|0|0|0|http://www.steelcast.com/wp-content/uploads/2011/10/steelcast-zynga-office.jpg|10|6|6|16|12</Row>
+			<Row>http://www.snydeysense.com/2010/01/10/social-media-expert-checklist|3|steelcast|2012-05-24|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|19|9</Row>
+			<Row>http://www.snydeysense.com/2010/11/30/inception-totem-a-lesson-in-reality|3|steelcast|2012-05-17|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|18|9</Row>
+			<Row>http://www.snydeysense.com/2011/01/03/young-entrepreneurs|3|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|18|9</Row>
+			<Row>http://www.snydeysense.com/2011/01/11/create-something-new-out-of-something-old|3|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|17|10</Row>
+			<Row>http://www.magnifydigital.com/author/victor|3|games are beginning to offer real-life rewards|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com/blog/social-gaming-and-real-life-rewards|11|7|5|17|10</Row>
+			<Row>http://www.snydeysense.com/2008/06/06/link-lust-site-rejuvenation|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|16|10</Row>
+			<Row>http://www.snydeysense.com/2008/07/20/by-the-numbers-conversion-rate|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|16|10</Row>
+			<Row>http://www.snydeysense.com/2008/09/03/online-reputation-management-via-smo|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|16|10</Row>
+			<Row>http://www.snydeysense.com/2008/09/16/my-view-on-internet-marketing-in-quotes-from-goodfellas|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|16|10</Row>
+			<Row>http://www.snydeysense.com/2011/01/10/goal-creation-has-changed-me|3|steelcast|2012-05-14|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|17|9</Row>
+			<Row>http://www.snydeysense.com/2008/05/14/beyond-competitve-research-competitive-analysis|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|16|10</Row>
+			<Row>http://tweet.grader.com/index.php?Action=TwitterUsersByLocation&#38;City=TAMPA&#38;State=FL&#38;Country=US|4|www.steelcast…|2012-05-06|0|0|1|0|0|0|0|http://www.steelcast.com|1|33|35|25|0</Row>
+			<Row>http://www.pushon.co.uk/blog/ionsearch-2012-roundup-aka-linkpocalypse|3|steelcast|2012-05-01|0|0|0|0|0|0|0|http://www.steelcast.com|12|33|35|17|8</Row>
+			<Row>http://www.snydeysense.com/2008/06/30/link-lust-strategies-to-think-twice-about|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|15|10</Row>
+			<Row>http://www.snydeysense.com/2008/09/18/live-results-becoming-more-relevant-than-google|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|15|10</Row>
+			<Row>http://www.snydeysense.com/2008/09/19/real-seo-ethics|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|15|10</Row>
+			<Row>http://www.snydeysense.com/2008/12/17/winter-winds-of-change-and-the-lessons-they-hold|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|15|10</Row>
+			<Row>http://www.snydeysense.com/2009/12/03/ego-is-the-death-of-success-not-the-product|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|15|10</Row>
+			<Row>http://www.snydeysense.com/2010/01/11/tools-for-entrepreneurs-my-top-7|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|16|9</Row>
+			<Row>http://www.snydeysense.com/2010/01/12/marketing-tools-why-most-of-them-are-hot-garbage|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|15|10</Row>
+			<Row>http://www.snydeysense.com/2010/02/11/this-weeks-shocking-lessons-in-business-and-life|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|15|10</Row>
+			<Row>http://www.snydeysense.com/2011/01/06/dont-lose-your-dinosaur|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|16|9</Row>
+			<Row>http://www.snydeysense.com/2011/01/18/basic-math-can-save-you|2|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|16|9</Row>
+			<Row>http://www.brentcsutoras.com/category/conferences/?submit=view|2|steelcast|2012-04-24|0|0|0|0|0|0|0|http://www.steelcast.com|3|33|35|10|14</Row>
+			<Row>http://www.snydeysense.com/2011/01/04/the-two-sides-of-business-relationships|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|15|9</Row>
+			<Row>http://www.snydeysense.com/2008/06/19/ses-toronto-2008|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/06/25/clean-up-your-rankings-for-conversion|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/06/27/the-usability-of-seo|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/07/22/paid-search-in-football-terms|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/07/28/just-say-no-benching-bad-keywords|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/08/01/by-the-numbers-bounce-rate|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/09/08/by-the-numbers-users-paths-and-site-overlays|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/09/29/google-changes-universal-search|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/10/06/im-charity-dinner-at-scary-seo|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/10/12/google-changes-google-base-universal-search-display|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/11/12/internet-marketing-lessons-from-jay-z|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/12/19/the-12-days-of-daveness-day-1-make-your-analytics-actionable|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/12/21/the-12-days-of-daveness-day-3-what-is-content|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/12/22/the-12-days-of-daveness-day-4-be-great-at-one-thing|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2010/02/15/people-who-have-inspired-me-through-hustle|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2010/02/17/im-going-to-out-these-guys-to-matt-cutts|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2010/03/15/getting-to-know-you|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/category/search-engines/page/2|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|14|9</Row>
+			<Row>http://www.snydeysense.com/2008/05/12/matt-cutts-says-no-to-spam-his-definition-anyway|3|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|18|5</Row>
+			<Row>http://www.snydeysense.com/2008/06/12/three-analytic-metrics-that-matter|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|9</Row>
+			<Row>http://www.snydeysense.com/2008/09/15/my-week-away-from-twitter|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|9</Row>
+			<Row>http://www.snydeysense.com/2009/03/09/cookie-cutter-social-media-isnt-sweet|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|9</Row>
+			<Row>http://www.snydeysense.com/2010/01/26/a-lesson-in-conversion-from-disney-world|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|9</Row>
+			<Row>http://www.snydeysense.com/2010/06/22/the-road-to-blueglass|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|9</Row>
+			<Row>http://doctorevenue.com/category/advertising-networks/chitika|3|steelcast|2012-05-17|0|0|0|0|0|0|0|http://www.steelcast.com|13|33|35|17|5</Row>
+			<Row>http://www.snydeysense.com/2008/05/29/the-importance-of-pay-per-click-account-structure|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|12|9</Row>
+			<Row>http://www.snydeysense.com/2008/06/02/snydey-web-a-reputation-management-tool|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|12|9</Row>
+			<Row>http://www.snydeysense.com/2008/06/23/market-networking-for-link-building-and-rep-management|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|12|9</Row>
+			<Row>http://www.snydeysense.com/2008/11/16/manly-mans-seo-in-a-box|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|12|9</Row>
+			<Row>http://www.snydeysense.com/2009/01/09/12-things-internet-marketers-should-do-everyday|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|12|9</Row>
+			<Row>http://www.snydeysense.com/2009/09/28/guest-postpros-and-cons-of-outsourcing-your-sem|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|12|9</Row>
+			<Row>http://www.snydeysense.com/2009/11/06/how-to-be-profitable-online-on-the-rebound|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|12|9</Row>
+			<Row>http://www.snydeysense.com/2010/11/30/inception-totem-a-lesson-in-reality/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|3|steelcast|2012-05-21|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|21|0</Row>
+			<Row>http://www.snydeysense.com/2008/04/30/outbound-links-shouldnt-be-out-of-bounds|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|12|9</Row>
+			<Row>http://www.snydeysense.com/2008/05/20/the-wikia-method-to-your-madness|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|12|9</Row>
+			<Row>http://www.shoemoney.com/2011/09/14/steelcast-incubator-for-legit-companies|2|steelcast|2012-05-27|0|0|0|0|0|0|0|http://www.steelcast.com|14|33|35|14|6</Row>
+			<Row>http://www.shoemoney.com/2011/09/14/steelcast-incubator-for-legit-companies|2|check out steelcast here|2012-05-27|0|0|0|0|0|0|0|http://www.steelcast.com|14|33|35|14|6</Row>
+			<Row>http://www.shoemoney.com/2011/09/14/steelcast-incubator-for-legit-companies|2|www.steelcast|2012-05-27|0|0|0|1|0|0|0|http://www.steelcast.com|14|33|35|14|6</Row>
+			<Row>http://www.snydeysense.com/2010/11/07/seo-dinner-with-greg-and-dave/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|3|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|20|0</Row>
+			<Row>http://tweet.grader.com/davesnyder|3|http://www.steelcast.com|2012-05-06|0|0|1|0|0|0|0|http://www.steelcast.com|1|33|35|18|0</Row>
+			<Row>http://tweet.grader.com/search?Term=lake|3|www.steelcast…|2012-05-07|0|0|1|0|0|0|0|http://www.steelcast.com|1|33|35|18|0</Row>
+			<Row>http://tweet.grader.com/search?Term=salt|3|www.steelcast…|2012-05-07|0|0|1|0|0|0|0|http://www.steelcast.com|1|33|35|18|0</Row>
+			<Row>http://tweet.grader.com/search?Term=city)|3|www.steelcast…|2012-05-26|0|0|1|0|0|0|0|http://www.steelcast.com|1|33|35|18|0</Row>
+			<Row>http://tweet.grader.com/search?Term=city,|3|www.steelcast…|2012-05-26|0|0|1|0|0|0|0|http://www.steelcast.com|1|33|35|18|0</Row>
+			<Row>http://tweet.grader.com/search?Term=city:|3|www.steelcast…|2012-05-26|0|0|1|0|0|0|0|http://www.steelcast.com|1|33|35|18|0</Row>
+			<Row>http://www.bruceclay.com/blog/2011/10/friday-recap-123|2|post on steelcast|2012-04-22|0|0|0|0|0|0|0|http://www.steelcast.com/blog/everything-you-think-you-know-is-a-lie|15|5|3|12|6</Row>
+			<Row>http://weblogbetter.com/2011/05/20/internet-marketing-building-up-on-effective-strategies|3|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|18|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast|2| |2012-05-09|1|0|0|0|0|0|0|http://www.steelcast.com|6|33|35|15|0</Row>
+			<Row>http://www.copypress.com/strategies-for-propelling-ecommerce-success|1|rajiv karran|2012-05-19|0|0|1|0|0|0|0|http://www.steelcast.com|17|33|35|7|8</Row>
+			<Row>http://www.magnifydigital.com/category/business/page/2|1|games are beginning to offer real-life rewards|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com/blog/social-gaming-and-real-life-rewards|11|7|5|9|5</Row>
+			<Row>http://www.magnifydigital.com/category/social-media/page/2|1|games are beginning to offer real-life rewards|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com/blog/social-gaming-and-real-life-rewards|11|7|5|9|5</Row>
+			<Row>http://tweet.grader.com/search?Term=salt?|2|www.steelcast…|2012-05-07|0|0|1|0|0|0|0|http://www.steelcast.com|1|33|35|13|0</Row>
+			<Row>http://tweet.grader.com/index.php?Action=TwitterUsersByLocation&#38;Location=Tampa|2|www.steelcast…|2012-05-06|0|0|1|0|0|0|0|http://www.steelcast.com|1|33|35|13|0</Row>
+			<Row>http://www.oasiscreative.com/tips-and-tricks/seo-recap-found-on-twitter%c2%a0111811|2|brands and social media: 2 wins, 1 #fail|2012-05-27|0|0|0|0|0|0|0|http://www.steelcast.com/blog/brands-and-social-media-2-wins-1-fail|18|5|0|13|0</Row>
+			<Row>http://www.snydeysense.com/2008/09/29/google-changes-universal-search/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydey (David Snyder - Snydey Sense)|2|steelcast|2012-05-15|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|0</Row>
+			<Row>http://www.snydeysense.com/2008/10/13/10-rules-for-not-being-a-complete-douche-bag/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydey (David Snyder - Snydey Sense)|2|steelcast|2012-05-15|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|0</Row>
+			<Row>http://www.snydeysense.com/2008/11/05/figure-out-what-your-job-is-already/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydey (David Snyder - Snydey Sense)|2|steelcast|2012-05-15|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|0</Row>
+			<Row>http://www.snydeysense.com/2010/01/26/a-lesson-in-conversion-from-disney-world/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|0</Row>
+			<Row>http://www.snydeysense.com/2010/02/04/reality-punched-me-square-in-the-jaw/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|0</Row>
+			<Row>http://www.snydeysense.com/2010/02/11/this-weeks-shocking-lessons-in-business-and-life/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|0</Row>
+			<Row>http://www.snydeysense.com/2010/02/15/people-who-have-inspired-me-through-hustle/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|0</Row>
+			<Row>http://www.snydeysense.com/2010/02/17/im-going-to-out-these-guys-to-matt-cutts/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|0</Row>
+			<Row>http://www.snydeysense.com/2010/03/15/getting-to-know-you/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|0</Row>
+			<Row>http://www.snydeysense.com/2010/04/13/verizon-data-roaming-nightmare/?utm_medium=gri.ms-twitter&#38;utm_source=direct-gri.ms&#38;utm_content=bookmarklet-twitter|2|steelcast|2012-05-17|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|0</Row>
+			<Row>http://www.snydeysense.com/2010/04/13/verizon-data-roaming-nightmare/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|0</Row>
+			<Row>http://www.snydeysense.com/2010/06/22/the-road-to-blueglass/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|2|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|13|0</Row>
+			<Row>http://solid-advice.com/2011/09|2|top 5 most unoriginal internet marketing trends|2012-05-27|0|0|0|0|0|0|0|http://www.steelcast.com/blog/top-5-most-unoriginal-internet-marketing-trends|19|5|6|13|0</Row>
+			<Row>http://seo-blog.brightedge.com/brightedge-weekly-search-recap-107|1|top 5 most unoriginal internet marketing trends|2012-05-04|0|0|0|0|0|0|0|http://www.steelcast.com/blog/top-5-most-unoriginal-internet-marketing-trends|9|5|6|5|7</Row>
+			<Row>http://www.snydeysense.com/snydey-web|1|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|7|5</Row>
+			<Row>http://bestusedofficefurniture.com/blog|2|steelcast.com|2012-04-30|0|0|0|0|0|0|0|http://www.steelcast.com/wp-content/uploads/2011/10/steelcast-zynga-office.jpg|20|6|6|12|0</Row>
+			<Row>http://www.snydeysense.com/2008/05/16/the-seo-apocolypse-more-theory-than-substance|1|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|6|5</Row>
+			<Row>http://www.tagsmith.org/press|2|social fresh east recap – day 2|2012-05-12|0|0|1|0|0|0|0|http://www.steelcast.com/blog/guest-post-social-fresh-east-recap-day-2|21|0|0|10|0</Row>
+			<Row>http://indexsite.org/domain-list-1747|1|steelcast.com|2012-05-03|0|0|1|0|0|0|0|http://steelcast.com|22|13|0|8|1</Row>
+			<Row>http://indexsite.org/domain-list-1853|1|steelcast.com|2012-05-06|0|0|1|0|0|0|0|http://steelcast.com|22|13|0|8|1</Row>
+			<Row>http://www.iwks.com/steelcast-%e2%80%93-incubator-for-legit-companies.html|1|www.steelcast|2012-04-26|0|0|1|1|0|0|0|http://www.steelcast.com|23|33|35|5|0</Row>
+			<Row>http://www.iwks.com/steelcast-%e2%80%93-incubator-for-legit-companies.html|1|check out steelcast here|2012-04-26|0|0|1|0|0|0|0|http://www.steelcast.com|23|33|35|5|0</Row>
+			<Row>http://twitter.com/DaveSnyder|0|http://www.steelcast.com|2012-01-16|0|0|1|0|0|0|0|http://www.steelcast.com|24|33|35|0|0</Row>
+			<Row>http://twitter.com/davesnyder|0|http://www.steelcast.com|2012-01-06|0|0|1|0|0|0|0|http://www.steelcast.com|24|33|35|0|0</Row>
+			<Row>http://automatedblogger.blogspot.com/2011/09/blueglass-announcing-steelcast.html|0|steelcast.com|2012-04-30|0|0|0|0|0|0|0|http://www.steelcast.com|25|33|35|0|0</Row>
+			<Row>http://automatedblogger.blogspot.com/2011/09/blueglass-announcing-steelcast.html|0|sc-1|2012-04-30|0|0|0|1|0|0|0|http://www.steelcast.com|25|33|35|0|0</Row>
+			<Row>http://automatedblogger.blogspot.com/2011/09/blueglass-announcing-steelcast.html|0|steelcast|2012-04-30|0|0|0|0|0|0|0|http://www.steelcast.com|25|33|35|0|0</Row>
+			<Row>http://steelcastllc.tumblr.com|0|steelcast.com|2012-01-03|0|0|0|0|0|0|0|http://www.steelcast.com|26|33|35|0|0</Row>
+			<Row>http://steelcastllc.tumblr.com|0|steelcast|2012-01-03|0|0|0|0|0|0|0|http://www.steelcast.com|26|33|35|0|0</Row>
+			<Row>http://steelcastllc.tumblr.com|0|the internet’s $5 concept|2012-01-03|0|0|0|0|0|0|0|http://www.steelcast.com/blog/the-internets-5-concept|26|0|0|0|0</Row>
+			<Row>http://steelcastllc.tumblr.com/post/11394842083/google-engineer-accidentally-posts-rant-about-google|0|steelcast.com|2011-12-26|0|0|0|0|0|0|0|http://www.steelcast.com|26|33|35|0|0</Row>
+			<Row>http://es.reddit.com/user/ZhuMaDian|0|introducing hua marketing: a new way to outsource|2011-10-24|0|0|1|0|0|0|0|http://www.steelcast.com/blog/introducing-hua-marketing-a-new-way-to-outsource|27|0|0|0|0</Row>
+			<Row>http://www.reddit.com/related/8mb25/help_stop_the_killing_of_jaguars|0|killing the bills: stop sopa and pipa|2012-04-13|0|0|1|0|0|0|0|http://www.steelcast.com/blog/killing-the-bills-stop-sopa-and-pipa|27|0|0|0|0</Row>
+			<Row>http://t.co/6WV90hE|0| |2011-11-10|1|0|0|0|0|0|0|http://www.steelcast.com/blog/what-steelcast-is-and-more-importantly-isnt|28|0|0|0|0</Row>
+			<Row>http://t.co/6WV90hE|0| |2011-11-10|1|0|0|0|0|0|0|http://www.steelcast.com/what-steelcast-is-and-more-importantly-isnt|28|0|0|0|0</Row>
+			<Row>http://cdn.businessweek.com/profile/jordan-kasteler/jkasteler947|0|steelcast|2012-05-12|0|0|0|0|0|0|0|http://www.steelcast.com|29|33|35|0|0</Row>
+			<Row>http://tweetmeme.com/story/8863954986/trapped-in-entrepreneurial-insanity|0|trapped in entrepreneurial insanity|2012-03-24|0|0|0|0|0|0|0|http://www.steelcast.com/blog/trapped-in-entrepreneurial-insanity|30|0|0|0|0</Row>
+			<Row>http://searchengineland.com/making-ppc-social-media-work-together-seamlessly-101807/comment-page-1|0|steelcast|2011-12-15|0|0|0|0|0|0|0|http://www.steelcast.com|31|33|35|0|0</Row>
+			<Row>http://searchengineland.com/facebook-gestures-how-users-could-be-sharing-their-opinion-96165|0|steelcast|2011-11-16|0|0|0|0|0|0|0|http://www.steelcast.com|31|33|35|0|0</Row>
+			<Row>http://searchengineland.com/facebook-gestures-how-users-could-be-sharing-their-opinion-96165/comment-page-1|0|steelcast|2011-11-23|0|0|0|0|0|0|0|http://www.steelcast.com|31|33|35|0|0</Row>
+			<Row>http://searchengineland.com/premium-members/user/Jordan-Kasteler|0|http://www.steelcast.com|2012-03-12|0|0|1|0|0|0|0|http://www.steelcast.com|31|33|35|0|0</Row>
+			<Row>http://tweet.grader.com/index.php?Action=TwitterUsersByLocation&#38;Location=Tampa, FL|0|www.steelcast…|2012-05-06|0|0|1|0|0|0|0|http://www.steelcast.com|1|33|35|0|0</Row>
+			<Row>http://www.studiopress.com/showcase/steelcast|0|steelcast|2012-04-23|0|0|0|1|0|0|0|http://www.steelcast.com|32|33|35|0|0</Row>
+			<Row>http://www.searchenginejournal.com/seo-recap-2/36421|0|brands and social media: 2 wins, 1 #fail|2011-12-15|0|0|0|0|0|0|0|http://www.steelcast.com/blog/brands-and-social-media-2-wins-1-fail|33|5|0|0|0</Row>
+			<Row>http://www.bruceclay.com/blog/?p=20073|0|post on steelcast|2011-11-23|0|0|0|0|0|0|0|http://www.steelcast.com/blog/everything-you-think-you-know-is-a-lie|15|5|3|0|0</Row>
+			<Row>http://topsy.com/twitter/matt_siltala|0|trapped in entrepreneurial insanity|2012-03-09|0|0|1|0|0|0|0|http://www.steelcast.com/blog/trapped-in-entrepreneurial-insanity|34|0|0|0|0</Row>
+			<Row>http://www.shoemoney.com/page/4/?x=wp-admin/|0|www.steelcast|2011-11-17|0|0|0|1|0|0|0|http://www.steelcast.com|14|33|35|0|0</Row>
+			<Row>http://www.shoemoney.com/page/4/?x=wp-admin/|0|steelcast|2011-11-17|0|0|0|0|0|0|0|http://www.steelcast.com|14|33|35|0|0</Row>
+			<Row>http://www.shoemoney.com/page/4/?x=wp-admin/|0|check out steelcast here|2011-11-17|0|0|0|0|0|0|0|http://www.steelcast.com|14|33|35|0|0</Row>
+			<Row>http://www.shoemoney.com/page/7/?mod=../../../../../../proc/self/environ%00|0|www.steelcast|2012-01-13|0|0|0|1|0|0|0|http://www.steelcast.com|14|33|35|0|0</Row>
+			<Row>http://www.shoemoney.com/page/7/?mod=../../../../../../proc/self/environ%00|0|steelcast|2012-01-13|0|0|0|0|0|0|0|http://www.steelcast.com|14|33|35|0|0</Row>
+			<Row>http://www.shoemoney.com/page/7/?mod=../../../../../../proc/self/environ%00|0|check out steelcast here|2012-01-13|0|0|0|0|0|0|0|http://www.steelcast.com|14|33|35|0|0</Row>
+			<Row>http://www.shoemoney.com/2011/page/5|0|check out steelcast here|2011-12-05|0|0|0|0|0|0|0|http://www.steelcast.com|14|33|35|0|0</Row>
+			<Row>http://www.shoemoney.com/2011/page/5|0|www.steelcast|2011-12-05|0|0|0|1|0|0|0|http://www.steelcast.com|14|33|35|0|0</Row>
+			<Row>http://www.shoemoney.com/2011/page/5|0|steelcast|2011-12-05|0|0|0|0|0|0|0|http://www.steelcast.com|14|33|35|0|0</Row>
+			<Row>http://www.shoemoney.com/2011/09/14/steelcast-incubator-for-legit-companies?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: shoemoney (Shoemoney - Skills to pay the bills)|0|steelcast|2012-03-14|0|0|0|0|0|0|0|http://www.steelcast.com|14|33|35|0|0</Row>
+			<Row>http://www.shoemoney.com/2011/09/14/steelcast-incubator-for-legit-companies?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: shoemoney (Shoemoney - Skills to pay the bills)|0|check out steelcast here|2012-03-14|0|0|0|0|0|0|0|http://www.steelcast.com|14|33|35|0|0</Row>
+			<Row>http://www.shoemoney.com/2011/09/14/steelcast-incubator-for-legit-companies?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: shoemoney (Shoemoney - Skills to pay the bills)|0|www.steelcast|2012-03-14|0|0|0|1|0|0|0|http://www.steelcast.com|14|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/the-end-of-blueglass-tpa/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: 10e20 (BlueGlass Blog)|0|the week in startups|2011-12-05|0|0|1|0|0|0|0|http://www.steelcast.com/blog/the-week-in-startups|6|0|0|0|0</Row>
+			<Row>http://www.blueglass.com/blog/category/blueglass-news/feed|0|steelcast|2012-02-02|0|0|0|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/category/blueglass-news/feed|0|steelcast.com|2012-02-02|0|0|0|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/category/blueglass-news/feed|0|sc-1|2012-02-02|0|0|0|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23284|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23284|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23284|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23285|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23285|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23285|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23286|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23286|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23286|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23287|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23287|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23287|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23288|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23288|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23288|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23289|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23289|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23289|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23293|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23293|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23293|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23295|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23295|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23295|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23296|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23296|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23296|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23297|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23297|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23297|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23299|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23299|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23299|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23303|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23303|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23303|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23304|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23304|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23304|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23305|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23305|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23305|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23315|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23315|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23315|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23739|0|steelcast|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23739|0|sc-1|2011-11-18|0|0|1|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/?replytocom=23739|0|steelcast.com|2011-11-18|0|0|1|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/comment-page-1|0|steelcast|2011-11-18|0|0|0|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/comment-page-1|0|steelcast.com|2011-11-18|0|0|0|0|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://www.blueglass.com/blog/announcing-steelcast/comment-page-1|0|sc-1|2011-11-18|0|0|0|1|0|0|0|http://www.steelcast.com|6|33|35|0|0</Row>
+			<Row>http://outspokenmedia.com/seo/seo-momentum|0|dave snyder|2012-01-16|0|0|1|0|0|0|0|http://steelcast.com|35|13|0|0|0</Row>
+			<Row>http://outspokenmedia.com/seo/seo-momentum|0| |2012-01-16|0|0|1|1|0|0|0|http://steelcast.com|35|13|0|0|0</Row>
+			<Row>http://twtkr.olleh.com/davesnyder|0|http://www.steelcast.com|2012-05-26|0|0|0|0|0|0|0|http://www.steelcast.com|36|33|35|0|0</Row>
+			<Row>http://reader.feedshow.com/show_items-feed=3b6c322c9dc43b8ba48911da3218a219|0|steelcast|2012-05-22|0|0|0|0|0|0|0|http://www.steelcast.com|37|33|35|0|0</Row>
+			<Row>http://reader.feedshow.com/show_items-feed=3a819cfb5e03510e655a91bfd04e72fb|0|steelcast|2012-05-22|0|0|0|0|0|0|0|http://www.steelcast.com|37|33|35|0|0</Row>
+			<Row>http://www.brentcsutoras.com/2011/09/30/affiliates-social-media-generate-traffic|0|steelcast|2012-01-13|0|0|0|0|0|0|0|http://www.steelcast.com|3|33|35|0|0</Row>
+			<Row>http://www.brentcsutoras.com/2011/09/30/affiliates-social-media-generate-traffic/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: SEOLinkTagstic (SEO LinkTagstic)|0|steelcast|2011-10-29|0|0|0|0|0|0|0|http://www.steelcast.com|3|33|35|0|0</Row>
+			<Row>http://www.brentcsutoras.com/page/4/?p___|0|steelcast|2012-04-24|0|0|0|0|0|0|0|http://www.steelcast.com|3|33|35|0|0</Row>
+			<Row>http://seo-blog.brightedge.com/general/brightedge-weekly-search-recap-â€“-107|0|top 5 most unoriginal internet marketing trends|2011-11-05|0|0|0|0|0|0|0|http://www.steelcast.com/blog/top-5-most-unoriginal-internet-marketing-trends|9|5|6|0|0</Row>
+			<Row>http://seo-blog.brightedge.com/general/brightedge-weekly-search-recap-–-107|0|top 5 most unoriginal internet marketing trends|2011-11-18|0|0|0|0|0|0|0|http://www.steelcast.com/blog/top-5-most-unoriginal-internet-marketing-trends|9|5|6|0|0</Row>
+			<Row>http://www.techbang.com.tw/posts/7691|0|steelcast|2011-12-20|0|0|0|0|0|0|0|http://www.steelcast.com|38|33|35|0|0</Row>
+			<Row>http://www.techbang.com.tw/posts/7691-community-game-from-zynga-about-the-crisis-you-still-play-willing-to-pay?related_post=true|0|steelcast|2011-12-20|0|0|0|0|0|0|0|http://www.steelcast.com|38|33|35|0|0</Row>
+			<Row>http://www.83degreesmedia.com/inthenews/?page=1|0|blog|2012-05-01|0|0|0|0|0|0|0|http://www.steelcast.com/blog|39|20|26|0|0</Row>
+			<Row>http://www.83degreesmedia.com/inthenews/?page=1|0|steelcast|2012-05-01|0|0|0|0|0|0|0|http://www.steelcast.com/blog|39|20|26|0|0</Row>
+			<Row>http://weblogbetter.com/topic/twitter-checklist|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/quora|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/twitter-marketing|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/lady-gaga|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/learn-from-your-rival|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/build-traffic-from-twitter|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/generate-traffic|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/business|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/commenting-on-blogs|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/marketing-and-advertising|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/small-business-strategies|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/social-media-marketing|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/monetization|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/contest-update|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/more-visitors|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/how-to-comment-on-blogs|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/add-amazon-links|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/earn-more|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/easyazon-plugin|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/effective-use-of-twitter|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/amazon-plugin|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/blogging-for-money|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/traffic|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/traffic-through-twitter|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://weblogbetter.com/topic/transform-your-blog|0|courtney b.|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|16|33|35|0|0</Row>
+			<Row>http://www.iwks.com/tag/anty/feed|0|www.steelcast|2012-03-31|0|0|1|1|0|0|0|http://www.steelcast.com|23|33|35|0|0</Row>
+			<Row>http://www.iwks.com/tag/anty/feed|0|check out steelcast here|2012-03-31|0|0|1|0|0|0|0|http://www.steelcast.com|23|33|35|0|0</Row>
+			<Row>http://www.iwks.com/tag/table/feed|0|www.steelcast|2012-03-28|0|0|1|1|0|0|0|http://www.steelcast.com|23|33|35|0|0</Row>
+			<Row>http://www.iwks.com/tag/table/feed|0|check out steelcast here|2012-03-28|0|0|1|0|0|0|0|http://www.steelcast.com|23|33|35|0|0</Row>
+			<Row>http://www.iwks.com/go/http://www.steelcast.com|0| |2012-03-14|1|0|0|0|0|0|0|http://www.steelcast.com|23|33|35|0|0</Row>
+			<Row>http://www.iwks.com/steelcast-%E2%80%93-incubator-for-legit-companies.html|0|www.steelcast|2012-05-28|0|0|1|1|0|0|0|http://www.steelcast.com|23|33|35|0|0</Row>
+			<Row>http://www.iwks.com/steelcast-%E2%80%93-incubator-for-legit-companies.html|0|check out steelcast here|2012-05-28|0|0|1|0|0|0|0|http://www.steelcast.com|23|33|35|0|0</Row>
+			<Row>http://www.iwks.com/steelcast-–-incubator-for-legit-companies.html|0|www.steelcast|2012-02-08|0|0|1|1|0|0|0|http://www.steelcast.com|23|33|35|0|0</Row>
+			<Row>http://www.iwks.com/steelcast-–-incubator-for-legit-companies.html|0|check out steelcast here|2012-02-08|0|0|1|0|0|0|0|http://www.steelcast.com|23|33|35|0|0</Row>
+			<Row>http://www.oasiscreative.com/tips-and-tricks/seo-recap-found-on-twitter%C2%A0111811|0|brands and social media: 2 wins, 1 #fail|2012-04-18|0|0|0|0|0|0|0|http://www.steelcast.com/blog/brands-and-social-media-2-wins-1-fail|18|5|0|0|0</Row>
+			<Row>http://www.oasiscreative.com/tips-and-tricks/seo-recap-found-on-twitter 111811|0|brands and social media: 2 wins, 1 #fail|2012-02-08|0|0|0|0|0|0|0|http://www.steelcast.com/blog/brands-and-social-media-2-wins-1-fail|18|5|0|0|0</Row>
+			<Row>http://www.snydeysense.com/2008/07/07/the-six-seos-i-would-want-to-be-stuck-in-an-elevator-with|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/2008/07/10/the-six-ladies-of-seo-i-would-want-to-be-stuck-next-to-on-a-cross-country-flight|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/2009/01/19/7-things-that-make-me-a-pimp|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/2009/11/02/a-return-to-blogging|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/2010/02/11/this-weeks-shocking-lessons-in-business-and-life/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydey David Snyder - Snydey Sense|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/2011/01/03/young-entrepreneurs/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/2011/01/04/the-two-sides-of-business-relationships/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/2011/01/06/dont-lose-your-dinosaur/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydeysense (Internet Marketing||SEO Blog by David Snyder)|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/2011/01/10/goal-creation-has-changed-me/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: snydey (David Snyder - Snydey Sense)|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/2012/01/12/what-the-zuck|0|steelcast|2012-03-31|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/2012/01/20/android-lives-up-to-its-name|0|steelcast|2012-04-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/abou|0|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/social-networks|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/category/search-marketing/page/3|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/contact|0|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/page/14|0|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/page/14|0| |2012-05-02|0|0|0|1|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/14|0|guest post: 5 more strategies to boost the authority of a new domain|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/15|0|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/page/15|0| |2012-05-02|0|0|0|1|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/15|0|guest post: 5 more strategies to boost the authority of a new domain|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/16|0|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/page/16|0| |2012-05-02|0|0|0|1|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/16|0|guest post: 5 more strategies to boost the authority of a new domain|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/2|0|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/page/2|0| |2012-05-02|0|0|0|1|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/2|0|guest post: 5 more strategies to boost the authority of a new domain|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/3|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/page/3|0| |2012-05-05|0|0|0|1|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/3|0|guest post: 5 more strategies to boost the authority of a new domain|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/4|0|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/page/4|0|guest post: 5 more strategies to boost the authority of a new domain|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/4|0| |2012-05-02|0|0|0|1|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/5|0|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/page/5|0| |2012-05-02|0|0|0|1|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/5|0|guest post: 5 more strategies to boost the authority of a new domain|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/6|0|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/page/6|0| |2012-05-02|0|0|0|1|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/6|0|guest post: 5 more strategies to boost the authority of a new domain|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/7|0|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://www.snydeysense.com/page/7|0|guest post: 5 more strategies to boost the authority of a new domain|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/page/7|0| |2012-05-02|0|0|0|1|0|0|0|http://www.steelcast.com/blog/guest-post-5-more-strategies-to-boost-the-authority-of-a-new-domain|2|22|26|0|0</Row>
+			<Row>http://www.snydeysense.com/2008/04/28/know-your-enemy-the-seo-malpractitioner|0|steelcast|2012-05-05|0|0|0|0|0|0|0|http://www.steelcast.com|2|33|35|0|0</Row>
+			<Row>http://twitiq.com/davesnyder|0|http://www.steelcast.com|2012-05-13|0|0|0|0|0|0|0|http://www.steelcast.com|40|33|35|0|0</Row>
+			<Row>http://nest.febird.net/davesnyder|0|http://www.steelc...|2012-04-28|0|0|1|0|0|0|0|http://www.steelcast.com|41|33|35|0|0</Row>
+			<Row>http://affaholic.com/shoemoney-skills-to-pay-the-bills/steelcast-%E2%80%93-incubator-for-legit-companies|0|check out steelcast here|2012-03-27|0|0|0|0|0|0|0|http://www.steelcast.com|42|33|35|0|0</Row>
+			<Row>http://affaholic.com/shoemoney-skills-to-pay-the-bills/steelcast-%E2%80%93-incubator-for-legit-companies|0|steelcast|2012-03-27|0|0|0|0|0|0|0|http://www.steelcast.com|42|33|35|0|0</Row>
+			<Row>http://affaholic.com/shoemoney-skills-to-pay-the-bills/steelcast-%E2%80%93-incubator-for-legit-companies|0|www.steelcast|2012-03-27|0|0|0|1|0|0|0|http://www.steelcast.com|42|33|35|0|0</Row>
+			<Row>http://affaholic.com/shoemoney-skills-to-pay-the-bills/steelcast-%e2%80%93-incubator-for-legit-companies|0|check out steelcast here|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|42|33|35|0|0</Row>
+			<Row>http://affaholic.com/shoemoney-skills-to-pay-the-bills/steelcast-%e2%80%93-incubator-for-legit-companies|0|www.steelcast|2012-05-02|0|0|0|1|0|0|0|http://www.steelcast.com|42|33|35|0|0</Row>
+			<Row>http://affaholic.com/shoemoney-skills-to-pay-the-bills/steelcast-%e2%80%93-incubator-for-legit-companies|0|steelcast|2012-05-02|0|0|0|0|0|0|0|http://www.steelcast.com|42|33|35|0|0</Row>
+			<Row>http://affaholic.com/shoemoney-skills-to-pay-the-bills/steelcast-–-incubator-for-legit-companies|0|check out steelcast here|2012-01-24|0|0|0|0|0|0|0|http://www.steelcast.com|42|33|35|0|0</Row>
+			<Row>http://affaholic.com/shoemoney-skills-to-pay-the-bills/steelcast-–-incubator-for-legit-companies|0|steelcast|2012-01-24|0|0|0|0|0|0|0|http://www.steelcast.com|42|33|35|0|0</Row>
+			<Row>http://affaholic.com/shoemoney-skills-to-pay-the-bills/steelcast-–-incubator-for-legit-companies|0|www.steelcast|2012-01-24|0|0|0|1|0|0|0|http://www.steelcast.com|42|33|35|0|0</Row>
+			<Row>http://helpmedrive.com/internet-marketing/steelcast-%E2%80%93-incubator-for-legit-companies|0| |2012-03-13|0|0|0|1|0|0|0|http://www.steelcast.com|43|33|35|0|0</Row>
+			<Row>http://helpmedrive.com/internet-marketing/steelcast-%E2%80%93-incubator-for-legit-companies|0|steelcast|2012-03-13|0|0|0|0|0|0|0|http://www.steelcast.com|43|33|35|0|0</Row>
+			<Row>http://helpmedrive.com/internet-marketing/steelcast-%E2%80%93-incubator-for-legit-companies|0|check out steelcast here|2012-03-13|0|0|0|0|0|0|0|http://www.steelcast.com|43|33|35|0|0</Row>
+			<Row>http://helpmedrive.com/internet-marketing/steelcast-%e2%80%93-incubator-for-legit-companies|0| |2012-05-08|0|0|0|1|0|0|0|http://www.steelcast.com|43|33|35|0|0</Row>
+			<Row>http://helpmedrive.com/internet-marketing/steelcast-%e2%80%93-incubator-for-legit-companies|0|check out steelcast here|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|43|33|35|0|0</Row>
+			<Row>http://helpmedrive.com/internet-marketing/steelcast-%e2%80%93-incubator-for-legit-companies|0|steelcast|2012-05-08|0|0|0|0|0|0|0|http://www.steelcast.com|43|33|35|0|0</Row>
+			<Row>http://helpmedrive.com/internet-marketing/steelcast-–-incubator-for-legit-companies|0|steelcast|2012-01-23|0|0|0|0|0|0|0|http://www.steelcast.com|43|33|35|0|0</Row>
+			<Row>http://helpmedrive.com/internet-marketing/steelcast-–-incubator-for-legit-companies|0|check out steelcast here|2012-01-23|0|0|0|0|0|0|0|http://www.steelcast.com|43|33|35|0|0</Row>
+			<Row>http://helpmedrive.com/internet-marketing/steelcast-–-incubator-for-legit-companies|0| |2012-01-23|0|0|0|1|0|0|0|http://www.steelcast.com|43|33|35|0|0</Row>
+			<Row>http://oasissolutions.co.in/webmaster-news.html?view=item&#38;catid=10:publisher-ad-networks&#38;id=3:chitika-news|0|steelcast|2012-05-22|0|0|0|0|0|0|0|http://www.steelcast.com|44|33|35|0|0</Row>
+			<Row>http://blogfiremedia.com/?feed=rss2&#38;tag=steelcast|0|steelcast|2011-11-15|0|0|0|0|0|0|0|http://www.steelcast.com|45|33|35|0|0</Row>
+			<Row>http://blogfiremedia.com/?feed=rss2&#38;tag=steelcast|0|check out steelcast here|2011-11-15|0|0|0|0|0|0|0|http://www.steelcast.com|45|33|35|0|0</Row>
+			<Row>http://blogfiremedia.com/?feed=rss2&#38;tag=steelcast|0|www.steelcast|2011-11-15|0|0|0|1|0|0|0|http://www.steelcast.com|45|33|35|0|0</Row>
+			<Row>http://blogfiremedia.com/?feed=rss2&#38;tag=companies|0|steelcast|2011-11-15|0|0|0|0|0|0|0|http://www.steelcast.com|45|33|35|0|0</Row>
+			<Row>http://blogfiremedia.com/?feed=rss2&#38;tag=companies|0|www.steelcast|2011-11-15|0|0|0|1|0|0|0|http://www.steelcast.com|45|33|35|0|0</Row>
+			<Row>http://blogfiremedia.com/?feed=rss2&#38;tag=companies|0|check out steelcast here|2011-11-15|0|0|0|0|0|0|0|http://www.steelcast.com|45|33|35|0|0</Row>
+			<Row>http://blogfiremedia.com/?feed=rss2&#38;tag=incubator|0|www.steelcast|2011-11-15|0|0|0|1|0|0|0|http://www.steelcast.com|45|33|35|0|0</Row>
+			<Row>http://blogfiremedia.com/?feed=rss2&#38;tag=incubator|0|check out steelcast here|2011-11-15|0|0|0|0|0|0|0|http://www.steelcast.com|45|33|35|0|0</Row>
+			<Row>http://blogfiremedia.com/?feed=rss2&#38;tag=incubator|0|steelcast|2011-11-15|0|0|0|0|0|0|0|http://www.steelcast.com|45|33|35|0|0</Row>
+			<Row>http://blogfiremedia.com/?feed=rss2&#38;tag=legit|0|steelcast|2011-11-15|0|0|0|0|0|0|0|http://www.steelcast.com|45|33|35|0|0</Row>
+			<Row>http://blogfiremedia.com/?feed=rss2&#38;tag=legit|0|www.steelcast|2011-11-15|0|0|0|1|0|0|0|http://www.steelcast.com|45|33|35|0|0</Row>
+			<Row>http://blogfiremedia.com/?feed=rss2&#38;tag=legit|0|check out steelcast here|2011-11-15|0|0|0|0|0|0|0|http://www.steelcast.com|45|33|35|0|0</Row>
+			<Row>http://www.webnamelist.com/alexa/Alexa_176.html|0|steelcast.com|2012-03-18|0|0|0|0|0|0|0|http://steelcast.com|46|13|0|0|0</Row>
+			<Row>http://list-of-domains.org/alexa/Alexa_176.html|0|steelcast.com|2012-03-17|0|0|0|0|0|0|0|http://steelcast.com|47|13|0|0|0</Row>
+			<Row>http://www.bmvnews.com/all/bosses_day/rss|0|www.steelcast.com|2011-11-24|0|0|0|0|0|0|0|http://www.steelcast.com|48|33|35|0|0</Row>
+			<Row>http://www.bmvnews.com/all/bosss_day|0|www.steelcast.com|2011-11-24|0|0|0|0|0|0|0|http://www.steelcast.com|48|33|35|0|0</Row>
+			<Row>http://www.bmvnews.com/all/bosss_day/rss|0|www.steelcast.com|2011-11-24|0|0|0|0|0|0|0|http://www.steelcast.com|48|33|35|0|0</Row>
+			<Row>http://www.bmvnews.com/all/boss_day|0|www.steelcast.com|2011-12-22|0|0|0|0|0|0|0|http://www.steelcast.com|48|33|35|0|0</Row>
+			<Row>http://www.bmvnews.com/all/boss_day/rss|0|www.steelcast.com|2011-11-24|0|0|0|0|0|0|0|http://www.steelcast.com|48|33|35|0|0</Row>
+			<Row>http://www.bmvnews.com/all/bosses_day|0|www.steelcast.com|2011-11-24|0|0|0|0|0|0|0|http://www.steelcast.com|48|33|35|0|0</Row>
+			<Row>http://www.myseoexpert.com/bruce-clay/friday-recap-sugar-attack-edition|0|post on steelcast|2011-11-16|0|0|0|0|0|0|0|http://www.steelcast.com/blog/everything-you-think-you-know-is-a-lie|49|5|3|0|0</Row>
+			<Row>http://www.50.bz/steel_cast.html|0|steelcast.com|2010-03-10|0|0|0|0|0|0|0|http://steelcast.com|50|13|0|0|0</Row>
+			<Row>http://megawebster.com/seo-recap-found-on-twitterÂ 111811|0|brands and social media: 2 wins, 1 #fail|2011-12-13|0|0|0|0|0|0|0|http://www.steelcast.com/blog/brands-and-social-media-2-wins-1-fail|51|5|0|0|0</Row>
+			<Row>http://insanity.pigroot.com|0|trapped in entrepreneurial insanity|2012-03-14|0|0|0|0|0|0|0|http://www.steelcast.com/blog/trapped-in-entrepreneurial-insanity|52|0|0|0|0</Row>
+			<Row>http://www.kylezipp.com/portfolio/steelcast|0|steelcast.com|2012-04-02|0|0|0|0|0|0|0|http://www.steelcast.com|53|33|35|0|0</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="54" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|feedburner.com|432|1953946|5726951350|218206175|21743085|2006-10-27|2012-05-28|74.125.43.100|74.125.43.0|US|com|94|93</Row>
+			<Row>1|grader.com|13127|20232|4257839|2940549|355509|2006-12-17|2012-05-28|184.73.4.119|184.73.4.0|US|com|74|60</Row>
+			<Row>2|snydeysense.com|-1|790|7958|1141|606|2008-08-26|2012-05-28|74.52.2.139|74.52.2.0|US|com|26|22</Row>
+			<Row>3|brentcsutoras.com|349318|3566|60471|1551|859|2008-03-28|2012-05-28|64.34.203.172|64.34.203.0|US|com|32|37</Row>
+			<Row>4|chitika.com|1977|39162|45495880|110855|62742|2006-12-21|2012-05-28|208.78.43.138|208.78.43.0|US|com|61|55</Row>
+			<Row>5|cash-bandit.com|358413|2459|51454|34172|18463|2009-03-20|2012-05-28|69.4.229.172|69.4.229.0|US|com|23|21</Row>
+			<Row>6|blueglass.com|21644|5118|121918|18723|8485|2010-07-09|2012-05-28|66.135.33.9|66.135.33.0|US|com|52|42</Row>
+			<Row>7|insidemobileapps.com|117780|3894|2456574|10055|4659|2011-03-28|2012-05-28| | | |com|46|33</Row>
+			<Row>8|smartblogs.com|28935|9257|434392|72156|38152|2007-07-11|2012-05-28|72.32.209.132|72.32.209.0|US|com|49|41</Row>
+			<Row>9|brightedge.com|24673|1813|15813|931|462|2008-12-17|2012-05-28|74.213.171.43|74.213.171.0|CA|com|36|31</Row>
+			<Row>10|arnoldsofficefurniture.com|336821|4633|96139|6007|2146|2007-01-27|2012-05-28|208.86.252.200|208.86.252.0|US|com|25|23</Row>
+			<Row>11|magnifydigital.com|-1|147|2355|1326|832|2010-03-15|2012-05-28|69.27.120.204|69.27.120.0|CA|com|20|19</Row>
+			<Row>12|pushon.co.uk|114812|2025|32481|9359|6757|2007-12-10|2012-05-28|77.240.5.225|77.240.5.0|UK|uk|37|27</Row>
+			<Row>13|doctorevenue.com|-1|38|705|4014|2026|2009-10-03|2012-05-28|72.167.187.55|72.167.187.0|US|com|15|8</Row>
+			<Row>14|shoemoney.com|5841|28975|1324190|748617|200543|2006-11-01|2012-05-28|209.240.82.22|209.240.82.0|US|com|54|41</Row>
+			<Row>15|bruceclay.com|15106|31089|751563|32142|22235|2006-11-03|2012-05-28|65.124.219.56|65.124.219.0|US|com|60|59</Row>
+			<Row>16|weblogbetter.com|32001|2884|256410|31000|19538|2010-02-04|2012-05-28|70.85.145.106|70.85.145.0|US|com|32|21</Row>
+			<Row>17|copypress.com|151108|488|3514|820|510|2011-03-22|2012-05-27|69.174.243.213|69.174.243.0|US|com|21|27</Row>
+			<Row>18|oasiscreative.com|-1|273|57697|2713|1517|2007-12-27|2012-05-28|67.228.56.234|67.228.56.0|US|com|22|27</Row>
+			<Row>19|solid-advice.com|-1|95|693|10848|3832|2007-12-24|2012-05-28|67.212.87.234|67.212.87.0|CA|com|10|0</Row>
+			<Row>20|bestusedofficefurniture.com|-1|72|681|3967|1745|2009-09-30|2012-05-28|74.54.21.167|74.54.21.0|US|com|6|0</Row>
+			<Row>21|tagsmith.org|-1|1688|43655|1181828|407242|2006-11-21|2012-05-28|64.13.192.66|64.13.192.0|US|org|25|15</Row>
+			<Row>22|indexsite.org|-1|232|692|108641|67409|2008-02-26|2012-05-28|208.78.242.184|208.78.242.0|US|org|12|1</Row>
+			<Row>23|iwks.com|322442|23423|414540|40784|30223|2006-10-27|2012-05-28|89.167.142.11|89.167.142.0|UK|com|34|19</Row>
+			<Row>24|twitter.com|9|10153334|27852408972|4726069370|95483708|2006-12-02|2012-05-28|128.242.240.20|128.242.240.0|US|com|100|100</Row>
+			<Row>25|blogspot.com|6|7660194|16669954635|4238226531|245563219|2006-10-26|2012-05-28|209.85.229.191|209.85.229.0|US|com|96|91</Row>
+			<Row>26|tumblr.com|58|1505671|2076695090|340057644|10030172|2007-03-24|2012-05-28|74.54.212.168|74.54.212.0|US|com|92|83</Row>
+			<Row>27|reddit.com|139|1654280|4453302992|1531799262|34296374|2006-11-03|2012-05-28|205.247.221.19|205.247.221.0|US|com|89|84</Row>
+			<Row>28|t.co|3864|700614|2399635635|401225080|1397297|2010-12-03|2012-05-28|128.242.240.218|128.242.240.0|US|co|80|77</Row>
+			<Row>29|businessweek.com|663|681937|146930300|42358279|3595345|2006-10-27|2012-05-28|195.85.129.10|195.85.129.0|NL|com|79|72</Row>
+			<Row>30|tweetmeme.com|595|234894|237836918|82882716|3708984|2008-05-18|2012-05-28|89.151.116.55|89.151.116.0|UK|com|76|63</Row>
+			<Row>31|searchengineland.com|1635|125726|20965678|304143|148953|2007-02-06|2012-05-28|64.62.209.218|64.62.209.0|US|com|75|63</Row>
+			<Row>32|studiopress.com|1315|106490|58510774|157433|39134|2009-02-19|2012-05-28|97.74.118.35|97.74.118.0|US|com|75|55</Row>
+			<Row>33|searchenginejournal.com|3596|92235|3871929|130980|59073|2006-11-02|2012-05-28|64.62.209.24|64.62.209.0|US|com|68|58</Row>
+			<Row>34|topsy.com|2166|325205|65043945|42672071|1022915|2009-07-28|2012-05-28|74.112.128.10|74.112.128.0|US|com|51|44</Row>
+			<Row>35|outspokenmedia.com|17885|9769|288206|22469|18283|2009-05-09|2012-05-28|208.100.51.206|208.100.51.0|US|com|53|40</Row>
+			<Row>36|olleh.com|8034|4906|2990681|1682593|236466|2010-10-19|2012-05-28|183.110.184.90|183.110.184.0|CN|com|39|41</Row>
+			<Row>37|feedshow.com|78545|19954|2006967|9903261|1271930|2006-12-08|2012-05-28|88.191.60.78|88.191.60.0|FR|com|44|33</Row>
+			<Row>38|techbang.com.tw|17485|3338|1141850|1933159|487442|2009-09-07|2012-05-28|60.199.248.227|60.199.248.0|TW|tw|36|28</Row>
+			<Row>39|83degreesmedia.com|-1|793|15255|8671|3869|2010-01-12|2012-05-28|74.205.95.143|74.205.95.0|US|com|32|29</Row>
+			<Row>40|twitiq.com|64736|3457|77120|24142069|429287|2009-06-08|2012-05-28|72.51.41.239|72.51.41.0|US|com|28|15</Row>
+			<Row>41|febird.net|-1|509|31686|2941220|91952|2009-04-15|2012-05-28|74.125.113.121|74.125.113.0|US|net|21|15</Row>
+			<Row>42|affaholic.com|756627|721|14736|61553|26071|2010-08-18|2012-05-28|208.86.157.12|208.86.157.0|US|com|16|14</Row>
+			<Row>43|helpmedrive.com|943402|717|11235|12200|8642|2010-06-28|2012-05-28|67.231.240.202|67.231.240.0|US|com|20|7</Row>
+			<Row>44|oasissolutions.co.in|178038|285|23986|2508|1537|2008-06-06|2012-05-28|66.7.213.86|66.7.213.0|US|in|13|13</Row>
+			<Row>45|blogfiremedia.com|-1|24|59|2497|1597|2009-11-19|2012-05-19|72.167.232.203|72.167.232.0|US|com|10|13</Row>
+			<Row>46|webnamelist.com|34557|702|3472|8955|8172|2010-02-04|2012-05-28|208.109.160.1|208.109.160.0|US|com|12|7</Row>
+			<Row>47|list-of-domains.org|34536|1220|16537|18138|14404|2009-05-06|2012-05-28|97.74.34.111|97.74.34.0|US|org|13|3</Row>
+			<Row>48|bmvnews.com|-1|35|1081|1181553|87440|2010-10-02|2012-05-28|90.213.227.142|90.213.227.0|UK|com|7|6</Row>
+			<Row>49|myseoexpert.com|-1|54|13486|19029|15754|2010-12-08|2012-05-27|65.61.167.248|65.61.167.0|US|com|9|0</Row>
+			<Row>50|50.bz|-1|24|380525|4322872|295132|2008-07-03|2012-05-28|74.52.106.18|74.52.106.0|US|bz|8|0</Row>
+			<Row>51|megawebster.com|-1|250|3808|10744|4664|2011-04-19|2012-04-15| | | |com|6|1</Row>
+			<Row>52|pigroot.com|-1|170|2977|1546|11|2012-03-08|2012-03-14|67.215.66.132|67.215.66.0|US|com|1|4</Row>
+			<Row>53|kylezipp.com|-1|62|332|260|130|2011-04-04|2012-05-25|71.18.244.57|71.18.244.0|US|com|0|0</Row>
+		</DataTable>
+	</DataTables>
+</Result>

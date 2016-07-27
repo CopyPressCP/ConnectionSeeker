@@ -1,0 +1,266 @@
+-- phpMyAdmin SQL Dump
+-- version 3.4.7.1
+-- http://www.phpmyadmin.net
+--
+-- Host: localhost
+-- Generation Time: Dec 07, 2011 at 01:21 PM
+-- Server version: 5.0.27
+-- PHP Version: 5.2.5
+
+SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+--
+-- Database: `com_linkmev2`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `lkm_auth_assignment`
+--
+
+CREATE TABLE IF NOT EXISTS `lkm_auth_assignment` (
+  `itemname` varchar(64) NOT NULL,
+  `userid` varchar(64) NOT NULL,
+  `bizrule` text,
+  `data` text,
+  PRIMARY KEY  (`itemname`,`userid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `lkm_auth_assignment`
+--
+
+INSERT INTO `lkm_auth_assignment` (`itemname`, `userid`, `bizrule`, `data`) VALUES
+('Admin', '1', NULL, 'N;');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `lkm_auth_item`
+--
+
+CREATE TABLE IF NOT EXISTS `lkm_auth_item` (
+  `name` varchar(64) NOT NULL,
+  `type` int(11) NOT NULL,
+  `description` text,
+  `bizrule` text,
+  `data` text,
+  PRIMARY KEY  (`name`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `lkm_auth_item`
+--
+
+INSERT INTO `lkm_auth_item` (`name`, `type`, `description`, `bizrule`, `data`) VALUES
+('Admin', 2, NULL, NULL, 'N;'),
+('Authenticated', 2, NULL, NULL, 'N;'),
+('Guest', 2, NULL, NULL, 'N;');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `lkm_auth_item_child`
+--
+
+CREATE TABLE IF NOT EXISTS `lkm_auth_item_child` (
+  `parent` varchar(64) NOT NULL,
+  `child` varchar(64) NOT NULL,
+  PRIMARY KEY  (`parent`,`child`),
+  KEY `child` (`child`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `lkm_client`
+--
+
+CREATE TABLE IF NOT EXISTS `lkm_client` (
+  `id` int(11) NOT NULL auto_increment,
+  `company` varchar(255) default NULL,
+  `name` varchar(128) NOT NULL,
+  `contact_name` varchar(128) NOT NULL,
+  `email` varchar(128) NOT NULL,
+  `telephone` varchar(255) default NULL,
+  `cellphone` varchar(255) default NULL,
+  `use_historic_index` tinyint(1) default NULL,
+  `note` text,
+  `assignee` int(11) default NULL,
+  `status` tinyint(1) NOT NULL default '1',
+  `created` datetime default NULL,
+  `created_by` int(11) default NULL,
+  `modified` datetime default NULL,
+  `modified_by` int(11) default NULL,
+  `last_visit_time` datetime default NULL,
+  `last_visit_ip` varchar(255) default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `lkm_client_domain`
+--
+
+CREATE TABLE IF NOT EXISTS `lkm_client_domain` (
+  `id` int(11) NOT NULL auto_increment,
+  `domain` varchar(255) NOT NULL,
+  `client_id` int(11) NOT NULL,
+  `created` datetime default NULL,
+  `created_by` int(11) default NULL,
+  `modified` datetime default NULL,
+  `modified_by` int(11) default NULL,
+  PRIMARY KEY  (`id`),
+  UNIQUE KEY `domain` (`domain`,`client_id`),
+  KEY `client_id` (`client_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `lkm_client_keyword`
+--
+
+CREATE TABLE IF NOT EXISTS `lkm_client_keyword` (
+  `id` int(11) NOT NULL auto_increment,
+  `keyword` varchar(255) NOT NULL,
+  `client_id` int(11) NOT NULL,
+  `created` datetime default NULL,
+  `created_by` int(11) default NULL,
+  `modified` datetime default NULL,
+  `modified_by` int(11) default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `lkm_client_prospect`
+--
+
+CREATE TABLE IF NOT EXISTS `lkm_client_prospect` (
+  `id` int(11) NOT NULL auto_increment,
+  `jobname` varchar(255) NOT NULL,
+  `client_id` int(11) NOT NULL,
+  `domain_id` int(11) NOT NULL,
+  `created` datetime default NULL,
+  `created_by` int(11) default NULL,
+  `modified` datetime default NULL,
+  `modified_by` int(11) default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `lkm_competitor`
+--
+
+CREATE TABLE IF NOT EXISTS `lkm_competitor` (
+  `id` int(11) NOT NULL auto_increment,
+  `domain` varchar(255) NOT NULL,
+  `googlepr` tinyint(3) default NULL,
+  `onlinesince` int(11) default '658454400',
+  `created` datetime default NULL,
+  `created_by` int(11) default NULL,
+  `modified` datetime default NULL,
+  `modified_by` int(11) default NULL,
+  `last_call_api_time` int(11) default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `lkm_competitor_xref_client`
+--
+
+CREATE TABLE IF NOT EXISTS `lkm_competitor_xref_client` (
+  `id` int(11) NOT NULL auto_increment,
+  `domain_id` varchar(255) NOT NULL,
+  `client_id` int(11) NOT NULL,
+  `created` datetime default NULL,
+  `created_by` int(11) default NULL,
+  `modified` datetime default NULL,
+  `modified_by` int(11) default NULL,
+  PRIMARY KEY  (`id`),
+  UNIQUE KEY `domain` (`domain_id`,`client_id`),
+  KEY `client_id` (`client_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `lkm_rights`
+--
+
+CREATE TABLE IF NOT EXISTS `lkm_rights` (
+  `itemname` varchar(64) NOT NULL,
+  `type` int(11) NOT NULL,
+  `weight` int(11) NOT NULL,
+  PRIMARY KEY  (`itemname`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `lkm_user`
+--
+
+CREATE TABLE IF NOT EXISTS `lkm_user` (
+  `id` int(11) NOT NULL auto_increment,
+  `username` varchar(128) NOT NULL,
+  `password` varchar(128) NOT NULL,
+  `salt` varchar(128) NOT NULL,
+  `email` varchar(128) NOT NULL,
+  `created` datetime default NULL,
+  `created_by` int(11) default NULL,
+  `modified` datetime default NULL,
+  `modified_by` int(11) default NULL,
+  `last_visit_time` datetime default NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 AUTO_INCREMENT=3 ;
+
+--
+-- Dumping data for table `lkm_user`
+--
+
+INSERT INTO `lkm_user` (`id`, `username`, `password`, `salt`, `email`, `created`, `created_by`, `modified`, `modified_by`, `last_visit_time`) VALUES
+(1, 'admin', '9401b8c7297832c567ae922cc596a4dd', '28b206548469ce62182048fd9cf91760', 'admin@connectionseeker.com', NULL, NULL, NULL, NULL, '2011-12-07 15:57:01'),
+(2, 'tony', 'fececc4727592a8f11478abade53fa05', '4edddf83f389e3.01762946', 'tony@infinitenine.com', '2011-12-06 09:25:24', 1, '2011-12-06 09:25:24', 1, '2011-12-06 17:25:35');
+
+--
+-- Constraints for dumped tables
+--
+
+--
+-- Constraints for table `lkm_auth_assignment`
+--
+ALTER TABLE `lkm_auth_assignment`
+  ADD CONSTRAINT `lkm_auth_assignment_ibfk_1` FOREIGN KEY (`itemname`) REFERENCES `lkm_auth_item` (`name`) ON DELETE CASCADE ON UPDATE CASCADE;
+
+--
+-- Constraints for table `lkm_auth_item_child`
+--
+ALTER TABLE `lkm_auth_item_child`
+  ADD CONSTRAINT `lkm_auth_item_child_ibfk_1` FOREIGN KEY (`parent`) REFERENCES `lkm_auth_item` (`name`) ON DELETE CASCADE ON UPDATE CASCADE,
+  ADD CONSTRAINT `lkm_auth_item_child_ibfk_2` FOREIGN KEY (`child`) REFERENCES `lkm_auth_item` (`name`) ON DELETE CASCADE ON UPDATE CASCADE;
+
+--
+-- Constraints for table `lkm_rights`
+--
+ALTER TABLE `lkm_rights`
+  ADD CONSTRAINT `lkm_rights_ibfk_1` FOREIGN KEY (`itemname`) REFERENCES `lkm_auth_item` (`name`) ON DELETE CASCADE ON UPDATE CASCADE;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

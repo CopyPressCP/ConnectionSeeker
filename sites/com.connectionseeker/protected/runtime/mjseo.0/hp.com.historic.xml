@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="20" IndexBuildDate="2014-02-14 22:31:38" IndexType="0" RemainingAnalysisResUnits="99589821" RemainingDetailedReportsPerPeriod="947" RemainingRetrievalResUnits="19989344" RemainingStandardReports="947" ServerBuild="2014-02-17 16:04:53" ServerName="SHADOJAGUAR" ServerVersion="1.0.5161.28946" UniqueIndexID="20140214223138-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="20" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="hp.com" BackLinkType="RootDomain" TotalBackLinks="254648059" TotalLines="50000" TotalMatches="20">
+			<Row>http://www.w3.org/WAI/|11|hewlett packard development company|2014-01-26|0|0|0|0|0|0|0|http://www.hp.com/|0|2008-06-27|2014-01-26| | |TextLink|TextLink_Normal|69|77|72|80</Row>
+			<Row>https://www.kernel.org/|9|hp|2014-01-26|0|0|0|1|0|0|0|http://www.hp.com/|1|2014-01-15|2014-01-26| | |ImageLink|ImageLink_Normal|69|77|63|83</Row>
+			<Row>http://www.hpwebos.com/us/|10|open webos|2014-01-26|0|0|0|1|0|0|0|http://www.hp.com/|2|2014-01-15|2014-01-26| | |ImageLink|ImageLink_Normal|69|77|65|74</Row>
+			<Row>http://www.hpwebos.com/us/|10|privacy policy|2014-01-26|0|0|0|0|0|0|0|http://www8.hp.com/us/en/privacy/privacy.html|2|2012-12-03|2014-01-26| | |TextLink|TextLink_Normal|62|68|65|74</Row>
+			<Row>http://www.hpwebos.com/us/|10|terms of use|2014-01-26|0|0|0|0|0|0|0|http://www8.hp.com/us/en/privacy/terms-of-use.html|2|2012-12-03|2014-01-26| | |TextLink|TextLink_Normal|62|68|65|74</Row>
+			<Row>http://www.hpwebos.com/us/|10|accessories|2014-01-26|0|0|0|0|0|0|0|http://www.shopping.hp.com/en_US/home-office/-/products/Accessories/Accessories|2|2012-07-06|2014-01-26| | |TextLink|TextLink_Normal|59|65|65|74</Row>
+			<Row>http://www.hostingcon.com/|10|hp|2014-01-26|0|0|0|1|0|0|0|http://www.hp.com/|3|2013-09-07|2014-01-26| | |ImageLink|ImageLink_Normal|69|77|65|69</Row>
+			<Row>http://www.debian.org/partners/|9|hewlett-packard|2014-01-24|0|0|0|1|0|0|0|http://www.hp.com/|4|2013-09-13|2014-01-24| | |ImageLink|ImageLink_Normal|69|77|61|72</Row>
+			<Row>http://www.debian.org/partners/|9|hewlett-packard|2014-01-24|0|0|0|0|0|0|0|http://www.hp.com/|4|2013-09-13|2014-01-24| | |TextLink|TextLink_Normal|69|77|61|72</Row>
+			<Row>http://www.debian.org/partners/|9|hp linux|2014-01-24|0|0|0|0|0|0|0|http://www.hp.com/products1/linux/|4|2008-09-23|2014-01-24| | |TextLink|TextLink_Normal|37|43|61|72</Row>
+			<Row>http://www.parallels.com/summit/2014/?utm_source=parallelswebsite&#38;utm_medium=smallbanner&#38;utm_campaign=Summit_2014|10| |2014-01-26|0|0|0|1|0|0|0|http://www.hp.com/|5|2014-01-18|2014-01-26| | |ImageLink|ImageLink_Normal|69|77|68|64</Row>
+			<Row>http://www.autonomy.com/|9|privacy|2014-01-26|0|0|0|0|0|0|0|http://www8.hp.com/us/en/privacy/privacy.html|6|2013-09-18|2014-01-26| | |TextLink|TextLink_Normal|62|68|61|70</Row>
+			<Row>http://www.autonomy.com/|9|terms of use and security statement|2014-01-26|0|0|0|0|0|0|0|http://www8.hp.com/us/en/privacy/terms-of-use.html|6|2013-09-18|2014-01-26| | |TextLink|TextLink_Normal|62|68|61|70</Row>
+			<Row>http://www.autonomy.com/|9|hp.com|2014-01-26|0|0|0|0|0|0|0|http://www8.hp.com/us/en/software/enterprise-software.html|6|2013-09-18|2014-01-26| | |TextLink|TextLink_Normal|59|63|61|70</Row>
+			<Row>http://www.autonomy.com/|9|hp software|2014-01-26|0|0|0|0|0|0|0|http://www8.hp.com/us/en/software/enterprise-software.html|6|2013-09-18|2014-01-26| | |TextLink|TextLink_Normal|59|63|61|70</Row>
+			<Row>http://www.autonomy.com/|9|autonomy|2014-01-26|0|0|0|1|0|0|0|http://www8.hp.com/us/en/software/enterprise-software.html|6|2013-09-18|2014-01-26| | |ImageLink|ImageLink_Normal|59|63|61|70</Row>
+			<Row>http://www.autonomy.com/|9|careers at hp|2014-01-26|0|0|0|0|0|0|0|http://www8.hp.com/uk/en/jobsathp/|6|2013-09-18|2014-01-26| | |TextLink|TextLink_Normal|45|52|61|70</Row>
+			<Row>http://www.isc.org/downloads/bind/|10|hewlett-packard company|2014-01-26|0|0|0|0|0|0|0|http://www.hp.com/|7|2013-09-10|2014-01-26| | |TextLink|TextLink_Normal|69|77|67|63</Row>
+			<Row>http://www.adobe.com/shockwave/download/alternates/|10|flash player 6 for netscape|2014-01-26|0|0|0|0|0|0|0|http://www.hp.com/support/macromedia_software/|8|2008-07-27|2014-01-26| | |TextLink|TextLink_Normal|37|36|64|64</Row>
+			<Row>http://www.freedesktop.org/wiki/|9|hp|2014-01-26|0|0|0|0|0|0|0|http://www.hp.com/|9|2013-09-08|2014-01-26| | |TextLink|TextLink_Normal|69|77|57|68</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="10" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|w3.org|546|6379085|12339234229|408806691|1334107|2008-06-26|2014-01-26|128.30.52.37|128.30.52.0|US|org|94|96</Row>
+			<Row>1|kernel.org|23127|119872|54455470|10738557|1271350|2008-06-26|2014-01-26|198.145.20.140|198.145.20.0|US|org|56|76</Row>
+			<Row>2|hpwebos.com|178411|33616|2030942|782325|165569|2011-07-06|2014-01-26|15.216.12.229|15.216.12.0|US|com|45|56</Row>
+			<Row>3|hostingcon.com|353327|4976|2141338|10996|7769|2008-07-20|2014-01-26|69.167.156.14|69.167.156.0|US|com|44|50</Row>
+			<Row>4|debian.org|5371|263405|233849570|33531845|2399993|2008-06-26|2014-01-26|128.31.0.51|128.31.0.0|US|org|69|91</Row>
+			<Row>5|parallels.com|3774|3293293|101793602|2030630|574152|2008-07-06|2014-01-26|199.115.105.6|199.115.105.0|US|com|90|89</Row>
+			<Row>6|autonomy.com|118072|18193|564773|45008|24256|2008-07-27|2014-01-26|193.82.52.143|193.82.52.0|UK|com|49|69</Row>
+			<Row>7|isc.org|55101|81647|3820439|1655988|349275|2008-06-26|2014-01-26|149.20.64.42|149.20.64.0|US|org|56|76</Row>
+			<Row>8|adobe.com|71|9201863|4650987591|12092095|2946512|2008-06-26|2014-01-26|192.150.16.64|192.150.16.0|US|com|99|99</Row>
+			<Row>9|freedesktop.org|39305|114529|29386104|4672989|521328|2008-06-27|2014-01-26|131.252.210.176|131.252.210.0|US|org|52|64</Row>
+		</DataTable>
+	</DataTables>
+</Result>

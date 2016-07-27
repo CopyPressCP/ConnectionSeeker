@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="20" IndexBuildDate="2014-02-14 22:31:38" IndexType="0" RemainingAnalysisResUnits="99594821" RemainingDetailedReportsPerPeriod="947" RemainingRetrievalResUnits="19989364" RemainingStandardReports="947" ServerBuild="2014-02-17 16:04:53" ServerName="HUMMERR" ServerVersion="1.0.5161.28946" UniqueIndexID="20140214223138-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="20" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="logitech.com" BackLinkType="RootDomain" TotalBackLinks="21106888" TotalLines="50000" TotalMatches="20">
+			<Row>http://news.iheart.com/go/radio_app/|11|logitech smart radio|2014-01-26|0|0|0|0|0|0|0|http://ue.logitech.com/en-us/smart-radios|0|2013-05-02|2014-01-26| | |TextLink|TextLink_Normal|55|42|76|51</Row>
+			<Row>http://news.iheart.com/go/radio_app/|11| |2014-01-26|0|0|0|1|0|0|0|http://ue.logitech.com/en-us/smart-radios|0|2013-05-02|2014-01-26| | |ImageLink|ImageLink_Normal|55|42|76|51</Row>
+			<Row>http://talentreef.com/companies/logitech/index.html|9|logitech|2014-01-26|0|0|0|1|0|0|0|http://www.logitech.com/en-us/home|1|2014-01-09|2014-01-26| | |ImageLink|ImageLink_Normal|56|66|58|66</Row>
+			<Row>http://talentreef.com/companies/logitech/index.html|9|our story|2014-01-26|0|0|0|0|0|0|0|http://www.logitech.com/en-us/about/|1|2014-01-09|2014-01-26| | |TextLink|TextLink_Normal|56|66|58|66</Row>
+			<Row>http://talentreef.com/companies/logitech/index.html|9|executive bios|2014-01-26|0|0|0|0|0|0|0|http://www.logitech.com/en-us/about/executive-bios|1|2014-01-09|2014-01-26| | |TextLink|TextLink_Normal|47|51|58|66</Row>
+			<Row>http://www.pandora.com/everywhere/home|8| |2014-01-26|0|0|0|1|0|0|0|http://www.logitech.com/|2|2013-12-15|2014-01-26| | |ImageLink|ImageLink_Normal|57|69|53|67</Row>
+			<Row>http://www.ventrilo.com/faq.php|8|logitech mouse driver page|2014-01-26|0|0|0|0|0|0|0|http://www.logitech.com/index.cfm/398/&#38;cl=us,en?prodcrid=398|3|2008-08-26|2014-01-26| | |TextLink|TextLink_Normal|38|45|54|66</Row>
+			<Row>http://custom.ultimateears.com/|8|careers|2014-01-26|0|0|0|0|0|0|0|http://careers.logitech.com/|4|2013-12-14|2014-01-26| | |TextLink|TextLink_Normal|59|66|55|60</Row>
+			<Row>http://custom.ultimateears.com/|8|investors|2014-01-26|0|0|0|0|0|0|0|http://ir.logitech.com/?cl=us,en|4|2013-12-14|2014-01-26| | |TextLink|TextLink_Normal|51|58|55|60</Row>
+			<Row>http://custom.ultimateears.com/|8|terms of use|2014-01-26|0|0|0|0|0|0|0|http://www.logitech.com/footer/terms-of-use|4|2013-12-14|2014-01-26| | |TextLink|TextLink_Normal|46|47|55|60</Row>
+			<Row>http://custom.ultimateears.com/|8|privacy + security|2014-01-26|0|0|0|0|0|0|0|http://www.logitech.com/footer/privacy|4|2013-12-14|2014-01-26| | |TextLink|TextLink_Normal|45|47|55|60</Row>
+			<Row>http://custom.ultimateears.com/|8| |2014-01-26|0|0|0|1|0|0|0|http://ue.logitech.com/en-us/earphones/ue900|4|2013-12-14|2014-01-26| | |ImageLink|ImageLink_Normal|38|41|55|60</Row>
+			<Row>http://custom.ultimateears.com/|8|earphones|2014-01-26|0|0|0|0|0|0|0|http://ue.logitech.com/en-us/earphones/ue900|4|2013-12-14|2014-01-26| | |TextLink|TextLink_Normal|38|41|55|60</Row>
+			<Row>http://tunein.com/get-tunein/|9|search tunein on logitech l ue smart radio logitech l ue|2014-01-26|0|0|0|0|0|0|0|http://ue.logitech.com/en-us/articles/smart-radio-services|5|2013-06-01|2014-01-26| | |TextLink|TextLink_Normal|44|36|61|52</Row>
+			<Row>http://tunein.com/get-tunein/|9| |2014-01-26|0|0|0|1|0|0|0|http://ue.logitech.com/en-us/articles/smart-radio-services|5|2013-06-01|2014-01-26| | |ImageLink|ImageLink_Normal|44|36|61|52</Row>
+			<Row>http://www.logicool.co.jp/ja-jp/|7|コミュニティ|2014-01-26|0|0|0|0|0|0|0|http://blog.logitech.com/|6|2013-10-03|2014-01-26| | |TextLink|TextLink_Normal|59|67|47|59</Row>
+			<Row>http://www.logicool.co.jp/ja-jp/|7|人材募集|2014-01-26|0|0|0|0|0|0|0|http://careers.logitech.com/|6|2013-08-30|2014-01-26| | |TextLink|TextLink_Normal|59|66|47|59</Row>
+			<Row>http://www.logicool.co.jp/ja-jp/|7|投資家の皆様へ|2014-01-26|0|0|0|0|0|0|0|http://ir.logitech.com/?cl=jp,ja,|6|2013-07-31|2014-01-26| | |TextLink|TextLink_Normal|46|44|47|59</Row>
+			<Row>https://www.guildwars2.com/en/partners/|8|logitech|2014-01-25|0|0|0|0|0|0|0|http://www.logitech.com/|7|2013-09-08|2014-01-25| | |TextLink|TextLink_Normal|57|69|53|52</Row>
+			<Row>https://buy.ultimateears.com/store?action=displaypage&#38;locale=en_us&#38;siteid=logib2c&#38;id=shoppingcartpage|7|our latest offers|2014-01-24|0|0|1|0|0|0|0|http://www.logitech.com/en-us/special-offers|4|2013-07-29|2014-01-24| | |TextLink|TextLink_Normal|49|40|48|57</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="8" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|iheart.com|2716|27827|200969215|3387203|750275|2009-01-24|2014-01-26|207.152.124.43|207.152.124.0|US|com|72|49</Row>
+			<Row>1|talentreef.com|-1|110|1110|1385|1320|2010-06-18|2014-01-26|67.225.220.162|67.225.220.0|US|com|36|45</Row>
+			<Row>2|pandora.com|286|168636|35790334|16471302|1923615|2008-06-27|2014-01-26|208.85.40.20|208.85.40.0|US|com|55|83</Row>
+			<Row>3|ventrilo.com|99511|60394|8573402|450794|133865|2008-06-26|2014-01-26|70.87.75.146|70.87.75.0|US|com|49|69</Row>
+			<Row>4|ultimateears.com|-1|10530|607184|33552|30463|2008-07-20|2014-01-26|107.23.199.237|107.23.199.0|US|com|45|61</Row>
+			<Row>5|tunein.com|1326|60717|23030620|4098532|311362|2009-10-12|2014-01-26|204.69.221.10|204.69.221.0|US|com|55|54</Row>
+			<Row>6|logicool.co.jp|30036|9510|604873|462285|254625|2008-07-01|2014-01-26|8.26.215.126|8.26.215.0|US|jp|48|52</Row>
+			<Row>7|guildwars2.com|4384|40512|20345431|3420230|279477|2008-08-08|2014-01-26|64.25.40.16|64.25.40.0|US|com|60|64</Row>
+		</DataTable>
+	</DataTables>
+</Result>

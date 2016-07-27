@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="250" IndexBuildDate="2014-04-16 10:01:34" IndexType="0" RemainingAnalysisResUnits="96331727" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19865261" RemainingStandardReports="950" ServerBuild="2014-04-16 03:14:48" ServerName="SHADOJAGUAR" ServerVersion="1.0.5219.4044" UniqueIndexID="20140416100134-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="250" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="apartmentguide.com" BackLinkType="RootDomain" TotalBackLinks="6596645" TotalLines="50000" TotalMatches="250">
+			<Row>http://rentpath.com/|8|ag_4c|2014-03-20|0|0|0|1|0|0|0|http://apartmentguide.com/|0|2013-04-25|2014-03-20| | |ImageLink|ImageLink_Normal|48|46|56|58</Row>
+			<Row>http://www.rentals.com/|8|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-08-14|2014-03-20| | |TextLink|TextLink_Normal|56|62|52|57</Row>
+			<Row>http://www.newhomeguide.com/|8|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2010-04-11|2014-03-20| | |TextLink|TextLink_Normal|56|62|52|56</Row>
+			<Row>http://www.rentalhouses.com/|8|apartments|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|3|2009-11-12|2014-03-20| | |TextLink|TextLink_Normal|56|62|52|54</Row>
+			<Row>http://realestate.aol.com/blog/2014/02/18/williston-nd-rents-highest-us/|8|apartment guide|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|4|2014-02-19|2014-03-18| | |TextLink|TextLink_Normal|56|62|54|51</Row>
+			<Row>http://www.aspca.org/about-us/faq/|7|www.apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|5|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|56|62|49|56</Row>
+			<Row>http://www.rentlist.com/|8|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://apartmentguide.com/|6|2013-08-23|2014-03-20| | |TextLink|TextLink_Normal|48|46|50|52</Row>
+			<Row>http://www.pinterest.com/apartmentguide/|7|apartmentguide.com|2014-03-20|0|0|1|0|0|0|0|http://apartmentguide.com/|7|2013-09-22|2014-03-20| | |TextLink|TextLink_Normal|48|46|47|50</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/|8|tamarac|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Tamarac/Vizcaya-Villas/189401/|8|2013-11-13|2014-03-19| | |TextLink|TextLink_Normal|31|33|51|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/|8|viscaya villas - tamarac|2014-03-19|0|0|0|1|0|0|0|http://www.apartmentguide.com/apartments/Florida/Tamarac/Vizcaya-Villas/189401/|8|2013-11-13|2014-03-19| | |ImageLink|ImageLink_Normal|31|33|51|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/|8|viscaya villas|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Tamarac/Vizcaya-Villas/189401/|8|2013-11-13|2014-03-19| | |TextLink|TextLink_Normal|31|33|51|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/|8|sunrise|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Sunrise/Lakeside-Villas/200047759/|8|2013-11-13|2014-03-19| | |TextLink|TextLink_Normal|31|33|51|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/|8|lakeside villa apartments - sunrise|2014-03-19|0|0|0|1|0|0|0|http://www.apartmentguide.com/apartments/Florida/Sunrise/Lakeside-Villas/200047759/|8|2013-11-13|2014-03-19| | |ImageLink|ImageLink_Normal|31|33|51|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/|8|lakeside villa apartments|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Sunrise/Lakeside-Villas/200047759/|8|2013-11-13|2014-03-19| | |TextLink|TextLink_Normal|31|33|51|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-nav-clas-rentals|8|viscaya villas - tamarac|2014-03-16|0|0|0|1|0|0|0|http://www.apartmentguide.com/apartments/Florida/Tamarac/Vizcaya-Villas/189401/|8|2013-11-18|2014-03-16| | |ImageLink|ImageLink_Normal|31|33|51|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-nav-clas-rentals|8|viscaya villas|2014-03-16|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Tamarac/Vizcaya-Villas/189401/|8|2013-11-18|2014-03-16| | |TextLink|TextLink_Normal|31|33|51|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-nav-clas-rentals|8|tamarac|2014-03-16|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Tamarac/Vizcaya-Villas/189401/|8|2013-11-18|2014-03-16| | |TextLink|TextLink_Normal|31|33|51|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-nav-clas-rentals|8|sunrise|2014-03-16|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Sunrise/Lakeside-Villas/200047759/|8|2013-11-18|2014-03-16| | |TextLink|TextLink_Normal|31|33|51|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-nav-clas-rentals|8|lakeside villa apartments|2014-03-16|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Sunrise/Lakeside-Villas/200047759/|8|2013-11-18|2014-03-16| | |TextLink|TextLink_Normal|31|33|51|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-nav-clas-rentals|8|lakeside villa apartments - sunrise|2014-03-16|0|0|0|1|0|0|0|http://www.apartmentguide.com/apartments/Florida/Sunrise/Lakeside-Villas/200047759/|8|2013-11-18|2014-03-16| | |ImageLink|ImageLink_Normal|31|33|51|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-sub-nav-classified-rentals|8|viscaya villas - tamarac|2014-03-17|0|0|0|1|0|0|0|http://www.apartmentguide.com/apartments/Florida/Tamarac/Vizcaya-Villas/189401/|8|2013-11-18|2014-03-17| | |ImageLink|ImageLink_Normal|31|33|50|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-sub-nav-classified-rentals|8|viscaya villas|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Tamarac/Vizcaya-Villas/189401/|8|2013-11-18|2014-03-17| | |TextLink|TextLink_Normal|31|33|50|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-sub-nav-classified-rentals|8|tamarac|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Tamarac/Vizcaya-Villas/189401/|8|2013-11-18|2014-03-17| | |TextLink|TextLink_Normal|31|33|50|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-sub-nav-classified-rentals|8|lakeside villa apartments|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Sunrise/Lakeside-Villas/200047759/|8|2013-11-18|2014-03-17| | |TextLink|TextLink_Normal|31|33|50|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-sub-nav-classified-rentals|8|lakeside villa apartments - sunrise|2014-03-17|0|0|0|1|0|0|0|http://www.apartmentguide.com/apartments/Florida/Sunrise/Lakeside-Villas/200047759/|8|2013-11-18|2014-03-17| | |ImageLink|ImageLink_Normal|31|33|50|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-sub-nav-classified-rentals|8|sunrise|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Sunrise/Lakeside-Villas/200047759/|8|2013-11-18|2014-03-17| | |TextLink|TextLink_Normal|31|33|50|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-sub-nav-home-rentals|8|viscaya villas - tamarac|2014-03-17|0|0|0|1|0|0|0|http://www.apartmentguide.com/apartments/Florida/Tamarac/Vizcaya-Villas/189401/|8|2013-11-18|2014-03-17| | |ImageLink|ImageLink_Normal|31|33|50|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-sub-nav-home-rentals|8|tamarac|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Tamarac/Vizcaya-Villas/189401/|8|2013-11-18|2014-03-17| | |TextLink|TextLink_Normal|31|33|50|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-sub-nav-home-rentals|8|viscaya villas|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Tamarac/Vizcaya-Villas/189401/|8|2013-11-18|2014-03-17| | |TextLink|TextLink_Normal|31|33|50|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-sub-nav-home-rentals|8|lakeside villa apartments - sunrise|2014-03-17|0|0|0|1|0|0|0|http://www.apartmentguide.com/apartments/Florida/Sunrise/Lakeside-Villas/200047759/|8|2013-11-18|2014-03-17| | |ImageLink|ImageLink_Normal|31|33|50|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-sub-nav-home-rentals|8|sunrise|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Sunrise/Lakeside-Villas/200047759/|8|2013-11-18|2014-03-17| | |TextLink|TextLink_Normal|31|33|50|46</Row>
+			<Row>http://www.sun-sentinel.com/classified/realestate/rentals/?track=ss-sub-nav-home-rentals|8|lakeside villa apartments|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Florida/Sunrise/Lakeside-Villas/200047759/|8|2013-11-18|2014-03-17| | |TextLink|TextLink_Normal|31|33|50|46</Row>
+			<Row>http://www.youtube.com/apartmentguide/|7|apartmentguide.com|2014-03-16|0|0|1|0|0|0|0|http://www.apartmentguide.com/|9|2013-08-19|2014-03-16| | |TextLink|TextLink_Normal|56|62|46|49</Row>
+			<Row>http://www.youtube.com/apartmentguide/|7| |2014-03-16|0|0|1|1|0|0|0|http://www.apartmentguide.com/|9|2013-08-19|2014-03-16| | |ImageLink|ImageLink_Normal|56|62|46|49</Row>
+			<Row>http://www.hamptonu.edu/student_life/housing.cfm|6|apartment guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|10|2011-12-02|2014-03-20| | |TextLink|TextLink_Normal|56|62|40|50</Row>
+			<Row>http://blog.rentals.com/|6|apartments for rent|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2010-11-07|2014-03-20| | |TextLink|TextLink_Normal|56|62|42|46</Row>
+			<Row>http://blog.rentals.com/|6|apartments|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2010-11-07|2014-03-20| | |TextLink|TextLink_Normal|56|62|42|46</Row>
+			<Row>http://www.rentals.com/Sitemap/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2010-07-08|2014-03-18| | |TextLink|TextLink_Normal|56|62|42|46</Row>
+			<Row>http://rentpath.com/feed/|7|www.apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|0|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|56|62|45|43</Row>
+			<Row>http://rentpath.com/feed/|7|www.apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|0|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|56|62|45|43</Row>
+			<Row>http://rentpath.com/feed/|7|apartment guide|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|0|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|56|62|45|43</Row>
+			<Row>http://rentpath.com/feed/|7|blog|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/|0|2013-09-20|2014-03-18| | |TextLink|TextLink_Normal|52|53|45|43</Row>
+			<Row>http://rentpath.com/feed/|7|http://apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://apartmentguide.com/|0|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|48|46|45|43</Row>
+			<Row>http://www.rentals.com/Consumer-Alert/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-03-05|2014-03-18| | |TextLink|TextLink_Normal|56|62|42|45</Row>
+			<Row>http://www.rentals.com/Privacy-Policy/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-11-30|2014-03-18| | |TextLink|TextLink_Normal|56|62|42|45</Row>
+			<Row>http://www.rentals.com/Terms-Of-Use/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-04-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|42|45</Row>
+			<Row>http://www.rentals.com/Equal-Opportunity-Housing/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-05-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|42|45</Row>
+			<Row>http://rentpath.com/about-us/|7| |2014-03-18|0|0|0|1|0|0|0|http://apartmentguide.com/|0|2013-04-23|2014-03-18| | |ImageLink|ImageLink_Normal|48|46|45|42</Row>
+			<Row>http://www.rentals.com/Mobile-Apps/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-05-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|41|45</Row>
+			<Row>http://www.rentals.com/Contact-Us/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-03-05|2014-03-18| | |TextLink|TextLink_Normal|56|62|41|45</Row>
+			<Row>http://www.rentals.com/How-To-Rent-Your-Home/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-06-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|41|45</Row>
+			<Row>http://www.rentals.com/Relocation/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-04-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|41|45</Row>
+			<Row>http://www.rentals.com/List-Rental-Properties/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-05-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|41|45</Row>
+			<Row>http://www.rentals.com/About-Us/|6|apartmentguide.com,|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-03-05|2014-03-18| | |TextLink|TextLink_Normal|56|62|41|45</Row>
+			<Row>http://www.rentals.com/About-Us/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-03-05|2014-03-18| | |TextLink|TextLink_Normal|56|62|41|45</Row>
+			<Row>http://www.rentals.com/Advertise-Your-Rental-Property/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-03-05|2014-03-18| | |TextLink|TextLink_Normal|56|62|41|45</Row>
+			<Row>http://www.newhomeguide.com/new-home-services-guide/|6|apartments|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-01-06|2014-03-20| | |TextLink|TextLink_Normal|56|62|41|43</Row>
+			<Row>http://www.hotsheet.com/|7|apt guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|11|2014-03-20|2014-03-20| | |TextLink|TextLink_Normal|56|62|44|40</Row>
+			<Row>http://www.huffingtonpost.com/2014/03/15/paint-colors-for-apartments_n_4966967.html?ir=HuffPost Home|7|apartment guide|2014-03-16|0|0|0|0|0|0|0|http://www.apartmentguide.com/|12|2014-03-16|2014-03-16| | |TextLink|TextLink_Normal|56|62|46|37</Row>
+			<Row>http://www.theverge.com/2014/2/19/5425040/williston-north-dakota-most-expensive-place-to-rent-in-us|7|reportedly have &#34;long-term projects&#34;|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/williston-nd/|13|2014-02-20|2014-03-20| | |TextLink|TextLink_Normal|39|35|48|35</Row>
+			<Row>http://www.theverge.com/2014/2/19/5425040/williston-north-dakota-most-expensive-place-to-rent-in-us|7|conducted by apartment guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/williston-nd/|13|2014-02-20|2014-03-20| | |TextLink|TextLink_Normal|39|35|48|35</Row>
+			<Row>http://www.theverge.com/2014/2/19/5425040/williston-north-dakota-most-expensive-place-to-rent-in-us|7|apartment guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/williston-nd/|13|2014-02-20|2014-03-20| | |TextLink|TextLink_Normal|39|35|48|35</Row>
+			<Row>http://sfappeal.com/|7|apartments for rent in san francisco|2014-03-20|0|0|1|0|0|0|0|http://www.apartmentguide.com/apartments/California/San-Francisco/|14|2011-08-04|2014-03-20| | |TextLink|TextLink_Normal|31|32|49|34</Row>
+			<Row>http://www.movingtoday.com/|7|clicking here.|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/|15|2013-09-22|2014-03-20| | |TextLink|TextLink_Normal_HighContent|52|53|46|36</Row>
+			<Row>http://www.movingtoday.com/|7|apartmentguide.com/blog.|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/|15|2013-09-22|2014-03-20| | |TextLink|TextLink_Normal_HighContent|52|53|46|36</Row>
+			<Row>http://www.movingtoday.com/|7| |2014-03-20|0|0|0|1|0|0|0|http://www.apartmentguide.com/blog/|15|2013-09-22|2014-03-20| | |ImageLink|ImageLink_HighContent|52|53|46|36</Row>
+			<Row>http://www.pubcon.com/speakers/past-speakers/|6|rentpath|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|16|2013-09-22|2014-03-20| | |TextLink|TextLink_Normal|56|62|43|38</Row>
+			<Row>http://www.rentlist.com/privacy/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://apartmentguide.com/|6|2013-09-20|2014-03-18| | |TextLink|TextLink_Normal|48|46|42|39</Row>
+			<Row>http://www.rentlist.com/terms_of_use/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://apartmentguide.com/|6|2013-09-20|2014-03-18| | |TextLink|TextLink_Normal|48|46|42|39</Row>
+			<Row>http://www.rentlist.com/about_us/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://apartmentguide.com/|6|2013-09-20|2014-03-18| | |TextLink|TextLink_Normal|48|46|42|39</Row>
+			<Row>http://www.rentlist.com/contact_us/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://apartmentguide.com/|6|2013-09-20|2014-03-18| | |TextLink|TextLink_Normal|48|46|42|39</Row>
+			<Row>http://www.rentlist.com/equal_opportunity_housing/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://apartmentguide.com/|6|2013-09-20|2014-03-18| | |TextLink|TextLink_Normal|48|46|42|39</Row>
+			<Row>http://www.arf.net/resources/links/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|17|2011-05-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|36|44</Row>
+			<Row>http://www.newhomeguide.com/Uptown/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-05-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/about_us/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-06-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/advertise_with_us/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-06-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Vacation-Resort-Homes/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-06-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Near-Military-Installation/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-04-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Master-Planned/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-01-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Custom-Homes/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-05-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Home-Builders/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-01-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/sitemap.html|6|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-06-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/employment/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2013-04-23|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/privacy_policy/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-06-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/rapid_request/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-06-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Townhomes/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/states/|6|apartmentguide.com|2014-03-16|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-06-01|2014-03-16| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/terms_of_use/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-06-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Luxury-Homes/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Waterfront-Homes/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-06-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/comments/new/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-06-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Golf-Course-Homes/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Condos/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Downtown-Homes/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-01-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Active-Adult-Homes/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/Green-Communities/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-01-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.newhomeguide.com/New-Homes/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|42</Row>
+			<Row>http://www.rentaldecorating.com/press.htm|6|apartmentguide.com - search apartments and rentals nationwide|2014-03-20|0|0|0|1|0|0|0|http://www.apartmentguide.com/index.asp|18|2009-05-16|2014-03-20| | |ImageLink|ImageLink_Normal|22|30|37|43</Row>
+			<Row>http://www.mccneb.edu/futurestudents/1resourcecenter.asp|5|find an apartment|2014-03-20|0|0|1|0|0|0|0|http://www.apartmentguide.com/apartments/Nebraska/Omaha/|19|2009-05-16|2014-03-20| | |TextLink|TextLink_Normal|23|31|36|43</Row>
+			<Row>http://listonapartmentguide.com/|6|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|20|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|56|62|38|41</Row>
+			<Row>http://listonapartmentguide.com/|6| |2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/|20|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|52|53|38|41</Row>
+			<Row>http://listonapartmentguide.com/|6|apartment guide university|2014-03-20|0|0|0|0|0|0|0|http://help.apartmentguide.com/|20|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|28|34|38|41</Row>
+			<Row>http://www.ccad.edu/ccad-campus/residence-life/off-campus-housing/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/college/Ohio/Columbus-College-of-Art-Design/|21|2009-10-11|2014-03-18| | |TextLink|TextLink_Normal|12|25|35|43</Row>
+			<Row>http://www.cscc.edu/campus-life/athletics/|5|live in columbus|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Ohio/Columbus-State-Community-College/|22|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|19|27|36|42</Row>
+			<Row>http://law.ggu.edu/admissions/international-applicants/|5|www.apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|23|2013-05-25|2014-03-20| | |TextLink|TextLink_Normal|56|62|36|41</Row>
+			<Row>http://law.ggu.edu/admissions/international-applicants/|5|apartment guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/California/San-Francisco/|23|2013-06-24|2014-03-20| | |TextLink|TextLink_Normal|31|32|36|41</Row>
+			<Row>http://www.howlinwolf.com/book/book_med.htm|5|apartments in houston|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Texas/Houston/|24|2012-11-26|2014-03-20| | |TextLink|TextLink_Normal|36|41|34|43</Row>
+			<Row>http://publicrecords.searchsystems.net/United_States_Free_Public_Records_by_State/California_Public_Records/|5|apartments for rent in san diego|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/California/San-Diego/|25|2011-08-31|2014-03-17| | |TextLink|TextLink_Normal|35|40|34|42</Row>
+			<Row>http://publicrecords.searchsystems.net/United-States/|5|apartments for rent|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|25|2011-09-02|2014-03-19| | |TextLink|TextLink_Normal|56|62|34|42</Row>
+			<Row>http://www.kgi.edu/current-students/student-services/student-housing.html|5|http://www.apartmentguide.com/apartments/california/claremont/|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/California/Claremont/|26|2011-08-04|2014-03-20| | |TextLink|TextLink_Normal|17|26|34|42</Row>
+			<Row>http://www.greaterlouisville.com/LiveInLou/Housing/|5|louisville apartment guide|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Kentucky/Louisville/|27|2012-10-25|2014-03-18| | |TextLink|TextLink_Normal|25|31|35|41</Row>
+			<Row>http://www.utulsa.edu/academics/colleges/college-of-law/Resources/Admitted Students.aspx|5|www.apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|28|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|56|62|36|39</Row>
+			<Row>http://www.rentals.com/District-of-Columbia/Washington/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-03-07|2014-03-20| | |TextLink|TextLink_Normal|56|62|34|41</Row>
+			<Row>http://www.albanylaw.edu/students/housing/Pages/default.aspx|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|29|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|56|62|34|41</Row>
+			<Row>http://realestate.aol.com/blog/writers/the-associated-press/rss.xml|6|apartment guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|4|2014-02-21|2014-03-20| | |TextLink|TextLink_Normal|56|62|38|36</Row>
+			<Row>http://www.law.ou.edu/content/living-norman/|6|apartment guide (off-campus)|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Oklahoma/Norman/|30|2012-01-29|2014-03-18| | |TextLink|TextLink_Normal|21|30|37|37</Row>
+			<Row>http://www.pacificcollege.edu/acupuncture-massage-college-campuses/new-york/housing-resources.html|5|www.apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|31|2011-03-07|2014-03-20| | |TextLink|TextLink_Normal|56|62|34|40</Row>
+			<Row>http://www.huntsvillealabamausa.com/index.php?option=com_content&#38;view=article&#38;id=94&#38;Itemid=309|5|hwww.apartmentguide.com/apartments/ alabama/huntsville/|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Alabama/Huntsville/|32|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|25|31|34|40</Row>
+			<Row>http://abcnews.go.com/US/life-williston-north-dakota-expensive-place-rent-apartment/story?id=22549192|6|check out the map here.|2014-02-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/williston-nd/|33|2014-02-18|2014-02-18| | |TextLink|TextLink_Normal|39|35|38|35</Row>
+			<Row>http://gizmodo.com/the-highest-rents-in-the-united-states-are-in-williston-1525055898|6|apartment guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/williston-nd/|34|2014-02-19|2014-03-20| | |TextLink|TextLink_Normal|39|35|38|35</Row>
+			<Row>http://gizmodo.com/the-highest-rents-in-the-united-states-are-in-williston-1525055898|6|new study by apartment guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/williston-nd/|34|2014-02-19|2014-03-20| | |TextLink|TextLink_Normal|39|35|38|35</Row>
+			<Row>http://www.businessinsider.com/map-most-expensive-apartment-rentals-2014-2|6|apartment guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|35|2014-02-14|2014-03-20| | |TextLink|TextLink_Normal|56|62|38|35</Row>
+			<Row>http://www.businessinsider.com/map-most-expensive-apartment-rentals-2014-2|6|according to apartment guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/williston-nd/|35|2014-02-14|2014-03-20| | |TextLink|TextLink_Normal|39|35|38|35</Row>
+			<Row>http://www.businessinsider.com/map-most-expensive-apartment-rentals-2014-2|6|apartment guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/williston-nd/|35|2014-02-14|2014-03-20| | |TextLink|TextLink_Normal|39|35|38|35</Row>
+			<Row>http://www.avemarialaw.edu/Campuslife/Facilities/|5|www.apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|36|2013-07-23|2014-03-19| | |TextLink|TextLink_Normal|56|62|34|39</Row>
+			<Row>http://www.rentalhouses.com/help/faq|6|apartments|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|3|2011-04-06|2014-03-20| | |TextLink|TextLink_Normal|56|62|37|36</Row>
+			<Row>http://www.rentalhouses.com/search/advanced|6|apartments|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|3|2011-03-07|2014-03-20| | |TextLink|TextLink_Normal|56|62|37|36</Row>
+			<Row>http://www.rentalhouses.com/avoid-fraud|6|apartments|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|3|2011-04-06|2014-03-20| | |TextLink|TextLink_Normal|56|62|37|36</Row>
+			<Row>http://www.foxnews.com/us/2014/02/16/rent-in-north-dakota-oil-city-exceeds-nyc-la/|6|that apartment guide found|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/williston-nd/|37|2014-03-03|2014-03-18| | |TextLink|TextLink_Normal|39|35|37|35</Row>
+			<Row>http://grist.org/food/rents-in-north-dakota-oil-town-now-higher-than-in-nyc-or-san-francisco/|6|findings published monday by apartmentguide.com|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/williston-nd/|38|2014-02-21|2014-03-17| | |TextLink|TextLink_Normal|39|35|37|35</Row>
+			<Row>http://www.theatlanticcities.com/housing/2014/02/north-dakota-town-where-rent-really-really-high/8438/|6|recently tracked|2014-03-16|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/williston-nd/|39|2014-02-20|2014-03-16| | |TextLink|TextLink_Normal|39|35|37|35</Row>
+			<Row>http://www.rentals.com/Colorado/Colorado-Springs/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-04|2014-03-19| | |TextLink|TextLink_Normal|56|62|34|38</Row>
+			<Row>http://www.trocaire.edu/student-life/housing/|5|www.apartmentguide.com|2014-03-16|0|0|0|0|0|0|0|http://www.apartmentguide.com/|40|2014-03-16|2014-03-16| | |TextLink|TextLink_Normal|56|62|31|41</Row>
+			<Row>http://www.trocaire.edu/student-life/housing/|5| |2014-03-16|0|0|0|0|0|0|0|http://www.apartmentguide.com/|40|2014-03-16|2014-03-16| | |TextLink|TextLink_Normal|56|62|31|41</Row>
+			<Row>http://www.rentals.com/North-Carolina/Raleigh/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-07-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|40</Row>
+			<Row>http://www.rentals.com/Texas/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|33|38</Row>
+			<Row>http://www.rrc.edu/about/student-life/housing/|5|http://www.apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/index.asp?partner=6224&#38;pop=no|41|2011-01-05|2014-03-19| | |TextLink|TextLink_Normal|15|26|31|40</Row>
+			<Row>http://www.ancilla.edu/apply-to-ancilla/local-housing-and-apartment-information/|5|mallard lakes|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Indiana/Plymouth/Mallard-Lake-Apartments/87050/|42|2012-10-25|2014-03-18| | |TextLink|TextLink_Normal|16|28|30|41</Row>
+			<Row>http://www.huntsvillealabamausa.com/index.php?option=com_content&#38;view=article&#38;id=94&#38;Itemid=270|5|hwww.apartmentguide.com/apartments/ alabama/huntsville/|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Alabama/Huntsville/|32|2013-02-24|2014-03-20| | |TextLink|TextLink_Normal|25|31|31|40</Row>
+			<Row>http://www.huntsvillealabamausa.com/index.php?option=com_content&#38;view=article&#38;id=102&#38;Itemid=277|5|read story online|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/get-more-apartment-for-less-money-in-these-top-metros-infographic/|32|2013-08-23|2014-03-20| | |TextLink|TextLink_Normal|27|28|31|40</Row>
+			<Row>http://www.huntsvillealabamausa.com/index.php?option=com_content&#38;view=article&#38;id=102&#38;Itemid=277|5|read story online|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/top-metros-for-keeping-cool-this-summer/|32|2013-08-23|2014-03-20| | |TextLink|TextLink_Normal|22|27|31|40</Row>
+			<Row>http://www.rentals.com/Tennessee/Memphis/|5|apartmentguide.com|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-10|2014-03-17| | |TextLink|TextLink_Normal|56|62|32|38</Row>
+			<Row>http://www.rentals.com/Georgia/Atlanta/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2010-06-10|2014-03-20| | |TextLink|TextLink_Normal|56|62|32|38</Row>
+			<Row>http://www.rentals.com/California/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-12|2014-03-19| | |TextLink|TextLink_Normal|56|62|32|38</Row>
+			<Row>http://www.rentals.com/Florida/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-01-06|2014-03-20| | |TextLink|TextLink_Normal|56|62|32|38</Row>
+			<Row>http://www.avaloncommunities.com/faq/|6|www.apartmentguide.com|2014-03-19|0|0|1|0|0|0|0|http://www.apartmentguide.com/|43|2012-04-29|2014-03-19| | |TextLink|TextLink_Normal|56|62|41|29</Row>
+			<Row>http://hotsheet.com/|6|apt guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|11|2014-03-20|2014-03-20| | |TextLink|TextLink_Normal|56|62|41|29</Row>
+			<Row>http://www.rentrentar.com/|5| |2014-03-20|1|0|0|0|0|0|0|http://www.apartmentguide.com/|44|2008-11-17|2014-03-20| | |Redirect|Redirect_Temporary|56|62|35|35</Row>
+			<Row>http://www.rentals.com/Maryland/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Nevada/Las-Vegas/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Pennsylvania/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Illinois/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Colorado/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-01-06|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Georgia/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-01-06|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/North-Carolina/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Florida/Jacksonville/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Illinois/Chicago/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Arizona/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/California/Sacramento/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-03-06|2014-03-19| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Texas/Houston/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/North-Carolina/Charlotte/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2010-11-07|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Texas/Austin/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Maryland/Baltimore/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Ohio/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Tennessee/Nashville/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-12|2014-03-19| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Virginia/Virginia-Beach/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Colorado/Denver/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Arizona/Phoenix/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-03-07|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Virginia/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.rentals.com/Michigan/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|38</Row>
+			<Row>http://www.mccn.edu/academics/bachelor-of-science/mccn-at-fairfield-medical-center|4|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|45|2011-10-03|2014-03-20| | |TextLink|TextLink_Normal|56|62|29|40</Row>
+			<Row>http://www.emetrics.org/testimonials/|6|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|46|2013-07-22|2014-03-18| | |TextLink|TextLink_Normal|56|62|38|31</Row>
+			<Row>http://www.barkworldexpo.com/|5|ag_logo_shadow|2014-03-20|0|0|0|1|0|0|0|http://www.apartmentguide.com/|47|2011-09-03|2014-03-20| | |ImageLink|ImageLink_Normal|56|62|36|33</Row>
+			<Row>http://time.com/8731/highest-rent-in-us-williston-north-dakota/|5|new study|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/williston-nd/|48|2014-03-07|2014-03-20| | |TextLink|TextLink_Normal|39|35|34|34</Row>
+			<Row>http://osumarion.osu.edu/housing/|5|http://www.apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|49|2012-03-30|2014-03-19| | |TextLink|TextLink_Normal|56|62|33|35</Row>
+			<Row>http://www.napcc.aspca.org/about-us/faq|4|www.apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|5|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|56|62|29|39</Row>
+			<Row>http://www.rentals.com/Oklahoma/Oklahoma-City/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Rhode-Island/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Ohio/Cincinnati/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/West-Virginia/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Montana/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Utah/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-11|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Louisiana/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Kentucky/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Wisconsin/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-11|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Ohio/Cleveland/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Maine/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Michigan/Detroit/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-04|2014-03-19| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Oregon/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-04|2014-03-19| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Washington/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-12|2014-03-19| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Iowa/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-12|2014-03-19| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Missouri/St-Louis/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Idaho/Boise/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Massachusetts/Boston/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Arkansas/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/South-Dakota/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Wyoming/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-11|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Mississippi/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-04|2014-03-19| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Idaho/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/New-Hampshire/|5|apartmentguide.com|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-02|2014-03-17| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/North-Dakota/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-04|2014-03-19| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Alaska/|5|apartmentguide.com|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-02|2014-03-17| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Florida/Miami/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Kansas/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Oregon/Portland/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/New-York/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Pennsylvania/Philadelphia/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-04|2014-03-19| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Utah/Salt-Lake-City/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Florida/Tampa/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Delaware/|5|apartmentguide.com|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-02|2014-03-17| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Oklahoma/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-11-12|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/New-Jersey/|5|apartmentguide.com|2014-03-16|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-01|2014-03-16| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/South-Carolina/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Vermont/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Tennessee/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Ohio/Columbus/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-03|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Minnesota/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Alabama/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-04|2014-03-19| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Massachusetts/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Indiana/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Minnesota/Minneapolis/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-05-05|2014-03-19| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Nebraska/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-04|2014-03-19| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/California/San-Diego/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-11|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Nevada/|5|apartmentguide.com|2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-04|2014-03-19| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/New-Mexico/|5|apartmentguide.com|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-02|2014-03-17| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Missouri/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.rentals.com/Virginia/Norfolk/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-13|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|38</Row>
+			<Row>http://www.palmer.edu/Housing/|4|apartmentguide.com|2014-03-20|0|0|1|0|0|0|0|http://www.apartmentguide.com/|50|2011-10-03|2014-03-20| | |TextLink|TextLink_Normal|56|62|29|39</Row>
+			<Row>http://www.ebizmba.com/articles/real-estate-websites/|6|8 || apartmentguide|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/|51|2011-06-02|2014-03-17| | |TextLink|TextLink_Normal|56|62|37|31</Row>
+			<Row>http://www.ebizmba.com/articles/real-estate-websites/|6| |2014-03-17|0|0|0|1|0|0|0|http://www.apartmentguide.com/|51|2011-06-02|2014-03-17| | |ImageLink|ImageLink_Normal|56|62|37|31</Row>
+			<Row>http://www.smc.edu/EnrollmentDevelopment/NewStudents/Pages/Housinginfo.aspx|5|www.apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|52|2013-07-24|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|37</Row>
+			<Row>http://www.desu.edu/student-affairs/campus-living/|5|www.apartmentguide.com|2014-03-16|0|0|0|0|0|0|0|http://www.apartmentguide.com/|53|2013-07-20|2014-03-16| | |TextLink|TextLink_Normal|56|62|30|37</Row>
+			<Row>http://www.rentals.com/Connecticut/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|37</Row>
+			<Row>http://www.rentals.com/Hawaii/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|1|2009-10-11|2014-03-18| | |TextLink|TextLink_Normal|56|62|30|37</Row>
+			<Row>http://www.newhomeguide.com/New-Homes/Texas/Houston/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|36</Row>
+			<Row>http://www.newhomeguide.com/New-Homes/North-Carolina/|5|apartmentguide.com|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-02-02|2014-03-17| | |TextLink|TextLink_Normal|56|62|31|36</Row>
+			<Row>http://www.newhomeguide.com/New-Homes/California/|5|apartmentguide.com|2014-03-18|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-01-04|2014-03-18| | |TextLink|TextLink_Normal|56|62|31|36</Row>
+			<Row>http://www.newhomeguide.com/New-Homes/Texas/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|36</Row>
+			<Row>http://www.newhomeguide.com/New-Homes/Florida/|5|apartmentguide.com|2014-03-17|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-01-03|2014-03-17| | |TextLink|TextLink_Normal|56|62|31|36</Row>
+			<Row>http://www.rentalhouses.com/rent-to-own|5|apartments|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|3|2011-02-05|2014-03-20| | |TextLink|TextLink_Normal|56|62|32|35</Row>
+			<Row>http://listonapartmentguide.com/mobile-diamond/|5| |2014-03-19|0|0|0|0|0|0|0|http://www.apartmentguide.com/blog/|20|2014-01-31|2014-03-19| | |TextLink|TextLink_Normal|52|53|32|35</Row>
+			<Row>http://listonapartmentguide.com/mobile-diamond/|5|apartment guide university|2014-03-19|0|0|0|0|0|0|0|http://help.apartmentguide.com/|20|2014-01-31|2014-03-19| | |TextLink|TextLink_Normal|28|34|32|35</Row>
+			<Row>http://www.findspot.com/services.htm|6|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|54|2011-10-03|2014-03-20| | |TextLink|TextLink_Normal|56|62|39|28</Row>
+			<Row>https://itunes.apple.com/app/apartments/id292234839?mt=8|5|rentpath, inc web site|2014-03-20|0|0|1|0|0|0|0|http://www.apartmentguide.com/|55|2014-03-08|2014-03-20| | |TextLink|TextLink_Normal|56|62|31|35</Row>
+			<Row>https://itunes.apple.com/app/apartments/id292234839?mt=8|5|apartments for rent by apartment guide support|2014-03-20|0|0|1|0|0|0|0|http://www.apartmentguide.com/contact_us/|55|2012-12-26|2014-03-20| | |TextLink|TextLink_Normal|46|49|31|35</Row>
+			<Row>http://graduate.wfu.edu/housing.html|5|apartment guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|56|2011-03-07|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|36</Row>
+			<Row>http://law.campbell.edu/page.cfm?id=578&#38;n=living-in-raleigh|5|raleigh area apartment guide|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/North-Carolina/Raleigh/|57|2013-10-23|2014-03-20| | |TextLink|TextLink_Normal|24|29|35|31</Row>
+			<Row>http://www.businessseek.biz/business-directory/Apartments-1.html|4|apartment guide - rental locator|2014-03-20|0|0|1|0|0|0|0|http://www.apartmentguide.com/|58|2012-07-29|2014-03-20| | |TextLink|TextLink_Normal|56|62|28|38</Row>
+			<Row>http://www.semo.edu/housing/off_campus.html|4|apartment guide online|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/apartments/Missouri/Cape-Girardeau/|59|2014-03-09|2014-03-20| | |TextLink|TextLink_Normal|19|29|28|38</Row>
+			<Row>http://www.newhomeguide.com/New-Homes/Louisiana/|5|apartmentguide.com|2014-03-20|0|0|0|0|0|0|0|http://www.apartmentguide.com/|2|2011-04-06|2014-03-20| | |TextLink|TextLink_Normal|56|62|30|36</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="60" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|rentpath.com|-1|161|912558|379|375|2013-04-07|2014-03-20|67.205.11.203|67.205.11.0|US|com|41|46</Row>
+			<Row>1|rentals.com|16399|28861|14839301|60481609|1750404|2008-08-18|2014-03-20|174.35.22.85|174.35.22.0|US|com|44|50</Row>
+			<Row>2|newhomeguide.com|205694|8953|3944898|22454243|1158946|2008-08-18|2014-03-20|66.114.53.27|66.114.53.0|US|com|40|47</Row>
+			<Row>3|rentalhouses.com|78832|11191|2919596|22481787|1525708|2008-08-18|2014-03-20|174.35.22.47|174.35.22.0|US|com|39|44</Row>
+			<Row>4|aol.com|67|1493957|1882788810|108317246|4676484|2008-08-18|2014-03-20|205.188.19.16|205.188.19.0|US|com|92|89</Row>
+			<Row>5|aspca.org|15686|109524|12412000|1006457|366049|2008-08-26|2014-03-20|184.106.10.179|184.106.10.0|US|org|55|71</Row>
+			<Row>6|rentlist.com|775344|2515|2028906|43618|30483|2008-08-19|2014-03-20|93.188.129.139|93.188.129.0|NL|com|36|43</Row>
+			<Row>7|pinterest.com|34|3278848|8414553246|895118250|121782337|2010-05-02|2014-03-20|23.23.228.190|23.23.228.0|US|com|94|96</Row>
+			<Row>8|sun-sentinel.com|6748|279707|35722141|7862639|1749447|2008-08-18|2014-03-20|207.152.124.145|207.152.124.0|US|com|66|64</Row>
+			<Row>9|youtube.com|3|20486283|45658615963|4458230701|260000209|2008-08-18|2014-03-20|74.125.226.206|74.125.226.0|US|com|99|99</Row>
+			<Row>10|hamptonu.edu|308202|22868|1102628|716214|197811|2008-08-30|2014-03-20|137.198.11.11|137.198.11.0|US|edu|45|62</Row>
+			<Row>11|hotsheet.com|57987|12173|132076|84566715|1886608|2008-08-18|2014-03-20|66.111.104.145|66.111.104.0|US|com|29|34</Row>
+			<Row>12|huffingtonpost.com|96|1216117|1469114410|35111861|3918855|2008-08-18|2014-03-20|62.154.232.113|62.154.232.0|DE|com|92|87</Row>
+			<Row>13|theverge.com|1303|199352|42773450|507612|259308|2009-09-17|2014-03-20|69.25.121.103|69.25.121.0|US|com|84|55</Row>
+			<Row>14|sfappeal.com|165768|18375|697091|145088|132697|2009-05-25|2014-03-20|98.129.229.34|98.129.229.0|US|com|47|35</Row>
+			<Row>15|movingtoday.com|681280|1918|1393818|19380|12534|2011-10-12|2014-03-20|66.151.255.156|66.151.255.0|US|com|28|32</Row>
+			<Row>16|pubcon.com|63668|16327|891467|26072|16108|2008-08-29|2014-03-20|209.59.188.85|209.59.188.0|US|com|48|47</Row>
+			<Row>17|arf.net|-1|4981|76628|18338|14448|2008-09-04|2014-03-20|74.124.219.117|74.124.219.0|US|net|38|50</Row>
+			<Row>18|rentaldecorating.com|746175|10286|113089|241656|133037|2008-08-18|2014-03-20|209.237.151.17|209.237.151.0|US|com|38|47</Row>
+			<Row>19|mccneb.edu|87186|18966|660251|172324|109920|2008-08-18|2014-03-20|209.34.216.170|209.34.216.0|US|edu|41|52</Row>
+			<Row>20|listonapartmentguide.com|-1|970|320336|559|478|2012-10-28|2014-03-20|67.205.11.203|67.205.11.0|US|com|28|40</Row>
+			<Row>21|ccad.edu|451583|7440|152406|52223|40171|2008-09-13|2014-03-20|69.65.26.102|69.65.26.0|US|edu|42|60</Row>
+			<Row>22|cscc.edu|64561|13673|384216|92860|59081|2008-08-30|2014-03-20|198.30.71.176|198.30.71.0|US|edu|44|56</Row>
+			<Row>23|ggu.edu|181457|19212|478012|126698|92386|2008-09-10|2014-03-20|192.251.73.15|192.251.73.0|US|edu|45|61</Row>
+			<Row>24|howlinwolf.com|-1|3359|37482|572|412|2009-09-21|2014-03-20|65.61.23.152|65.61.23.0|US|com|34|48</Row>
+			<Row>25|searchsystems.net|256116|18136|442546|348705|213441|2008-08-27|2014-03-20|207.178.182.32|207.178.182.0|US|net|43|57</Row>
+			<Row>26|kgi.edu|-1|6330|575094|259129|246493|2008-08-28|2014-03-20|207.20.55.23|207.20.55.0|US|edu|42|56</Row>
+			<Row>27|greaterlouisville.com|-1|4961|3052413|92565|83636|2008-08-20|2014-03-20|74.143.112.20|74.143.112.0|US|com|38|47</Row>
+			<Row>28|utulsa.edu|140316|78077|3797103|694381|230971|2008-08-18|2014-03-20|129.244.100.245|129.244.100.0|US|edu|50|62</Row>
+			<Row>29|albanylaw.edu|-1|5455|403774|91087|49544|2008-08-31|2014-03-20|173.243.174.108|173.243.174.0|US|edu|40|52</Row>
+			<Row>30|ou.edu|24147|175139|61217073|3340759|980325|2008-08-18|2014-03-20|129.15.0.230|129.15.0.0|US|edu|56|68</Row>
+			<Row>31|pacificcollege.edu|417411|7837|151807|50734|31216|2008-09-03|2014-03-20|74.8.152.139|74.8.152.0|US|edu|41|51</Row>
+			<Row>32|huntsvillealabamausa.com|-1|7068|496794|838615|109252|2008-09-25|2014-03-20|206.166.255.129|206.166.255.0|US|com|33|46</Row>
+			<Row>33|go.com|64|1710530|1108663362|43503363|4261020|2008-08-18|2014-03-20|199.181.132.250|199.181.132.0|US|com|91|90</Row>
+			<Row>34|gizmodo.com|916|506191|149608457|8489406|2426415|2008-08-18|2014-03-20|184.169.66.33|184.169.66.0|SE|com|76|63</Row>
+			<Row>35|businessinsider.com|454|530560|93719503|42288434|1397001|2009-02-11|2014-03-20|64.27.101.155|64.27.101.0|US|com|82|56</Row>
+			<Row>36|avemarialaw.edu|-1|3533|51424|7926|4877|2008-09-02|2014-03-20|67.239.69.200|67.239.69.0|US|edu|37|48</Row>
+			<Row>37|foxnews.com|176|821166|601841736|5914734|1991149|2008-08-18|2014-03-20|158.38.14.135|158.38.14.0|NO|com|90|85</Row>
+			<Row>38|grist.org|19253|115467|25330214|2579144|823127|2008-08-25|2014-03-20|66.155.9.244|66.155.9.0|US|org|66|67</Row>
+			<Row>39|theatlanticcities.com|23444|48897|23653477|91465|80185|2011-10-15|2014-03-20|38.118.71.168|38.118.71.0|US|com|59|49</Row>
+			<Row>40|trocaire.edu|-1|3860|26667|36711|29565|2008-09-02|2014-03-20|174.143.1.121|174.143.1.0|US|edu|35|49</Row>
+			<Row>41|rrc.edu|-1|6209|354303|904043|114678|2008-09-02|2014-03-20|64.131.81.249|64.131.81.0|US|edu|38|50</Row>
+			<Row>42|ancilla.edu|-1|2743|161855|3635|2479|2008-08-28|2014-03-20|96.127.170.164|96.127.170.0|US|edu|33|48</Row>
+			<Row>43|avaloncommunities.com|72832|8205|789504|250857|147461|2008-08-22|2014-03-20|64.90.195.204|64.90.195.0|US|com|46|44</Row>
+			<Row>44|rentrentar.com|-1|403|1704016|23350|13805|2008-09-19|2011-05-29|66.114.52.12|66.114.52.0|US|com|17|30</Row>
+			<Row>45|mccn.edu|-1|3620|428468|17712|12847|2008-09-09|2014-03-20|207.238.203.207|207.238.203.0|US|edu|35|51</Row>
+			<Row>46|emetrics.org|134995|6907|451645|58353|48821|2008-09-05|2014-03-20|65.75.132.72|65.75.132.0|US|org|42|42</Row>
+			<Row>47|barkworldexpo.com|605905|805|139562|971|694|2010-05-12|2014-03-20|97.74.215.116|97.74.215.0|US|com|27|29</Row>
+			<Row>48|time.com|642|900408|129413228|3597908|1360059|2008-08-18|2014-03-20|165.254.94.11|165.254.94.0|US|com|85|85</Row>
+			<Row>49|osu.edu|5427|253834|70721417|3032392|904856|2008-08-19|2014-03-20|140.254.112.210|140.254.112.0|US|edu|64|74</Row>
+			<Row>50|palmer.edu|250027|18281|463942|502661|163237|2008-08-27|2014-03-20|198.102.161.10|198.102.161.0|US|edu|40|54</Row>
+			<Row>51|ebizmba.com|5112|15082|1045411|14578|12543|2009-01-07|2014-03-20|184.168.203.143|184.168.203.0|US|com|38|39</Row>
+			<Row>52|smc.edu|59640|30812|826959|277496|133590|2008-08-19|2014-03-20|192.92.124.90|192.92.124.0|US|edu|45|59</Row>
+			<Row>53|desu.edu|163537|12736|1958900|397916|130476|2008-08-31|2014-03-20|216.228.143.79|216.228.143.0|US|edu|44|57</Row>
+			<Row>54|findspot.com|-1|3699|51418|1085314|468506|2008-08-18|2014-03-20|95.138.159.244|95.138.159.0|UK|com|26|28</Row>
+			<Row>55|apple.com|51|4234949|3525951416|96934471|11825664|2008-08-18|2014-03-20|23.60.125.15|23.60.125.0|US|com|97|98</Row>
+			<Row>56|wfu.edu|41848|95160|44526912|4389002|687479|2008-08-18|2014-03-20|152.17.48.83|152.17.48.0|US|edu|52|64</Row>
+			<Row>57|campbell.edu|168017|19477|31845087|1090125|209557|2008-08-19|2014-03-20|96.30.33.5|96.30.33.0|US|edu|48|56</Row>
+			<Row>58|businessseek.biz|21586|16477|352557|57244|50244|2008-08-22|2014-03-20|69.36.165.155|69.36.165.0|US|biz|44|60</Row>
+			<Row>59|semo.edu|116282|40987|1750773|3474034|494393|2008-08-18|2014-03-20|150.201.32.249|150.201.32.0|US|edu|45|58</Row>
+		</DataTable>
+	</DataTables>
+</Result>

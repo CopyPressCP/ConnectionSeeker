@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="623" IndexType="1" RemainingAnalysisResUnits="104750000" RemainingDetailedReportsPerPeriod="1010" RemainingRetrievalResUnits="20903127" RemainingStandardReports="1010" ServerBuild="2012-04-07 16:01:43" ServerName="SCEPTIC" ServerVersion="1.0.4480.27051"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="623" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID" BackLinkItem="babystages.ca" BackLinkType="RootDomain" TotalBackLinks="609" TotalLines="623" TotalMatches="623">
+			<Row>http://www.tmz.com/2010/03/11/conan-obrien-tour-tonight-show-team-coco-nbc|5|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=158332|2012-04-13|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=158332|0</Row>
+			<Row>http://www.tmz.com/2010/03/11/shaq-shaquille-oneal-shaunie-divorce-separation-custody-spousal-support-florida-california-court-courts|4|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=158332|2012-04-11|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=158332|0</Row>
+			<Row>http://www.seanrasmussen.com/webinars/the-affiliate-sanction|4|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2012-04-12|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|1</Row>
+			<Row>http://www.iamcorona.com|4|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-13|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/baby.php|4|baby stages: trusted source for today&#39;s infant care|2012-04-13|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://smartcanucks.ca/2006/08|3|register at baby stages here|2012-04-13|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry.php?lang=en|4</Row>
+			<Row>http://www.banlieusardises.com/rabais-echantillons-et-promotions-pour-futurs-et-nouveaux-parents|3|http://www.babystages.ca|2012-03-25|0|0|1|0|0|0|0|http://www.babystages.ca|5</Row>
+			<Row>http://www.uc-baby.com/en/services/rewards.php|3|baby stages|2012-04-13|0|0|0|0|0|0|0|http://www.babystages.ca|6</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.0|2|arianna|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.0|2|direct link to vote for arianna|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.0|2|visit the leaderboard|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/leaderboard/leaderboard.php|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.0|2|leaderboard|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/leaderboard/leaderboard.php|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.0|2|leaderboard position for twins|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/leaderboard/leaderboard.php?offset=250|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.0|2|quick link to vote for arianna|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.0|2|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.0|2|vote for twins|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=125001|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.0|2|direct link to vote for arianna|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.0|2|direct link to vote for arianna|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.0|2|quick link to vote|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.tmz.com/2010/03/11/girlicious-star-natalie-mejia-charged-felony-drug-cocaine|2|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=158332|2012-04-11|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=158332|0</Row>
+			<Row>http://sweetiessweeps.com/2009/07/vote-for-me-contest-database.html|2|aeroplane|2012-04-09|0|0|1|0|0|0|0|http://babystages.ca|8</Row>
+			<Row>http://sweetiessweeps.com/2009/07/vote-for-me-contest-database.html|2|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157584|2012-04-09|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157584|8</Row>
+			<Row>http://www.designandcopy.ca/thingscanadian/babieschildren.html|2|gerber precious memories|2012-04-07|0|0|0|0|0|0|0|http://gerber.babystages.ca|9</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?province=ON&#38;event_id=1032&#38;Submit=Go|2|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://timnew.com/arianna.html|2|arianna won!|2012-04-08|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/winners/winners.php|10</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?province=SK&#38;event_id=968&#38;Submit=Go|2|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.4wilsons.com/archives/133|1|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|11</Row>
+			<Row>http://www.4wilsons.com/archives/date/2006/10|1|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|11</Row>
+			<Row>http://www.4wilsons.com/feed/atom|1|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|11</Row>
+			<Row>http://sarahbutland.com/blog/2010/03/11/i-am-attracting-you-and-your-vote-via-law-of-attraction|1|baby stages|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|12</Row>
+			<Row>http://sarahbutland.com/blog/2010/03/25/you-are-the-reason-i-know-it-will-happen|1|baby stages|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|12</Row>
+			<Row>http://pumpkinheads.proboards.com/index.cgi?board=general&#38;action=display&#38;thread=175|1|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|2012-04-06|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|13</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=916|1|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://reponses.qctop.com/ou-est-ce-que-je-peux-trouver-des-concours-pour-des-photos-de-bebe.html|1|photo contest baby stages|2012-04-11|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/?gclid=CJf90ZGJvpQCFQQrFQodMxlpTw|14</Row>
+			<Row>http://www.freebiescanada.ca/free_stuff/free-baby-stuff.htm|1|baby stages|2012-04-12|0|0|0|0|0|0|0|http://www.babystages.ca/free_stuff_registration.asp|15</Row>
+			<Row>http://mel-odie.com/en/services/rewards.php|0|baby stages|2012-03-26|0|0|0|0|0|0|0|http://www.babystages.ca|16</Row>
+			<Row>http://digital-photography-school.com/forum/general-chit-chat/42191-please-vote-talia-my-picture-could-front-magazine.html|0|http://photocontest.babystages.ca/en...hoto_id=147809|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=147809|17</Row>
+			<Row>http://similac.ca/p.aspx/fr/partners/index|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|18</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1020|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.sexysimbol.com.br/answer/search.html?userId=40u2UgyCaa|0|http://photocontest.babystages.ca/en/vot...|2012-04-07|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=147193|19</Row>
+			<Row>http://www.mommysavers.com/c/t/18175/please-vote|0|and vote for cohen!!!|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=129498|20</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1026|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/141352-i-need-laptop-please-canada-3|0|http://photocontest.babystages.ca/en...hoto_id=156702|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=156702|4</Row>
+			<Row>http://www.mamanpourlavie.com/forum/sujet/echantillons-gratuits-et-coupons-mise-a-jour-de-juin-2008/page/5|0|http://www.babystages.ca/babyregi stry/index|2012-04-09|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|21</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1029|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1031|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/137975-best-place-find-baby-product-coupons-canada|0|http://babystages.ca/freestuffc6.php|2012-04-02|0|0|0|0|0|0|0|http://babystages.ca/freestuffc6.php|4</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1032|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://talk.sheknows.com/f967/could-everyone-vote-baby-benjamin-662091|0|baby stages photo contest|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=137957|22</Row>
+			<Row>http://www.sweepsadvantage.com/sweepstakes-more-Fit-5.html|0|rules|2012-03-31|0|0|1|0|0|0|0|http://www.babystages.ca|23</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1037|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://freebiescanada.ca/coupons-rabais/echantillons_enfant_bebes.htm|0|babystages.ca|2012-04-05|0|0|0|0|0|0|0|http://babystages.ca/free_stuff_registration.asp|15</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f32/votes-needed-42732|0|http://photocontest.babystages.ca/en...hoto_id=157864|2012-04-12|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|24</Row>
+			<Row>http://forum.smartcanucks.ca/members/woofy/gussy|0|http://photocontest.babystages.ca/en...hoto_id=160552|2012-04-09|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=160552|4</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1041|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.25|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.25|0|vote for twins|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=125001|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.25|0|arianna|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.25|0|direct link to vote for arianna|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.25|0|leaderboard position for twins|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/leaderboard/leaderboard.php?offset=250|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.25|0|visit the leaderboard|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/leaderboard/leaderboard.php|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.25|0|leaderboard|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/leaderboard/leaderboard.php|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.25|0|direct link to vote for arianna|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.25|0|quick link to vote for arianna|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.25|0|direct link to vote for arianna|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.fearlessfriday.com/yabbse/index.php?topic=54335.25|0|quick link to vote|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124482|7</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1059|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.littlesruletheroost.com/2009/10/frugal-friday_16.html|0|baby stages|2012-04-01|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|25</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1060|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://babyphotography.dannyaguilarbio.com/babyphotographycontest|0|baby stages photo contest|2012-04-07|0|0|1|0|0|0|0|http://photocontest.babystages.ca|26</Row>
+			<Row>http://forum.smartcanucks.ca/151711-mod-please-delete-post-thank-you-canada-10|0|http://photocontest.babystages.ca/en...hoto_id=161240|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161240|4</Row>
+			<Row>http://yesall4freeforum.com/showthread.php?t=8719|0|http://www.babystages.ca/babyregistry|2012-04-02|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|27</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1062|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.contestcanada.net/2011/03/10/baby-stages-photo-contest|0|alvise|2012-03-31|0|0|1|0|0|0|0|http://www.babystages.ca/photo_contest_vote.asp?eID=177|28</Row>
+			<Row>http://www.contestcanada.net/2011/03/10/baby-stages-photo-contest|0|http://www.babystages.ca/photo_contest.asp|2012-03-31|0|0|0|0|0|0|0|http://www.babystages.ca/photo_contest.asp|28</Row>
+			<Row>http://www.canuckcash.ca/modules.php?name=Stories_Archive&#38;sa=show_month&#38;year=2004&#38;month=01&#38;month_l=January|0|win a canadian education savings scholarship|2012-04-04|0|0|0|0|0|0|0|http://www.babystages.ca/en/contests_en.php|29</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1070|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1072|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1074|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1075|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.tmz.com/2010/03/11/shaq-shaquille-oneal-shaunie-divorce-separation-custody-spousal-support-florida-california-court-courts/1|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=158332|2012-04-11|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=158332|0</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1077|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.iwsti.com/forums/off-topic/162364-vote-my-baby.html|0|baby stages photo contest|2012-04-03|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=151045|30</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1078|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1081|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.canuckcash.ca/modules.php?name=Stories_Archive&#38;sa=show_month&#38;year=2004&#38;month=08&#38;month_l=August|0|win baby outfits|2012-04-04|0|0|0|0|0|0|0|http://www.babystages.ca/en/kushies_contest_en.php|29</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1083|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1085|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.canuckcash.ca/modules.php?name=Stories_Archive&#38;sa=show_month&#38;year=2005&#38;month=01&#38;month_l=January|0|win an outfit from kushies|2012-04-04|0|0|0|0|0|0|0|http://www.babystages.ca/en/kushies_contest_en.php|29</Row>
+			<Row>http://www.reefsolution.com/forums/100980-post1.html|0|prendriez vous 2 petites minutes pour voter pour charlie,ma petite nièce de 6 semaines???|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=132985|31</Row>
+			<Row>http://www.reefsolution.com/forums/100980-post1.html|0|vous recevrez un email de confirmation et vous devrez cliquer sur ce lien et voter encore une fois pour l&#39;enregistrer.|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=132985|31</Row>
+			<Row>http://www.reefsolution.com/forums/100980-post1.html|0|ca serais hyper gentil de votre part!!|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=132985|31</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1086|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://famillesdaujourdhui.com/index.php?action=rechercher&#38;option=recherche&#38;affichage=true&#38;pos=0&#38;AffUnArtc=true&#38;noArticle=9528|0|pour participer|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr|32</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1094|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.reality-check.ca/threads/254801-December-Update!?goto=nextoldest|0|http://photocontest.babystages.ca/en/vote/vote.php|2012-04-05|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|33</Row>
+			<Row>http://www.reality-check.ca/threads/254801-December-Update!?goto=nextoldest|0|http://photocontest.babystages.ca/en...hoto_id=163541|2012-04-05|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=163541|33</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1095|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.pentaxforums.com/forums/pentax-dslr-discussion/55085-camera-high-dynamic-range.html|0|baby stages photo contest|2012-04-04|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785|34</Row>
+			<Row>http://forum.smartcanucks.ca/35518-start-your-own-thread-contests-youve-entered-canada-12|0|http://photocontest.babystages.ca/en...hoto_id=145927|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145927|4</Row>
+			<Row>http://forum.smartcanucks.ca/35518-start-your-own-thread-contests-youve-entered-canada-12|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|4</Row>
+			<Row>http://forum.smartcanucks.ca/35518-start-your-own-thread-contests-youve-entered-canada-12|0|http://photocontest.babystages.ca/en...hoto_id=145126|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|4</Row>
+			<Row>http://www.iamcorona.com/?m=201004|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1096|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.atoutconso.com/forums/post17548.html|0|http://photocontest.babystages.ca/fr/vo  _id=153312|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|35</Row>
+			<Row>http://forum.smartcanucks.ca/35518-start-your-own-thread-contests-youve-entered-canada-14|0|http://photocontest.babystages.ca/en...hoto_id=145927|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145927|4</Row>
+			<Row>http://forum.smartcanucks.ca/35518-start-your-own-thread-contests-youve-entered-canada-14|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|4</Row>
+			<Row>http://forum.smartcanucks.ca/35518-start-your-own-thread-contests-youve-entered-canada-14|0|http://photocontest.babystages.ca/en...hoto_id=125787|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=125787|4</Row>
+			<Row>http://forum.smartcanucks.ca/35518-start-your-own-thread-contests-youve-entered-canada-14|0|http://photocontest.babystages.ca/en...hoto_id=140703|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=140703|4</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1097|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/129794-new-bzzagent-danactive-canada|0|http://photocontest.babystages.ca/en...hoto_id=161063|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|4</Row>
+			<Row>http://forum.chezmaya.com/viewtopic.php?p=1926136|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|36</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1100|0|baby stages: trusted source for today&#39;s infant care|2012-03-30|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/123327-when-do-you-stop-waking-up-little-one-breastfeed-canada|0|vote|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157007|4</Row>
+			<Row>http://bbs.visasky.com/forum.php?mod=viewthread&#38;tid=4507|0|http://www.babystages.ca/babyregistry|2012-04-12|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|37</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1103|0|baby stages: trusted source for today&#39;s infant care|2012-03-30|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forums.redflagdeals.com/40-000-resps-babystages-contest-132205|0|http://www.babystages.ca/en/contests_en.php|2012-04-12|0|0|0|0|0|0|0|http://www.babystages.ca/en/contests_en.php|38</Row>
+			<Row>http://laportedumaroc.blogs-de-voyage.fr/archive/2007/07/index.html|0|http://photocontest.babystages.ca/en/vote/ballot.php?phot...|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=133589|39</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1104|0|baby stages: trusted source for today&#39;s infant care|2012-03-30|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.nexopia.com/users/JadeDoll|0|http://photocontest.babystages.ca/en/vote/ballot.p?hp?photo_id=131669|2012-04-13|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=131669|40</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=108290|0|http://photocontest.babystages.ca/en/vo ... _id=145423|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145423|41</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=108290|0|http://photocontest.babystages.ca/en/vo ... _id=145409|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145409|41</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=108290|0|http://photocontest.babystages.ca/en/vo ... _id=145449|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145449|41</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=108290|0|http://photocontest.babystages.ca/en/vo ... _id=145126|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|41</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=108290|0|http://photocontest.babystages.ca/en/le ... rboard.php|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/leaderboard/leaderboard.php|41</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1106|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f25/daily-votes-49928|0|http://photocontest.babystages.ca/en...hoto_id=161240|2012-04-02|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161240|24</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=108290&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://photocontest.babystages.ca/en/vo ... _id=145449|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145449|41</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=108290&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://photocontest.babystages.ca/en/vo ... _id=145126|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|41</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=108290&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://photocontest.babystages.ca/en/vo ... _id=145409|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145409|41</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=108290&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://photocontest.babystages.ca/en/le ... rboard.php|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/leaderboard/leaderboard.php|41</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=108290&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://photocontest.babystages.ca/en/vo ... _id=145423|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145423|41</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1107|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/fr/advertise/partners.php|0|baby stages magazine|2012-04-05|0|0|0|0|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1108|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/fr/baby/search.php?event_id=170|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/125488-ocean-spray-shopping-bag-free-canada-15|0|http://photocontest.babystages.ca/en...hoto_id=161063|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|4</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1109|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/fr/baby/search.php?event_id=223|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.4wilsons.com/?epl=n4N6BvmjhRA-EtHapWoKmwC0YIgPJBROkdzFPzz5tMU7HsB3ZwQRHFwcaZCQz5f31oPMtuTpqxR0lrLqWE1Ikc0DBkSjWMErit2kQAbyZNvEOujSe7gui9Kgt4MGUE9GQ9EeqR-DtGlAJj0kg6EadAAgkNynvwAA4H8BAABAgNsHAADQgiE-WVMmWUExNmhaQnEAAADw&#38;paged=2|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|11</Row>
+			<Row>http://mycollingwood.ca/banner_tracking.asp?BannerID=793|0| |2012-04-04|1|0|0|0|0|0|0|http://www.babystages.ca|42</Row>
+			<Row>http://mycollingwood.ca/banner_tracking.asp?BannerID=793|0| |2012-04-04|1|0|0|0|0|0|0|http://www.babystages.ca/kid_friendly_dog_contest.asp|42</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1117|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/fr/baby/search.php?event_id=366|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.canuckcash.ca/modules.php?name=Stories_Archive&#38;sa=show_month&#38;year=2006&#38;month=07&#38;month_l=July|0|vote for my daughter|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=123833|29</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1225|0|baby stages: trusted source for today&#39;s infant care|2012-03-23|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/fr/baby/search.php?event_id=432|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/35518-start-your-own-thread-contests-youve-entered-canada-87|0|http://photocontest.babystages.ca/en...hoto_id=152988|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=152988|4</Row>
+			<Row>http://forum.smartcanucks.ca/35518-start-your-own-thread-contests-youve-entered-canada-87|0|http://photocontest.babystages.ca/en...hoto_id=153028|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=153028|4</Row>
+			<Row>http://www.4wilsons.com/?epl=n5apCy0SHK35Eo7a42rOZsTXy4VAQuEUyV38jySuC-LzQ2NEIaSEQOBzCxOT4Uk0DC7eoZ9v3TS5VVlRQxEn4vxcRHAx5KAMTD0hs3pOgYeeF83FgJJWWdYWaztomga1ydAk-qnpMSSbBmQyApqhGnQAIJDcp78AAOB_AQAAQIDbBwAA8fVyIVlTJllBMTZoWkJwAAAA8A&#38;paged=2|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|11</Row>
+			<Row>http://www.mommysavers.com/c/t/99207/need-votes|0|baby stages photo contest|2012-03-24|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145927|20</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1226|0|baby stages: trusted source for today&#39;s infant care|2012-03-23|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/fr/baby/search.php?event_id=470|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/35518-start-your-own-thread-contests-youve-entered-canada-89|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=153028|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=153028|4</Row>
+			<Row>http://forum.smartcanucks.ca/35518-start-your-own-thread-contests-youve-entered-canada-89|0|http://photocontest.babystages.ca/en...hoto_id=152988|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=152988|4</Row>
+			<Row>http://www.thefreebiegroup.com/page47.php|0|free baby stages welcome kit - canada|2012-03-24|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|43</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1227|0|baby stages: trusted source for today&#39;s infant care|2012-03-23|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/fr/baby/search.php?event_id=560|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.canadasamples.com/free-stuff/f14/babystages-ca-free-products-for-new-and-expecting-moms-3497-next-thread.html|0|http://www.babystages.ca/magazines.asp|2012-04-08|0|0|0|0|0|0|0|http://www.babystages.ca/magazines.asp|44</Row>
+			<Row>http://www.canadasamples.com/free-stuff/f14/babystages-ca-free-products-for-new-and-expecting-moms-3497-next-thread.html|0|http://babystages.ca/digitalmagazine...ptionsc174.php|2012-04-08|0|0|0|0|0|0|0|http://babystages.ca/digitalmagazinesubscriptionsc174.php|44</Row>
+			<Row>http://forum.smartcanucks.ca/35518-start-your-own-thread-contests-youve-entered-canada-94|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=159989|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=159989|4</Row>
+			<Row>http://forum.calgarypuck.com/showthread.php?t=33970|0|http://photocontest.babystages.ca/en/vote/vote.php|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|45</Row>
+			<Row>http://goldfishlegs.ca/go2.php?url=http://photocontest.babystages.ca/en/|0| |2012-03-28|1|0|0|0|0|0|0|http://photocontest.babystages.ca/en|46</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1228|0|baby stages: trusted source for today&#39;s infant care|2012-03-29|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/fr/baby/search.php?event_id=566|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1231|0|baby stages: trusted source for today&#39;s infant care|2012-03-29|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/fr/baby/search.php?event_id=567|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://abchinese.com/cgi-bin/printpage.cgi?forum=82&#38;topic=95|0|http://www.babystages.ca/babyregistry|2012-04-13|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|47</Row>
+			<Row>http://www.sweepsadvantage.com/sweepstakes-more204-bid-DESC-3.html|0|rules|2012-04-01|0|0|1|0|0|0|0|http://www.babystages.ca|23</Row>
+			<Row>http://www.readwritedraw.com/otherresources/browse/118/baby_photo_contest.html|0|baby stages photo contest|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|48</Row>
+			<Row>http://www.readwritedraw.com/otherresources/browse/118/baby_photo_contest.html|0|baby stages - babystages.ca|2012-03-27|0|0|0|0|0|0|0|http://www.babystages.ca/contests.asp|48</Row>
+			<Row>http://www.readwritedraw.com/otherresources/browse/118/baby_photo_contest.html|0|baby stages photo contest|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/rules/rules.php|48</Row>
+			<Row>http://www.readwritedraw.com/otherresources/browse/118/baby_photo_contest.html|0|baby stages photo contest|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/enter/enter.php|48</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1234|0|baby stages: trusted source for today&#39;s infant care|2012-03-29|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/fr/baby/search.php?event_id=572|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.freerankstat.com/babystages.ca|0| |2012-03-31|0|0|1|1|0|0|0|http://babystages.ca|49</Row>
+			<Row>http://forum.smartcanucks.ca/85707-free-online-baby-stuff-canada|0|http://www.babystages.ca/survey|2012-03-28|0|0|0|0|0|0|0|http://www.babystages.ca/survey|4</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=170|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/fr/baby/search.php?event_id=574|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.kidskingston.com/forum/viewtopic.php?t=235&#38;view=next|0|http://www.babystages.ca/articleslist.php?id=19&#38;lang=en|2012-04-10|0|0|0|0|0|0|0|http://www.babystages.ca/articleslist.php?id=19&#38;lang=en|50</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=107&#38;t=67360|0|http://www.babystages.ca/contests|2012-03-28|0|0|0|0|0|0|0|http://www.babystages.ca/contests|41</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=223|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/123440-first-post-gymboree-classes-canada|0|vote|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157007|4</Row>
+			<Row>http://www.welcomewagon.ca/fr/baby/search.php?event_id=586|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.jumafred.com/arielle|0| |2012-04-12|0|0|0|1|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=135090|51</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=107&#38;t=67360&#38;st=0&#38;sk=t&#38;sd=a|0|http://www.babystages.ca/contests|2012-03-28|0|0|0|0|0|0|0|http://www.babystages.ca/contests|41</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=366|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/fr/baby/search.php?event_id=727|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://laportedumaroc.blogs-de-voyage.fr/index-1.html|0|http://photocontest.babystages.ca/en/vote/ballot.php?phot...|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=133589|39</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=107&#38;t=67360&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://www.babystages.ca/contests|2012-03-28|0|0|0|0|0|0|0|http://www.babystages.ca/contests|41</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=377|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=432|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://freebiescanada.ca/free_stuff/free-baby-stuff.htm|0|baby stages|2012-04-12|0|0|0|0|0|0|0|http://www.babystages.ca/free_stuff_registration.asp|15</Row>
+			<Row>http://www.sweepsadvantage.com/power_search.php?pg_which=1&#38;pflag=search&#38;restrictions=canada|0|rules|2012-03-31|0|0|1|0|0|0|0|http://www.babystages.ca|23</Row>
+			<Row>http://www.gottwinz.net/forums/showthread.php/12134-Discounts-for-Twins-Multiples-(Canada)|0|www.babystages.ca|2012-03-31|0|0|0|0|0|0|0|http://www.babystages.ca|52</Row>
+			<Row>http://forum.smartcanucks.ca/10-freebies-have-you-received-canada-1641|0|vote|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157007|4</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=450|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.frugalshopper.ca/phpBB2/viewtopic.php?f=107&#38;t=67360&#38;st=0&#38;sk=t&#38;sd=a|0|http://www.babystages.ca/contests|2012-03-28|0|0|0|0|0|0|0|http://www.babystages.ca/contests|53</Row>
+			<Row>http://forum.smartcanucks.ca/115931-beech-nut-free-starter-kit-canada-2|0|vote|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157007|4</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=470|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.frugalshopper.ca/phpBB2/viewtopic.php?f=107&#38;t=67360&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://www.babystages.ca/contests|2012-03-28|0|0|0|0|0|0|0|http://www.babystages.ca/contests|53</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=521|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=552|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.frugalshopper.ca/phpBB2/viewtopic.php?f=107&#38;t=67360&#38;start=0|0|http://www.babystages.ca/contests|2012-03-28|0|0|0|0|0|0|0|http://www.babystages.ca/contests|53</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=555|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=558|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=560|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.divine.ca/en/mydivine/blogs/c_181/?gid=52&#38;mb_pid=3546|0|http://www.babystages.ca/babyregistry.php?lang=en|2012-04-02|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry.php?lang=en|54</Row>
+			<Row>http://www.sweepsadvantage.com/sweepstakes-more-Baby-3.html|0|rules|2012-04-09|0|0|1|0|0|0|0|http://www.babystages.ca|23</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=566|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.iamcorona.com/?p=464|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=567|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://tagwalk.com/reenter|0|baby stages photo contest|2012-04-09|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=162589|55</Row>
+			<Row>http://www.kidskingston.com/forum/viewtopic.php?t=323&#38;view=previous|0|http://www.babystages.ca/articleslist.php?id=19&#38;lang=en|2012-04-10|0|0|0|0|0|0|0|http://www.babystages.ca/articleslist.php?id=19&#38;lang=en|50</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=572|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://lifewithababy.com/Default.aspx?pageId=314462|0|baby stages|2012-04-10|0|0|0|0|0|0|0|http://www.babystages.ca|56</Row>
+			<Row>http://www.mamanandco.fr/forum/topic16230-2265.html|0|http://www.babystages.ca/babyregistry/index|2012-03-27|0|0|1|0|0|0|0|http://www.babystages.ca/babyregistry/index|57</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=574|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=575|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.killerfreebies.com/go.php?id=5911|0| |2012-04-09|1|0|0|0|0|0|0|http://www.babystages.ca/babyregistry.php?lang=en|58</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=586|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/152149-daily-vote-my-son-fisher-price-little-best-laugh-canada|0|http://photocontest.babystages.ca/en...hoto_id=161063|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|4</Row>
+			<Row>http://sarahbutland.com/blog/tag/law-of-attraction/feed|0|baby stages|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|12</Row>
+			<Row>http://www.frugalshopper.ca/phpbb2/viewtopic.php?f=104&#38;t=97484&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://photocontest.babystages.ca/en/vo ... _id=139520|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=139520|53</Row>
+			<Row>http://www.frugalshopper.ca/phpbb2/viewtopic.php?f=104&#38;t=97484&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://photocontest.babystages.ca/en/vo ... _id=128817|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=128817|53</Row>
+			<Row>http://www.frugalshopper.ca/phpbb2/viewtopic.php?f=104&#38;t=97484&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://photocontest.babystages.ca/en/vo ... _id=139981|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=139981|53</Row>
+			<Row>http://www.frugalshopper.ca/phpbb2/viewtopic.php?f=104&#38;t=97484&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://photocontest.babystages.ca/en/vo ... _id=135719|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=135719|53</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=602|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.sweepsadvantage.com/sweepstakes-more-baby-3.html|0|rules|2012-04-08|0|0|1|0|0|0|0|http://www.babystages.ca|23</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=604|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/28247-swallowing-pride-canada|0|www.babystages.ca|2012-03-28|0|0|0|0|0|0|0|http://www.babystages.ca|4</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=610|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://frugalshopper.ca/phpBB2//viewtopic.php?f=104&#38;t=106893|0|http://photocontest.babystages.ca/en/vo ... _id=145409|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145409|53</Row>
+			<Row>http://frugalshopper.ca/phpBB2//viewtopic.php?f=104&#38;t=106893|0|http://photocontest.babystages.ca/en/vo ... _id=145449|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145449|53</Row>
+			<Row>http://frugalshopper.ca/phpBB2//viewtopic.php?f=104&#38;t=106893|0|http://photocontest.babystages.ca/en/vo ... _id=145126|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|53</Row>
+			<Row>http://thebookmarketingnetwork.com/forum/topic/listForContributor?user=2b5i4vnvjk9yw&#38;feed=yes&#38;xn_auth=no|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2012-04-09|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|59</Row>
+			<Row>http://tagwalk.com/AnnyChih|0|baby stages photo contest|2012-03-26|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=162589|55</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=618|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://frugalshopper.ca/phpBB2//viewtopic.php?f=104&#38;t=106893&#38;start=15&#38;st=0&#38;sk=t&#38;sd=a|0|http://photocontest.babystages.ca/en/le ... rboard.php|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/leaderboard/leaderboard.php|53</Row>
+			<Row>http://sarahbutland.com/blog/tag/literacy/feed|0|baby william for baby stages|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|12</Row>
+			<Row>http://www.yesall4freeforum.com/showthread.php?mode=hybrid&#38;t=8719|0|http://www.babystages.ca/babyregistry|2012-04-01|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|27</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=623|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://techtastic.pricenetwork.ca/ddeal/Free_Baby_Samples-36805.html|0|baby registry|2012-03-28|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry.php?lang=en|60</Row>
+			<Row>http://techtastic.pricenetwork.ca/ddeal/Free_Baby_Samples-36805.html|0|receive|2012-03-28|0|0|0|0|0|0|0|http://www.babystages.ca/signup.php?lang=en|60</Row>
+			<Row>http://www.forumquebec.com/viewtopic.php?f=8&#38;t=4742&#38;start=90|0|http://photocontest.babystages.ca/fr/vo ... _id=153312|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|61</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=629|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://freebiesdealsandrewards.com/forum/showthread.php?mode=hybrid&#38;t=2265|0|http://www.babystages.ca/digitalmagsubscription|2012-04-03|0|0|0|0|0|0|0|http://www.babystages.ca/digitalmagsubscription|62</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=630|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=631|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://sarahbutland.com/blog/tag/lynne-mctaggart/feed|0|baby stages|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|12</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=637|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://cruisetraveltalk.com/forum56/7179-1.html|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145372|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145372|63</Row>
+			<Row>http://www.iamcorona.com/?tag=baby-stages|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=638|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=642|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/128015-please-vote-my-cute-baby-ill-return-favor-daily-ends-april-15-2010-a-canada-2|0|http://photocontest.babystages.ca/en...hoto_id=161063|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|4</Row>
+			<Row>http://sarahbutland.com/blog/2010/03/11/i-am-attracting-you-and-your-vote-via-law-of-attraction/?replytocom=2233|0|baby stages|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|12</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=644|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://sarahbutland.com/blog/2010/03/11/i-am-attracting-you-and-your-vote-via-law-of-attraction/?replytocom=2267|0|baby stages|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|12</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f25/need-help-votes-please-20925|0|http://photocontest.babystages.ca/en...hoto_id=135719|2012-04-07|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=135719|24</Row>
+			<Row>http://designandcopy.ca/thingscanadian/babieschildren.html|0|gerber precious memories|2012-04-10|0|0|0|0|0|0|0|http://gerber.babystages.ca|9</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=648|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://search.refertus.info/stages|0|-&#62;|2012-04-01|0|0|0|0|0|0|0|http://www.babystages.ca|64</Row>
+			<Row>http://ovol.ca/en/adult.php|0|www.babystages.ca|2012-04-04|0|0|0|0|0|0|0|http://www.babystages.ca|65</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=653|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f25/need-your-help-votes-67362|0|http://www.babystages.ca/photo_contest_vote2.asp?eid=89|2012-03-16|0|0|1|0|0|0|0|http://www.babystages.ca/photo_contest_vote2.asp?eID=89|24</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=661|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.iamcorona.com/?tag=brother-william|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=672|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.pnwba.com/pnwbaforum/post.asp?method=Reply&#38;TOPIC_ID=1018&#38;FORUM_ID=10|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785&#62;|2012-04-09|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785&#62;|66</Row>
+			<Row>http://www.pnwba.com/pnwbaforum/post.asp?method=Reply&#38;TOPIC_ID=1018&#38;FORUM_ID=10|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785|2012-04-09|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785|66</Row>
+			<Row>http://www.pnwba.com/pnwbaforum/post.asp?method=Reply&#38;TOPIC_ID=1018&#38;FORUM_ID=10|0|http://photocontest.babystages.ca/en/vote&#62;|2012-04-09|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote&#62;|66</Row>
+			<Row>http://forum.smartcanucks.ca/10-freebies-have-you-received-canada-926|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|4</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=681|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://sarahbutland.com/blog/2010/03/25/you-are-the-reason-i-know-it-will-happen/?replytocom=2366|0|baby stages|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|12</Row>
+			<Row>http://ovol.ca/fr/adult.php|0|www.babystages.ca|2012-04-04|0|0|0|0|0|0|0|http://www.babystages.ca/home/culture/lang/fr|65</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=706|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://sarahbutland.com/blog/2010/03/25/you-are-the-reason-i-know-it-will-happen/?replytocom=2374|0|baby stages|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|12</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=836|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://tinyurl.com/6kj6z|0| |2012-03-23|1|0|0|0|0|0|0|http://www.babystages.ca/en/nbr_en.php|67</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=873|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.divine.ca/en/idivine/blogs/c_170/?uid=56694|0|http://photocontest.babystages.ca/fr/vote/vote.php|2012-04-02|0|0|1|0|0|0|0|http://photocontest.babystages.ca/fr/vote/vote.php|54</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=875|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.calgarychinese.com/china8863/cgi-bin/printpage.cgi?forum=82&#38;topic=95|0|http://www.babystages.ca/babyregistry|2012-04-02|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|68</Row>
+			<Row>http://www.sweepsadvantage.com/sweepstakes-more-Canada-6.html|0|rules|2012-04-09|0|0|1|0|0|0|0|http://www.babystages.ca|23</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=886|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/44102-free-bra-stock-23-new-offer-canada-11|0|http://www.babystages.ca/babyregistry|2012-03-27|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|4</Row>
+			<Row>http://www.iamcorona.com/?tag=contest|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=890|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.divine.ca/en/idivine/blogs/c_170/?uid=56694&#38;mb_pid=771|0|http://photocontest.babystages.ca/fr/vote/vote.php|2012-04-02|0|0|1|0|0|0|0|http://photocontest.babystages.ca/fr/vote/vote.php|54</Row>
+			<Row>http://www.ovol.ca/en/adult.php|0|www.babystages.ca|2012-04-04|0|0|0|0|0|0|0|http://www.babystages.ca|65</Row>
+			<Row>http://www.iamcorona.com/?tag=corona|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=907|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.iamcorona.com/?tag=cover-of-a-magazine|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=908|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.magicmaman.com/lesaventuresdesgrandsetptitscopains/maman-enfant-2007/besoin-votre-aide-sujet-871-1.htm|0|http://photocontest.babystages.ca/en...hoto_id=140547|2012-04-01|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=140547|69</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=909|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.ovol.ca/fr/adult.php|0|www.babystages.ca|2012-04-04|0|0|0|0|0|0|0|http://www.babystages.ca/home/culture/lang/fr|65</Row>
+			<Row>http://www.dealguild.com/forums/showthread.php?mode=hybrid&#38;t=10624|0|http://www.babystages.ca/|2012-04-12|0|0|0|0|0|0|0|http://www.babystages.ca|70</Row>
+			<Row>http://www.iamcorona.com/?tag=dogo-argentino|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=921|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/165732-vote-us-coldest-canadians-you-have-chance-weekly-prize-canada|0|http://photocontest.babystages.ca/en...hoto_id=162224|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=162224|4</Row>
+			<Row>http://www.iamcorona.com/?tag=dogo-argentino-breed|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=960|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=977|0|baby stages: trusted source for today&#39;s infant care|2012-03-30|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=985|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=988|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.pnwba.com/pnwbaforum/post.asp?method=ReplyQuote&#38;REPLY_ID=4156&#38;TOPIC_ID=1018&#38;FORUM_ID=10|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785|2012-04-13|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785|66</Row>
+			<Row>http://www.pnwba.com/pnwbaforum/post.asp?method=ReplyQuote&#38;REPLY_ID=4156&#38;TOPIC_ID=1018&#38;FORUM_ID=10|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785&#62;|2012-04-13|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785&#62;|66</Row>
+			<Row>http://www.pnwba.com/pnwbaforum/post.asp?method=ReplyQuote&#38;REPLY_ID=4156&#38;TOPIC_ID=1018&#38;FORUM_ID=10|0|http://photocontest.babystages.ca/en/vote&#62;|2012-04-13|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote&#62;|66</Row>
+			<Row>http://mycontests.net/MONTHLY CLOTHING.html|0|baby stages|2012-03-31|0|0|0|0|0|0|0|http://babystages.ca/contestsc3.php|71</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=995|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.pnwba.com/pnwbaforum/post.asp?method=ReplyQuote&#38;REPLY_ID=4157&#38;TOPIC_ID=1018&#38;FORUM_ID=10|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785&#62;|2012-04-13|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785&#62;|66</Row>
+			<Row>http://www.pnwba.com/pnwbaforum/post.asp?method=ReplyQuote&#38;REPLY_ID=4157&#38;TOPIC_ID=1018&#38;FORUM_ID=10|0|http://photocontest.babystages.ca/en/vote&#62;|2012-04-13|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote&#62;|66</Row>
+			<Row>http://www.pnwba.com/pnwbaforum/post.asp?method=ReplyQuote&#38;REPLY_ID=4157&#38;TOPIC_ID=1018&#38;FORUM_ID=10|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785|2012-04-13|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149785|66</Row>
+			<Row>http://www.kellyfrankson.com/2010/10/lexis-first-phot-contest|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=162589|2012-04-09|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=162589|72</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=998|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.kellyfrankson.com/2010/10/lexis-first-phot-contest/comment-page-1|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=162589|2012-04-09|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=162589|72</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=999|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://allgoodcoupons.ca/coupons/site2/CoupondsClipart/templatebaby.htm|0|babystages|2012-04-04|0|0|0|0|0|0|0|http://www.babystages.ca|73</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?province=BC&#38;event_id=948&#38;Submit=Go|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://monkey.ca/2007/09/04/vote-for-tyler|0|vote now &#62;&#62;&#62;|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=134981|74</Row>
+			<Row>http://allgoodcoupons.ca/coupons/site2/CoupondsClipart/templatebaby.html|0|babystages.ca|2012-04-04|0|0|0|0|0|0|0|http://www.babystages.ca|73</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?province=ON&#38;event_id=1037&#38;Submit=Go|0|baby stages: trusted source for today&#39;s infant care|2012-04-12|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f25/baby-stage-17111|0|http://www.babystages.ca/babyregistry/index|2012-04-09|0|0|1|0|0|0|0|http://www.babystages.ca/babyregistry/index|24</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?province=ON&#38;event_id=405&#38;Submit=Go|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://ourstayner.com/banner_tracking.asp?BannerID=793|0| |2012-04-08|1|0|0|0|0|0|0|http://www.babystages.ca/kid_friendly_dog_contest.asp|75</Row>
+			<Row>http://ourstayner.com/banner_tracking.asp?BannerID=793|0| |2012-04-08|1|0|0|0|0|0|0|http://www.babystages.ca|75</Row>
+			<Row>http://bonclic.biz/viewtopic.php?p=528319|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|2012-04-06|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|76</Row>
+			<Row>http://www.grattecenne.com/Discussions/post35840.html|0|http://photocontest.babystages.ca/en/vo ... _id=157831|2012-04-05|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157831|77</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?province=ON&#38;event_id=495&#38;Submit=Go|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://uc-baby.com/en/services/rewards.php|0|baby stages|2012-04-13|0|0|0|0|0|0|0|http://www.babystages.ca|6</Row>
+			<Row>http://bonclic.biz/viewtopic.php?p=528324|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|2012-04-06|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|76</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?province=ON&#38;event_id=543&#38;Submit=Go|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.playa.info/playa-del-carmen-forum/46876-we-need-your-help.html|0|http://photocontest.babystages.ca/en/vote/vote.php|2012-04-01|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|78</Row>
+			<Row>http://timnew.com/arianna_br.html|0|os resultados|2012-04-08|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/winners/winners.php|10</Row>
+			<Row>http://timnew.com/arianna_br.html|0|arianna ganhou!|2012-04-08|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/winners/winners.php|10</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?province=ON&#38;event_id=584&#38;Submit=Go|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?province=ON&#38;event_id=940&#38;Submit=Go|0|baby stages: trusted source for today&#39;s infant care|2012-04-11|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.askpedia.com/q/1302/Any_suggestions|0|http://photocontest.babystages.ca/en/vot...|2012-04-09|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=137665|79</Row>
+			<Row>http://www.iamcorona.com/?tag=law-of-attraction|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.gratitudelog.com/ljatpeace/appreciation_notes/300013|0|http://photo...|2012-04-12|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|80</Row>
+			<Row>http://ivf.ca/forums/topic/15958-photo-contest|0|http://photocontest....n/vote/vote.php|2012-04-05|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|81</Row>
+			<Row>http://www.bebe-passion.be/forum/display_topic_threads.asp?ForumID=29&#38;TopicID=34948|0|http://photocontest.babystages.ca/fr/vote/vote.php|2012-03-29|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/vote.php|82</Row>
+			<Row>http://www.freedomlist.com/forum/viewtopic.php?p=189872|0|http://photocontest.babystages.ca/en/vote/vote.php|2012-03-26|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|83</Row>
+			<Row>http://www.freedomlist.com/forum/viewtopic.php?p=189872|0|http://photocontest.babystages.ca/en/vote/..._id=137957|2012-03-26|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=137957|83</Row>
+			<Row>http://www.freedomlist.com/forum/viewtopic.php?p=189872|0|http://photocontest.babystages.ca/en/vote/..._id=135719|2012-03-26|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=135719|83</Row>
+			<Row>http://designandcopy.ca/thingscanadian/newparent.html|0|gerber precious memories|2012-04-10|0|0|0|0|0|0|0|http://gerber.babystages.ca|9</Row>
+			<Row>http://readwritedraw.com/otherresources/browse/118/baby_photo_contest.html|0|baby stages photo contest|2012-04-08|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/enter/enter.php|48</Row>
+			<Row>http://readwritedraw.com/otherresources/browse/118/baby_photo_contest.html|0|baby stages photo contest|2012-04-08|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|48</Row>
+			<Row>http://readwritedraw.com/otherresources/browse/118/baby_photo_contest.html|0|baby stages - babystages.ca|2012-04-08|0|0|0|0|0|0|0|http://www.babystages.ca/contests.asp|48</Row>
+			<Row>http://readwritedraw.com/otherresources/browse/118/baby_photo_contest.html|0|baby stages photo contest|2012-04-08|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/rules/rules.php|48</Row>
+			<Row>http://welcomewagon.ca/en/baby/baby.php|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.freedomlist.com/forum/viewtopic.php?p=189878|0|http://photocontest.babystages.ca/en/vote/..._id=135719|2012-03-26|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=135719|83</Row>
+			<Row>http://www.freedomlist.com/forum/viewtopic.php?p=189878|0|http://photocontest.babystages.ca/en/vote/vote.php|2012-03-26|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|83</Row>
+			<Row>http://www.freedomlist.com/forum/viewtopic.php?p=189878|0|http://photocontest.babystages.ca/en/vote/..._id=137957|2012-03-26|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=137957|83</Row>
+			<Row>http://www.forumgagnant.com/viewtopic.php?pid=289596|0|http://photocontest.babystages.ca/fr/|2012-04-09|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr|84</Row>
+			<Row>http://www.forumgagnant.com/viewtopic.php?pid=289596|0|http://photocontest.babystages.ca/fr/vo ? _id=153312|2012-04-09|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|84</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=133|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f32/please-vote-my-son-baby-stages-44045|0|http://photocontest.babystages.ca/en...hoto_id=159894|2012-04-09|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=159894|24</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f32/please-vote-my-son-baby-stages-44045|0|http://photocontest.babystages.ca/en...hoto_id=159063|2012-04-09|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=159063|24</Row>
+			<Row>http://www.bebe-passion.be/forum/display_topic_threads.asp?ForumID=29&#38;TopicID=35506|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=131419|2012-03-29|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=131419|82</Row>
+			<Row>http://www.bebe-passion.be/forum/display_topic_threads.asp?ForumID=29&#38;TopicID=35506|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=131420|2012-03-29|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=131420|82</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=170|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=223|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=366|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.divine.ca/en/idivine/blog/c_181/?gid=52&#38;mb_pid=3546|0|http://www.babystages.ca/babyregistry.php?lang=en|2012-04-05|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry.php?lang=en|54</Row>
+			<Row>http://isaintjohn.com/classifieds/showthread.php?mode=hybrid&#38;t=14421|0|http://photocontest.babystages.ca/en...hoto_id=131213|2012-04-01|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=131213|85</Row>
+			<Row>http://isaintjohn.com/classifieds/showthread.php?p=73330&#38;mode=linear|0|http://photocontest.babystages.ca/en...hoto_id=131213|2012-03-31|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=131213|85</Row>
+			<Row>http://forum.chezmaya.com/viewtopic.php?p=1929793|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|36</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=377|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://isaintjohn.com/classifieds/showthread.php?p=73330&#38;page=2|0|http://photocontest.babystages.ca/en...hoto_id=131213|2012-03-31|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=131213|85</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=405|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://tagvy.com/discover/bfpc.html|0|welcome to babystages|2012-03-24|0|0|0|0|0|0|0|http://www.babystages.ca|86</Row>
+			<Row>http://freebiesdealsandrewards.com/forum/showthread.php?p=2767&#38;mode=linear|0|http://www.babystages.ca/digitalmagsubscription|2012-04-11|0|0|0|0|0|0|0|http://www.babystages.ca/digitalmagsubscription|62</Row>
+			<Row>http://boards.nbc.com/nbc/index.php?showtopic=651800|0|http://photocontest.babystages.ca/en/vote/...photo_id=124093|2012-04-03|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124093|87</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=432|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=450|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=521|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=552|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=555|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.allgoodcoupons.ca/coupons/site2/CoupondsClipart/templatebaby.htm|0|babystages|2012-04-04|0|0|0|0|0|0|0|http://www.babystages.ca|73</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=558|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forums.canadianbride.com/UserInfo35851.aspx|0| |2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=124454|88</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=560|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=566|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.vanpeople.com/forum/showtopic-34384-2.php|0|http://www.babystages.ca/babyregistry|2012-04-01|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|89</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=567|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://calgarychinese.com/china8863/cgi-bin/printpage.cgi?forum=82&#38;topic=95|0|http://www.babystages.ca/babyregistry|2012-04-03|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|68</Row>
+			<Row>http://yesall4freeforum.com/showthread.php?p=57120|0|http://www.babystages.ca/babyregistry|2012-04-01|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|27</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=572|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=574|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.elantraxd.com/forums/showthread.php?33893-help-me-vote-for-my-daughter|0|http://photocontest.babystages.ca/en...hoto_id=148834|2012-03-30|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=148834|90</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=575|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.elantraxd.com/forums/showthread.php?33893-help-me-vote-for-my-daughter&#38;p=491277|0|http://photocontest.babystages.ca/en...hoto_id=148834|2012-03-30|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=148834|90</Row>
+			<Row>http://www.iamcorona.com/?tag=russ|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=576|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.banlieusardises.com/rabais-echantillons-et-promotions-pour-futurs-et-nouveaux-parents/feed|0|http://www.babystages.ca|2012-03-25|0|0|1|0|0|0|0|http://www.babystages.ca|5</Row>
+			<Row>http://www.iamcorona.com/?tag=sammy|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=586|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=602|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.forumgagnant.com/viewtopic.php?id=12130&#38;p=1|0|http://photocontest.babystages.ca/fr/vo ? _id=153312|2012-03-19|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|84</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=604|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=610|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.forumgagnant.com/viewtopic.php?id=12147&#38;p=1|0|http://photocontest.babystages.ca/fr/vo ? _id=153312|2012-03-19|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|84</Row>
+			<Row>http://www.forumgagnant.com/viewtopic.php?id=12147&#38;p=1|0|http://photocontest.babystages.ca/fr/|2012-03-19|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr|84</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=611|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.freebiescanada.ca/coupons-rabais/echantillons_enfant_bebes.htm|0|babystages.ca|2012-04-05|0|0|0|0|0|0|0|http://babystages.ca/free_stuff_registration.asp|15</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=618|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=623|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=629|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.dlvdm.com/forum/index.php?showtopic=159203|0|http://photocontest.babystages.ca/en/vote/vote.php|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|91</Row>
+			<Row>http://www.iamcorona.com/?tag=vote|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=630|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.dlvdm.com/forum/index.php?showtopic=159203&#38;mode=linear|0|http://photocontest.babystages.ca/en/vote/vote.php|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|91</Row>
+			<Row>http://www.designandcopy.ca/thingscanadian/newparent.html|0|gerber precious memories|2012-04-10|0|0|0|0|0|0|0|http://gerber.babystages.ca|9</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=631|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://techtastic.pricenetwork.ca/forum/printthread.php?threadid=36805|0|baby registry|2012-03-28|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry.php?lang=en|60</Row>
+			<Row>http://techtastic.pricenetwork.ca/forum/printthread.php?threadid=36805|0|receive|2012-03-28|0|0|0|0|0|0|0|http://www.babystages.ca/signup.php?lang=en|60</Row>
+			<Row>http://cadeauxgratuits.ca/echantillons-bebe-gratuits.htm|0|babystages.ca|2012-04-05|0|0|0|0|0|0|0|http://babystages.ca/free_stuff_registration.asp|92</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=637|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.dealguild.com/forums/showthread.php?t=10624|0|http://www.babystages.ca/|2012-04-11|0|0|0|0|0|0|0|http://www.babystages.ca|70</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=638|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=642|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=644|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=647|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/124168-online-polaroids-effect-canada|0|vote|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157007|4</Row>
+			<Row>http://freebieoholic.blogspot.com/2005_07_01_archive.html|0|free baby pack - full of goodies! (canada only)|2012-04-05|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry.php?lang=en|93</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=648|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://mybeachboard.com/smf/index.php?topic=6319.0;prev_next=prev|0|http://photocontest.babystages.ca/en/vote/vote.php|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|94</Row>
+			<Row>http://forum.smartcanucks.ca/120287-baby-gate-question-canada|0|vote|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157007|4</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=653|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://tagwalk.com/user/stephenfung|0|baby stages photo contest|2012-04-08|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=162589|55</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=661|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f25/please-vote-little-aidans-photo-babystages-photo-contest-34867|0|http://photocontest.babystages.ca/en...hoto_id=152547|2012-04-09|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=152547|24</Row>
+			<Row>http://forums.dealhunting.com/canadian-offers/44136-free-gift-package-new-expecting-mothers-canada.html|0|http://www.babystages.ca/en/nbr_en.php|2012-04-11|0|0|0|0|0|0|0|http://www.babystages.ca/en/nbr_en.php|95</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=672|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.canadiangenius.com/baby-related/10-general-baby/12-free-baby-stuff.html?tmpl=component&#38;print=1&#38;layout=default&#38;page=|0|http://babystages.ca/index.php|2012-04-10|0|0|1|0|0|0|0|http://babystages.ca/index.php|96</Row>
+			<Row>http://beaverhunter.synthasite.com/BABIES.php|0| |2012-04-08|0|0|0|1|0|0|0|http://www.babystages.ca/contests|97</Row>
+			<Row>http://beaverhunter.synthasite.com/BABIES.php|0| |2012-04-08|0|0|0|1|0|0|0|http://www.babystages.ca/babyregistry|97</Row>
+			<Row>http://www.lifewithababy.com/Default.aspx?pageId=314462|0|baby stages|2012-04-10|0|0|0|0|0|0|0|http://www.babystages.ca|56</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=681|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://echantillonsgratuits.ca/bebes-enfants.htm|0|cliquez ici &#62;&#62;|2012-04-10|0|0|0|0|0|0|0|http://babystages.ca/free_stuff_registration.asp|98</Row>
+			<Row>http://echantillonsgratuits.ca/bebes-enfants.htm|0|bébé progresse (babystages.ca)|2012-04-10|0|0|0|0|0|0|0|http://babystages.ca/free_stuff_registration.asp|98</Row>
+			<Row>http://www.abchinese.com/cgi-bin/printpage.cgi?forum=82&#38;topic=95|0|http://www.babystages.ca/babyregistry|2012-03-31|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|47</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=689|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.kidskingston.com/forum/viewtopic.php?p=1773|0|http://www.babystages.ca/articleslist.php?lang=en&#38;id=86|2012-04-10|0|0|0|0|0|0|0|http://www.babystages.ca/articleslist.php?lang=en&#38;id=86|50</Row>
+			<Row>http://mybeachboard.com/smf/index.php?topic=6322.0|0|http://photocontest.babystages.ca/en/vote/vote.php|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|94</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=706|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.canadiangenius.com/baby-related/general-baby/12-free-baby-stuff.html|0|http://babystages.ca/index.php|2012-04-10|0|0|0|0|0|0|0|http://babystages.ca/index.php|96</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f25/please-vote-my-cute-baby-42856|0|http://photocontest.babystages.ca/en...hoto_id=158332|2012-04-09|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=158332|24</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f25/please-vote-my-cute-baby-42856|0|http://photocontest.babystages.ca/en...hoto_id=157584|2012-04-09|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en...hoto_id=157584|24</Row>
+			<Row>http://www.femmepourlavie.com/forum/sujet/echantillons-gratuits-et-coupons-mise-a-jour-de-juin-2008/page/5|0|http://www.babystages.ca/babyregi stry/index|2012-04-02|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|99</Row>
+			<Row>http://www.mycollingwood.ca/banner_tracking.asp?BannerID=793|0| |2012-04-04|1|0|0|0|0|0|0|http://www.babystages.ca|42</Row>
+			<Row>http://www.mycollingwood.ca/banner_tracking.asp?BannerID=793|0| |2012-04-04|1|0|0|0|0|0|0|http://www.babystages.ca/kid_friendly_dog_contest.asp|42</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=836|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://mybeachboard.com/smf/index.php?topic=6322.msg49247|0|http://photocontest.babystages.ca/en/vote/vote.php|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|94</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=846|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.atoutconso.com/forums/topic7809-concours-baby-stage-termine.html|0|http://photocontest.babystages.ca/en/vo  _id=157801|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157801|35</Row>
+			<Row>http://www.beaverhunter.synthasite.com/BABIES.php|0| |2012-04-08|0|0|0|1|0|0|0|http://www.babystages.ca/contests|97</Row>
+			<Row>http://www.beaverhunter.synthasite.com/BABIES.php|0| |2012-04-08|0|0|0|1|0|0|0|http://www.babystages.ca/babyregistry|97</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=873|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.crochetville.org/forum/showthread.php?t=57038&#38;page=3|0|http://photocontest.babystages.ca/en...hoto_id=128817|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=128817|100</Row>
+			<Row>http://forums.parentscanada.com/Topic2061-17-1.aspx|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126083|2012-04-12|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126083|101</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=875|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://afreebieempire.com/babystages.ca.php|0| |2012-03-30|1|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|102</Row>
+			<Row>http://welcomewagon.ca/en/baby/search.php?event_id=886|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forums.parentscanada.com/Topic2398-12-1.aspx|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126083|2012-04-12|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126083|101</Row>
+			<Row>http://afreebieempire.com/babystages.php|0| |2012-03-30|1|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|102</Row>
+			<Row>http://www.freebiesdealsandrewards.com/forum/showthread.php?p=2767&#38;mode=linear|0|http://www.babystages.ca/digitalmagsubscription|2012-04-03|0|0|0|0|0|0|0|http://www.babystages.ca/digitalmagsubscription|62</Row>
+			<Row>http://bonclic.biz/viewtopic.php?p=457243|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|76</Row>
+			<Row>http://www.freebieforum.co.uk/international-freebies-f22/free-baby-gifts-canada-t9586.html|0|http://www.babystages.ca/babyregistry|2012-03-30|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|103</Row>
+			<Row>http://forum.smartcanucks.ca/105178-vote-kaeleigh-canada|0|http://photocontest.babystages.ca/en...hoto_id=154803|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=154803|4</Row>
+			<Row>http://www.echantillonsgratuits.ca/bebes-enfants.htm|0|cliquez ici &#62;&#62;|2012-04-10|0|0|0|0|0|0|0|http://babystages.ca/free_stuff_registration.asp|98</Row>
+			<Row>http://www.echantillonsgratuits.ca/bebes-enfants.htm|0|bébé progresse (babystages.ca)|2012-04-10|0|0|0|0|0|0|0|http://babystages.ca/free_stuff_registration.asp|98</Row>
+			<Row>http://www.auto123.com/fr/community/forum/showthread.php?19114-Petit-service-%EF%BF%BD-vous-demander|0|http://photocontest.babystages.ca/en...hoto_id=141596|2012-04-13|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=141596|104</Row>
+			<Row>http://www.timnew.com/arianna.html|0|arianna won!|2012-04-08|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/winners/winners.php|10</Row>
+			<Row>http://forum.smartcanucks.ca/members/anshu-shah|0|http://photocontest.babystages.ca/en...hoto_id=162224|2012-03-22|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=162224|4</Row>
+			<Row>http://bonclic.biz/viewtopic.php?p=432588|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|76</Row>
+			<Row>http://welcomewagon.ca/fr/advertise/partners.php|0|baby stages magazine|2012-04-05|0|0|0|0|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://gottwinz.net/forums/showthread.php/12134-Discounts-for-Twins-Multiples-(Canada)|0|www.babystages.ca|2012-04-06|0|0|0|0|0|0|0|http://www.babystages.ca|52</Row>
+			<Row>http://welcomewagon.ca/fr/baby/search.php?event_id=612|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://gottwinz.net/forums/showthread.php/12134-Discounts-for-Twins-Multiples-(Canada)?p=161106|0|www.babystages.ca|2012-04-06|0|0|0|0|0|0|0|http://www.babystages.ca|52</Row>
+			<Row>http://bonclic.biz/viewtopic.php?p=432682|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|76</Row>
+			<Row>http://welcomewagon.ca/fr/baby/search.php?event_id=692|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://intheroo.com/forum/chit-chat/2368-we-need-your-help.html|0|baby stages photo contest|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|105</Row>
+			<Row>http://gottwinz.net/forums/showthread.php/12134-Discounts-for-Twins-Multiples-(Canada)?p=162408|0|www.babystages.ca|2012-04-06|0|0|0|0|0|0|0|http://www.babystages.ca|52</Row>
+			<Row>http://bonclic.biz/viewtopic.php?p=433006|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|76</Row>
+			<Row>http://welcomewagon.ca/fr/baby/search.php?event_id=695|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://iamcorona.com/main|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-03-21|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://welcomewagon.ca/fr/baby/search.php?event_id=729|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/fr/baby/search.php?event_id=730|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://forum.smartcanucks.ca/122537-watch-bones-house-24-glee-hells-kitchen-more-all-free-hd-canada-2|0|vote|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157007|4</Row>
+			<Row>http://welcomewagon.ca/fr/baby/search.php?event_id=786|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://welcomewagon.ca/fr/baby/search.php?event_id=795|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://bbs.24en.com/thread-174936-1-1.html|0|http://www.babystages.ca/babyregistry|2012-04-12|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|106</Row>
+			<Row>http://forum.smartcanucks.ca/members/pumpkinpr|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|2012-03-29|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|4</Row>
+			<Row>http://www.femmepourlavie.com/forum/sujet/les-octobrettes-2oo9-0-mamans-et-0-poupons-construction|0|http://www.babystages.ca/babyregistry/index|2012-04-02|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|99</Row>
+			<Row>http://welcomewagon.ca/fr/baby/search.php?event_id=828|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.canadasamples.com/free-stuff/4247-post1.html|0|http://babystages.ca/freestuffc6.php|2012-04-09|0|0|0|0|0|0|0|http://babystages.ca/freestuffc6.php|44</Row>
+			<Row>http://welcomewagon.ca/fr/baby/search.php?event_id=855|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.forumquebec.com/viewtopic.php?f=19&#38;t=2027&#38;start=240|0|http://photocontest.babystages.ca/fr/vo ... _id=153312|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|61</Row>
+			<Row>http://boardsadmin.babyzone.com/please-vote-for-bella-t13435695.html|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|2012-04-08|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|107</Row>
+			<Row>http://www.3wilsons.com/archives/133|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|2012-04-09|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|108</Row>
+			<Row>http://www.canadasamples.com/free-stuff/f4/babystages-ca-free-products-and-offers-for-new-and-expecting-moms-3497-print.html|0|http://babystages.ca/freestuffc6.php|2012-04-08|0|0|0|0|0|0|0|http://babystages.ca/freestuffc6.php|44</Row>
+			<Row>http://www.canadasamples.com/free-stuff/f4/babystages-ca-free-products-and-offers-for-new-and-expecting-moms-3497-print.html|0|http://www.babystages.ca/free_stuff_registration.asp|2012-04-08|0|0|0|0|0|0|0|http://www.babystages.ca/free_stuff_registration.asp|44</Row>
+			<Row>http://www.freebiesdealsandrewards.com/forum/showthread.php?p=3416|0|http://www.babystages.ca/digitalmagsubscription|2012-04-03|0|0|0|0|0|0|0|http://www.babystages.ca/digitalmagsubscription|62</Row>
+			<Row>http://www.sweepsadvantage.com/browsenew.php?pg_which=3&#38;cat=204&#38;sort_by=bid&#38;sort_order=DESC&#38;curpage=&#38;only_fav=|0|rules|2012-04-01|0|0|1|0|0|0|0|http://www.babystages.ca|23</Row>
+			<Row>http://forum.smartcanucks.ca/150772-please-vote-bella-win-gift-card-canada-print|0|http://photocontest.babystages.ca/en...hoto_id=161063|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|4</Row>
+			<Row>http://www.totallyfreestuff.com/click.asp?ID=6610|0| |2012-04-07|1|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|109</Row>
+			<Row>http://www.dlvdm.com/forum/index.php?showtopic=37389|0|trousse gratuite pleine de renseignements utiles et de cadeaux pratiques|2012-04-09|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry.php?lang=fr|91</Row>
+			<Row>http://www.dlvdm.com/forum/index.php?showtopic=37389&#38;pid=903459&#38;st=0|0|trousse gratuite pleine de renseignements utiles et de cadeaux pratiques|2012-04-09|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry.php?lang=fr|91</Row>
+			<Row>http://forum.smartcanucks.ca/120516-baby-shower-help-canada|0|vote|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157007|4</Row>
+			<Row>http://www.3wilsons.com/archives/date/2006/10|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|2012-04-09|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|108</Row>
+			<Row>http://www.cadeauxgratuits.ca/echantillons-bebe-gratuits.htm|0|babystages.ca|2012-04-05|0|0|0|0|0|0|0|http://babystages.ca/free_stuff_registration.asp|92</Row>
+			<Row>http://www.dlvdm.com/forum/lofiversion/index.php/t37389.html|0|trousse gratuite pleine de renseignements utiles et de cadeaux pratiques|2012-04-09|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry.php?lang=fr|91</Row>
+			<Row>http://forum.smartcanucks.ca/members/tasha5123|0|http://photocontest.babystages.ca/en...hoto_id=162224|2012-04-13|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=162224|4</Row>
+			<Row>http://www.3wilsons.com/feed|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|2012-04-09|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126047|108</Row>
+			<Row>http://forum.coolcanucks.ca/29559-free-digital-subscription-babystages-magazine-canada|0|digital magazine subscriptions|2012-04-01|0|0|0|0|0|0|0|http://babystages.ca/digitalmagazinesubscriptionsc174.php|110</Row>
+			<Row>http://www.lelounge.ca/showthread.php?mode=hybrid&#38;t=3535|0|http://www.babystages.ca/|2012-04-04|0|0|0|0|0|0|0|http://www.babystages.ca|111</Row>
+			<Row>http://monkey.ca/tag/contests|0|vote now &#62;&#62;&#62;|2012-04-13|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=134981|74</Row>
+			<Row>http://www.whattoexpect.com/forums/december-2009-babies/topic/help-me-please-270|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161263|2012-04-13|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161263|112</Row>
+			<Row>http://similac.ca/en/partners|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|18</Row>
+			<Row>http://forum.smartcanucks.ca/120590-hain-celestial-foods-coupons-canada|0|vote|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157007|4</Row>
+			<Row>http://www.dealguild.com/forums/showthread.php?t=5932&#38;page=5|0|http://photocontest.babystages.ca/en...hoto_id=149024|2012-04-11|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149024|70</Row>
+			<Row>http://similac.ca/en/partners/index|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|18</Row>
+			<Row>http://www.retrievertraining.net/forums/showthread.php?t=32639|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145372|2012-03-29|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145372|113</Row>
+			<Row>http://www.mycreemore.ca/banner_tracking.asp?BannerID=793|0| |2012-03-28|1|0|0|0|0|0|0|http://www.babystages.ca|114</Row>
+			<Row>http://www.mycreemore.ca/banner_tracking.asp?BannerID=793|0| |2012-03-28|1|0|0|0|0|0|0|http://www.babystages.ca/kid_friendly_dog_contest.asp|114</Row>
+			<Row>http://mythornbury.ca/banner_tracking.asp?BannerID=793|0| |2012-04-09|1|0|0|0|0|0|0|http://www.babystages.ca/kid_friendly_dog_contest.asp|115</Row>
+			<Row>http://mythornbury.ca/banner_tracking.asp?BannerID=793|0| |2012-04-09|1|0|0|0|0|0|0|http://www.babystages.ca|115</Row>
+			<Row>http://thebookmarketingnetwork.com/forum/topics/vote-for-literacy|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2012-04-09|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|59</Row>
+			<Row>http://www.grandmatrix.com/forums/showthread.php?t=216&#38;page=30|0|http://www.babystages.ca/en/nbr_en.php|2012-04-11|0|0|0|0|0|0|0|http://www.babystages.ca/en/nbr_en.php|116</Row>
+			<Row>http://www.winnipeggamers.com/forums/viewtopic.php?t=4526&#38;view=previous|0|http://treasury.babystages.ca/index.php?aid=594495a4|2012-04-13|0|0|0|0|0|0|0|http://treasury.babystages.ca/index.php?aid=594495a4|117</Row>
+			<Row>http://talk.sheknows.com/6569307-post1.html|0|baby stages photo contest|2012-03-24|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=137957|22</Row>
+			<Row>http://forum.smartcanucks.ca/members/divinesmommy|0|http://photocontest.babystages.ca/en...hoto_id=161063|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|4</Row>
+			<Row>http://forum.doctissimo.fr/sante/cancer-localisation/18-mauvaise-nouvelle-sujet_54_20.htm|0|http://photocontest.babystages [...] offset=685|2012-03-29|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/leaderboard/leaderboard.php?offset=685|118</Row>
+			<Row>http://forum.doctissimo.fr/sante/cancer-localisation/18-mauvaise-nouvelle-sujet_54_20.htm|0|http://photocontest.babystages.ca/fr/vote/vote.php|2012-03-29|0|0|1|0|0|0|0|http://photocontest.babystages.ca/fr/vote/vote.php|118</Row>
+			<Row>http://www.registryhqs.com/babyregistry|0|babystages baby registry|2012-04-10|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry.php?lang=en|119</Row>
+			<Row>http://forums.canadianbride.com/Topic478612-15-1.aspx|0|http://photocontest.babystages.ca/en/vote/...photo_id=144145|2012-03-18|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=144145|88</Row>
+			<Row>http://forum.smartcanucks.ca/150929-vote-daily-4-bella-important-update-contest-ends-sept-15-a-canada|0|http://photocontest.babystages.ca/en...hoto_id=161063|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|4</Row>
+			<Row>http://forum.smartcanucks.ca/150929-vote-daily-4-bella-important-update-contest-ends-sept-15-a-canada-3|0|http://photocontest.babystages.ca/en...hoto_id=161063|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|4</Row>
+			<Row>http://free-stuff-canada.ca/free-baby-stuff.htm|0|baby stages|2012-04-12|0|0|0|0|0|0|0|http://www.babystages.ca/free_stuff_registration.asp|120</Row>
+			<Row>http://forum.smartcanucks.ca/124857-convertible-car-seat-question-best-canada|0|vote|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157007|4</Row>
+			<Row>http://www.mamanpourlavie.com/forum/sujet/les-octobrettes-2oo9-0-mamans-et-0-poupons-construction|0|http://www.babystages.ca/babyregistry/index|2012-04-11|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|21</Row>
+			<Row>http://tinyurl.com/fbbkl|0| |2012-03-22|1|0|0|0|0|0|0|http://www.babystages.ca/home.php?lang=en|67</Row>
+			<Row>http://www.mamanpourlavie.com/forum/sujet/les-octobrettes-2oo9-0-mamans-et-0-poupons-construction/page/1|0|http://www.babystages.ca/babyregistry/index|2012-04-08|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|21</Row>
+			<Row>http://www.canadianfreestuff.com/mrs-smiths-diaper-bag-review|0|ritu kacha|2012-04-12|0|0|1|0|0|0|0|http://babystages.ca|24</Row>
+			<Row>http://www.gratitudelog.com/sarahbutland|0|http://photo...|2012-04-11|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?pho|80</Row>
+			<Row>http://www.lelounge.ca/showthread.php?p=55250&#38;mode=linear|0|http://www.babystages.ca/|2012-04-02|0|0|0|0|0|0|0|http://www.babystages.ca|111</Row>
+			<Row>http://bonclic.biz/viewtopic.php?p=466835|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|2012-04-09|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|76</Row>
+			<Row>http://www.lelounge.ca/showthread.php?p=55250&#38;mode=threaded|0|http://www.babystages.ca/|2012-04-02|0|0|0|0|0|0|0|http://www.babystages.ca|111</Row>
+			<Row>http://www.contestcanada.net/2008/09/01/baby-stages|0|http://photocontest.babystages.ca/fr/?gclid=con06yo_uzucfqrgswodd 3dpqa|2012-03-30|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/?gclid=COn06YO_uZUCFQRgswodd3DpQA|28</Row>
+			<Row>http://www.etiquettehell.com/smf/index.php?topic=18122.0;prev_next=prev|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=135485|2012-04-01|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=135485|121</Row>
+			<Row>http://forum.vanpeople.com/showtopic-34384-2.php|0|http://www.babystages.ca/babyregistry|2012-04-02|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|89</Row>
+			<Row>http://forums.parentscanada.com/Topic60-17-5.aspx|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126083|2012-04-12|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=126083|101</Row>
+			<Row>http://forum.smartcanucks.ca/120804-trip-recommendations-websites-canada|0|vote|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157007|4</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f25/moody-girl-entry-20168|0|http://photocontest.babystages.ca/en...hoto_id=135719|2012-04-02|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=135719|24</Row>
+			<Row>http://bbs.24en.com/viewthread.php?tid=174936|0|http://www.babystages.ca/babyregistry|2012-04-08|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|106</Row>
+			<Row>http://www.iamcorona.com/?cat=4|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.iamcorona.com/?cat=5|0|william, my new brother, was entered into a contest to be on the cover of a magazine!! he was only two months old when this picture...|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157864|2</Row>
+			<Row>http://www.freestufftimes.com/world/2008/03/17|0|http://www.babystages.ca/babyregistry|2012-04-03|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry|122</Row>
+			<Row>http://similac.ca/fr/partners|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|18</Row>
+			<Row>http://similac.ca/fr/partners/index|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|18</Row>
+			<Row>http://www.etiquettehell.com/smf/index.php?topic=18422.0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=135485|2012-04-01|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=135485|121</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f32/diana-win-bbq-set-ends-august-31-a-21746|0|http://photocontest.babystages.ca/en...hoto_id=135719|2012-04-02|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=135719|24</Row>
+			<Row>http://www.etiquettehell.com/smf/index.php?topic=18422.msg400709|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=135485|2012-04-01|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=135485|121</Row>
+			<Row>http://www.landoverbaptist.net/showthread.php?mode=hybrid&#38;t=30316|0|http://photocontest.babystages.ca/en...hoto_id=153910|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=153910|123</Row>
+			<Row>http://rabais.smartcanucks.ca/2009/03|0|http://www.babystages.ca/babyregistry/index|2012-04-05|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|4</Row>
+			<Row>http://www.reefsolution.com/forums/autres-others/lounge/12498-un-vote-svp-print.html|0|prendriez vous 2 petites minutes pour voter pour charlie,ma petite nièce de 6 semaines???|2012-04-12|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=132985|31</Row>
+			<Row>http://www.reefsolution.com/forums/autres-others/lounge/12498-un-vote-svp-print.html|0|vous recevrez un email de confirmation et vous devrez cliquer sur ce lien et voter encore une fois pour l&#39;enregistrer.|2012-04-12|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=132985|31</Row>
+			<Row>http://www.reefsolution.com/forums/autres-others/lounge/12498-un-vote-svp-print.html|0|ca serais hyper gentil de votre part!!|2012-04-12|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=132985|31</Row>
+			<Row>http://forum.smartcanucks.ca/125083-votes-needed-canada-2|0|http://photocontest.babystages.ca/en...hoto_id=156702|2012-03-27|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=156702|4</Row>
+			<Row>http://forum.krasmama.ru/viewtopic.php?p=1766514|0|http://www.babystages.ca/babyregistry/index|2012-03-25|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|124</Row>
+			<Row>http://www.crochetville.org/forum/showthread.php?p=1254550|0|http://photocontest.babystages.ca/en...hoto_id=128817|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=128817|100</Row>
+			<Row>http://www.reefsolution.com/forums/autres-others/lounge/12498-un-vote-svp.html|0|vous recevrez un email de confirmation et vous devrez cliquer sur ce lien et voter encore une fois pour l&#39;enregistrer.|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=132985|31</Row>
+			<Row>http://www.reefsolution.com/forums/autres-others/lounge/12498-un-vote-svp.html|0|ca serais hyper gentil de votre part!!|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=132985|31</Row>
+			<Row>http://www.reefsolution.com/forums/autres-others/lounge/12498-un-vote-svp.html|0|prendriez vous 2 petites minutes pour voter pour charlie,ma petite nièce de 6 semaines???|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=132985|31</Row>
+			<Row>http://forum.krasmama.ru/viewtopic.php?p=1766781|0|http://www.babystages.ca/babyregistry/index|2012-03-25|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|124</Row>
+			<Row>http://www.free-stuff-canada.ca/free-baby-stuff.htm|0|baby stages|2012-04-12|0|0|0|0|0|0|0|http://www.babystages.ca/free_stuff_registration.asp|120</Row>
+			<Row>http://forum.krasmama.ru/viewtopic.php?p=1766834|0|http://www.babystages.ca/babyregistry/index|2012-03-25|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|124</Row>
+			<Row>http://www.reality-check.ca/threads/256713-Please-vote-for-Chase!?p=2395613|0|http://photocontest.babystages.ca/en/vote/vote.php|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|33</Row>
+			<Row>http://www.reality-check.ca/threads/256713-Please-vote-for-Chase!?p=2395613|0|http://photocontest.babystages.ca/en...hoto_id=163541|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=163541|33</Row>
+			<Row>http://forum.smartcanucks.ca/46792-monopoly-mcdonalds-official-code-trading-thread-free-code-start-off-canada|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|4</Row>
+			<Row>http://tagwalk.com/by/stephenfung|0|baby stages photo contest|2012-03-14|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=162589|55</Row>
+			<Row>http://forum.smartcanucks.ca/119310-hotprints-free-photo-books-every-month-canada-14|0|http://photocontest.babystages.ca/en...hoto_id=161063|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|4</Row>
+			<Row>http://www.reality-check.ca/threads/256713-Please-vote-for-Chase!?p=2396407|0|http://photocontest.babystages.ca/en...hoto_id=163541|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=163541|33</Row>
+			<Row>http://www.reality-check.ca/threads/256713-Please-vote-for-Chase!?p=2396407|0|http://photocontest.babystages.ca/en/vote/vote.php|2012-03-28|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/vote.php|33</Row>
+			<Row>http://7bed.com/home/link.php?url=http://www.babystages.ca/survey|0| |2012-04-08|1|0|0|0|0|0|0|http://www.babystages.ca/survey|125</Row>
+			<Row>http://similac.ca/p.aspx/en/partners|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|18</Row>
+			<Row>http://similac.ca/p.aspx/en/partners/index|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|18</Row>
+			<Row>http://www.canadianfreestuff.com/forum/f25/jackson-needs-your-votes-42923|0|http://photocontest.babystages.ca/en...hoto_id=158332|2012-04-07|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=158332|24</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=106893&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://photocontest.babystages.ca/en/vo ... _id=145126|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145126|41</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=106893&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://photocontest.babystages.ca/en/vo ... _id=145409|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145409|41</Row>
+			<Row>http://frugalshopper-ca.sitepreview.ca/phpBB2/viewtopic.php?f=104&#38;t=106893&#38;st=0&#38;sk=t&#38;sd=a&#38;start=0|0|http://photocontest.babystages.ca/en/vo ... _id=145449|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=145449|41</Row>
+			<Row>http://forum.chezmaya.com/viewtopic.php?p=1203966|0|http://photocontest.babystages.ca/inc/enlarge_photo.php?photo_id=137670|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/inc/enlarge_photo.php?photo_id=137670|36</Row>
+			<Row>http://forum.chezmaya.com/viewtopic.php?p=1203966|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=137670|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=137670|36</Row>
+			<Row>http://forum.chezmaya.com/viewtopic.php?p=1203966|0|http://photocontest.babystages.ca/fr/leaderboard/leaderboard.php?offset=5|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/leaderboard/leaderboard.php?offset=5|36</Row>
+			<Row>http://www.grattecenne.com/Discussions/viewtopic.php?f=65&#38;t=8166&#38;view=unread|0|http://photocontest.babystages.ca/en/vo ... _id=157831|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157831|77</Row>
+			<Row>http://forum.chezmaya.com/viewtopic.php?p=1203974|0|http://photocontest.babystages.ca/inc/enlarge_photo.php?photo_id=137670|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/inc/enlarge_photo.php?photo_id=137670|36</Row>
+			<Row>http://forum.chezmaya.com/viewtopic.php?p=1203974|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=137670|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=137670|36</Row>
+			<Row>http://forum.chezmaya.com/viewtopic.php?p=1203974|0|http://photocontest.babystages.ca/fr/leaderboard/leaderboard.php?offset=5|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/leaderboard/leaderboard.php?offset=5|36</Row>
+			<Row>http://nosforums.chatelaine.com/viewtopic.php?p=1119|0|http://photocontest.babystages.ca/fr/vote/vote.php|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/vote.php|126</Row>
+			<Row>http://forum.smartcanucks.ca/123103-shows-we-can-watch-online-canada-free-canada|0|vote|2012-04-02|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157007|4</Row>
+			<Row>http://forum.smartcanucks.ca/members/jelliebean|0|http://photocontest.babystages.ca/en...hoto_id=157584|2012-04-07|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=157584|4</Row>
+			<Row>http://nosforums.chatelaine.com/viewtopic.php?p=1119&#38;highlight=|0|http://photocontest.babystages.ca/fr/vote/vote.php|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/vote.php|126</Row>
+			<Row>http://boards.babyzone.com/please-vote-for-bella-t13435695.html|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|2012-04-13|0|0|1|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=161063|107</Row>
+			<Row>http://nosforums.chatelaine.com/viewtopic.php?p=1120|0|http://photocontest.babystages.ca/fr/vote/vote.php|2012-04-10|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/vote.php|126</Row>
+			<Row>http://drewhaven.mycollingwood.ca/banner_tracking.asp?BannerID=793|0| |2012-04-10|1|0|0|0|0|0|0|http://www.babystages.ca|42</Row>
+			<Row>http://drewhaven.mycollingwood.ca/banner_tracking.asp?BannerID=793|0| |2012-04-10|1|0|0|0|0|0|0|http://www.babystages.ca/kid_friendly_dog_contest.asp|42</Row>
+			<Row>http://community.babycenter.com/rss/groups/4272455/special_photo_moments|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149648|2012-04-03|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=149648|127</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1004|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://www.divine.ca/en/idivine/blog/c_170/?uid=56694|0|http://photocontest.babystages.ca/fr/vote/vote.php|2012-03-28|0|0|1|0|0|0|0|http://photocontest.babystages.ca/fr/vote/vote.php|54</Row>
+			<Row>http://forum.chezmaya.com/viewtopic.php?p=1523837|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|2012-04-04|0|0|0|0|0|0|0|http://photocontest.babystages.ca/fr/vote/ballot.php?photo_id=153312|36</Row>
+			<Row>http://ourmeaford.com/banner_tracking.asp?BannerID=793|0| |2012-04-12|1|0|0|0|0|0|0|http://www.babystages.ca|128</Row>
+			<Row>http://ourmeaford.com/banner_tracking.asp?BannerID=793|0| |2012-04-12|1|0|0|0|0|0|0|http://www.babystages.ca/kid_friendly_dog_contest.asp|128</Row>
+			<Row>http://educatout.com/forum/viewtopic.php?p=11029|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=128799|2012-03-29|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=128799|129</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1016|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://educatout.com/forum/viewtopic.php?p=11033|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=128799|2012-03-29|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=128799|129</Row>
+			<Row>http://rabais.smartcanucks.ca/tag/nouveau|0|http://www.babystages.ca/babyregistry/index|2012-04-12|0|0|0|0|0|0|0|http://www.babystages.ca/babyregistry/index|4</Row>
+			<Row>http://similac.ca/p.aspx/fr/partners|0| |2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|18</Row>
+			<Row>http://www.welcomewagon.ca/en/baby/search.php?event_id=1019|0|baby stages: trusted source for today&#39;s infant care|2012-04-05|0|0|0|1|0|0|0|http://www.babystages.ca|3</Row>
+			<Row>http://educatout.com/forum/viewtopic.php?p=11039|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=128799|2012-03-29|0|0|0|0|0|0|0|http://photocontest.babystages.ca/en/vote/ballot.php?photo_id=128799|129</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="130" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD">
+			<Row>0|tmz.com|361|62086|7665742|296305|46176|2012-03-14|2012-04-13|184.73.227.209|184.73.227.0|US|com</Row>
+			<Row>1|seanrasmussen.com|317850|2416|21509|14687|5832|2012-03-14|2012-04-13|50.28.7.248|50.28.7.0|US|com</Row>
+			<Row>2|iamcorona.com|-1|24|112|1369|292|2012-03-21|2012-04-13|70.38.11.154|70.38.11.0|CA|com</Row>
+			<Row>3|welcomewagon.ca|-1|906|4744|866|474|2012-03-22|2012-04-13|74.213.171.62|74.213.171.0|CA|ca</Row>
+			<Row>4|smartcanucks.ca|20680|3235|39864|692093|82602|2012-03-15|2012-04-13|97.107.130.211|97.107.130.0|US|ca</Row>
+			<Row>5|banlieusardises.com|672352|923|28889|15293|9441|2012-03-14|2012-04-13|67.222.3.173|67.222.3.0|US|com</Row>
+			<Row>6|uc-baby.com|923290|305|1049|440|107|2012-03-15|2012-04-13|74.208.145.25|74.208.145.0|US|com</Row>
+			<Row>7|fearlessfriday.com|-1|183|1331|7157|6656|2012-03-23|2012-04-13|66.219.27.66|66.219.27.0|US|com</Row>
+			<Row>8|sweetiessweeps.com|57811|608|11035|28908|5990|2012-03-15|2012-04-13|184.172.236.155|184.172.236.0|US|com</Row>
+			<Row>9|designandcopy.ca|-1|416|3799|1611|486|2012-03-22|2012-04-13|38.111.101.66|38.111.101.0|US|ca</Row>
+			<Row>10|timnew.com|-1|24|102|476|95|2012-04-08|2012-04-13|207.45.187.90|207.45.187.0|US|com</Row>
+			<Row>11|4wilsons.com|-1|1|954|164|27|2012-04-04|2012-04-08|204.12.18.190|204.12.18.0|US|com</Row>
+			<Row>12|sarahbutland.com|-1|74|5826|1097|331|2012-03-14|2012-04-13|70.38.11.154|70.38.11.0|CA|com</Row>
+			<Row>13|proboards.com|1165|43094|5498340|6398481|643618|2012-03-14|2012-04-13|174.122.238.250|174.122.238.0|US|com</Row>
+			<Row>14|qctop.com|20584|2296|151663|186543|28438|2012-03-14|2012-04-13|174.142.113.41|174.142.113.0|CA|com</Row>
+			<Row>15|freebiescanada.ca|-1|22|51|298|256|2012-04-01|2012-04-13|209.44.122.194|209.44.122.0|CA|ca</Row>
+			<Row>16|mel-odie.com|-1|0|0|20|5|2012-03-26|2012-03-26| | | |com</Row>
+			<Row>17|digital-photography-school.com|5336|17045|378740|294742|47525|2012-03-14|2012-04-13|67.202.50.72|67.202.50.0|US|com</Row>
+			<Row>18|similac.ca|802756|248|1118|385|145|2012-03-15|2012-04-13|184.106.27.118|184.106.27.0|US|ca</Row>
+			<Row>19|sexysimbol.com.br|-1|1|1|103075|12415|2012-03-27|2012-04-08|216.245.199.123|216.245.199.0|US|br</Row>
+			<Row>20|mommysavers.com|64674|2076|23649|167531|92631|2012-03-14|2012-04-13|72.167.3.1|72.167.3.0|US|com</Row>
+			<Row>21|mamanpourlavie.com|111756|965|12751|107381|13714|2012-03-14|2012-04-13|64.15.79.238|64.15.79.0|CA|com</Row>
+			<Row>22|sheknows.com|2899|19358|2444152|341853|79959|2012-03-14|2012-04-13|72.172.76.96|72.172.76.0|US|com</Row>
+			<Row>23|sweepsadvantage.com|23408|3341|557634|247458|46853|2012-03-14|2012-04-13|64.49.219.194|64.49.219.0|US|com</Row>
+			<Row>24|canadianfreestuff.com|98172|1499|20194|228118|43067|2012-03-14|2012-04-13|69.27.107.59|69.27.107.0|CA|com</Row>
+			<Row>25|littlesruletheroost.com|-1|24|371|1369|123|2012-03-25|2012-04-13|209.85.145.121|209.85.145.0|US|com</Row>
+			<Row>26|dannyaguilarbio.com|-1|202|918|39333|32958|2012-03-14|2012-04-13|64.191.203.31|64.191.203.0|US|com</Row>
+			<Row>27|yesall4freeforum.com|-1|30|56|80123|9385|2012-03-26|2012-04-09|75.126.130.77|75.126.130.0|US|com</Row>
+			<Row>28|contestcanada.net|186446|346|21418|20882|11016|2012-03-14|2012-04-13|174.129.228.86|174.129.228.0|US|net</Row>
+			<Row>29|canuckcash.ca|-1|38|157|1996|210|2012-03-31|2012-04-13|72.38.137.183|72.38.137.0|CA|ca</Row>
+			<Row>30|iwsti.com|86629|1522|11510|837457|55269|2012-03-14|2012-04-13|96.30.31.180|96.30.31.0|US|com</Row>
+			<Row>31|reefsolution.com|-1|144|836|33198|4185|2012-03-14|2012-04-13|208.76.82.220|208.76.82.0|US|com</Row>
+			<Row>32|famillesdaujourdhui.com|-1|202|1603|3758|1303|2012-03-14|2012-04-13|66.254.58.73|66.254.58.0|CA|com</Row>
+			<Row>33|reality-check.ca|562807|251|1237|574893|45019|2012-03-14|2012-04-13|74.115.212.144|74.115.212.0|US|ca</Row>
+			<Row>34|pentaxforums.com|20660|2768|28431|189584|41752|2012-03-14|2012-04-13|173.193.44.49|173.193.44.0|US|com</Row>
+			<Row>35|atoutconso.com|447208|228|3586|7309|1061|2012-03-14|2012-04-12|212.227.30.22|212.227.30.0|DE|com</Row>
+			<Row>36|chezmaya.com|46952|3071|63853|111387|25476|2012-03-14|2012-04-13|64.15.158.39|64.15.158.0|CA|com</Row>
+			<Row>37|visasky.com|-1|53|122|17473|3768|2012-03-16|2012-04-13|208.109.175.125|208.109.175.0|US|com</Row>
+			<Row>38|redflagdeals.com|3987|6013|338033|1154522|139328|2012-03-14|2012-04-13|76.74.243.200|76.74.243.0|CA|com</Row>
+			<Row>39|blogs-de-voyage.fr|97212|4674|111810|229211|36535|2012-03-15|2012-04-13|77.75.58.29|77.75.58.0|FR|fr</Row>
+			<Row>40|nexopia.com|42749|11995|175225|221886|22719|2012-03-14|2012-04-13|66.51.127.17|66.51.127.0|CA|com</Row>
+			<Row>41|sitepreview.ca|-1|321|2258|12614|6729|2012-03-17|2012-04-13|65.39.254.18|65.39.254.0|CA|ca</Row>
+			<Row>42|mycollingwood.ca|-1|314|4058|4957|1849|2012-03-14|2012-04-13|208.112.123.133|208.112.123.0|US|ca</Row>
+			<Row>43|thefreebiegroup.com|-1|20|1400|54|41|2012-03-24|2012-04-12|74.220.200.241|74.220.200.0|US|com</Row>
+			<Row>44|canadasamples.com|300395|227|4720|73196|11320|2012-03-14|2012-04-13|74.124.217.17|74.124.217.0|US|com</Row>
+			<Row>45|calgarypuck.com|205821|1387|13513|668639|29921|2012-03-14|2012-04-13|206.174.214.230|206.174.214.0|CA|com</Row>
+			<Row>46|goldfishlegs.ca|-1|123|16847|14952|11940|2012-03-15|2012-04-13|184.173.73.164|184.173.73.0|US|ca</Row>
+			<Row>47|abchinese.com|531593|258|722054|482698|24505|2012-03-14|2012-04-13|209.200.236.174|209.200.236.0|US|com</Row>
+			<Row>48|readwritedraw.com|-1|26|59|3642|2514|2012-03-27|2012-04-12|66.7.206.232|66.7.206.0|US|com</Row>
+			<Row>49|freerankstat.com|-1|36|29400|287936|21967|2012-03-16|2012-04-13| | | |com</Row>
+			<Row>50|kidskingston.com|778250|41|248|68976|8909|2012-03-19|2012-04-13|208.43.1.19|208.43.1.0|US|com</Row>
+			<Row>51|jumafred.com|181405|417|1788|2117|705|2012-03-14|2012-04-13|72.10.147.57|72.10.147.0|CA|com</Row>
+			<Row>52|gottwinz.net|-1|83|457|21845|2321|2012-03-19|2012-04-12|204.74.221.82|204.74.221.0|US|net</Row>
+			<Row>53|frugalshopper.ca|213544|437|6266|50400|21788|2012-03-15|2012-04-13|64.34.227.169|64.34.227.0|CA|ca</Row>
+			<Row>54|divine.ca|79524|1059|7134|178543|43682|2012-03-14|2012-04-13|216.92.39.234|216.92.39.0|US|ca</Row>
+			<Row>55|tagwalk.com|833768|236|1190|2427525|102725|2012-03-14|2012-04-13|77.68.56.221|77.68.56.0|UK|com</Row>
+			<Row>56|lifewithababy.com|-1|55|463|12111|2850|2012-03-14|2012-04-13|66.29.208.61|66.29.208.0|US|com</Row>
+			<Row>57|mamanandco.fr|69661|1808|40531|156147|31923|2012-03-15|2012-04-13|91.121.60.40|91.121.60.0|FR|fr</Row>
+			<Row>58|killerfreebies.com|533001|1104|4847|12419|8184|2012-03-14|2012-04-13|173.193.61.83|173.193.61.0|US|com</Row>
+			<Row>59|thebookmarketingnetwork.com|138752|177|4035|141227|16292|2012-03-14|2012-04-13|8.6.19.68|8.6.19.0|US|com</Row>
+			<Row>60|pricenetwork.ca|202738|968|35787|333326|51083|2012-03-14|2012-04-13|70.84.106.100|70.84.106.0|US|ca</Row>
+			<Row>61|forumquebec.com|813010|93|358|22021|4235|2012-03-14|2012-04-13|174.132.192.220|174.132.192.0|US|com</Row>
+			<Row>62|freebiesdealsandrewards.com|540950|187|619|55361|8924|2012-03-17|2012-04-13|72.9.253.162|72.9.253.0|US|com</Row>
+			<Row>63|cruisetraveltalk.com|932250|65|148|97266|11487|2012-03-14|2012-04-13|174.46.70.50|174.46.70.0|US|com</Row>
+			<Row>64|refertus.info|15440|4364|2857762|2653069|96066|2012-03-18|2012-04-13|178.63.28.230|178.63.28.0|DE|info</Row>
+			<Row>65|ovol.ca|-1|14|30|90|18|2012-04-04|2012-04-13|50.56.34.9|50.56.34.0|US|ca</Row>
+			<Row>66|pnwba.com|-1|308|2198|3865|734|2012-03-16|2012-04-13|184.168.175.1|184.168.175.0|US|com</Row>
+			<Row>67|tinyurl.com|799|451932|28098107|3965804|163895|2012-03-14|2012-04-13|195.66.135.250|195.66.135.0|NL|com</Row>
+			<Row>68|calgarychinese.com|797985|350|3394|41917|3982|2012-03-17|2012-04-13|209.200.236.174|209.200.236.0|US|com</Row>
+			<Row>69|magicmaman.com|11854|3055|103186|416169|43752|2012-03-14|2012-04-13|195.200.116.195|195.200.116.0|FR|com</Row>
+			<Row>70|dealguild.com|582582|170|1387|36754|6635|2012-03-14|2012-04-13|80.64.63.119|80.64.63.0|UK|com</Row>
+			<Row>71|mycontests.net|-1|36|91|192|152|2012-03-31|2012-04-13|69.90.193.153|69.90.193.0|CA|net</Row>
+			<Row>72|kellyfrankson.com|-1|71|1528|964|186|2012-03-21|2012-04-13|216.187.117.169|216.187.117.0|CA|com</Row>
+			<Row>73|allgoodcoupons.ca|-1|43|128|67|55|2012-04-02|2012-04-13|97.74.215.54|97.74.215.0|US|ca</Row>
+			<Row>74|monkey.ca|-1|10|18|621|135|2012-03-31|2012-04-13|98.129.229.148|98.129.229.0|US|ca</Row>
+			<Row>75|ourstayner.com|-1|0|0|1290|684|2012-03-14|2012-04-13|208.112.123.133|208.112.123.0|US|com</Row>
+			<Row>76|bonclic.biz|624511|177|2186|202433|24958|2012-03-17|2012-04-13|194.146.227.60|194.146.227.0|FR|biz</Row>
+			<Row>77|grattecenne.com|-1|174|2697|11082|6631|2012-03-14|2012-04-13|173.254.39.141|173.254.39.0|US|com</Row>
+			<Row>78|playa.info|75806|1365|13831|316607|29795|2012-03-14|2012-04-13|84.40.22.29|84.40.22.0|US|info</Row>
+			<Row>79|askpedia.com|121941|581|6111|70507|15954|2012-03-14|2012-04-13|72.51.41.239|72.51.41.0|US|com</Row>
+			<Row>80|gratitudelog.com|60299|321|4239|33658|7561|2012-03-14|2012-04-13|67.207.143.182|67.207.143.0|US|com</Row>
+			<Row>81|ivf.ca|604335|361|1349|266230|31138|2012-03-14|2012-04-13|69.90.62.120|69.90.62.0|CA|ca</Row>
+			<Row>82|bebe-passion.be|110550|932|313100|713111|29785|2012-03-14|2012-04-13|91.121.216.108|91.121.216.0|BE|be</Row>
+			<Row>83|freedomlist.com|724034|1164|4661|138695|22884|2012-03-14|2012-04-13|64.91.250.135|64.91.250.0|US|com</Row>
+			<Row>84|forumgagnant.com|185810|223|27110|198908|25463|2012-03-14|2012-04-13|62.233.33.97|62.233.33.0|FR|com</Row>
+			<Row>85|isaintjohn.com|-1|140|447|44775|3175|2012-03-31|2012-04-13|72.55.138.27|72.55.138.0|CA|com</Row>
+			<Row>86|tagvy.com|287457|91|220|187155|100219|2012-03-21|2012-04-13|213.83.63.51|213.83.63.0|DE|com</Row>
+			<Row>87|nbc.com|1605|94187|8843432|963230|194472|2012-03-14|2012-04-13|63.116.166.88|63.116.166.0|US|com</Row>
+			<Row>88|canadianbride.com|683640|434|3977|15220|6339|2012-03-14|2012-04-13|68.71.61.81|68.71.61.0|CA|com</Row>
+			<Row>89|vanpeople.com|36741|315|5570|206785|15452|2012-03-14|2012-04-13|72.51.40.13|72.51.40.0|US|com</Row>
+			<Row>90|elantraxd.com|362565|602|5246|217983|27220|2012-03-14|2012-04-13|216.22.24.127|216.22.24.0|US|com</Row>
+			<Row>91|dlvdm.com|736780|287|5325|252153|27057|2012-03-14|2012-04-13|174.142.32.11|174.142.32.0|CA|com</Row>
+			<Row>92|cadeauxgratuits.ca|-1|10|229|515|337|2012-03-15|2012-04-13|68.178.254.189|68.178.254.0|US|ca</Row>
+			<Row>93|blogspot.com|5|3269954|1357315681|425121738|25850275|2012-03-13|2012-04-13|209.85.149.191|209.85.149.0|US|com</Row>
+			<Row>94|mybeachboard.com|-1|241|2189|3099|2670|2012-03-15|2012-04-12|69.73.131.34|69.73.131.0|US|com</Row>
+			<Row>95|dealhunting.com|256725|814|5872|184777|32200|2012-03-14|2012-04-13|206.214.168.34|206.214.168.0|US|com</Row>
+			<Row>96|canadiangenius.com|-1|3|7|158|23|2012-03-15|2012-04-10|69.65.3.173|69.65.3.0|US|com</Row>
+			<Row>97|synthasite.com|-1|23787|195643|128866|29562|2012-03-14|2012-04-13|208.75.208.173|208.75.208.0|US|com</Row>
+			<Row>98|echantillonsgratuits.ca|-1|9|39|27|26|2012-04-01|2012-04-13|68.178.254.189|68.178.254.0|US|ca</Row>
+			<Row>99|femmepourlavie.com|-1|0|0|6628|1043|2012-03-24|2012-04-02|64.15.79.238|64.15.79.0|CA|com</Row>
+			<Row>100|crochetville.org|137628|965|18628|620478|61273|2012-03-14|2012-04-13|72.52.232.180|72.52.232.0|US|org</Row>
+			<Row>101|parentscanada.com|636672|417|13701|4434|1655|2012-03-14|2012-04-13|68.71.61.81|68.71.61.0|CA|com</Row>
+			<Row>102|afreebieempire.com|275445|129|4643|3839|3468|2012-03-14|2012-04-13|74.208.85.219|74.208.85.0|US|com</Row>
+			<Row>103|freebieforum.co.uk|195398|289|2392|34808|30324|2012-03-15|2012-04-13|66.147.244.52|66.147.244.0|US|uk</Row>
+			<Row>104|auto123.com|30476|6061|96166|233843|39693|2012-03-14|2012-04-13|207.96.225.53|207.96.225.0|CA|com</Row>
+			<Row>105|intheroo.com|280987|295|1611|29364|8502|2012-03-14|2012-04-13|184.106.209.151|184.106.209.0|US|com</Row>
+			<Row>106|24en.com|30304|8621|87187|280768|29522|2012-03-14|2012-04-13|125.64.130.170|125.64.130.0|CN|com</Row>
+			<Row>107|babyzone.com|25291|6663|127941|70764|28282|2012-03-14|2012-04-13|205.177.70.8|205.177.70.0|US|com</Row>
+			<Row>108|3wilsons.com|-1|8|111|76|26|2012-03-24|2012-04-13|204.12.18.190|204.12.18.0|US|com</Row>
+			<Row>109|totallyfreestuff.com|73366|2565|68843|72426|28988|2012-03-14|2012-04-13|64.26.149.68|64.26.149.0|CA|com</Row>
+			<Row>110|coolcanucks.ca|166056|761|8765|259112|36812|2012-03-14|2012-04-13|97.107.138.130|97.107.138.0|US|ca</Row>
+			<Row>111|lelounge.ca|-1|133|489|26569|6123|2012-03-15|2012-04-13|50.116.64.127|50.116.64.0|US|ca</Row>
+			<Row>112|whattoexpect.com|12001|3990|76303|324060|19871|2012-03-14|2012-04-13|67.202.219.8|67.202.219.0|US|com</Row>
+			<Row>113|retrievertraining.net|342603|501|3183|356286|28902|2012-03-14|2012-04-13|96.43.129.109|96.43.129.0|US|net</Row>
+			<Row>114|mycreemore.ca|-1|1|1|1111|535|2012-03-28|2012-04-10|208.112.123.133|208.112.123.0|US|ca</Row>
+			<Row>115|mythornbury.ca|-1|0|0|939|541|2012-03-15|2012-04-12|208.112.123.133|208.112.123.0|US|ca</Row>
+			<Row>116|grandmatrix.com|381460|5345|19657|46752|4304|2012-03-14|2012-04-13|72.52.203.180|72.52.203.0|US|com</Row>
+			<Row>117|winnipeggamers.com|-1|34|124|39786|3830|2012-03-14|2012-04-13|67.202.111.37|67.202.111.0|US|com</Row>
+			<Row>118|doctissimo.fr|1081|15242|602566|1108179|84419|2012-03-14|2012-04-13|85.116.34.2|85.116.34.0|FR|fr</Row>
+			<Row>119|registryhqs.com|-1|52|111|267|81|2012-03-27|2012-04-13|208.87.242.171|208.87.242.0|US|com</Row>
+			<Row>120|free-stuff-canada.ca|-1|1|1|55|55|2012-03-31|2012-04-13|68.178.254.189|68.178.254.0|US|ca</Row>
+			<Row>121|etiquettehell.com|70049|1142|16338|8239|5990|2012-03-14|2012-04-13|208.43.6.212|208.43.6.0|US|com</Row>
+			<Row>122|freestufftimes.com|36068|2140|25811|205841|47354|2012-03-13|2012-04-13|67.225.198.202|67.225.198.0|US|com</Row>
+			<Row>123|landoverbaptist.net|104102|1867|9870|433240|43474|2012-03-14|2012-04-13|208.109.178.110|208.109.178.0|US|net</Row>
+			<Row>124|krasmama.ru|103680|672|14092|465440|37412|2012-03-14|2012-04-13|95.170.190.230|95.170.190.0|RU|ru</Row>
+			<Row>125|7bed.com|-1|32|676|2587|1601|2012-03-15|2012-04-13|74.208.243.183|74.208.243.0|US|com</Row>
+			<Row>126|chatelaine.com|46356|4038|43289|24638|10000|2012-03-14|2012-04-13|64.208.126.11|64.208.126.0|US|com</Row>
+			<Row>127|babycenter.com|902|31773|1204502|550306|45823|2012-03-14|2012-04-13|2.19.118.19|2.19.118.0|EU|com</Row>
+			<Row>128|ourmeaford.com|-1|0|0|924|508|2012-03-23|2012-04-12| | | |com</Row>
+			<Row>129|educatout.com|299914|635|12214|18716|2947|2012-03-14|2012-04-13|70.38.84.57|70.38.84.0|CA|com</Row>
+		</DataTable>
+	</DataTables>
+</Result>

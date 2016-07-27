@@ -1,0 +1,11 @@
+.menubase	{background-image:url(images/menu_base.png); width:auto; height:66px; float:left; padding:20px 0px 0px 0px}
+.menubaseleft	 {background-image:url(images/menu_base-left.png); width:10px; height:86px; float:left;}
+.menubaseright {background-image:url(images/menu_base-right.png); width:10px; height:86px; float:left;}
+
+#menuup		{background-image:url(images/menu_up.png); width:auto; height:43px; float:left; padding:0px 0px 0px 0px;}
+.menuupleft	 {background-image:url(images/menu_up-left.png); width:21px; height:43px; float:left;}
+.menuupright {background-image:url(images/menu_up-right.png); width:21px; height:43px; float:left;}
+
+
+#menuup a	{text-decoration:none; font-size:14px; font-weight:bold; color:#333333;}
+#menuup		li {float:left; list-style:none; background:url(images/border.png) no-repeat scroll right top transparent; padding: 8px 14px 0px 14px; height:43px; }

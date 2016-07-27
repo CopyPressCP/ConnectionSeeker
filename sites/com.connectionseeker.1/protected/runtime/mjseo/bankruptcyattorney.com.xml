@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="541" IndexType="0" RemainingAnalysisResUnits="103375000" RemainingDetailedReportsPerPeriod="989" RemainingRetrievalResUnits="20367107" RemainingStandardReports="989" ServerBuild="2012-04-04 15:35:30" ServerName="SILVERTHORNE" ServerVersion="1.0.4477.26265"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="541" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID" BackLinkItem="bankruptcyattorney.com" BackLinkType="RootDomain" TotalBackLinks="757" TotalLines="541" TotalMatches="541">
+			<Row>http://www.rocketnews.com|9|local bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com|9|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rightsidenews.com|8|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://www.native-law.com|7|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.stanford.edu/group/akpsi|7|bankruptcy attorney|2012-02-22|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|4</Row>
+			<Row>http://www.umich.edu/~mock|6|bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|5</Row>
+			<Row>http://www.redstreet.com/Publications/Reviews1999_Candidates/index.shtml|5|www.bankruptcyattorney.com|2012-02-22|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|6</Row>
+			<Row>http://businessstartuptips.net|5|local bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|7</Row>
+			<Row>http://bpr.berkeley.edu|5|bankruptcy attorneys|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://tipsforstartingentrepreneurs.com|5|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|9</Row>
+			<Row>http://leadersdirect.com|5|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/?SPSID=29329&#38;SPID=2292&#38;DB_OEM_ID=500|4|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?SPSID=35435&#38;SPID=2733&#38;DB_OEM_ID=500|4|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?SPSID=4305&#38;SPID=236&#38;DB_OEM_ID=500|4|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?SPSID=43716&#38;SPID=3893&#38;DB_OEM_ID=500|4|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rightsidenews.com/feed/rss.html|4|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://www.dmoz.org/Society/Law/Services/Lawyers_and_Law_Firms/Directories/North_America/United_States|4|bankruptcyattorney.com|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|10</Row>
+			<Row>http://www.rightsidenews.com/feed/atom.html|4|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://www.rocketnews.com/page/2|4|local bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.native-law.com/category/criminal-law|4|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.native-law.com/jurisdiction/subject-matter-jurisdiction-versus-personal-jurisdiction|3|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.rocketnews.com/?SPSID=29354&#38;SPID=2294&#38;DB_OEM_ID=500|3|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?SPSID=4297&#38;SPID=235&#38;DB_OEM_ID=500|3|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://peaceofmindaccelerator.com/feed|3|how to file bankruptcy|2012-02-21|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com/filing.php|11</Row>
+			<Row>http://www.rocketnews.com/?SPSID=43721&#38;SPID=3893&#38;DB_OEM_ID=500|3|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://peaceofmindaccelerator.com/comments/feed|3|how to file bankruptcy|2012-02-21|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com/filing.php|11</Row>
+			<Row>http://www.native-law.com/category/divorce-law|3|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.rocketnews.com/?SPSID=39023&#38;SPID=248&#38;DB_OEM_ID=500|2|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?SPSID=43641&#38;SPID=3883&#38;DB_OEM_ID=500|2|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?SPSID=45286&#38;SPID=4050&#38;DB_OEM_ID=500|2|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.businessstartuptips.net|2|local bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|7</Row>
+			<Row>http://www.rocketnews.com/page/4/?SPSID=39023&#38;SPID=248&#38;DB_OEM_ID=500|2|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://bpr.berkeley.edu/2011/02/welcome-to-the-university-of-california-online|2|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.snn.gr/com/b/b_015000_com.html|2|www.bankruptcyattorney.com|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|12</Row>
+			<Row>http://www.rocketnews.com/?must=Virginia&#38;age=1|2|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://au.dir.yahoo.com/Business_and_Economy/Shopping_and_Services/Law/Directories_and_Referrals|2|bankruptcyattorney.com|2012-02-03|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|13</Row>
+			<Row>http://au.dir.yahoo.com/Business_and_Economy/Shopping_and_Services/Law/Directories_and_Referrals|2|open site in a new window|2012-02-03|0|0|0|1|0|0|0|http://www.bankruptcyattorney.com|13</Row>
+			<Row>http://www.bestdefender.com/resources.html|2|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|14</Row>
+			<Row>http://www.rocketnews.com/page/2/?SPSID=57084&#38;SPID=246&#38;DB_OEM_ID=500|2|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.native-law.com/commercial-law/arbitration-in-the-commercial-law|2|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.mortgagemag.com/tn/lc03870.htm|2|charles parks pope attny.|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|15</Row>
+			<Row>http://peaceofmindaccelerator.com/author/Peace Of Mind Accelerator|2|how to file bankruptcy|2012-02-21|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com/filing.php|11</Row>
+			<Row>http://www.rocketnews.com/?must=gangsta&#38;age=1|1|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?SPSID=53017&#38;SPID=5532&#38;DB_OEM_ID=500|1|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/page/4|1|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/neoliberalism-and-the-arab-spring|1|bankruptcy attorneys|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=Island&#38;age=1|1|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.native-law.com/category/civil-law|1|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.goguides.org/topic/10557.html|1|bankruptcyattorney.com|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|16</Row>
+			<Row>http://www.rocketnews.com/?must=oidos&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.native-law.com/jurisdiction/massachusetts-supreme-judicial-court-the-family-court-jurisdiction|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.amazingdir.com/blogs/law?p=12|0|chapter 7 bankruptcy|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|17</Row>
+			<Row>http://www.articlefield.com/580177/bankruptcy-attorney-to-help-you-file-for-bankruptcy|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|18</Row>
+			<Row>http://bpr.berkeley.edu/category/blog|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=App&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.agrisa.info/bankruptcyattorney.com-101660.html|0|bankruptcy lawyer|2011-12-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|19</Row>
+			<Row>http://www.rocketnews.com/?must=Apple&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://botw.org/new/Society/01162012.cfm|0|bankruptcyattorney.com|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|20</Row>
+			<Row>http://www.native-law.com/jurisdiction/the-green-portfolio-project|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://bpr.berkeley.edu/tag/cable|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://hacidsolution.com/alphabet.php?l=P&#38;p=62|0|personal bankruptcy|2012-02-22|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|21</Row>
+			<Row>http://www.native-law.com/page/2|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.roncorvus.com/blogs/law?s=A|0|chapter 7 bankruptcy|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|22</Row>
+			<Row>http://www.rocketnews.com/?must=energizer&#38;age=4|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.paladinpi.com/link.php|0|bankruptcy lawyer|2012-02-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|23</Row>
+			<Row>http://www.rocketnews.com/?SPSID=38063&#38;SPID=233&#38;DB_OEM_ID=500|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.native-law.com/tax-law/hello-world|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.charltonlawoffice.com/resources.html|0|bankruptcy attorney|2012-02-12|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|24</Row>
+			<Row>http://swbca.org/blogs/law?s=H|0|bankruptcy lawyer|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|25</Row>
+			<Row>http://www.avantfind.com/search.asp?&#38;keywords=Bankrupt Attorney|0|www.bankruptcyattorney.com/|2012-02-12|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|26</Row>
+			<Row>http://www.avantfind.com/search.asp?&#38;keywords=Bankrupt Attorney|0|bankruptcy attorney || bankruptcy attorney ...|2012-02-12|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|26</Row>
+			<Row>http://www.native-law.com/tax-law/taxation-law-the-luxury-of-paying-no-taxes-in-grand-cayman-island|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://dirsubmission.net/index.php?s=A&#38;c=426|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|27</Row>
+			<Row>http://idstudios.pl/q.php?search=bankruptcy attorney&#38;start=30|0|www.bankruptcyattorney.com - bankruptcy attorney|2009-05-19|0|0|1|0|0|0|0|http://bankruptcyattorney.com|28</Row>
+			<Row>http://idstudios.pl/q.php?search=bankruptcy attorney&#38;start=30|0|www.bankruptcyatt..|2009-05-19|0|0|1|0|0|0|0|http://bankruptcyattorney.com|28</Row>
+			<Row>http://www.rocketnews.com/?must=OS&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.avantfind.com/search.asp?&#38;keywords=Bankruptcy Attorney|0|bankruptcy attorney || bankruptcy attorney ...|2012-02-12|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|26</Row>
+			<Row>http://www.avantfind.com/search.asp?&#38;keywords=Bankruptcy Attorney|0|www.bankruptcyattorney.com/|2012-02-12|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|26</Row>
+			<Row>http://www.rocketnews.com/?must=OS-X&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.icatu.org/topic/connect-with-bankruptcy-attorneys|0|bankruptcyattorney.com|2012-02-25|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|29</Row>
+			<Row>http://www.icatu.org/topic/connect-with-bankruptcy-attorneys|0|bankruptcyattorney.com|2012-02-25|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com/articles/connect-los-angeles-bankruptcy-attorney.php|29</Row>
+			<Row>http://www.rocketnews.com/?must=OSPF&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=pet_supplies/f1&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.massivelinks.com/html/Services/Law_,038_Legal,044/Bankruptcy|0|bankruptcyattorney.com|2012-02-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|30</Row>
+			<Row>http://www.massivelinks.com/html/Services/Law_,038_Legal,044/Bankruptcy|0| |2012-02-24|0|0|0|1|0|0|0|http://www.bankruptcyattorney.com|30</Row>
+			<Row>http://www.rocketnews.com/?ind=07%2526loc=89|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://freeweblink.net/bankruptcyattorney.com-47798.html|0|chapter 13 bankruptcy|2012-01-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|31</Row>
+			<Row>http://www.rocketnews.com/?ind=07%2526loc=91|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://redianet.com/blogs/law|0|bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|32</Row>
+			<Row>http://www.rocketnews.com/page/6|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://nj-attorney.info/articles/bankruptcy-attorneys|0|bankruptcy attorneys|2012-01-12|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|33</Row>
+			<Row>http://www.rocketnews.com/?must=phone-book&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=Old&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=phone-company&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://washlaw.edu/lfirms/index.php?s=A&#38;c=14&#38;p=4|0|bankruptcy attorney.|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|34</Row>
+			<Row>http://www.rocketnews.com/?must=phone-home&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://digitaleveuk.org/Society/Law/page-3.html?s=A|0|bankruptcy attorney.|2012-02-24|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|35</Row>
+			<Row>http://www.web-schemes.com/blogs/law?p=2|0|personal bankruptcy|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|36</Row>
+			<Row>http://digitaleveuk.org/Society/Law/page-3.html?s=H|0|bankruptcy attorney.|2012-02-24|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|35</Row>
+			<Row>http://www.web-master-links.com/blogs/law?p=2|0|personal bankruptcy|2012-02-09|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|37</Row>
+			<Row>http://www.rocketnews.com/?SPSID=4427&#38;SPID=251&#38;DB_OEM_ID=500|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://nj-attorney.info/articles/bankruptcy-lawyer-how-to-choose-the-best|0|bankruptcy lawyer|2012-01-12|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|33</Row>
+			<Row>http://www.ideamarketers.com/?articleid=2868476|0|bankruptcy attorneys, bankruptcy attorn|2012-01-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|38</Row>
+			<Row>http://www.ideamarketers.com/?articleid=2868476|0|bankruptcy lawyer|2012-01-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|38</Row>
+			<Row>http://www.rocketnews.com/?must=hypoglycemia&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?SPSID=57084&#38;SPID=246&#38;DB_OEM_ID=500|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.alive-directory.com/Society/Laws|0|bankruptcy lawyer.|2011-12-06|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|39</Row>
+			<Row>http://www.rocketnews.com/?must=Capcom&#38;age=0|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.softecnet.com/blogs/law|0|bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|40</Row>
+			<Row>http://dirsubmission.net/index.php?c=426|0|bankruptcy attorney|2012-02-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|27</Row>
+			<Row>http://www.rocketnews.com/?must=piracy&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.a1weblink.com/blogs/law|0|bankruptcy lawyer|2012-02-03|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|41</Row>
+			<Row>http://www.rocketnews.com/?SectionID=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?SectionID=10|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=piratas&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.a1weblink.com/blogs/law?s=A|0|bankruptcy lawyer|2012-02-03|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|41</Row>
+			<Row>http://www.rocketnews.com/?must=piratebay&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.a1weblink.com/blogs/law?s=H|0|bankruptcy lawyer|2012-02-03|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|41</Row>
+			<Row>http://www.rocketnews.com/?must=PS2&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.a1weblink.com/blogs/law?s=P|0|bankruptcy lawyer|2012-02-03|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|41</Row>
+			<Row>http://777weblink.com/bankruptcyattorney.com-8665.html|0|bankruptcy attorney|2011-12-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|42</Row>
+			<Row>http://www.dirsubmission.net/index.php?c=426|0|bankruptcy attorney|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|27</Row>
+			<Row>http://www.rocketnews.com/?age=1&#38;sortby=relevance|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?age=4&#38;searchTerms=enqute&#38;sortby=date|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?age=4&#38;searchTerms=mdiatique&#38;sortby=date|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://buymarinemarketplace.com/details.php?id=6678-wateraders zoeken|0|chapter 13 bankruptcy|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|43</Row>
+			<Row>http://www.babieca.com/search/bankruptcy.html|0|bankruptcy attorney || bankruptcy lawyer || local bankruptcy ...|2012-02-24|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|44</Row>
+			<Row>http://www.rocketnews.com/?must=DDoS&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=DIADEM&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.omniseek.com/srch/{4543}|0|www.bankruptcyattorney.com|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|45</Row>
+			<Row>http://www.rocketnews.com/?category=breaking|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.icatu.org/topic/new-york-city-bankruptcy-attorneycom|0|bankruptcyattorney.com|2012-02-20|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|29</Row>
+			<Row>http://glasvezelprovider.com/houston-bankruptcy-attorney-el.html|0|bankruptcy attorney || bankruptcy attorneyâ¦|2012-02-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|46</Row>
+			<Row>http://dirchampion.com/blogs/law?p=1|0|chapter 13 bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|47</Row>
+			<Row>http://amazingdir.com/blogs/law?p=12|0|chapter 7 bankruptcy|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|17</Row>
+			<Row>http://meta.easypsearch.com/search?page=1&#38;type=web&#38;query=bankruptcy attorney|0| |2012-02-18|0|0|0|1|0|0|0|http://www.bankruptcyattorney.com|48</Row>
+			<Row>http://meta.easypsearch.com/search?page=1&#38;type=web&#38;query=bankruptcy attorney|0|bankruptcy attorney || bankruptcy attorney || bankruptcyattorney.com|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|48</Row>
+			<Row>http://uniqueweblink.com/bankruptcyattorney.com-8319.html|0|personal bankruptcy|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|49</Row>
+			<Row>http://www.lovelydir.info/bankruptcyattorney.com-28383.html|0|bankruptcy law|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|50</Row>
+			<Row>http://bpr.berkeley.edu/2010/11/free-speech-and-the-right-to-curse-at-a-police-officer|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2010/11/ready-or-not-here-comes-wyclef-jean|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?foiffs=in100fweg|0|local bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://bpr.berkeley.edu/2010/11/the-bravest-woman-in-mexico|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2010/11/the-crisis-in-public-education-continues|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/02|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/02/put-your-clothes-on-please|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/02/review-cedar-rapids|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/02/russell-pearce-is-at-it-again-2|0|bankruptcy attorneys|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/02/sic-semper-tyrannis|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/02/team-america-world-police|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/02/the-end-of-the-liberal-arts|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.a-livedirectory.com/blogs/law|0|bankruptcy attorney|2012-02-03|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|51</Row>
+			<Row>http://bpr.berkeley.edu/2011/02/the-revenue-revolt|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://a1weblink.com/alphabet.php?l=B&#38;p=5|0|bankruptcy lawyer|2011-12-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|41</Row>
+			<Row>http://bpr.berkeley.edu/2011/03|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/a-case-for-peter-kings-hearings-without-king|0|bankruptcy attorneys|2012-01-29|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://buymarinemarketplace.com/blogs/law?p=20|0|chapter 13 bankruptcy|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|43</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/a-few-thoughts-on-american-voyeurism|0|bankruptcy attorneys|2012-02-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://dirchampion.com/blogs/law?s=A|0|chapter 13 bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|47</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/america-and-islam-the-ever-going-fight-for-acceptance|0|bankruptcy attorneys|2012-02-12|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://dirchampion.com/blogs/law?s=H|0|chapter 13 bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|47</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/an-open-letter-to-the-protesters|0|bankruptcy attorneys|2012-02-12|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=prototype&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://wonderdir.com/blogs/law?p=2|0|personal bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|52</Row>
+			<Row>http://sizzlingdirectory.com/blogs/law?p=5|0|bankruptcy lawyer|2012-02-10|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|53</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/awards-shows-are-irrelevant-and-im-sorry-what-were-we-talking-about|0|bankruptcy attorneys|2012-02-12|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/bieber-fever-our-bubonic-plague|0|bankruptcy attorneys|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://sizzlingdirectory.com/blogs/law?s=A|0|bankruptcy lawyer|2012-02-10|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|53</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/dont-mind-the-gop|0|bankruptcy attorneys|2012-01-29|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.nits-bizarcade.com/blogs/law/page-5.html?s=A|0|bankruptcy lawyer.|2012-02-05|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|54</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/fall-back-spring-ahead|0|bankruptcy attorneys|2012-02-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/five-abstentions-international-reluctance-in-actually-desperate-situations|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/frak-me-sci-fis-growing-appeal-in-the-mainstream|0|bankruptcy attorneys|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=knowledge%2520acquisition&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.skincareindia.com/special/cat.asp?/Society/Law/Services/Lawyers_and_Law_Firms/Directories/North_America/United_States/|0|bankruptcyattorney.com|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|55</Row>
+			<Row>http://www.links-broker.com/blogs/law|0|chapter 7 bankruptcy|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|56</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/nasa-budget-scraps-manned-space-missions|0|bankruptcy attorneys|2012-02-12|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=knowledge%2520assets&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.vplasvegaslaw.com/las-vegas-injury-lawyer/links1_9.html|0|bankruptcy attorney|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|57</Row>
+			<Row>http://www.shenwaste.com/blogs/law?s=A|0|bankruptcy lawyer|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|58</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/no-more-potassium-iodide|0|bankruptcy attorneys|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=knowledge%2520capital&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?cat=1|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/religion-as-national-culture|0|bankruptcy attorneys|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rightsidenews.com/index.php?ref=jtqk.com|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://www.leadersdirect.com/?cat=1&#38;paged=2|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/review-red-riding-hood|0|bankruptcy attorneys|2012-01-29|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?cat=13|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/review-sucker-punch|0|bankruptcy attorneys|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rightsidenews.com/index.php?sid=48158&#38;m=1&#38;c=1|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://www.leadersdirect.com/?cat=5|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/review-win-win|0|bankruptcy attorneys|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?category_name=featured|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/the-biggest-sport-you-dont-know|0|bankruptcy attorneys|2012-02-12|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?category_name=uncategorized|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.nits-bizarcade.com/blogs/lawpage-8.html|0|bankruptcy lawyer.|2012-02-06|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|54</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/the-obama-doctrine-decoded|0|bankruptcy attorneys|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://agrisa.info/bankruptcyattorney.com-101660.html|0|bankruptcy lawyer|2011-12-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|19</Row>
+			<Row>http://www.leadersdirect.com/?category_name=uncategorized&#38;paged=2|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/the-patriot-act-security-tool-or-big-brother-2011|0|bankruptcy attorneys|2012-02-13|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?feed=atom|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/03/well-gladly-take-your-money-federal-funding-of-high-speed-rail|0|bankruptcy attorneys|2012-02-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?feed=comments-rss2|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/15-feb-15-apr-libyan-civil-war-at-two-months|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?feed=rss|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/a-lopsided-compromise|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=venture-capitalist&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?feed=rss2|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/a-problem-for-obama-the-thinker|0|bankruptcy attorneys|2012-02-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?feed=rss2&#38;cat=1|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/british-guilt-the-new-white-man%e2%80%99s-burden|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=public-safety&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?feed=rss2&#38;p=220|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/british-guilt-the-new-white-man’s-burden|0|bankruptcy attorneys|2012-02-06|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=public-speaking&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?format=feed&#38;type=atom|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://links-broker.com/blogs/law|0|chapter 7 bankruptcy|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|56</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/deliberative-democracy-in-current-congress|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=publicidad&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?format=feed&#38;type=rss|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/dumb-move-afghans-angry-over-florida-quran-burning-kill-u-n-staff|0|bankruptcy attorneys|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=200912|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://directoryelite.info/blogs/law|0|chapter 7 bankruptcy|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|59</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/dying-by-inches|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=201001|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://buymarinemarketplace.com/blogs/law?s=H|0|chapter 13 bankruptcy|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|43</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/hiccups-at-uc-online|0|bankruptcy attorneys|2012-02-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=201002|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/i-am-not-gleeful|0|bankruptcy attorneys|2012-02-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=201003|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/i-really-hate-blogging|0|bankruptcy attorneys|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=201004|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.island-publications.com/blogs/law/page-1.html?s=A|0|bankruptcy attorney|2011-12-20|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|60</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/lessons-from-fukushima|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=201005|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.island-publications.com/blogs/law/page-1.html?s=H|0|bankruptcy attorney|2011-12-20|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|60</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/medical-radiation-friend-or-foe|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.maxxv.com/business_and_economy/law?s=H|0|chapter 13 bankruptcy attorney.|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|61</Row>
+			<Row>http://www.leadersdirect.com/?m=201006|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.incrawler.com/dir/Business/Finance_and_Investment/Bankruptcy|0|bankruptcyattorney.com|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|62</Row>
+			<Row>http://www.yokimono.com/domain-list-636|0|bankruptcyattorney.com|2011-11-04|0|0|1|0|0|0|0|http://bankruptcyattorney.com|63</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/mr-krugman-is-correct|0|bankruptcy attorneys|2012-02-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=201007|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.island-publications.com/blogs/lawpage-3.html|0|bankruptcy attorney|2011-12-20|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|60</Row>
+			<Row>http://www.leadersdirect.com/?m=201008|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://dirorganization.com/bankruptcyattorney.com-77206.html|0|chapter 13 bankruptcy|2012-01-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|64</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/obama-confirms-2012-presidency-bid|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=201009|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/republican-party-or-no-tax-party|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=201010|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.delegateseo.com/blogs/law?s=A|0|chapter 13 bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|65</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/responsibility-to-protect-r2p|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=201102|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.delegateseo.com/blogs/law?s=H|0|chapter 13 bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|65</Row>
+			<Row>http://www.sizzlingdirectory.com/blogs/law?p=5|0|bankruptcy lawyer|2011-12-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|53</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/review-your-highness|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=20110206|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.frednwilma.com/web/bankruptcy attorney.php|0|http://www.bankruptcyattorney.com|2012-02-08|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|66</Row>
+			<Row>http://www.delegateseo.com/blogs/law?s=P|0|chapter 13 bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|65</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/saudi-arabia-policeman-of-the-gulf|0|bankruptcy attorneys|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=20110227|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.sizzlingdirectory.com/blogs/law?s=A|0|bankruptcy lawyer|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|53</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/state-of-volunteerism|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=201104|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/the-cost-of-climate-change|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.leadersdirect.com/?m=20110428|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/to-watch-a-robbery-in-slow-motion|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=knowledge%2520management%2520trends&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?m=201105|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.ksearchdemo.com/search/bankruptcy-attorney/1-3.html|0|bankruptcy attorney || bankruptcy lawyer || local bankruptcy ...|2012-01-30|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|67</Row>
+			<Row>http://www.business.com/legal/bankruptcy-law|0|http://www.bankruptcyattorney.com|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|68</Row>
+			<Row>http://www.business.com/legal/bankruptcy-law|0|bankruptcyattorney.com|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|68</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/trump-for-president-viable-choice-or-laughable-joke|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=knowledge%2520management%2520vendors&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?m=20110508|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.leaflets.nl/bankruptcy-lawyer-chicago-el.html|0|bankruptcy attorney || bankruptcy lawyer ||â¦|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|69</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/wikileaks-cable-results-in-firing-of-ambassador|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=knowledge%2520management&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://bpr.berkeley.edu/2011/04/yeah-the-government-might-shut-down-but-i-wont-have-to-hear-about-glenn-beck-anymore-wooo|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=knowledge%2520mapping&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://bpr.berkeley.edu/2011/05/europes-impending-shift-to-the-right|0|bankruptcy attorneys|2012-02-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://paladinpi.com/link.php|0|bankruptcy lawyer|2012-02-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|23</Row>
+			<Row>http://bpr.berkeley.edu/2011/05/i-love-william-shakespeare|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.777weblink.com/bankruptcyattorney.com-8665.html|0|bankruptcy attorney|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|42</Row>
+			<Row>http://www.maninnet.com/phod.php3?/Society/Law/Services/Lawyers_and_Law_Firms/Directories/North_America/United_States|0|bankruptcyattorney.com|2012-02-12|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|70</Row>
+			<Row>http://bpr.berkeley.edu/2011/05/man-at-the-mercy-of-the-wild|0|bankruptcy attorneys|2012-02-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=quotes&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://bpr.berkeley.edu/2011/05/props-to-the-baby-bears|0|bankruptcy attorneys|2012-02-12|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/05/the-costs-of-climate-change-and-why-the-market-doesnt-care|0|bankruptcy attorneys|2012-02-24|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/05/tina-fey-the-new-face-of-feminism|0|bankruptcy attorneys|2012-02-13|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rightsidenews.com/?do;_pdf=1&#38;id;=4377|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/a-dark-horse-rises|0|bankruptcy attorneys|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/as-goes-california-so-goes-the-nation|0|bankruptcy attorneys|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.777weblink.com/blogs/law|0|bankruptcy attorney|2012-01-13|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|42</Row>
+			<Row>http://www.rightsidenews.com/?emurl=http://pledge.tenthamendmentcenter.com/|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/baracketology-a-look-at-the-republican-primary|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.777weblink.com/blogs/law?s=A|0|bankruptcy attorney|2012-02-03|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|42</Row>
+			<Row>http://www.rightsidenews.com/?emurl=http://www.bcswebsiteservices.com|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/california-bleeding|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.777weblink.com/blogs/law?s=H|0|bankruptcy attorney|2012-02-03|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|42</Row>
+			<Row>http://www.rightsidenews.com/?emurl=http://www.burstnet.com/ads/ad18173a-map.cgi/ns/v=2.3S/sz=160x600A/|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/feminism-and-stuff|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.777weblink.com/blogs/law?s=P|0|bankruptcy attorney|2012-02-03|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|42</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/future-of-nato|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/jon-stewart-should-be-ashamed-of-himself|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/losing-grip|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=radioblog-sin-php&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://snn.gr/com/b/b_015000_com.html|0|www.bankruptcyattorney.com|2012-02-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|12</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/scotus-stikes-down-fair-elections-again|0|bankruptcy attorneys|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://botw.org/new/all/01162012.cfm|0|bankruptcyattorney.com|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|20</Row>
+			<Row>http://alivedir.net/blogs/law?s=A|0|bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|71</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/the-clinton-economy|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://netilluminations.com/blogs/law|0|bankruptcy attorney|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|72</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/the-exclusivity-of-public-faith|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://netilluminations.com/blogs/law?s=A|0|bankruptcy attorney|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|72</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/the-high-price-of-speculation|0|bankruptcy attorneys|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://netilluminations.com/blogs/law?s=H|0|bankruptcy attorney|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|72</Row>
+			<Row>http://bpr.berkeley.edu/2011/06/war-or-only-warlike|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/%e2%80%9cso-the-beast-is-starving-as-planned|0|bankruptcy attorneys|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.submiturl.in/directory/index.php?s=A&#38;c=44|0|chapter 7 bankruptcy attorney|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|73</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/2517|0|bankruptcy attorneys|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/an-easy-way-to-save|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://submiturl.in/directory/index.php?s=A&#38;c=44|0|chapter 7 bankruptcy attorney|2012-02-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|73</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/casey-anthony-trial-proves-death-penalty-thwarts-justice|0|bankruptcy attorneys|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/doomsday-usa-is-china-really-the-future-of-the-21st-century|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/elizabeth-warren-is-not-retreating|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/from-teens-to-millionaires|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/global-warming-the-secret-dissidents|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=raz%25C3%2583%25C2%25B3n&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.adsenses.net/blogs/law?s=H|0|bankruptcy lawyer|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|74</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/holding-the-cia-accountable|0|bankruptcy attorneys|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.links-zilla.com/blogs/law?s=A|0|chapter 7 bankruptcy|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|75</Row>
+			<Row>http://www.rightsidenews.com/?p=33|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/hope-2|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?page=2|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.directoryelite.info/blogs/law|0|chapter 7 bankruptcy|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|59</Row>
+			<Row>http://www.linkorganization.com/blogs/law?s=A|0|chapter 7 bankruptcy|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|76</Row>
+			<Row>http://www.rightsidenews.com/?p=35|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/i-am-very-depressed|0|bankruptcy attorneys|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/its-not-nothing|0|bankruptcy attorneys|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/marriage-in-the-headlines|0|bankruptcy attorneys|2012-02-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?page=3|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rightsidenews.com/?task=elections|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/normal|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rightsidenews.com/?task=learn|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/primary-source-boehners-insane-letter-vs-statistics|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?page=4|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.directoryelite.info/blogs/law?s=A|0|chapter 7 bankruptcy|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|59</Row>
+			<Row>http://www.rightsidenews.com/?task=node|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://www.delegateseo.com/bankruptcyattorney.com-8374.html|0|chapter 13 bankruptcy|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|65</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/republicans-love-taxes|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.directoryelite.info/blogs/law?s=H|0|chapter 7 bankruptcy|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|59</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/starving-east-africa|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=machine%2520learning&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.directoryelite.info/blogs/law?s=P|0|chapter 7 bankruptcy|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|59</Row>
+			<Row>http://www.rightsidenews.com/?task=view|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/starving-the-guard-dog|0|bankruptcy attorneys|2012-02-23|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=magicien&#38;age=4&#38;sortby=date|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=real-media&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/thank-you-nate-silver|0|bankruptcy attorneys|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=mailing%2520lists&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/the-art-of-saying-excuse-me|0|bankruptcy attorneys|2012-02-13|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?page=5|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rightsidenews.com/?utm_source=Right Side News&#38;utm_campaign=115a47f836-daily-rss-newsletter&#38;utm_medium=email|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/the-wrong-road-to-statehood|0|bankruptcy attorneys|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?page=6|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?searchTerms=Japan|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.dirchampion.com/blogs/law?p=1|0|chapter 13 bankruptcy|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|47</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/uc-berkeley-at-a-crossroads|0|bankruptcy attorneys|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/07/“so-the-beast-is-starving-as-planned|0|bankruptcy attorneys|2012-02-04|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.uniqueweblink.com/blogs/law|0|personal bankruptcy|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|49</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/back-to-basics|0|bankruptcy attorneys|2012-02-13|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?must=management%2520information%2520systems&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.777dir.com/blogs/law|0|bankruptcy lawyer|2012-02-01|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|77</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/boehner-brags-overcoming-the-arrogance-of-washington|0|bankruptcy attorneys|2012-02-13|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.777dir.com/blogs/law?p=1|0|bankruptcy lawyer|2012-02-01|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|77</Row>
+			<Row>http://www.nits-bizarcade.com/detail/bankruptcy-lawyer-114655.html|0|bankruptcy lawyer.|2011-12-14|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|54</Row>
+			<Row>http://t.co/8OQTBoQ|0|http://www.bankruptcyattorney.com/|2011-12-06|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|78</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/earthquakes-here-earthquakes-there|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.uniqueweblink.com/blogs/law?s=A|0|personal bankruptcy|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|49</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/ensuring-the-final-surge-never-ebbs|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://directoryinclusion.info/blogs/law?s=A|0|chapter 7 bankruptcy|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|79</Row>
+			<Row>http://gofightforeclosure.com/blog/california-homeowners-can-challenge-judges-dismissing-“produce-the-note”-foreclosure-defense|0|http://bankruptcyattorney.com|2012-01-16|0|0|1|0|0|0|0|http://bankruptcyattorney.com|80</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/faith-in-politics-can-it-be-done-right|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?page=7|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://pdamedweb.com/Society/Law/page-1.html?s=A|0|bankruptcy attorney|2012-02-21|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|81</Row>
+			<Row>http://www.uniqueweblink.com/blogs/law?s=P|0|personal bankruptcy|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|49</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/i-am-very-pretentious|0|bankruptcy attorneys|2012-02-13|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/the-american-people-want-you-to-read-this|0|bankruptcy attorneys|2012-02-13|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/the-decline-of-the-justice-system|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?page=8|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://webhitz.info/lawyers-and-law-firms/more10.html|0|personal bankruptcy|2011-12-08|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com/personal.php|82</Row>
+			<Row>http://webhitz.info/lawyers-and-law-firms/more10.html|0|http://www.bankruptcyattorney.com/personal.php|2011-12-08|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com/personal.php|82</Row>
+			<Row>http://leks.net/houston-bankruptcy-attorney-el.html|0|bankruptcy attorney || bankruptcy lawyer ||â¦|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|83</Row>
+			<Row>http://deep-linking.com/blogs/law?p=2|0|chapter 13 bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|84</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/the-north-dakota-miracle|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.rocketnews.com/?page=9|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/the-party-in-ames|0|bankruptcy attorneys|2012-02-11|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://www.dir-business.com/blogs/law|0|chapter 13 bankruptcy|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|85</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/the-souls-of-lgbt-folk|0|bankruptcy attorneys|2012-02-13|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://uniqueweblink.com/blogs/law|0|personal bankruptcy|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|49</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/three-weeks-later|0|bankruptcy attorneys|2012-02-13|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://uniqueweblink.com/blogs/law?s=A|0|personal bankruptcy|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|49</Row>
+			<Row>http://www.sizzlingdirectory.com/bankruptcyattorney.com-121095.html|0|bankruptcy lawyer|2011-12-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|53</Row>
+			<Row>http://bpr.berkeley.edu/2011/08/what-is-wrong-with-these-people|0|bankruptcy attorneys|2012-02-14|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|8</Row>
+			<Row>http://goldendirectory.info/blogs/law?p=4|0|personal bankruptcy|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|86</Row>
+			<Row>http://uniqueweblink.com/blogs/law?s=H|0|personal bankruptcy|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|49</Row>
+			<Row>http://uniqueweblink.com/blogs/law?s=P|0|personal bankruptcy|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|49</Row>
+			<Row>http://url.org/tags/bankruptcy law|0|benefits of hiring right bankruptcy attorney|2012-02-04|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|87</Row>
+			<Row>http://www.directorychrome.com/blogs/law?s=A|0|chapter 7 bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|88</Row>
+			<Row>http://www.rocketnews.com/page/3|0|local bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.directorychrome.com/blogs/law?s=H|0|chapter 7 bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|88</Row>
+			<Row>http://www.rocketnews.com/page/3/?SPSID=3796&#38;SPID=252&#38;DB_OEM_ID=500|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.directorychrome.com/blogs/law?s=P|0|chapter 7 bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|88</Row>
+			<Row>http://www.dirchampion.com/blogs/law?s=A|0|chapter 13 bankruptcy|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|47</Row>
+			<Row>http://www.rocketnews.com/page/3/?SPSID=38063&#38;SPID=233&#38;DB_OEM_ID=500|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/page/3/?SPSID=39023&#38;SPID=248&#38;DB_OEM_ID=500|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.articlefield.com/571482/bankruptcy-attorneys-are-many-–-how-will-you-choose-the-right-one|0|bankruptcy attorneys|2011-12-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|18</Row>
+			<Row>http://www.rocketnews.com/page/3/?SPSID=4366&#38;SPID=243&#38;DB_OEM_ID=500|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=10|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://glasvezelprovider.com/bankruptcy-lawyer-chicago-el.html|0|bankruptcy attorney || bankruptcy lawyer ||â¦|2012-02-22|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|46</Row>
+			<Row>http://www.leadersdirect.com/?p=110|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/page/3/?SPSID=45286&#38;SPID=4050&#38;DB_OEM_ID=500|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/page/4/?ind=15%2526loc=21|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=135|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.leadersdirect.com/?p=15|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.leadersdirect.com/?p=16|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://agglg.org/bankruptcyattorney.com-96927.html|0|bankruptcy lawyer|2011-12-18|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|89</Row>
+			<Row>http://www.leadersdirect.com/?p=180|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://malesah.com/blogs/law/page-3.html?s=H|0|bankruptcy attorney.|2012-01-18|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|90</Row>
+			<Row>http://www.leadersdirect.com/?p=185|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://malesah.com/blogs/law/page-4.html?s=A|0|bankruptcy attorney.|2012-01-18|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|90</Row>
+			<Row>http://www.leadersdirect.com/?p=19|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/?topic=Monkeypox&#38;utc=1163740156276|0|local bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=190|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/?must=%25C3%2583%25C2%25A9pisode&#38;age=4&#38;sortby=date|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=new-computer-system&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?topic=Monkeypox&#38;utc=1191930559845|0|local bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=193|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/?must=new-version&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?topic=Monkeypox&#38;utc=1197226095194|0|local bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=196|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/?must=new-york&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?topic=SMS&#38;utc=1159975435240|0|local bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=198|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/?must=2006&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=relevance&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?topic=SMS&#38;utc=1192365817477|0|local bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=207|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/?must=24&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=new.search.engines&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=religion&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?topic=SMS&#38;utc=1197580352783|0|local bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=217|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/?must=3D-character&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=remeras&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=220|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.articles411.com/accounts/info/nathanyroger.html|0|bankruptcy attorneys|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|91</Row>
+			<Row>http://www.articles411.com/accounts/info/nathanyroger.html|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|91</Row>
+			<Row>http://www.leadersdirect.com/?p=220&#38;cpage=1|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rightsidenews.com/index.php?URL=http://rightsidenews.com|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://www.leadersdirect.com/?p=223|0|bankruptcy attorney|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://softecnet.com/blogs/law|0|bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|40</Row>
+			<Row>http://www.native-law.com/about|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.rocketnews.com/?must=Matt&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=226|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/?must=Maui&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=234|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/?must=bush blogging illigal&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?select=News&#38;searchTerms=USENIX%2520NSDI%2520|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=237|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/?must=ADB&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=Maxtor&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?p=9|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/?must=rendezvous&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?page_id=2|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.native-law.com/category/commercial-law|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.rocketnews.com/page/2/?SPSID=3796&#38;SPID=252&#38;DB_OEM_ID=500|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=celbrity blogging&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=rendezvous-points&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?page_id=49|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.leadersdirect.com/?paged=2|0|bankruptcy attorney|2012-02-21|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://www.rocketnews.com/page/2/?SPSID=39023&#38;SPID=248&#38;DB_OEM_ID=500|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=renewable-resource&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.leadersdirect.com/?switch=0|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|1</Row>
+			<Row>http://island-publications.com/blogs/lawpage-3.html|0|bankruptcy attorney|2011-12-19|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|60</Row>
+			<Row>http://www.rocketnews.com/?must=replacement&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.native-law.com/category/jurisdiction|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.a1weblink.com/bankruptcyattorney.com-11801.html|0|bankruptcy lawyer|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|41</Row>
+			<Row>http://www.native-law.com/category/tax-law|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.rocketnews.com/?must=Ad-Aware&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rightsidenews.com/index.php?gender-identity_html=|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://www.rocketnews.com/page/5/?SPSID=39023&#38;SPID=248&#38;DB_OEM_ID=500|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=data%2520mining&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?user=rkti%2526topic=Business-Intelligence%2526channel=web|0|local bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=AdWords&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?user=rkti%2526topic=IPTV%2526channel=web|0|local bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rightsidenews.com/index.php?o|0|bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|2</Row>
+			<Row>http://www.777dir.com/blogs/law?s=A|0|bankruptcy lawyer|2012-02-03|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|77</Row>
+			<Row>http://www.rocketnews.com/?user=rkti%2526topic=PPC%2526channel=web|0|local bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.777dir.com/blogs/law?s=H|0|bankruptcy lawyer|2012-02-03|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|77</Row>
+			<Row>http://www.777dir.com/blogs/law?s=P|0|bankruptcy lawyer|2012-02-03|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|77</Row>
+			<Row>http://www.native-law.com/civil-law/what-liability-insurance-provides|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.dirfusion.info/blogs/law?s=A|0|chapter 7 bankruptcy|2012-02-17|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|92</Row>
+			<Row>http://www.icatu.org/topic/bankruptcy-attorney|0|bankruptcyattorney.com|2012-02-25|0|0|1|0|0|0|0|http://www.bankruptcyattorney.com|29</Row>
+			<Row>http://www.linking-net.com/bankruptcyattorney.com-7922.html|0|chapter 7 bankruptcy|2012-01-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|93</Row>
+			<Row>http://www.rocketnews.com/?%25C3%2582%25C2%25A9rdida-de-audici%25C3%2583%3f%25C3%2582%25C2%25B3n&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=MyTunesRSS&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.bankruptcylawyer.com/blog/?author=1|0|blog home|2011-11-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com/blog|94</Row>
+			<Row>http://www.bankruptcylawyer.com/blog/?author=1|0|sitemap|2011-11-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com/sitemap.php|94</Row>
+			<Row>http://www.bankruptcylawyer.com/blog/?author=1|0|home|2011-11-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|94</Row>
+			<Row>http://www.rocketnews.com/?%25C3%2582%25C2%25B1os&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=NESPOS&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://4georgiabankruptcy.com/downloads|0|bankruptcy attorney|2012-02-25|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|95</Row>
+			<Row>http://www.mkt3000.com/details.php?id=8494-Sell Houses Fast In Tampa|0|chapter 13 bankruptcy attorney|2012-02-05|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|96</Row>
+			<Row>http://washlaw.edu/lfirms/index.php?s=H&#38;c=14&#38;p=28|0|bankruptcy attorney.|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|34</Row>
+			<Row>http://www.rocketnews.com/?%25C3%2582%25C2%25B3n&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.mkt3000.com/business_and_economy/law?p=7|0|chapter 13 bankruptcy attorney|2012-02-04|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|96</Row>
+			<Row>http://www.alivedir.net/blogs/law?s=A|0|bankruptcy attorney|2012-02-19|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|71</Row>
+			<Row>http://international-dir.com/bankruptcyattorney.com-33474.html|0|personal bankruptcy|2012-01-13|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|97</Row>
+			<Row>http://www.native-law.com/criminal-law/criminal-defenses-insanity-of-mental-disorder|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.rocketnews.com/?must=obras&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://22centurytech.com/blogs/law?p=34|0|bankruptcy attorney|2012-02-01|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|98</Row>
+			<Row>http://www.mkt3000.com/business_and_economy/law?s=A|0|chapter 13 bankruptcy attorney|2012-02-04|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|96</Row>
+			<Row>http://www.native-law.com/criminal-law/when-is-strict-liability-applied-in-us-criminal-law|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://www.rocketnews.com/?must=ocean-bacteria&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://tools.web-max.ca/websitesonip.php?domain=bankruptcyattorney&#38;bydomain=1|0|bankruptcyattorney.com|2009-10-25|0|0|0|0|0|0|0|http://bankruptcyattorney.com|99</Row>
+			<Row>http://www.rocketnews.com/?must=Alice-Hill&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.rocketnews.com/?must=odd-job-jack&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+			<Row>http://www.bankruptcylawyer.com/blog/?m=201105|0|blog home|2011-11-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com/blog|94</Row>
+			<Row>http://www.bankruptcylawyer.com/blog/?m=201105|0|home|2011-11-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|94</Row>
+			<Row>http://www.bankruptcylawyer.com/blog/?m=201105|0|sitemap|2011-11-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com/sitemap.php|94</Row>
+			<Row>http://www.bankruptcylawyer.com/blog/?p=14|0|sitemap|2011-11-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com/sitemap.php|94</Row>
+			<Row>http://www.bankruptcylawyer.com/blog/?p=14|0|home|2011-11-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|94</Row>
+			<Row>http://www.bankruptcylawyer.com/blog/?p=14|0|blog home|2011-11-16|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com/blog|94</Row>
+			<Row>http://dirmanagement.com/blogs/law?p=2|0|chapter 13 bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|100</Row>
+			<Row>http://domfinder.com/s/bankruptcy|0|»|2012-02-24|0|0|1|0|0|0|0|http://bankruptcyattorney.com|101</Row>
+			<Row>http://www.native-law.com/divorce-law/how-to-obtain-a-divorce-in-the-united-states|0|bankruptcy attorney|2012-02-15|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|3</Row>
+			<Row>http://dirmanagement.com/blogs/law?s=A|0|chapter 13 bankruptcy|2012-02-07|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|100</Row>
+			<Row>http://lovelydir.info/bankruptcyattorney.com-28383.html|0|bankruptcy law|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|50</Row>
+			<Row>http://www.rocketnews.com/?must=office.productivity&#38;age=1|0|local bankruptcy attorney|2012-02-20|0|0|0|0|0|0|0|http://www.bankruptcyattorney.com|0</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="102" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD">
+			<Row>0|rocketnews.com|96086|20227|1185487|373987|191395|2006-07-26|2012-02-25|66.244.157.14|66.244.157.0|US|com</Row>
+			<Row>1|leadersdirect.com|-1|4629|13963|4010|2242|2007-03-20|2012-02-25|67.199.146.25|67.199.146.0|US|com</Row>
+			<Row>2|rightsidenews.com|161072|15603|1158259|110661|48594|2008-03-31|2012-02-25|174.133.137.114|174.133.137.0|US|com</Row>
+			<Row>3|native-law.com|-1|485|2910|144|120|2006-11-12|2012-02-25|67.18.7.13|67.18.7.0|US|com</Row>
+			<Row>4|stanford.edu|1209|733917|353224221|12458100|2129443|2006-07-26|2012-02-25|171.67.216.16|171.67.216.0|US|edu</Row>
+			<Row>5|umich.edu|3382|511802|348861675|13862074|2188399|2006-07-28|2012-02-25|141.211.144.190|141.211.144.0|US|edu</Row>
+			<Row>6|redstreet.com|-1|455|1560|4810|2371|2007-11-23|2012-02-25|198.63.53.171|198.63.53.0|US|com</Row>
+			<Row>7|businessstartuptips.net|-1|61|177|17|12|2011-12-04|2012-02-25|64.131.81.252|64.131.81.0|US|net</Row>
+			<Row>8|berkeley.edu|1942|728233|152853563|11654818|2915476|2006-07-26|2012-02-25|169.229.131.81|169.229.131.0|US|edu</Row>
+			<Row>9|tipsforstartingentrepreneurs.com|-1|39|69|15|11|2011-12-23|2012-02-25|64.131.79.37|64.131.79.0|US|com</Row>
+			<Row>10|dmoz.org|444|601384|1400898370|58779309|2807045|2006-07-26|2012-02-25|207.200.74.89|207.200.74.0|US|org</Row>
+			<Row>11|peaceofmindaccelerator.com|446194|3120|31139|90679|39392|2010-09-21|2012-02-25|205.251.134.253|205.251.134.0|US|com</Row>
+			<Row>12|snn.gr|118771|32415|66854435|695922|271989|2006-08-07|2012-02-25|64.136.20.37|64.136.20.0|US|gr</Row>
+			<Row>13|yahoo.com|4|8460966|17244239366|3986965760|172377974|2006-07-25|2012-02-25|72.30.2.43|72.30.2.0|US|com</Row>
+			<Row>14|bestdefender.com|-1|1185|11487|3088|1653|2007-12-24|2012-02-25|72.167.232.234|72.167.232.0|US|com</Row>
+			<Row>15|mortgagemag.com|376956|15648|19738841|640687|328071|2006-07-26|2012-02-25|209.250.87.75|209.250.87.0|US|com</Row>
+			<Row>16|goguides.org|24453|18375|825739|193144|71650|2006-08-14|2012-02-25|74.168.226.6|74.168.226.0|US|org</Row>
+			<Row>17|amazingdir.com|169915|894|26572|468075|169413|2008-09-27|2012-02-25|208.116.60.171|208.116.60.0|US|com</Row>
+			<Row>18|articlefield.com|10176|27841|365388|309076|124178|2009-10-14|2012-02-25|208.110.80.250|208.110.80.0|US|com</Row>
+			<Row>19|agrisa.info|63403|576|2671|901357|492522|2006-11-03|2012-02-25|74.54.136.115|74.54.136.0|US|info</Row>
+			<Row>20|botw.org|4580|54075|8503847|3808617|841846|2006-08-01|2012-02-25|209.11.177.200|209.11.177.0|US|org</Row>
+			<Row>21|hacidsolution.com|73744|423|11899|105131|47932|2009-11-04|2012-02-25|74.54.136.115|74.54.136.0|US|com</Row>
+			<Row>22|roncorvus.com|120961|333|1593|644448|265620|2008-03-23|2012-02-25|174.120.202.61|174.120.202.0|US|com</Row>
+			<Row>23|paladinpi.com|-1|335|6475|312|147|2011-03-09|2012-02-25|72.167.131.40|72.167.131.0|US|com</Row>
+			<Row>24|charltonlawoffice.com|-1|287|4819|852|697|2010-11-06|2012-02-25|72.167.232.61|72.167.232.0|US|com</Row>
+			<Row>25|swbca.org|130430|360|1777|1153620|364844|2007-06-29|2012-02-25|174.120.202.60|174.120.202.0|US|org</Row>
+			<Row>26|avantfind.com|493069|7592|1380404|10179951|465039|2006-10-06|2012-02-25|66.235.180.101|66.235.180.0|US|com</Row>
+			<Row>27|dirsubmission.net|45006|3659|1954777|160821|101950|2007-01-12|2012-02-25|74.53.161.130|74.53.161.0|US|net</Row>
+			<Row>28|idstudios.pl|-1|298|2551|115134|73549|2008-01-24|2011-03-31|82.98.86.162|82.98.86.0|DE|pl</Row>
+			<Row>29|icatu.org|-1|175|3312|2085779|138882|2008-01-26|2012-02-25|74.63.196.53|74.63.196.0|US|org</Row>
+			<Row>30|massivelinks.com|38016|10824|131026|845398|291151|2006-08-28|2012-02-25|76.74.166.185|76.74.166.0|US|com</Row>
+			<Row>31|freeweblink.net|107986|838|4641|825659|226224|2008-08-12|2012-02-25|208.116.60.171|208.116.60.0|US|net</Row>
+			<Row>32|redianet.com|220050|141|414|36374|6549|2009-06-13|2012-02-24|66.45.246.138|66.45.246.0|US|com</Row>
+			<Row>33|nj-attorney.info|-1|81|21178|3249|1255|2006-08-08|2012-02-25|68.178.232.99|68.178.232.0|US|info</Row>
+			<Row>34|washlaw.edu|221309|22442|397040|21199|13177|2006-08-10|2012-02-25|198.252.9.97|198.252.9.0|US|edu</Row>
+			<Row>35|digitaleveuk.org|30329|1998|105969|499576|148732|2009-04-26|2012-02-25|69.64.155.119|69.64.155.0|US|org</Row>
+			<Row>36|web-schemes.com|258809|439|1741|120574|40671|2009-10-02|2012-02-25|74.54.136.114|74.54.136.0|US|com</Row>
+			<Row>37|web-master-links.com|313029|393|31441|84306|30397|2009-10-10|2012-02-25|74.54.136.114|74.54.136.0|US|com</Row>
+			<Row>38|ideamarketers.com|5571|104006|9608434|6317338|1667895|2006-07-26|2012-02-25|72.18.140.51|72.18.140.0|US|com</Row>
+			<Row>39|alive-directory.com|40471|1526|839084|39834|3141|2011-03-25|2012-02-25|174.120.21.219|174.120.21.0|US|com</Row>
+			<Row>40|softecnet.com|215251|137|458|46259|5751|2007-06-30|2012-02-25|82.98.86.175|82.98.86.0|DE|com</Row>
+			<Row>41|a1weblink.com|65305|1994|3503554|242652|69023|2008-03-12|2012-02-25|74.53.161.130|74.53.161.0|US|com</Row>
+			<Row>42|777weblink.com|100432|1473|3517245|1043251|499381|2008-03-29|2012-02-24|74.53.161.130|74.53.161.0|US|com</Row>
+			<Row>43|buymarinemarketplace.com|57458|371|1542|476476|75812|2008-12-23|2012-02-25|174.120.202.60|174.120.202.0|US|com</Row>
+			<Row>44|babieca.com|548266|6230|147123|1330281|157342|2006-07-26|2012-02-25|72.52.132.4|72.52.132.0|US|com</Row>
+			<Row>45|omniseek.com|-1|9745|192978|2052379|1223547|2006-07-29|2012-02-25|216.19.202.85|216.19.202.0|US|com</Row>
+			<Row>46|glasvezelprovider.com|-1|19|75|677071|182860|2010-07-06|2012-02-25|78.47.249.188|78.47.249.0|DE|com</Row>
+			<Row>47|dirchampion.com|103392|1079|7631|200815|46075|2009-10-23|2012-02-25|208.53.158.38|208.53.158.0|US|com</Row>
+			<Row>48|easypsearch.com|583750|4210|27804|1749521|355295|2008-01-07|2012-02-25|80.154.38.104|80.154.38.0|DE|com</Row>
+			<Row>49|uniqueweblink.com|111604|1010|8168|1456416|590875|2009-02-19|2012-02-25|74.53.161.130|74.53.161.0|US|com</Row>
+			<Row>50|lovelydir.info|363343|570|3986|56669|14218|2009-09-22|2012-02-25|208.116.60.171|208.116.60.0|US|info</Row>
+			<Row>51|a-livedirectory.com|91629|1563|3543770|288001|69928|2008-03-01|2012-02-25|74.53.161.130|74.53.161.0|US|com</Row>
+			<Row>52|wonderdir.com|401704|321|1272|87260|23909|2009-09-26|2012-02-25|74.54.136.114|74.54.136.0|US|com</Row>
+			<Row>53|sizzlingdirectory.com|76807|1442|1384629|1284408|467746|2008-04-28|2012-02-25|74.54.136.114|74.54.136.0|US|com</Row>
+			<Row>54|nits-bizarcade.com|18171|480|5947|52820|9561|2011-01-28|2012-02-25|208.113.214.103|208.113.214.0|US|com</Row>
+			<Row>55|skincareindia.com|-1|5483|158152|543889|107336|2006-09-30|2012-02-25|74.86.89.172|74.86.89.0|US|com</Row>
+			<Row>56|links-broker.com|189187|491|2338|41718|5778|2011-03-06|2012-02-25|208.53.158.38|208.53.158.0|US|com</Row>
+			<Row>57|vplasvegaslaw.com|-1|1843|46917|145|61|2010-05-13|2012-02-25|74.208.150.81|74.208.150.0|US|com</Row>
+			<Row>58|shenwaste.com|180909|561|2852|933598|306414|2009-10-23|2012-02-25|174.120.202.60|174.120.202.0|US|com</Row>
+			<Row>59|directoryelite.info|153355|1166|30482|50158|7507|2009-06-03|2012-02-25|208.116.60.171|208.116.60.0|US|info</Row>
+			<Row>60|island-publications.com|49758|564|246991|37164|9194|2008-01-10|2012-02-25|72.51.46.44|72.51.46.0|US|com</Row>
+			<Row>61|maxxv.com|112172|441|5967|1062056|435369|2006-11-07|2012-02-25|174.120.202.60|174.120.202.0|US|com</Row>
+			<Row>62|incrawler.com|81133|9247|148645|66421|48332|2006-08-06|2012-02-25|216.22.25.48|216.22.25.0|US|com</Row>
+			<Row>63|yokimono.com|-1|47|2624|1524|1013|2008-02-18|2012-02-25|122.219.254.240|122.219.254.0|JP|com</Row>
+			<Row>64|dirorganization.com|155212|1052|6616|301052|91318|2009-11-27|2012-02-25|208.53.158.38|208.53.158.0|US|com</Row>
+			<Row>65|delegateseo.com|191442|947|5011|1229625|560565|2009-05-10|2012-02-25|74.53.161.130|74.53.161.0|US|com</Row>
+			<Row>66|frednwilma.com|-1|651|10928|211145|28564|2010-10-26|2012-02-25|174.37.18.76|174.37.18.0|US|com</Row>
+			<Row>67|ksearchdemo.com|-1|1677|77459|521715|306367|2006-08-02|2012-02-25|72.233.79.146|72.233.79.0|US|com</Row>
+			<Row>68|business.com|3314|161919|36226739|15861321|1730784|2006-07-26|2012-02-25|77.67.85.42|77.67.85.0|NL|com</Row>
+			<Row>69|leaflets.nl|-1|150|40019|971677|189191|2007-01-15|2012-02-25|78.47.13.253|78.47.13.0|DE|nl</Row>
+			<Row>70|maninnet.com|-1|4983|59692|1530675|400635|2006-07-26|2012-02-25|67.18.60.130|67.18.60.0|US|com</Row>
+			<Row>71|alivedir.net|120607|1034|360627|917193|230466|2008-09-30|2012-02-25|208.116.60.171|208.116.60.0|US|net</Row>
+			<Row>72|netilluminations.com|296386|89|352|28083|7659|2008-02-14|2012-02-25|74.86.153.136|74.86.153.0|US|com</Row>
+			<Row>73|submiturl.in|100527|2178|81654|157156|94810|2007-12-20|2012-02-25|74.54.136.115|74.54.136.0|US|in</Row>
+			<Row>74|adsenses.net|78571|324|1921|1806782|551343|2009-09-29|2012-02-25|74.54.136.115|74.54.136.0|US|net</Row>
+			<Row>75|links-zilla.com|164637|751|2986|2180366|771073|2009-05-02|2012-02-25|174.120.202.58|174.120.202.0|US|com</Row>
+			<Row>76|linkorganization.com|88746|892|4394|906243|281908|2008-12-22|2012-02-25|174.120.202.58|174.120.202.0|US|com</Row>
+			<Row>77|777dir.com|97422|1062|14118|128237|83776|2009-10-16|2012-02-25|74.53.161.130|74.53.161.0|US|com</Row>
+			<Row>78|t.co|3864|619610|1670259400|284879100|1124454|2010-12-03|2012-02-25|128.242.240.218|128.242.240.0|US|co</Row>
+			<Row>79|directoryinclusion.info|227893|871|10023|635991|104148|2009-10-18|2012-02-25|208.116.60.171|208.116.60.0|US|info</Row>
+			<Row>80|gofightforeclosure.com|-1|658|9630|9353|3413|2009-06-19|2012-02-25|70.87.64.34|70.87.64.0|US|com</Row>
+			<Row>81|pdamedweb.com|63994|311|88199|29821|9812|2011-02-19|2012-02-25|87.117.204.24|87.117.204.0|UK|com</Row>
+			<Row>82|webhitz.info|-1|97|15888|5345|821|2008-08-11|2012-02-25|74.54.143.242|74.54.143.0|US|info</Row>
+			<Row>83|leks.net|-1|14|52|956512|261899|2008-11-05|2012-02-25|78.47.13.253|78.47.13.0|DE|net</Row>
+			<Row>84|deep-linking.com|147744|1053|6848|124152|36309|2009-09-19|2012-02-25|208.53.158.38|208.53.158.0|US|com</Row>
+			<Row>85|dir-business.com|170203|526|1923|29521|8028|2009-10-13|2012-02-25|174.120.202.58|174.120.202.0|US|com</Row>
+			<Row>86|goldendirectory.info|234825|761|4567|129585|54364|2009-04-28|2012-02-25|208.116.60.171|208.116.60.0|US|info</Row>
+			<Row>87|url.org|7136|41513|979299|21563504|1582633|2007-08-20|2012-02-25|94.124.74.174|94.124.74.0|IT|org</Row>
+			<Row>88|directorychrome.com|160256|1253|8601|549377|84198|2009-10-26|2012-02-25|208.53.158.38|208.53.158.0|US|com</Row>
+			<Row>89|agglg.org|66168|394|2078|748626|320204|2009-02-06|2012-02-25|74.54.136.115|74.54.136.0|US|org</Row>
+			<Row>90|malesah.com|32262|356|86097|79666|25121|2010-09-22|2012-02-25|72.35.84.161|72.35.84.0|US|com</Row>
+			<Row>91|articles411.com|73642|4291|85957|239422|99252|2006-11-08|2012-02-25|193.164.131.16|193.164.131.0|DE|com</Row>
+			<Row>92|dirfusion.info|328819|567|3316|417705|142059|2009-03-27|2012-02-25|208.116.60.171|208.116.60.0|US|info</Row>
+			<Row>93|linking-net.com|176422|901|10124|134764|31846|2009-09-19|2012-02-25|208.53.158.38|208.53.158.0|US|com</Row>
+			<Row>94|bankruptcylawyer.com|-1|260|3171|238|175|2010-09-21|2012-02-25|66.228.3.12|66.228.3.0|US|com</Row>
+			<Row>95|4georgiabankruptcy.com|-1|511|1756|371|303|2006-12-03|2012-02-25|205.234.132.15|205.234.132.0|US|com</Row>
+			<Row>96|mkt3000.com|226397|1040|14905|1316487|351575|2006-09-15|2012-02-25|174.120.202.61|174.120.202.0|US|com</Row>
+			<Row>97|international-dir.com|166580|293|1217|556946|149496|2009-10-15|2012-02-25|213.175.208.130|213.175.208.0|UK|com</Row>
+			<Row>98|22centurytech.com|93320|368|1212|1057297|376600|2009-11-30|2012-02-25|174.120.202.60|174.120.202.0|US|com</Row>
+			<Row>99|web-max.ca|86910|3298|1193373|3843518|1024051|2006-10-14|2012-02-25|64.22.71.229|64.22.71.0|US|ca</Row>
+			<Row>100|dirmanagement.com|173506|865|6517|279458|68700|2009-09-17|2012-02-25|208.53.158.38|208.53.158.0|US|com</Row>
+			<Row>101|domfinder.com|-1|127|31858|221467|5388|2011-03-30|2012-02-25|69.25.47.166|69.25.47.0|US|com</Row>
+		</DataTable>
+	</DataTables>
+</Result>

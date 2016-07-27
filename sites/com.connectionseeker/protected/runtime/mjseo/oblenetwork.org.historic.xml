@@ -1,0 +1,38 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 0,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2014-10-21 03:32:31",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 99407000,
+	"RemainingRetrievalResUnits" : 19767873,
+	"ServerBuild" : "2014-11-14 18:10:46",
+	"ServerName" : "HUMMERR",
+	"ServerVersion" : "1.0.5431.32723",
+	"UniqueIndexID" : "20141021033231-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "oblenetwork.org", "UsedRootDomain" : "oblenetwork.org", "TotalRefDomains" : 0, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 0
+			},
+			"Data" : [
+			]
+			}
+		}
+}

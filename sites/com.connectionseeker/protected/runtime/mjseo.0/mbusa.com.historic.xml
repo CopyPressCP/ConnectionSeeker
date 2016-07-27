@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="500" IndexBuildDate="2014-03-19 09:04:51" IndexType="0" RemainingAnalysisResUnits="96751844" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19887095" RemainingStandardReports="950" ServerBuild="2014-04-10 16:18:39" ServerName="HUMMERR" ServerVersion="1.0.5213.27559" UniqueIndexID="20140319090451-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="500" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="mbusa.com" BackLinkType="RootDomain" TotalBackLinks="4179113" TotalLines="50000" TotalMatches="500">
+			<Row>http://www.apple.com/ipod/car-integration/|9| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|0|2012-07-09|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|62|66</Row>
+			<Row>http://www.apple.com/ipod/car-integration/|9|mercedes|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|0|2012-07-09|2014-02-28| | |TextLink|TextLink_Normal|53|58|62|66</Row>
+			<Row>http://www.pandora.com/everywhere/auto|8| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index?WT.srch=1&#38;WT.mc_id=7760552&#38;iq_id=7760552&#38;CHC=39575P&#38;utm_source=google&#38;utm_medium=cpc&#38;utm_term=mercedes-7760552&#38;|1|2012-05-10|2014-02-28| | |ImageLink|ImageLink_Normal|28|37|53|66</Row>
+			<Row>http://www.digitaltrends.com/car-reviews/|9|mbusa.com|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-CLA/model-CLA250C|2|2014-01-04|2014-02-28| | |TextLink|TextLink_Normal|45|49|62|50</Row>
+			<Row>http://www.digitaltrends.com/car-reviews/|9|see it|2014-02-28|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-CLA/model-CLA250C|2|2014-01-04|2014-02-28| | |TextLink|TextLink_Normal|45|49|62|50</Row>
+			<Row>http://www.autoalliance.org/|8| |2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|3|2009-07-25|2014-02-28| | |TextLink|TextLink_Normal|41|39|55|55</Row>
+			<Row>http://www.fueleconomy.gov/feg/links.shtml/|8|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|4|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|58|70|51|56</Row>
+			<Row>http://www.fueleconomy.gov/feg/diesellinks.shtml|8|e250 bluetec|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-E/model-E250BTC|4|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|45|50|50|56</Row>
+			<Row>http://www.fueleconomy.gov/feg/diesellinks.shtml|8|ml350 bluetec|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-M/model-ML350BTC|4|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|45|50|50|56</Row>
+			<Row>http://www.fueleconomy.gov/feg/diesellinks.shtml|8|gl350 bluetec|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-GL/model-GL350BTC|4|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|45|50|50|56</Row>
+			<Row>http://www.fueleconomy.gov/feg/diesellinks.shtml|8|glk250 bluetec|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-GLK/model-GLK250BT|4|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|45|50|50|56</Row>
+			<Row>http://www.fueleconomy.gov/feg/hybrid_links.shtml|8|mercedes e400 hybrid|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-E/model-E400H|4|2012-12-06|2014-02-28| | |TextLink|TextLink_Normal|45|50|50|56</Row>
+			<Row>http://www.fueleconomy.gov/feg/fcv_links.shtml|8|mercedes-benz ener-g-force|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/future/model/model-Ener_G_Force_Concept|4|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|29|35|50|56</Row>
+			<Row>http://www.fueleconomy.gov/feg/fcv_sbs.shtml|8|mercedes-benz f-cell|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/innovation/thinking_green/fuelcell|4|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|29|34|50|56</Row>
+			<Row>http://www.ama-assn.org/ama/pub/membership/membership-benefits/member-value-program.page|7|mercedes-benz|2014-02-28|0|0|0|1|0|0|0|http://www.fleet.mbusa.com/|5|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|29|33|48|57</Row>
+			<Row>http://www.kcrw.com/about/musicmine-for-ipad|8| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-C|6|2011-10-13|2014-02-28| | |ImageLink|ImageLink_Normal|30|33|51|54</Row>
+			<Row>http://www.greektheatrela.com/|7|mercedes benz|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/dealers/locator/LCP-803/searchType-byLcp|7|2013-04-05|2014-02-28| | |ImageLink|ImageLink_Normal|35|40|48|56</Row>
+			<Row>http://www.smartusa.com/|8|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-15|2014-02-28| | |TextLink|TextLink_Normal|50|50|51|53</Row>
+			<Row>http://autos.aol.com/used/certified-used-cars/|9|mercedes-benz|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/index.do|9|2008-10-27|2014-02-27| | |TextLink|TextLink_Normal|35|29|58|45</Row>
+			<Row>http://www.pga.com/pga-america/pga-feature/pga-partners|7|mercedes-benz|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|10|2013-04-05|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|48|52</Row>
+			<Row>http://www.pga.com/pga-america/pga-feature/pga-partners|7| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|10|2013-04-05|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|48|52</Row>
+			<Row>http://www.highgearmedia.com/advertise|8|brands_mercedes|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|11|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|58|70|55|43</Row>
+			<Row>http://www.stowe.com/|7|mercedes benz|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/events/hotels|12|2013-02-04|2014-02-28| | |ImageLink|ImageLink_Normal|30|34|49|49</Row>
+			<Row>http://www.businessweek.com/articles/2014-02-26/sports-cars-from-nissan-bmw-are-most-expensive-to-insure|8|slk250|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-SLK/model-SLK250|13|2014-02-26|2014-02-27| | |TextLink|TextLink_Normal|45|49|52|43</Row>
+			<Row>http://www.businessweek.com/articles/2014-02-26/sports-cars-from-nissan-bmw-are-most-expensive-to-insure|8|sls amg gt|2014-02-27|0|0|0|0|0|0|0|https://www.mbusa.com/mercedes/vehicles/class/class-SLS/bodystyle-CPE|13|2014-02-26|2014-02-27| | |TextLink|TextLink_Normal|32|31|52|43</Row>
+			<Row>http://www.kcrw.com/events/kcrwmoves|7| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|6|2013-03-06|2014-02-28| | |ImageLink|ImageLink_Normal|58|70|47|48</Row>
+			<Row>http://www.neworleanssaints.com/fan-zone/shop-saints.html|7| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|14|2011-11-12|2014-02-28| | |ImageLink|ImageLink_Normal|58|70|47|48</Row>
+			<Row>http://www.greenercars.org/resources.htm|7|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|15|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|53|58|44|51</Row>
+			<Row>http://www.youtube.com/mbusa|7| |2014-02-22|0|0|1|1|0|0|0|http://www.mbusa.com/|16|2011-11-06|2014-02-22| | |ImageLink|ImageLink_Normal|53|58|45|49</Row>
+			<Row>http://www.youtube.com/mbusa|7|mbusa.com|2014-02-22|0|0|1|0|0|0|0|http://www.mbusa.com/|16|2011-11-06|2014-02-22| | |TextLink|TextLink_Normal|53|58|45|49</Row>
+			<Row>http://www.thecoolhunter.net/events/|7|mercedes-benz concept style coupé|2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLS|17|2012-05-07|2014-02-25| | |TextLink|TextLink_Normal|33|35|46|47</Row>
+			<Row>http://www.tennisfame.com/news-events/2012-legends-ball/legends-ball-auction-donors|6|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|18|2012-10-07|2014-02-28| | |TextLink|TextLink_Normal|58|70|42|47</Row>
+			<Row>https://www.ayes.org/Home.aspx|6|mercedes benz|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|19|2011-06-15|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|43|46</Row>
+			<Row>http://hdradio.com/what-is-hd-radio|7| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|20|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|58|70|46|42</Row>
+			<Row>http://www.mbfashionweek.com/|8| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|50|37</Row>
+			<Row>http://uncrate.com/cars/|8|2015 mercedes s-class coupe|2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|22|2011-06-12|2014-02-25| | |TextLink|TextLink_Normal|58|70|52|34</Row>
+			<Row>http://uncrate.com/cars/|8|buy|2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|22|2011-06-12|2014-02-25| | |TextLink|TextLink_Normal|58|70|52|34</Row>
+			<Row>http://uncrate.com/advertise/|8|mercedes|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/|22|2011-12-11|2014-02-27| | |TextLink|TextLink_Normal|53|58|52|34</Row>
+			<Row>http://www.digitaltrends.com/car-reviews/2014-mercedes-benz-cla250-review/|7|mbusa.com|2014-02-24|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-CLA/model-CLA250C|2|2014-01-03|2014-02-24| | |TextLink|TextLink_Normal|45|49|48|37</Row>
+			<Row>http://www.digitaltrends.com/car-reviews/2014-mercedes-benz-cla250-review/|7|learn more|2014-02-24|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-CLA/model-CLA250C|2|2014-01-03|2014-02-24| | |TextLink|TextLink_Normal|45|49|48|37</Row>
+			<Row>http://www.digitaltrends.com/car-reviews/2014-mercedes-benz-cla250-review/|7| |2014-02-24|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-CLA/model-CLA250C|2|2014-01-03|2014-02-24| | |TextLink|TextLink_Normal|45|49|48|37</Row>
+			<Row>http://www.greektheatrela.com/index.asp|6|mercedes benz|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/dealers/locator/LCP-803/searchType-byLcp|7|2013-05-05|2014-02-28| | |ImageLink|ImageLink_Normal|35|40|39|46</Row>
+			<Row>http://help.pandora.com/customer/portal/articles/24525-pandora-and-mercedes-benz|6|http://www.mbusa.com/mercedes/dealers/state|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/dealers/state|1|2012-04-10|2014-02-28| | |TextLink|TextLink_Normal|32|36|37|46</Row>
+			<Row>http://help.pandora.com/customer/portal/articles/24525-pandora-and-mercedes-benz|6|authorized mercedes-benz dealer|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/dealers/state|1|2012-04-10|2014-02-28| | |TextLink|TextLink_Normal|32|36|37|46</Row>
+			<Row>http://www.smartusa.com/models/electric-drive/overview.aspx/|7|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-15|2014-02-28| | |TextLink|TextLink_Normal|50|50|45|38</Row>
+			<Row>http://www.conceptcarz.com/info/linkPage.aspx|6|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|23|2011-02-15|2014-02-28| | |TextLink|TextLink_Normal|53|58|41|41</Row>
+			<Row>http://www.phillymag.com/best-of-philly/page/votebop/|8|mercedes-benz|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|24|2013-12-29|2014-02-27| | |TextLink|TextLink_Normal|58|70|52|30</Row>
+			<Row>http://www.aubergedusoleil.com/specials-and-packages/mercedes-benz-owners|5|mercedes-benz “owners code” is required.|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/owners/owners_online|25|2011-04-16|2014-02-28| | |TextLink|TextLink_Normal|30|34|36|46</Row>
+			<Row>http://www.sportscarmarket.com/recources/manufacturers|6|www.mbusa.com|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|26|2013-10-31|2014-02-28| | |TextLink|TextLink_Normal|53|58|38|44</Row>
+			<Row>http://www.beautipage.com/info/Mercedes/mercedes.html|6|go to mercedes-benz usa|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|27|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|53|58|43|39</Row>
+			<Row>http://www.smartusa.com/models/pure-coupe/overview.aspx|7|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-15|2014-02-28| | |TextLink|TextLink_Normal_HighContent|50|50|45|37</Row>
+			<Row>http://www.nba.com/pelicans/sponsors.html|6|mercedes-benz|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|28|2014-02-22|2014-02-28| | |ImageLink|ImageLink_Normal|58|70|38|43</Row>
+			<Row>http://www.lambdalegal.org/about-us/sponsors/|6| |2014-02-26|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/|29|2012-02-08|2014-02-26| | |ImageLink|ImageLink_Normal|41|39|37|44</Row>
+			<Row>http://www.pamm.org/support/corporate/|5|mercedes-benz|2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|30|2013-12-20|2014-02-27| | |ImageLink|ImageLink_Normal|58|70|36|45</Row>
+			<Row>http://www.beautipage.com/info/Mercedes/mercedes.html?cn=|6|go to mercedes-benz usa|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|27|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|53|58|37|44</Row>
+			<Row>http://www.smartusa.com/find-a-dealer/|7|privacy policy|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2012-10-06|2014-02-27| | |TextLink|TextLink_Normal|50|50|44|37</Row>
+			<Row>http://www.notcot.com/tag/cars|6|irvine mercedes-benz classic center|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/enthusiast/classic_center|31|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|37|33|41|39</Row>
+			<Row>http://www.notcot.com/tag/cars|6|mercedes-benz classic center|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/enthusiast/classic_center|31|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|37|33|41|39</Row>
+			<Row>http://www.notcot.com/tag/cars|6|classic center workshop|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/enthusiast/classic_center/workshop|31|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|26|31|41|39</Row>
+			<Row>http://www.notcot.com/tag/cars|6|mercedes-benz 2014 e-class|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/benz/innovation/future/model-2014_E_Class_Sedans_and_Wagons|31|2013-02-04|2014-02-28| | |TextLink|TextLink_Normal|25|28|41|39</Row>
+			<Row>http://www.notcot.com/tag/cars|6|2014 e-class|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/benz/innovation/future/model-2014_E_Class_Sedans_and_Wagons|31|2013-02-04|2014-02-28| | |TextLink|TextLink_Normal|25|28|41|39</Row>
+			<Row>http://www.notcot.com/tag/video|6|mercedes-benz 2013 gl450|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-GL|31|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|36|32|41|39</Row>
+			<Row>http://www.ana.net/members/list/|6|mercedes-benz usa, llc|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/|32|2011-03-15|2014-02-26| | |TextLink|TextLink_Normal|53|58|37|43</Row>
+			<Row>http://www.okino.com/conv/users.htm|6|asi at mercedes-benz usa|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|33|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|53|58|37|43</Row>
+			<Row>http://www.smartusa.com/comparevehicles/|6|privacy policy|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-13|2014-02-26| | |TextLink|TextLink_Normal|50|50|43|37</Row>
+			<Row>http://www.smartusa.com/contact/|6|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-15|2014-02-28| | |TextLink|TextLink_Normal_HighContent|50|50|43|37</Row>
+			<Row>http://www.smartusa.com/models/passion-cabriolet/overview.aspx|6|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-15|2014-02-28| | |TextLink|TextLink_Normal_HighContent|50|50|43|37</Row>
+			<Row>http://www.smartusa.com/models/passion-coupe/overview.aspx|6|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-15|2014-02-28| | |TextLink|TextLink_Normal_HighContent|50|50|43|37</Row>
+			<Row>http://www.usablenet.com/news/responsive-design-will-your-customer-thank-you|6|mercedes benz usa|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|34|2014-01-25|2014-02-28| | |TextLink|TextLink_Normal|58|70|39|40</Row>
+			<Row>http://www.notcot.com/tag/lighting|6|2014 e-class|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/benz/innovation/future/model-2014_E_Class_Sedans_and_Wagons|31|2013-02-04|2014-02-28| | |TextLink|TextLink_Normal|25|28|40|39</Row>
+			<Row>http://www.notcot.com/tag/lighting|6|mercedes-benz 2014 e-class|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/benz/innovation/future/model-2014_E_Class_Sedans_and_Wagons|31|2013-02-04|2014-02-28| | |TextLink|TextLink_Normal|25|28|40|39</Row>
+			<Row>http://www.luxist.com/category/the-classicist/|7|mercedes-benz g-wagen|2014-02-23|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-G|35|2011-03-12|2014-02-23| | |TextLink|TextLink_Normal|32|30|49|30</Row>
+			<Row>http://www.luxist.com/category/the-classicist/|7|the g550|2014-02-23|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/explore/overview/class-G/model-G550|35|2011-03-12|2014-02-23| | |TextLink|TextLink_Normal|21|15|49|30</Row>
+			<Row>http://www.smartusa.com/safety/|6|privacy policy|2014-02-24|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-11-08|2014-02-24| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/smartexpressions/|6|privacy policy|2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-12|2014-02-25| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/brochures/|6|privacy policy|2014-02-24|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-11|2014-02-24| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/sitemap/|6|privacy policy|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-14|2014-02-27| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/certified-pre-owned/|6|privacy policy|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2012-11-04|2014-02-26| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/customization/|6|privacy policy|2014-02-24|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2012-11-02|2014-02-24| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/warranty/|6|privacy policy|2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-12|2014-02-25| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://owners.smartusa.com/|6|privacy policy|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-15|2014-02-28| | |ImageLink|ImageLink_HighContent|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/fun/|6|privacy policy|2014-02-24|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2012-11-02|2014-02-24| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/fun-calculator/|6|privacy policy|2014-02-24|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2013-06-30|2014-02-24| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/hellokitty/|6|privacy policy|2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-12|2014-02-25| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/overlays/get-updates.aspx|6|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal_HighContent|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/owners/|6|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/owners/stories/|6|privacy policy|2014-02-24|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2013-07-30|2014-02-24| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://www.smartusa.com/aboutus/|6|privacy policy|2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-12|2014-02-25| | |TextLink|TextLink_Normal|50|50|42|37</Row>
+			<Row>http://www.citynationalgroveofanaheim.com/|6|mercedes benz|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/dealers/locator/LCP-803/searchType-byLcp|36|2013-04-05|2014-02-28| | |ImageLink|ImageLink_Normal|35|40|38|41</Row>
+			<Row>http://www.benedict.edu/cms/?q=scholarships|5|drive your future|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/drivefuture|37|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|25|31|34|44</Row>
+			<Row>http://www.vuu.edu/admissions/financial_aid/scholarships.aspx|5|mercedes-benz drive your future scholarship|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mbusa/ProxyServlet?/about/philanthropy/drive-your-future.do|38|2009-11-22|2014-02-28| | |TextLink|TextLink_Normal|12|25|34|44</Row>
+			<Row>http://www.washingtonautoshow.com/2014-show-info/exhibitor-listing/|5|mercedes-benz|2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|39|2013-12-14|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|34|44</Row>
+			<Row>http://furbo.org/|6|a car|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/legacy/vehicles/class?class=S&#38;bodystyle=SDN|40|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|28|24|42|36</Row>
+			<Row>http://furbo.org/|6|amg gets their hands on it|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/legacy/vehicles/model?class=S&#38;model=S65|40|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|23|23|42|36</Row>
+			<Row>http://www.attpbgolf.com/sponsors|5|mercedes-benz usa|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|41|2012-10-07|2014-02-28| | |TextLink|TextLink_Normal|53|58|34|44</Row>
+			<Row>http://www.attpbgolf.com/sponsors|5|mercedes-benz usa|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|41|2012-10-07|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|34|44</Row>
+			<Row>http://www.notcot.com/tag/camera|6|mercedes-benz 2013 gl450|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-GL|31|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|36|32|39|38</Row>
+			<Row>http://www.notcot.com/tag/Mercedes-Benz|6|irvine mercedes-benz classic center|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/enthusiast/classic_center|31|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|37|33|39|38</Row>
+			<Row>http://www.notcot.com/tag/Mercedes-Benz|6|mercedes-benz classic center|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/enthusiast/classic_center|31|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|37|33|39|38</Row>
+			<Row>http://www.notcot.com/tag/Mercedes-Benz|6|mercedes-benz 2013 gl450|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-GL|31|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|36|32|39|38</Row>
+			<Row>http://www.notcot.com/tag/Mercedes-Benz|6|c-class|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-C|31|2011-10-13|2014-02-28| | |TextLink|TextLink_Normal|30|33|39|38</Row>
+			<Row>http://www.notcot.com/tag/Mercedes-Benz|6|sl|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-SL|31|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|31|32|39|38</Row>
+			<Row>http://www.notcot.com/tag/Mercedes-Benz|6|classic center workshop|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/enthusiast/classic_center/workshop|31|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|26|31|39|38</Row>
+			<Row>http://www.notcot.com/tag/Mercedes-Benz|6|2014 e-class|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/benz/innovation/future/model-2014_E_Class_Sedans_and_Wagons|31|2013-02-04|2014-02-28| | |TextLink|TextLink_Normal|25|28|39|38</Row>
+			<Row>http://www.notcot.com/tag/Mercedes-Benz|6|mercedes-benz 2014 e-class|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/benz/innovation/future/model-2014_E_Class_Sedans_and_Wagons|31|2013-02-04|2014-02-28| | |TextLink|TextLink_Normal|25|28|39|38</Row>
+			<Row>http://www.interactivemediaawards.com/winners/2009/top10sites.asp|6|automobile|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|42|2010-08-19|2014-02-28| | |TextLink|TextLink_Normal|41|39|38|39</Row>
+			<Row>http://www.interactivemediaawards.com/winners/2009/top10sites.asp|6| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/|42|2010-08-19|2014-02-28| | |ImageLink|ImageLink_Normal|41|39|38|39</Row>
+			<Row>http://www.interactivemediaawards.com/winners/2009/top10sites.asp|6|razorfish|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|42|2010-08-19|2014-02-28| | |TextLink|TextLink_Normal|41|39|38|39</Row>
+			<Row>http://www.interactivemediaawards.com/winners/2009/top10sites.asp|6|mercedes-benz usa &#147;e-class&#148; website|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|42|2010-08-19|2014-02-28| | |TextLink|TextLink_Normal|41|39|38|39</Row>
+			<Row>http://news.kron4.com/auto/|6|mercedes benz|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|43|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|58|70|37|40</Row>
+			<Row>http://www.madeinalabama.com/feed/|7|mercedes-benz|2014-02-22|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|44|2013-10-20|2014-02-22| | |TextLink|TextLink_Normal|58|70|46|31</Row>
+			<Row>http://www.smartusa.com/find-a-dealer/?utm_campaign=2013_mbusa_tout&#38;utm_medium=referral&#38;utm_source=mbusa.com&#38;utm_content=family|5|privacy policy|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2014-01-07|2014-02-26| | |TextLink|TextLink_Normal_HighContent|50|50|35|42</Row>
+			<Row>http://www.mbfashionweek.com/home|7| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|47|30</Row>
+			<Row>http://www.notcot.com/tag/california|6|mercedes-benz classic center|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/enthusiast/classic_center|31|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|37|33|38|38</Row>
+			<Row>http://www.notcot.com/tag/california|6|irvine mercedes-benz classic center|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/enthusiast/classic_center|31|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|37|33|38|38</Row>
+			<Row>http://www.notcot.com/tag/california|6|classic center workshop|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/enthusiast/classic_center/workshop|31|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|26|31|38|38</Row>
+			<Row>http://www.franklintempletonshootout.com/|6|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|37|39</Row>
+			<Row>http://www.autonetmobile.com/|6| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/accessory/title-In_Vehicle_Hotspot/id-OEMPartNo:BQACC007|46|2013-11-09|2014-02-28| | |ImageLink|ImageLink_Normal|27|25|40|36</Row>
+			<Row>http://en.wikipedia.org/wiki/Karl_Benz|6|mercedes-benz, home of mercedes-benz luxury automobiles|2014-02-03|0|0|1|0|0|0|0|http://www.mbusa.com/heritage/karl-benz.do|47|2008-09-03|2014-02-03| | |TextLink|TextLink_Normal|11|12|40|35</Row>
+			<Row>https://webtrends.com/about/company-info/customers|5|mercedes-benz|2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|48|2013-12-14|2014-02-27| | |ImageLink|ImageLink_Normal|58|70|34|41</Row>
+			<Row>http://www.notcot.com/tag/factory|6|c-class|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-C|31|2011-10-13|2014-02-28| | |TextLink|TextLink_Normal|30|33|38|37</Row>
+			<Row>http://www.notcot.com/tag/germany|6|c-class|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-C|31|2011-10-13|2014-02-28| | |TextLink|TextLink_Normal|30|33|38|37</Row>
+			<Row>http://www.notcot.com/tag/movie|6|sl|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-SL|31|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|31|32|38|37</Row>
+			<Row>http://www.adverblog.com/tag/rich-media-2/|7|micro-site|2014-02-24|0|0|0|0|0|0|0|http://www.mbusa.com/microsite/r-class/index.jsp|49|2011-06-11|2014-02-24| | |TextLink|TextLink_Normal|21|18|45|30</Row>
+			<Row>http://www.mbfs.com/mbfsr/en/misc/index.do|6|mbfs invehicle|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/mbrace?utm_source=mbfs&#38;utm_medium=Banner&#38;utm_campaign=InVehicle|50|2014-02-24|2014-02-28| | |ImageLink|ImageLink_Normal|29|26|43|32</Row>
+			<Row>http://www.outbackbowl.com/sponsors|5|mercedes-benz|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|51|2013-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|33|42</Row>
+			<Row>http://www.outbackbowl.com/stadium-diagram|5| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLA/bodystyle-CPE|51|2013-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|46|50|33|42</Row>
+			<Row>http://www.solagecalistoga.com/|6|mercedes-benz owners package|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/owners/owners_online?src=4433|52|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|36|25|42|33</Row>
+			<Row>http://www.solagecalistoga.com/|6| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/owners/owners_online?src=4433|52|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|36|25|42|33</Row>
+			<Row>http://www.apple.com/au/ipod/car-integration/|6|mercedes|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/|0|2011-12-10|2014-02-26| | |TextLink|TextLink_Normal|53|58|39|35</Row>
+			<Row>http://www.apple.com/au/ipod/car-integration/|6| |2014-02-26|0|0|0|1|0|0|0|http://www.mbusa.com/|0|2011-12-10|2014-02-26| | |ImageLink|ImageLink_Normal|53|58|39|35</Row>
+			<Row>http://www.chaos.umd.edu/misc/origplates.html|6|mercedes benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|53|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|53|58|42|32</Row>
+			<Row>http://www.smartusa.com/models/electric-drive/EV-pre-register.aspx|6|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2012-10-07|2014-02-28| | |TextLink|TextLink_Normal|50|50|38|36</Row>
+			<Row>http://www.outbackbowl.com/vip-events|5| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLA/bodystyle-CPE|51|2013-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|46|50|32|42</Row>
+			<Row>http://www.outbackbowl.com/where-to-go|5| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLA/bodystyle-CPE|51|2013-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|46|50|32|42</Row>
+			<Row>http://www.outbackbowl.com/history|5| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLA/bodystyle-CPE|51|2013-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|46|50|32|42</Row>
+			<Row>http://www.outbackbowl.com/matchup|5| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLA/bodystyle-CPE|51|2013-11-21|2014-02-28| | |ImageLink|ImageLink_Normal|46|50|32|42</Row>
+			<Row>http://www.outbackbowl.com/photo-galleries|5| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLA/bodystyle-CPE|51|2013-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|46|50|32|42</Row>
+			<Row>http://www.outbackbowl.com/stadium-directions|5| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLA/bodystyle-CPE|51|2013-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|46|50|32|42</Row>
+			<Row>http://www.designboom.com/design/mercedes-benz-designs-amg-surfboard-for-big-wave-rider-garrett-mcnamara-02-05-2014/|6|mercedes-benz|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|54|2014-02-07|2014-02-27| | |TextLink|TextLink_Normal|58|70|37|36</Row>
+			<Row>http://www.benedict.edu/cms/?q=node/203|5|drive your future|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/drivefuture|37|2012-06-09|2014-02-28| | |TextLink|TextLink_Normal|25|31|31|42</Row>
+			<Row>http://www.okino.com/conv/users.htm?0|5|asi at mercedes-benz usa|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|33|2011-02-15|2014-02-28| | |TextLink|TextLink_Normal|53|58|35|38</Row>
+			<Row>http://web.sny.tv/events/sny_invitational/|7| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|55|2014-01-12|2014-02-25| | |ImageLink|ImageLink_Normal|58|70|44|29</Row>
+			<Row>http://www.smartusa.com/find-a-dealer/default.aspx|6|privacy policy|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2013-06-02|2014-02-26| | |TextLink|TextLink_Normal|50|50|37|36</Row>
+			<Row>http://www.asual.com/swfaddress/showcase/|5|mercedes-benz usa|2014-02-28|0|0|1|0|0|0|0|http://www.mbusa.com/|56|2011-02-15|2014-02-28| | |TextLink|TextLink_Normal|53|58|32|41</Row>
+			<Row>http://furbo.org/feed/|6|a car|2014-02-22|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/legacy/vehicles/class?class=S&#38;bodystyle=SDN|40|2013-09-26|2014-02-22| | |TextLink|TextLink_Normal|28|24|40|33</Row>
+			<Row>http://furbo.org/feed/|6|amg gets their hands on it|2014-02-22|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/legacy/vehicles/model?class=S&#38;model=S65|40|2013-09-26|2014-02-22| | |TextLink|TextLink_Normal|23|23|40|33</Row>
+			<Row>http://furbo.org/2013/09/11/sonderklasse/|6|a car|2014-02-22|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/legacy/vehicles/class?class=S&#38;bodystyle=SDN|40|2013-09-26|2014-02-22| | |TextLink|TextLink_Normal|28|24|40|33</Row>
+			<Row>http://furbo.org/2013/09/11/sonderklasse/|6|amg gets their hands on it|2014-02-22|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/legacy/vehicles/model?class=S&#38;model=S65|40|2013-09-26|2014-02-22| | |TextLink|TextLink_Normal|23|23|40|33</Row>
+			<Row>http://www.citynationalgroveofanaheim.com/index.asp|6|mercedes benz|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/dealers/locator/LCP-803/searchType-byLcp|36|2013-04-05|2014-02-28| | |ImageLink|ImageLink_Normal|35|40|37|36</Row>
+			<Row>http://www.verizontelematics.com/|6|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mbrace|57|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|32|34|41|32</Row>
+			<Row>http://houston.culturemap.com/feeds/news/innovation/|7|e-class|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-E/bodystyle-SDN|58|2014-01-23|2014-02-27| | |TextLink|TextLink_Normal|45|49|44|28</Row>
+			<Row>http://houston.culturemap.com/feeds/news/innovation/|7|2014 mercedes-benz s-class sedan|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-S/bodystyle-SDN|58|2014-02-17|2014-02-27| | |TextLink|TextLink_Normal|45|49|44|28</Row>
+			<Row>https://www.mbfs.com/mbfsr/en/misc/siteMap.do|5|- mbusa.com|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|50|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|35|37</Row>
+			<Row>https://www.mbfs.com/mbfsr/en/misc/siteMap.do|5|- locate a dealer|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/dealers/state|50|2011-04-16|2014-02-28| | |TextLink|TextLink_Normal|32|36|35|37</Row>
+			<Row>https://www.mbfs.com/mbfsr/en/misc/siteMap.do|5|- owners online|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/owners/owners_online|50|2011-04-16|2014-02-28| | |TextLink|TextLink_Normal|30|34|35|37</Row>
+			<Row>https://www.mbfs.com/mbfsr/en/misc/contactUs.do|5|mbusa.com.|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|50|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|35|37</Row>
+			<Row>https://www.mbfs.com/mbfsr/en/misc/index.do|5|mbfs invehicle|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/mbrace?utm_source=mbfs&#38;utm_medium=Banner&#38;utm_campaign=InVehicle|50|2014-02-25|2014-02-28| | |ImageLink|ImageLink_Normal|29|26|35|37</Row>
+			<Row>http://brucegarrett.com/brucelog/|7|mercedes-benz usa|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/|59|2010-12-16|2014-02-27| | |TextLink|TextLink_Normal|53|58|45|27</Row>
+			<Row>http://www.greenfleetconference.com/|6| |2014-02-28|0|0|0|1|0|0|0|http://www.fleet.mbusa.com/|60|2011-09-13|2014-02-28| | |ImageLink|ImageLink_Normal|29|33|40|32</Row>
+			<Row>http://www.smartusa.com/smartexpressions/store.aspx?select=artistwraps|5|privacy policy|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2014-02-06|2014-02-27| | |TextLink|TextLink_Normal|50|50|36|35</Row>
+			<Row>http://newyork.mbfashionweek.com/|7| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|45|26</Row>
+			<Row>http://www.autoalliance.org/index.cfm?objectid=38F81ED0-9D7B-11E3-AB0B000C296BA163|5| |2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|3|2014-02-25|2014-02-25| | |TextLink|TextLink_Normal|41|39|33|38</Row>
+			<Row>http://www.autoalliance.org/index.cfm?objectid=03E6A1E0-7EDF-11E3-9303000C296BA163|5| |2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|3|2014-01-18|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|38</Row>
+			<Row>http://www.autoalliance.org/index.cfm?objectid=0B45CE30-87A3-11E3-AB0B000C296BA163|5| |2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|3|2014-01-29|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|38</Row>
+			<Row>http://www.autoalliance.org/index.cfm?objectid=68D850B0-98E0-11E3-AB0B000C296BA163|5| |2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|3|2014-02-19|2014-02-25| | |TextLink|TextLink_Normal|41|39|33|38</Row>
+			<Row>http://www.autoalliance.org/index.cfm?objectid=24988200-7C96-11E3-9303000C296BA163|5| |2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|3|2014-01-14|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|38</Row>
+			<Row>http://www.autoalliance.org/index.cfm?objectid=F1A1D510-9E3F-11E3-AB0B000C296BA163|5| |2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|3|2014-02-26|2014-02-26| | |TextLink|TextLink_Normal|41|39|33|38</Row>
+			<Row>http://www.mercedesbenzofdanbury.com/|5|© 2014 mercedes-benz usa llc|2014-02-28|0|0|1|0|0|0|0|http://www.mbusa.com/|61|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|53|58|34|37</Row>
+			<Row>http://www.wellsfargochampionship.com/Home.aspx|6|mercedes-benz|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|62|2011-09-13|2014-02-28| | |ImageLink|ImageLink_Normal|58|70|43|28</Row>
+			<Row>http://www.stefauto.it/|5|mercedes-benz usa - sito internet mercedes-benz usa|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|63|2011-12-12|2014-02-28| | |TextLink|TextLink_Normal|53|58|32|39</Row>
+			<Row>http://www.apple.com/br/ipod/car-integration/|5| |2014-02-26|0|0|0|1|0|0|0|http://www.mbusa.com/|0|2013-01-03|2014-02-26| | |ImageLink|ImageLink_Normal|53|58|35|35</Row>
+			<Row>http://www.apple.com/br/ipod/car-integration/|5|mercedes|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/|0|2013-01-03|2014-02-26| | |TextLink|TextLink_Normal|53|58|35|35</Row>
+			<Row>http://www.digitaltrends.com/car-reviews/?orderby=rating|6|mbusa.com|2014-02-23|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-CLA/model-CLA250C|2|2014-02-07|2014-02-23| | |TextLink|TextLink_Normal|45|49|38|32</Row>
+			<Row>http://www.digitaltrends.com/car-reviews/?orderby=rating|6|see it|2014-02-23|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-CLA/model-CLA250C|2|2014-02-07|2014-02-23| | |TextLink|TextLink_Normal|45|49|38|32</Row>
+			<Row>http://www.thecoolhunter.net/cloud/view/Events|5|mercedes-benz concept style coupé|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLS|17|2012-05-10|2014-02-28| | |TextLink|TextLink_Normal|33|35|33|37</Row>
+			<Row>http://austin.culturemap.com/feeds/news/innovation/|6|2014 mercedes-benz s-class sedan|2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-S/bodystyle-SDN|58|2014-02-20|2014-02-25| | |TextLink|TextLink_Normal|45|49|41|29</Row>
+			<Row>http://austin.culturemap.com/feeds/news/innovation/|6|e-class|2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-E/bodystyle-SDN|58|2014-01-26|2014-02-25| | |TextLink|TextLink_Normal|45|49|41|29</Row>
+			<Row>http://www.mbfashionweek.com/photos_and_videos/|6| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-22|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|42|28</Row>
+			<Row>http://miami.mbfashionweek.com/|7| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|21|2011-05-16|2014-02-28| | |ImageLink|ImageLink_Normal|58|70|45|25</Row>
+			<Row>http://www.motortrendenespanol.com/articulos/mundo/enlaces/|5|mercedes-benz|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/|64|2011-05-14|2014-02-26| | |TextLink|TextLink_Normal|53|58|35|35</Row>
+			<Row>http://www.thecoolhunter.com.au/events/|5|mercedes-benz concept style coupé|2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLS|65|2012-05-07|2014-02-25| | |TextLink|TextLink_Normal|33|35|34|36</Row>
+			<Row>http://www.mbusi.com/|6|mercedes-benz u.s.a.|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|66|2008-11-27|2014-02-28| | |TextLink|TextLink_Normal|53|58|42|28</Row>
+			<Row>http://www.mbusi.com/|6|www.mbusa.com|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|66|2008-11-27|2014-02-28| | |TextLink|TextLink_Normal|53|58|42|28</Row>
+			<Row>http://www.mbusi.com/|6|owner support@ mbusa.com|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/only_mercedes_benz/owners_support|66|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|46|49|42|28</Row>
+			<Row>http://www.mbusi.com/|6|m-classsport utility vehicle|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-M|66|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|35|34|42|28</Row>
+			<Row>http://www.mbusi.com/|6|gl-classsport utility vehicle|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-GL|66|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|36|32|42|28</Row>
+			<Row>http://www.mbusi.com/|6|owner faq@ mbusa.com|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/contact_us/faqs|66|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|33|29|42|28</Row>
+			<Row>http://www.collectorscarworld.com/|6|http://www.mbusa.com/mercedes/#/onlymbmenu/classiccenter|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/|67|2011-02-15|2014-02-28| | |ImageLink|ImageLink_Normal|41|39|37|33</Row>
+			<Row>http://jobs.aol.com/articles/bloggers/aol-jobs-staff/rss.xml|5|mercedes-benz usa|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/about_us/careers|9|2014-02-17|2014-02-27| | |TextLink|TextLink_Normal|45|49|36|33</Row>
+			<Row>http://hub.aa.com/en/cl/automobiles-sheet-metal-mercedes-benz-vintage|5|view website|2014-02-24|0|0|0|0|0|0|0|http://www.mbusa.com/classic|68|2014-02-15|2014-02-24| | |TextLink|TextLink_Normal|24|21|36|33</Row>
+			<Row>http://forward.mercedes-benz.com/ConfiguratorAll|5| |2014-02-27|1|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/build|69|2013-11-18|2014-02-27| | |Redirect|Redirect_Permanent|45|50|31|38</Row>
+			<Row>http://forward.mercedes-benz.com/PassengerCarsHome|5| |2014-02-27|1|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|69|2013-11-18|2014-02-27| | |Redirect|Redirect_Permanent|58|70|31|38</Row>
+			<Row>http://forward.mercedes-benz.com/PassengerCarsHome|5| |2014-02-27|1|0|0|0|0|0|0|http://www.mbusa.com/|69|2013-11-18|2014-02-27| | |Redirect|Redirect_Permanent_Chain|53|58|31|38</Row>
+			<Row>http://www.strategicvision.com/clients.php|6|mercedes-benz|2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|70|2011-07-14|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|40|29</Row>
+			<Row>http://frankschilling.typepad.com/|5|lil&#39; german toy store|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes-amg.do|71|2009-10-23|2014-02-28| | |TextLink|TextLink_Normal|24|21|34|34</Row>
+			<Row>http://www.edmunds.com/how-to/how-to-find-your-car-owners-manual-online.html|5|mercedes-benz|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|72|2011-05-15|2014-02-27| | |TextLink|TextLink_Normal|41|39|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-CLA250/26075-358489/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=CLA250|5|go to mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|73|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|53|58|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-CLA250/26075-358489/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=CLA250|5|mercedes|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|73|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-CLA250/26075-358489/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=CLA250|5|mercedes-benz special offers|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|73|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-CLA250/26075-358489/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=CLA250|5|mercedes-benz dealer locator|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|73|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-CLA45-AMG/26075-365156/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=CLA45 AMG|5|mercedes|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|73|2014-01-01|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-CLA45-AMG/26075-365156/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=CLA45 AMG|5|go to mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|73|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|53|58|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-CLA45-AMG/26075-365156/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=CLA45 AMG|5|mercedes-benz special offers|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|73|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-CLA45-AMG/26075-365156/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=CLA45 AMG|5|mercedes-benz dealer locator|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|73|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-E250-BlueTEC/26092-364203/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=E250 BlueTEC|5|mercedes|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|73|2014-01-01|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-E250-BlueTEC/26092-364203/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=E250 BlueTEC|5|go to mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|73|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|53|58|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-E250-BlueTEC/26092-364203/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=E250 BlueTEC|5|mercedes-benz dealer locator|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|73|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-E250-BlueTEC/26092-364203/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=E250 BlueTEC|5|mercedes-benz special offers|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|73|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-S550/26767-364388/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=S550|5|mercedes|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|73|2014-01-01|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-S550/26767-364388/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=S550|5|go to mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|73|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|53|58|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-S550/26767-364388/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=S550|5|mercedes-benz dealer locator|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|73|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-S550/26767-364388/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=S550|5|mercedes-benz special offers|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|73|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-S63-AMG/26767-364463/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=S63 AMG|5|mercedes|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|73|2014-01-01|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-S63-AMG/26767-364463/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=S63 AMG|5|go to mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|73|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|53|58|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-S63-AMG/26767-364463/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=S63 AMG|5|mercedes-benz special offers|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|73|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|35</Row>
+			<Row>http://www.autotrader.com/research/car-models/2014-Mercedes-Benz-S63-AMG/26767-364463/~model.jsp?ad_min_price=&#38;ad_max_price=year=2014&#38;make=Mercedes-Benz&#38;model=S63 AMG|5|mercedes-benz dealer locator|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|73|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|35</Row>
+			<Row>http://www.buccaneers.com/bucs-fans/promotions.html|5| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|74|2013-04-04|2014-02-27| | |ImageLink|ImageLink_Normal|58|70|32|36</Row>
+			<Row>http://www.biodiesel.org/using-biodiesel/oem-information/oem-statement-summary-chart/|4|mercedes diesel product info and b5 approval|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/benz/green/diesel_bluetec|75|2012-10-06|2014-02-27| | |TextLink|TextLink_Normal|30|32|29|39</Row>
+			<Row>http://www.ecorazzi.com/2014/02/06/watch-diane-kruger-drinks-exhaust-emissions-from-electric-car/|5|b-class f-cell electric car|2014-02-22|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/benz/green/electric_car|76|2014-02-07|2014-02-22| | |TextLink|TextLink_Normal|28|30|34|34</Row>
+			<Row>http://houston.culturemap.com/news/innovation/01-20-14-best-new-design-bmws-i-series-are-no-concept-cars-the-future-is-already-here-and-reasonably-priced/|6|e-class|2014-02-23|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-E/bodystyle-SDN|58|2014-01-21|2014-02-23| | |TextLink|TextLink_Normal|45|49|41|27</Row>
+			<Row>http://dallas.culturemap.com/feeds/news/innovation/|6|e-class|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-E/bodystyle-SDN|58|2014-02-01|2014-02-26| | |TextLink|TextLink_Normal|45|49|37|31</Row>
+			<Row>http://dallas.culturemap.com/feeds/news/innovation/|6|2014 mercedes-benz s-class sedan|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-S/bodystyle-SDN|58|2014-02-21|2014-02-26| | |TextLink|TextLink_Normal|45|49|37|31</Row>
+			<Row>http://geardiary.com/category/grinding-gears/|6|mercedes-benz|2014-02-26|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/index|77|2014-02-03|2014-02-26| | |TextLink|TextLink_Normal|58|70|41|27</Row>
+			<Row>http://geardiary.com/tag/automobiles/|6|mercedes-benz|2014-02-24|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/index|77|2014-01-27|2014-02-24| | |TextLink|TextLink_Normal|58|70|41|27</Row>
+			<Row>http://www.mbfashionweek.com/schedule/|6| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-20|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|43|25</Row>
+			<Row>http://www.stowemountainlodge.com/stowe-vermont-hotel-partners.php|5|http://www.mbusa.com/stowe|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/stowe|78|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|11|23|30|38</Row>
+			<Row>http://www.stowemountainlodge.com/stowe-vermont-hotel-partners.php|5|click here|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/Stowe|78|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|11|23|30|38</Row>
+			<Row>http://www.chargepoint.com/evs/|6|2014 mercedes b-class electric drive (price n/a)|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/future/model/model-B_Class_Electric_Drive|79|2014-01-06|2014-02-27| | |TextLink|TextLink_Normal|29|32|43|25</Row>
+			<Row>http://www.ihmrs.com/|6|mercedes-benz usa|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|80|2013-06-04|2014-02-28| | |TextLink|TextLink_Normal|53|58|38|30</Row>
+			<Row>http://bessthebookbus.org/blog/|5| |2014-02-24|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|81|2013-03-02|2014-02-24| | |TextLink|TextLink_Normal|58|70|31|37</Row>
+			<Row>https://itunes.apple.com/us/app/mercedes-benz-mbrace/id335276900?mt=8|5|mercedes-benz mbrace support|2014-02-13|0|0|1|0|0|0|0|http://mbrace.mbusa.com/|0|2012-12-21|2014-02-13| | |TextLink|TextLink_Normal|18|11|36|31</Row>
+			<Row>http://www.businessweek.com/articles/2014-02-26/sports-cars-from-nissan-bmw-are-most-expensive-to-insure?campaign_id=yhoo|5|slk250|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-SLK/model-SLK250|13|2014-02-28|2014-02-28| | |TextLink|TextLink_Normal|45|49|34|33</Row>
+			<Row>http://www.businessweek.com/articles/2014-02-26/sports-cars-from-nissan-bmw-are-most-expensive-to-insure?campaign_id=yhoo|5|sls amg gt|2014-02-28|0|0|0|0|0|0|0|https://www.mbusa.com/mercedes/vehicles/class/class-SLS/bodystyle-CPE|13|2014-02-28|2014-02-28| | |TextLink|TextLink_Normal|32|31|34|33</Row>
+			<Row>http://events.theatlantic.com/aspen-ideas-festival/2011/|5|mercedes-benz logo|2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|82|2012-05-09|2014-02-27| | |ImageLink|ImageLink_Normal|58|70|35|32</Row>
+			<Row>http://events.theatlantic.com/aspen-ideas-festival/2012/|5|mercedes-benz logo|2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|82|2012-07-08|2014-02-27| | |ImageLink|ImageLink_Normal|58|70|35|32</Row>
+			<Row>http://www.dmoz.org/Business/Automotive/|5|mercedes benz usa|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/|83|2011-04-15|2014-02-27| | |TextLink|TextLink_Normal|53|58|33|34</Row>
+			<Row>http://www.edmunds.com/auto-warranty/how-to-get-the-best-price-on-an-extended-car-warranty.html|5|mercedes-benz|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/service_and_parts/warranty|72|2013-09-01|2014-02-27| | |TextLink|TextLink_Normal|26|32|32|35</Row>
+			<Row>http://www.fueleconomy.gov/feg/esdiesellinks.shtml|5|e250 bluetec|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-E/model-E250BTC|4|2014-02-20|2014-02-28| | |TextLink|TextLink_Normal|45|50|31|36</Row>
+			<Row>http://www.fueleconomy.gov/feg/esdiesellinks.shtml|5|ml350 bluetec|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-M/model-ML350BTC|4|2014-02-20|2014-02-28| | |TextLink|TextLink_Normal|45|50|31|36</Row>
+			<Row>http://www.fueleconomy.gov/feg/esdiesellinks.shtml|5|gl350 bluetec|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-GL/model-GL350BTC|4|2014-02-20|2014-02-28| | |TextLink|TextLink_Normal|45|50|31|36</Row>
+			<Row>http://www.fueleconomy.gov/feg/esdiesellinks.shtml|5|glk250 bluetec|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-GLK/model-GLK250BT|4|2014-02-20|2014-02-28| | |TextLink|TextLink_Normal|45|50|31|36</Row>
+			<Row>http://www.fueleconomy.gov/feg/esfcv_links.shtml|5|mercedes-benz ener-g-force|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/future/model/model-Ener_G_Force_Concept|4|2014-02-20|2014-02-28| | |TextLink|TextLink_Normal|29|35|31|36</Row>
+			<Row>http://www.fueleconomy.gov/feg/eshybrid_links.shtml|5|mercedes e400 hybrid|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-E/model-E400H|4|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|45|50|31|36</Row>
+			<Row>http://www.fueleconomy.gov/feg/eslinks.shtml|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|4|2012-07-09|2014-02-28| | |TextLink|TextLink_Normal|58|70|31|36</Row>
+			<Row>http://forward.mercedes-benz.com/HomepageAClass|5|mercedes-benz united states|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/|69|2013-11-07|2014-02-27| | |TextLink|TextLink_Normal|53|58|30|37</Row>
+			<Row>http://forward.mercedes-benz.com/HomepageEClass|5| |2014-02-27|1|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/|69|2013-12-30|2014-02-27| | |Redirect|Redirect_Permanent|47|50|30|37</Row>
+			<Row>http://forward.mercedes-benz.com/HomepageEClass|5| |2014-02-27|1|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/family/class-E|69|2013-12-30|2014-02-27| | |Redirect|Redirect_Permanent_Chain|29|34|30|37</Row>
+			<Row>http://www.dragtimes.com/blog/2008/11|5|here|2014-02-28|0|0|0|0|0|0|0|http://microsites.mbusa.com/microsite/glk-class/index.do|84|2009-01-26|2014-02-28| | |TextLink|TextLink_Normal|15|21|33|34</Row>
+			<Row>http://www.dragtimes.com/blog/2008/11|5|renntech glk at the sema show|2014-02-28|0|0|0|1|0|0|0|http://microsites.mbusa.com/microsite/glk-class/index.do|84|2009-01-26|2014-02-28| | |ImageLink|ImageLink_Normal|15|21|33|34</Row>
+			<Row>http://www.dragtimes.com/blog/category/car-shows|5|here|2014-02-28|0|0|0|0|0|0|0|http://microsites.mbusa.com/microsite/glk-class/index.do|84|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|15|21|33|34</Row>
+			<Row>http://www.dragtimes.com/blog/category/car-shows|5|renntech glk at the sema show|2014-02-28|0|0|0|1|0|0|0|http://microsites.mbusa.com/microsite/glk-class/index.do|84|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|15|21|33|34</Row>
+			<Row>http://austin.culturemap.com/news/innovation/01-23-14-best-new-car-design-bmw-i-series-cadillac-cts/|6|e-class|2014-02-25|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-E/bodystyle-SDN|58|2014-01-24|2014-02-25| | |TextLink|TextLink_Normal|45|49|38|29</Row>
+			<Row>http://www.alpfa.org/index.cfm?fuseaction=page.viewpage&#38;pageId=2897|4| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|85|2012-05-10|2014-02-28| | |ImageLink|ImageLink_Normal|58|70|28|39</Row>
+			<Row>http://www.alpfa.org/index.cfm?fuseaction=page.viewpage&#38;pageId=2469|4| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/|85|2012-06-09|2014-02-28| | |ImageLink|ImageLink_Normal|41|39|28|39</Row>
+			<Row>http://www.alpfa.org/index.cfm?fuseaction=page.viewpage&#38;pageId=2813|4| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|85|2012-06-09|2014-02-28| | |ImageLink|ImageLink_Normal|58|70|28|39</Row>
+			<Row>http://www.mbca.org/our-community|4|mercedes-benz usa|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/|86|2011-04-14|2014-02-26| | |TextLink|TextLink_Normal|53|58|29|38</Row>
+			<Row>http://www.jimrogers.com/thrill/index.html|6|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|87|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|53|58|40|27</Row>
+			<Row>http://clearlybetterdiesel.org/|5|mercedes-benz bluetec clean diesel|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-E/model-E350BTC|88|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|17|26|30|37</Row>
+			<Row>http://www.youtube.com/user/mbusa|5| |2014-02-21|0|0|1|1|0|0|0|http://www.mbusa.com/|16|2011-11-05|2014-02-21| | |ImageLink|ImageLink_Normal|53|58|33|33</Row>
+			<Row>http://www.youtube.com/user/mbusa|5|mbusa.com|2014-02-21|0|0|1|0|0|0|0|http://www.mbusa.com/|16|2011-11-05|2014-02-21| | |TextLink|TextLink_Normal|53|58|33|33</Row>
+			<Row>http://en.wikipedia.org/wiki/Mercedes-Benz_SLR_McLaren|6|mercedes slr amg overview|2014-02-21|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/innovation/amg|47|2011-02-08|2014-02-21| | |TextLink|TextLink_Normal|31|33|37|29</Row>
+			<Row>http://forward.mercedes-benz.com/HomepageSClass|4| |2014-02-27|1|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-S|69|2013-11-07|2014-02-27| | |Redirect|Redirect_Permanent|40|36|29|37</Row>
+			<Row>http://ktla.upickem.net/engine/YourSubmission.aspx?contestid=22946|5| |2014-02-23|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/vehicles/family/class-E|89|2013-06-29|2014-02-23| | |ImageLink|ImageLink_Normal|29|34|32|34</Row>
+			<Row>http://blog.luxuryrealestate.com/articles/category/luxury-lifestyles|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|90|2014-01-15|2014-02-28| | |TextLink|TextLink_Normal|58|70|35|31</Row>
+			<Row>http://blog.luxuryrealestate.com/articles/tag/valencia|5|mercedes|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|90|2012-04-10|2014-02-28| | |TextLink|TextLink_Normal|58|70|35|31</Row>
+			<Row>http://blog.luxuryrealestate.com/articles/2013/12|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/index|90|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|58|70|35|31</Row>
+			<Row>http://www.thecoolhunter.net/cloud/view/Los Angeles|5|mercedes-benz concept style coupé|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLS|17|2012-05-10|2014-02-28| | |TextLink|TextLink_Normal|33|35|31|35</Row>
+			<Row>http://houston.culturemap.com/news/innovation/02-16-14-luxury-car-of-the-year-mercedes-benz-s-class-sedan-shakes-up-luxury-cars-declares-the-recession-long-over/|6|2014 mercedes-benz s-class sedan|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-S/bodystyle-SDN|58|2014-02-17|2014-02-26| | |TextLink|TextLink_Normal|45|49|39|27</Row>
+			<Row>http://www.traffick.com/blog/archive/2004_07_01_archive.asp|5|appropriate page at the mbusa.com web site|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/brand/models/C230K.jsp|91|2009-09-23|2014-02-28| | |TextLink|TextLink_Normal|16|19|33|33</Row>
+			<Row>http://www.mbfashionweek.com/live|6| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|42|24</Row>
+			<Row>http://blog.mercedes-benz-passion.com/2013/03/mercedes-benz-cla-testfahrt-was-interessiert/|6|http://www.mbusa.com/mercedes/benz/innovation/future/model-2014_cla|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/benz/innovation/future/model-2014_CLA|92|2013-04-03|2014-02-26| | |TextLink|TextLink_Normal|28|17|39|27</Row>
+			<Row>https://www.ayes.org/home.aspx|5|mercedes benz|2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|19|2011-10-12|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|31|35</Row>
+			<Row>http://www.franklintempletonshootout.com/leaderboard.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2013-02-04|2014-02-28| | |TextLink|TextLink_Normal|53|58|34|32</Row>
+			<Row>http://en.wikipedia.org/wiki/Mercedes-Benz_E-Class|5|[2]|2014-02-21|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-E/model-E63|47|2012-03-04|2014-02-21| | |TextLink|TextLink_Normal|45|49|36|29</Row>
+			<Row>http://en.wikipedia.org/wiki/Mercedes-Benz_E-Class|5|usa mercedes-benz e-class official website|2014-02-21|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-E|47|2010-11-10|2014-02-21| | |TextLink|TextLink_Normal|23|18|36|29</Row>
+			<Row>http://www.theatlantic.com/ideastour/education/herrnstein-excerpt.html|5| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/MBServlet/RedirectServlet?src=1611&#38;target=S_MICRO&#38;LEAD_TYPE=CORPB&#38;site=%25s|82|2010-12-16|2014-02-27| | |ImageLink|ImageLink_Normal|30|25|32|33</Row>
+			<Row>http://www.mensjournal.com/magazine/a-cadillac-worth-waiting-for-20140123|5|mercedes&#39; e-class|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-E/bodystyle-SDN|93|2014-01-24|2014-02-28| | |TextLink|TextLink_Normal|45|49|33|32</Row>
+			<Row>http://www.iphones.ru/iNotes/349513|5|http://www.mbusa.com/mercedes/vehicles/build/class-e/model-e550w4#appearance|2014-02-28|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/build/class-E/model-E550W4|94|2014-02-20|2014-02-28| | |TextLink|TextLink_Normal|24|32|32|33</Row>
+			<Row>http://www.refdesk.com/autos.html|4|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|95|2010-11-17|2014-02-28| | |TextLink|TextLink_Normal|53|58|28|37</Row>
+			<Row>http://owners.smartusa.com/Do_It_Yourself.aspx|5|privacy policy|2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-08-13|2014-02-27| | |ImageLink|ImageLink_Normal|50|50|35|30</Row>
+			<Row>http://owners.smartusa.com/Getting_To_Know_Your_smart_fortwo.aspx|5|privacy policy|2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-08-13|2014-02-27| | |ImageLink|ImageLink_Normal|50|50|35|30</Row>
+			<Row>http://owners.smartusa.com/Maintenance_Schedule.aspx|5|privacy policy|2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-14|2014-02-27| | |ImageLink|ImageLink_Normal|50|50|35|30</Row>
+			<Row>http://owners.smartusa.com/My_Manuals.aspx|5|privacy policy|2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|8|2011-07-14|2014-02-27| | |ImageLink|ImageLink_Normal|50|50|35|30</Row>
+			<Row>http://www.mbfashionweek.com/designers/charlotte_ronson/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|24</Row>
+			<Row>http://www.mbfashionweek.com/designers/michael_kors/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|24</Row>
+			<Row>http://www.mbfashionweek.com/designers/desigual/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|24</Row>
+			<Row>http://www.mbfashionweek.com/about|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|24</Row>
+			<Row>http://www.mbfashionweek.com/designers/anna_sui/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|24</Row>
+			<Row>http://www.mbfashionweek.com/designers/ivan_aguilar|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|24</Row>
+			<Row>http://www.mbfashionweek.com/location/|6| |2014-02-23|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-23| | |ImageLink|ImageLink_Normal|53|58|41|24</Row>
+			<Row>http://specials.mercedes-benz-classic.com/en/vehicles/|6|mbusa.com/mercedes/enthusiast/classic_center|2014-02-23|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/enthusiast/classic_center|96|2014-02-22|2014-02-23| | |TextLink|TextLink_Normal|37|33|38|27</Row>
+			<Row>http://www.technology.am/fastest-cars-in-the-world-000023.html|5|mercedes-benz slr mclaren “722 edition”|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/|97|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|41|39|33|32</Row>
+			<Row>http://www.mbsocal.com/|5| |2014-02-28|1|0|0|0|0|0|0|http://www.mbusa.com/mercedes/dealers/locator/LCP-803/searchType-byLcp|98|2010-11-17|2014-02-28| | |Redirect|Redirect_Permanent|35|40|32|33</Row>
+			<Row>http://www.mbsocal.com/|5| |2014-02-28|1|0|0|0|0|0|0|http://www.mbusa.com/dealers/LosAngeles|98|2010-11-17|2014-02-28| | |Redirect|Redirect_Permanent_Chain|0|0|32|33</Row>
+			<Row>http://en.wikipedia.org/wiki/Mercedes-Benz_M-Class|5|mercedes-benz ml 63 amg specifications|2014-02-23|0|0|1|0|0|0|0|http://www.mbusa.com/models/features/specs/performance.do?modelCode=ML63&#38;class=08_ML|47|2010-08-14|2014-02-23| | |TextLink|TextLink_Normal|1|0|35|29</Row>
+			<Row>http://dallas.culturemap.com/news/innovation/01-20-14-best-new-design-bmw-i-series-cadillac-cts/|5|e-class|2014-02-24|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-E/bodystyle-SDN|58|2014-01-21|2014-02-24| | |TextLink|TextLink_Normal|45|49|34|30</Row>
+			<Row>http://www.luxist.com/category/books/|6|mercedes-benz g-wagen|2014-02-23|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-G|35|2011-03-12|2014-02-23| | |TextLink|TextLink_Normal|32|30|41|23</Row>
+			<Row>http://www.luxist.com/category/books/|6|the g550|2014-02-23|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/explore/overview/class-G/model-G550|35|2011-03-12|2014-02-23| | |TextLink|TextLink_Normal|21|15|41|23</Row>
+			<Row>http://www.codeforamerica.org/team/|5|mercedes benz|2014-02-13|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-SL|99|2014-01-01|2014-02-13| | |TextLink|TextLink_Normal|31|32|36|28</Row>
+			<Row>http://www.mbfashionweek.com/designers/libertine|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/candela/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/lie_sang_bong|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/tory_burch/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-29|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/tracy_reese/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/carmen_marc_valvo|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/carolina_herrera/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/trina_turk|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/vantan_tokyo/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/venexiana/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/vera_wang/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/malan_breton|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/clover_canyon/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/vivienne_tam/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/mara_hoffman|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-21|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/concept_korea/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/marc_by_marc_jacobs/|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/creatures_of_the_wind|6| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/custo_barcelona|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/marissa_webb/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/cutecircuit|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/marist_college_presents_betsey_johnson_repreise|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-24|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/wendy_nichol|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-22|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/czar_by_cesar_galindo|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/mark_and_estel/|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/daniel_vosovic|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/david_hart|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/mathieu_mirano/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/david_tlale/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/meskita|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/dennis_basso|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/y-3/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/diane_von_furstenberg/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-29|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/milly_by_michelle_smith/milly_by_michelle_smith/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/z_spoke_by/zac_posen/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/zang_toi/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/diesel_black_gold|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/mm6_maison_martin_margiela/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/zimmermann/|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/monika_chiang|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/dion_lee/|6| |2014-02-23|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-23| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/monique_lhuillier/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/dkny|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/volunteer/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/naeem_khan/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/nanette_lepore/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/donna_karan_new_york/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/nautica/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/nicholas_k/|6| |2014-02-23|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-23| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/nicole_miller/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/nina_skarra|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/noon_by_noor|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/elie_tahari|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/elle_fashion__next|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/emerson/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/osklen|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/pamella_roland/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/parkchoonmoo|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-20|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/falguni__sh/falguni_and_shane_peacock|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/pedro_del_hierro_madrid|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/prabal_gurung|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/project_runway/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/ftl_moda__art_hearts_fashion_presented_by_aids_healthcare_foundation|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-02-01|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/rachel_zoe|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/contact|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/georgine|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/credits|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/raif_adelberg|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/ralph_lauren/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/go_red_for_women_the_heart_truth_red_dress_collection_sm|6| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/ralph_rucci/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/raoul|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/rebecca_minkoff/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/academy_of_art_university/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/hache|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/rebecca_vallance|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/adeam/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/reem_acra/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-29|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/hernan_lander/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/ricardo_seco/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/herve_leger_by_max_azria|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/richard_chai/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/alon_livne|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/ruffian/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/angel_sanchez|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-02-11|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/sass__bide|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/legal|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/anya_caliendo|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/secondlayer|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/sergio_davila|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/argentine_designers/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/j_mendel/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/press/|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/skingraft|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/jay_godfrey|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-14|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/son_jung_wan/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/jcrew/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/aron_rose|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-02-06|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/jenny_packham|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/asia_fashion_collection|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/jill_stuart/|6| |2014-02-24|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-24| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/steven_alan/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/joanna_mastroianni/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/b_michael_america/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/supim/abbey_glass|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-02-07|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/supima/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/badgley_mischka|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/bcbgmaxazria/|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/katya_leonovich|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/katya_zol|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-14|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/kaufmanfranco/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/kenneth_cole/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/betsey_johnson/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/tadashi_shoji/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/bibhu_mohapatra/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/koonhor|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/the_art_institutes|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/social|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/boss|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-14|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/lacoste/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-30|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/brandon_sun|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/brian_lichtenberg|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-22|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/timo_weiland_mens|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/leather_japan_2012/leather_japan|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/timo_weiland_womens|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/lee_jean_youn|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-15|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/todd_snyder/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/tome|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/calvin_klein_collectio/calvin_klein|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2014-01-10|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/lela_rose/|6| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.mbfashionweek.com/designers/tommy_hilfiger/|6| |2014-02-25|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-28|2014-02-25| | |ImageLink|ImageLink_Normal|53|58|41|23</Row>
+			<Row>http://www.outbackbowl.com/photos/2013-c1-bank-summer-splash|4| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLA/bodystyle-CPE|51|2013-11-18|2014-02-28| | |ImageLink|ImageLink_Normal|46|50|27|37</Row>
+			<Row>http://www.driveclean.ca.gov/Search_and_Explore/Technologies_and_Fuel_Types/Hydrogen_Fuel_Cell.php|4|mercedes-benz|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/benz/green/electric_car|100|2014-02-27|2014-02-27| | |TextLink|TextLink_Normal|28|30|28|35</Row>
+			<Row>http://www.coolhunting.com/design/2014-mercedes-amg-e63-wagon.php|5|e63 amg s-model 4matic wagon|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-E/model-E63SP|101|2013-10-23|2014-02-27| | |TextLink|TextLink_Normal|45|49|30|33</Row>
+			<Row>http://www.coolhunting.com/design/2014-mercedes-amg-e63-wagon.php|5|e63 s-model 4matic wagon|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-E/model-E63SP|101|2013-10-23|2014-02-27| | |TextLink|TextLink_Normal|45|49|30|33</Row>
+			<Row>http://www.coolhunting.com/design/2014-mercedes-amg-e63-wagon.php|5|e63 wagon|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-E/bodystyle-WGN|101|2013-10-23|2014-02-27| | |TextLink|TextLink_Normal|45|49|30|33</Row>
+			<Row>http://www.myfoxla.com/story/24079303/la-auto-show-2013-no-longer-a-need-to-filler-up-no-longer-a-need-to-filler-up|5|mercedes benz usa|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/benz/green/electric_car|102|2013-11-27|2014-02-27| | |TextLink|TextLink_Normal|28|30|33|30</Row>
+			<Row>http://www.myfoxla.com/story/24088972/la-auto-show-2013-new-fiat-500e-no-longer-a-need-to-filler-up|5|mercedes benz b-class|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/future/model/model-B_Class_Electric_Drive|102|2013-11-29|2014-02-27| | |TextLink|TextLink_Normal|29|32|33|30</Row>
+			<Row>http://www.lambdalegal.org/es/about-us/sponsors|4| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/|29|2013-03-06|2014-02-28| | |ImageLink|ImageLink_Normal|41|39|27|36</Row>
+			<Row>http://hdradio.com/brand-partners/|5| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|20|2013-10-01|2014-02-27| | |ImageLink|ImageLink_Normal|58|70|32|31</Row>
+			<Row>http://espanol.beautipage.com/info/Mercedes/mercedes.html|6|ir a mercedes-benz en ee. uu.|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/|27|2013-04-03|2014-02-26| | |TextLink|TextLink_Normal|53|58|38|25</Row>
+			<Row>http://www.allmyfaves.com/cars/|5| |2014-02-23|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|103|2012-06-04|2014-02-23| | |ImageLink|ImageLink_Normal|58|70|36|27</Row>
+			<Row>http://www.mercedes-amg.com/e63.php|5|usa|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/build|104|2013-12-15|2014-02-27| | |TextLink|TextLink_Normal|45|50|34|29</Row>
+			<Row>http://www.mercedes-amg.com/c63.php|5|usa|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/build|104|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|45|50|34|29</Row>
+			<Row>http://whowhatwhy.com/2013/07/14/the-michael-hastings-wreck-video-evidence-offers-a-few-clues/|6|http://www.mbusa.com/mercedes/legacy/vehicles/model?class=c&#38;model=c250c#design|2014-02-21|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/legacy/vehicles/model?class=C&#38;model=C250C|105|2014-01-21|2014-02-21| | |TextLink|TextLink_Normal|13|0|38|25</Row>
+			<Row>http://cafcp.org/carsandbuses/whereandwhen|5|mercedes-benz b-class f-cell pilot program lease|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/benz/green/electric_car|106|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|28|30|34|29</Row>
+			<Row>http://www.bunkspeed.com/company/clients|5|mercedes-benz|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|107|2011-12-12|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|36|27</Row>
+			<Row>http://www.franklintempletonshootout.com/tickets.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|31|32</Row>
+			<Row>http://www.startekinfo.com/StarTek/parts.jsp|6|dealer locator|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/|108|2011-01-15|2014-02-27| | |TextLink|TextLink_Normal|53|58|37|26</Row>
+			<Row>http://www.discoverluxury.com/|6|mercedes/dealers/state|2014-02-28|0|0|1|1|0|0|0|http://www.mbusa.com/mercedes/dealers/state|109|2012-08-08|2014-02-28| | |ImageLink|ImageLink_Normal|32|36|38|25</Row>
+			<Row>http://www.amgacademy.com/|5|mbusa.com|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|110|2012-02-10|2014-02-28| | |TextLink|TextLink_Normal|53|58|33|30</Row>
+			<Row>http://www.amgacademy.com/|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|110|2012-02-10|2014-02-28| | |TextLink|TextLink_Normal|53|58|33|30</Row>
+			<Row>http://www.amgacademy.com/|5|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/policies/privacy_statement/|110|2012-02-10|2014-02-28| | |TextLink|TextLink_Normal|50|50|33|30</Row>
+			<Row>http://co1000.com/|5|advertisement|2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/index|111|2011-07-15|2014-02-28| | |ImageLink|ImageLink_Normal|58|70|36|27</Row>
+			<Row>http://www.clearlybetterdiesel.org/|4|mercedes-benz bluetec clean diesel|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/model/class-E/model-E350BTC|88|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|17|26|29|34</Row>
+			<Row>http://en.wikipedia.org/wiki/Mercedes-Benz_CL-Class|5|mercedes cl class overview|2014-02-21|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CL|47|2010-11-10|2014-02-21| | |TextLink|TextLink_Normal|28|33|34|28</Row>
+			<Row>http://en.wikipedia.org/wiki/Mercedes-Benz_CLK-Class|5|mercedes clk class overview|2014-02-21|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLK|47|2013-02-27|2014-02-21| | |TextLink|TextLink_Normal|0|0|34|28</Row>
+			<Row>http://en.wikipedia.org/wiki/Mercedes-Benz_CLS-Class|5|mercedes cls class usa|2014-02-26|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-CLS|47|2010-11-15|2014-02-26| | |TextLink|TextLink_Normal|33|35|34|28</Row>
+			<Row>http://en.wikipedia.org/wiki/Mercedes-Benz_SLK-Class|5|mercedes-benz slk-class (us)|2014-02-21|0|0|1|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-SLK|47|2010-12-10|2014-02-21| | |TextLink|TextLink_Normal|34|33|34|28</Row>
+			<Row>http://www.apple.com/asia/ipod/car-integration/|4|mercedes|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/|0|2014-02-07|2014-02-26| | |TextLink|TextLink_Normal|53|58|29|33</Row>
+			<Row>http://www.apple.com/asia/ipod/car-integration/|4| |2014-02-26|0|0|0|1|0|0|0|http://www.mbusa.com/|0|2014-02-07|2014-02-26| | |ImageLink|ImageLink_Normal|53|58|29|33</Row>
+			<Row>http://jobs.aol.com/articles/2014/01/17/best-companies-to-work-for-2014/|5|mercedes-benz usa|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/about_us/careers|9|2014-01-18|2014-02-26| | |TextLink|TextLink_Normal|45|49|32|30</Row>
+			<Row>http://www.prnewswire.com/news-releases/mercedes-benz-s400-certified-for-qualified-hybrid-vehicle-credit-63611872.html|4|http://www.mbusa.com|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/|112|2013-03-05|2014-02-27| | |TextLink|TextLink_Normal|53|58|28|34</Row>
+			<Row>http://www.prnewswire.com/news-releases/mercedes-benz-s400-certified-for-qualified-hybrid-vehicle-credit-63611872.html|4|view fullscreen|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/|112|2013-03-05|2014-02-27| | |TextLink|TextLink_Normal|53|58|28|34</Row>
+			<Row>http://www.prnewswire.com/news-releases/mercedes-benz-s400-certified-for-qualified-hybrid-vehicle-credit-63611872.html|4|www.mbusa.com|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/|112|2013-03-05|2014-02-27| | |TextLink|TextLink_Normal|53|58|28|34</Row>
+			<Row>http://www.prnewswire.com/news-releases/mercedes-benz-s400-certified-for-qualified-hybrid-vehicle-credit-63611872.html|4| |2014-02-27|0|0|0|1|0|0|0|http://www.mbusa.com/|112|2013-03-05|2014-02-27| | |ImageLink|ImageLink_Normal|53|58|28|34</Row>
+			<Row>http://blog.hemmings.com/index.php/author/mike/|5|accessories.mbusa.com|2014-02-15|0|0|0|0|0|0|0|http://accessories.mbusa.com/Classic Collection/nostalgia/2014 Classic Calendar.axd?cid=855|113|2014-01-10|2014-02-15| | |TextLink|TextLink_Normal|11|17|32|30</Row>
+			<Row>http://realtormag.realtor.org/product-guide/slideshow/2013/11/2014-autos-slideshow-options|5|mercedes-benz|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/Mercedes-Benz/CLA/|114|2014-01-04|2014-02-26| | |TextLink|TextLink_Normal|16|21|30|32</Row>
+			<Row>http://www.myfoxla.com/story/24093767/la-auto-show-2013-new-chevy-spark-ev-no-longer-a-need-to-filler-up|5|mercedes benz b-class|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/future/model/model-B_Class_Electric_Drive|102|2013-11-29|2014-02-27| | |TextLink|TextLink_Normal|29|32|32|30</Row>
+			<Row>http://www.workingmother.com/blogs/natalie039s-tips/top-6-family-friendly-suvs|4|suv hybrid|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/luxury_suvs|115|2014-02-28|2014-02-28| | |TextLink|TextLink_Normal|33|30|28|34</Row>
+			<Row>http://lambdalegal.org/about-us/sponsors/|4| |2014-02-18|0|0|0|1|0|0|0|http://www.mbusa.com/mercedes/|29|2012-01-31|2014-02-18| | |ImageLink|ImageLink_Normal|41|39|29|33</Row>
+			<Row>http://austin.culturemap.com/news/innovation/02-17-14-atx-luxury-car-year-mercedes-benz-s-class-sedan/|5|2014 mercedes-benz s-class sedan|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-S/bodystyle-SDN|58|2014-02-19|2014-02-27| | |TextLink|TextLink_Normal|45|49|34|28</Row>
+			<Row>http://dallas.culturemap.com/news/innovation/02-17-14-luxury-car-year-mercedes-benz-s-class-sedan/|5|2014 mercedes-benz s-class sedan|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-S/bodystyle-SDN|58|2014-02-18|2014-02-27| | |TextLink|TextLink_Normal|45|49|32|30</Row>
+			<Row>http://www.luxist.com/tag/@featured/rss.xml|6|mercedes-benz g-wagen|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/class/class-G|35|2011-05-15|2014-02-27| | |TextLink|TextLink_Normal|32|30|40|22</Row>
+			<Row>http://www.luxist.com/tag/@featured/rss.xml|6|the g550|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/explore/overview/class-G/model-G550|35|2011-05-15|2014-02-27| | |TextLink|TextLink_Normal|21|15|40|22</Row>
+			<Row>http://www.okino.com/conv/users.htm?2|4|asi at mercedes-benz usa|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/|33|2011-03-16|2014-02-27| | |TextLink|TextLink_Normal|53|58|28|34</Row>
+			<Row>http://newyork.mbfashionweek.com/live|6| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|21|2013-12-19|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|37|25</Row>
+			<Row>http://www.mercedes-amg.com/g65.php|5|usa|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/build|104|2013-12-15|2014-02-27| | |TextLink|TextLink_Normal|45|50|35|27</Row>
+			<Row>http://www.mercedes-amg.com/cls63.php|5|usa|2014-02-27|0|0|0|0|0|0|0|http://www.mbusa.com/mercedes/vehicles/build|104|2013-12-15|2014-02-27| | |TextLink|TextLink_Normal|45|50|34|28</Row>
+			<Row>http://www.thetorquereport.com/european_cars/aston_martin/|6|mercedes-benz|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/|116|2011-10-11|2014-02-26| | |TextLink|TextLink_Normal|53|58|37|25</Row>
+			<Row>http://www.thetorquereport.com/spy_shots/|6|2014 mercedes-benz s-class|2014-02-26|0|0|0|0|0|0|0|http://www.mbusa.com/|116|2012-01-09|2014-02-26| | |TextLink|TextLink_Normal|53|58|37|25</Row>
+			<Row>http://www.franklintempletonshootout.com/2013_transcripts.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2013-12-10|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/schedule.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/5K.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/newsletter.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/shark_pass.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/military_appreciation.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/appearances.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/champions.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/champions_gallery.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/charity.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/volunteers.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/contact.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/course.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/course_map.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/directions.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/downloadable_logos.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/expo_village.php|5| |2014-02-28|0|0|0|1|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |ImageLink|ImageLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/expo_village.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+			<Row>http://www.franklintempletonshootout.com/fact_sheet.php|5|mercedes-benz|2014-02-28|0|0|0|0|0|0|0|http://www.mbusa.com/|45|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|53|58|30|32</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="117" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|apple.com|51|4191954|3428548617|94566210|11747753|2008-07-29|2014-02-28|23.60.125.15|23.60.125.0|US|com|97|98</Row>
+			<Row>1|pandora.com|286|168834|36273030|16671810|1941918|2008-07-29|2014-02-28|208.85.40.20|208.85.40.0|US|com|58|83</Row>
+			<Row>2|digitaltrends.com|3136|192837|19600725|4785142|712139|2008-07-29|2014-02-28|69.31.106.65|69.31.106.0|US|com|70|62</Row>
+			<Row>3|autoalliance.org|-1|12436|94366|3792|2877|2008-09-06|2014-02-28|66.151.111.252|66.151.111.0|US|org|39|46</Row>
+			<Row>4|fueleconomy.gov|12535|79801|21048879|25387484|1758186|2008-08-13|2014-02-28|128.219.168.71|128.219.168.0|US|gov|58|76</Row>
+			<Row>5|ama-assn.org|39826|258393|26662463|12196528|1531237|2008-07-29|2014-02-28|204.29.1.23|204.29.1.0|US|org|57|77</Row>
+			<Row>6|kcrw.com|27663|75371|15800331|584062|296359|2008-07-29|2014-02-28|184.169.133.161|184.169.133.0|US|com|58|69</Row>
+			<Row>7|greektheatrela.com|312391|7032|223957|3341|2897|2008-09-01|2014-02-28|50.23.81.158|50.23.81.0|US|com|38|49</Row>
+			<Row>8|smartusa.com|147013|15417|1403533|4111|3344|2008-11-01|2014-02-28|72.21.81.253|72.21.81.0|US|com|41|44</Row>
+			<Row>9|aol.com|67|1509031|1923482705|110754220|4980113|2008-07-29|2014-02-28|205.188.19.16|205.188.19.0|US|com|91|90</Row>
+			<Row>10|pga.com|18908|99133|20524406|968642|341198|2008-07-29|2014-02-28|157.166.224.37|157.166.224.0|US|com|57|73</Row>
+			<Row>11|highgearmedia.com|313967|3365|11781517|25229|23496|2009-02-23|2014-02-28|173.203.109.90|173.203.109.0|US|com|56|47</Row>
+			<Row>12|stowe.com|321681|8187|173924|38566|29447|2008-08-01|2014-02-28|209.238.2.141|209.238.2.0|US|com|42|43</Row>
+			<Row>13|businessweek.com|1196|840818|163432299|43695430|3226689|2008-07-29|2014-02-28|80.239.230.144|80.239.230.0|EU|com|77|80</Row>
+			<Row>14|neworleanssaints.com|139143|22864|5352501|66064|58738|2008-07-29|2014-02-28|23.43.130.238|23.43.130.0|US|com|50|58</Row>
+			<Row>15|greenercars.org|-1|6622|51108|1402|893|2009-02-09|2014-02-28|208.106.179.11|208.106.179.0|US|org|39|47</Row>
+			<Row>16|youtube.com|3|20066674|44703649169|4469107929|262867016|2008-07-29|2014-02-28|74.125.226.206|74.125.226.0|US|com|99|99</Row>
+			<Row>17|thecoolhunter.net|50525|32086|11019958|848728|164535|2008-09-01|2014-02-28|141.101.125.36|141.101.125.0|EU|net|47|54</Row>
+			<Row>18|tennisfame.com|-1|20911|2458353|4458|2783|2008-07-29|2014-02-28|204.232.147.58|204.232.147.0|US|com|48|61</Row>
+			<Row>19|ayes.org|-1|1976|10318|3367|2868|2008-09-03|2014-02-28|199.73.36.225|199.73.36.0|US|org|31|43</Row>
+			<Row>20|hdradio.com|620166|10327|4084271|39107|35763|2008-08-08|2014-02-28|74.205.91.42|74.205.91.0|US|com|44|47</Row>
+			<Row>21|mbfashionweek.com|-1|23999|996891|24980|18513|2008-08-08|2014-02-28|108.162.206.170|108.162.206.0|US|com|50|35</Row>
+			<Row>22|uncrate.com|8494|50718|5196764|106519|76429|2008-08-06|2014-02-28|50.23.249.68|50.23.249.0|US|com|51|42</Row>
+			<Row>23|conceptcarz.com|33368|36470|2162651|3246135|607780|2008-07-29|2014-02-28|74.94.199.25|74.94.199.0|US|com|49|53</Row>
+			<Row>24|phillymag.com|24531|43787|7614696|3386816|902782|2008-07-30|2014-02-28|71.19.233.58|71.19.233.0|US|com|58|40</Row>
+			<Row>25|aubergedusoleil.com|567695|4954|53545|3415|1743|2009-04-23|2014-02-28|198.87.27.249|198.87.27.0|US|com|40|57</Row>
+			<Row>26|sportscarmarket.com|452893|10641|1146554|12942489|817005|2008-07-29|2014-02-28|208.100.57.134|208.100.57.0|US|com|41|53</Row>
+			<Row>27|beautipage.com|612435|9920|1006104|40063|35052|2008-08-01|2014-02-28|64.220.42.12|64.220.42.0|US|com|42|45</Row>
+			<Row>28|nba.com|343|496481|3853905896|5892090|1864702|2008-07-29|2014-02-28|92.122.212.26|92.122.212.0|EU|com|79|91</Row>
+			<Row>29|lambdalegal.org|453710|22040|2487499|3513553|209927|2008-08-30|2014-02-28|192.154.28.229|192.154.28.0|CA|org|44|55</Row>
+			<Row>30|pamm.org|-1|1680|32543|3050|2234|2012-03-18|2014-02-28|208.87.35.103|208.87.35.0|BS|org|37|51</Row>
+			<Row>31|notcot.com|111149|28183|5416506|55217|33107|2008-08-25|2014-02-28|173.199.145.52|173.199.145.0|US|com|51|53</Row>
+			<Row>32|ana.net|396723|11800|501453|126372|104278|2008-08-11|2014-02-28|69.60.17.111|69.60.17.0|US|net|41|52</Row>
+			<Row>33|okino.com|871331|7215|101146|3730|2338|2008-08-28|2014-02-28|208.84.114.150|208.84.114.0|US|com|41|51</Row>
+			<Row>34|usablenet.com|142203|27654|17354400|4393682|564881|2008-07-31|2014-02-28|67.18.180.18|67.18.180.0|US|com|53|66</Row>
+			<Row>35|luxist.com|39740|60716|37375108|2664875|1164927|2008-07-30|2014-02-28|149.174.98.30|149.174.98.0|US|com|54|38</Row>
+			<Row>36|citynationalgroveofanaheim.com|859563|1491|47932|1742|1549|2011-04-03|2014-02-28|50.23.81.157|50.23.81.0|US|com|35|42</Row>
+			<Row>37|benedict.edu|587447|8637|1682128|63635|54543|2008-08-12|2014-02-28|64.129.131.11|64.129.131.0|US|edu|40|57</Row>
+			<Row>38|vuu.edu|869552|8563|786094|26368|16232|2008-08-12|2014-02-28|74.86.192.46|74.86.192.0|US|edu|39|56</Row>
+			<Row>39|washingtonautoshow.com|-1|4080|44189|35146|21887|2008-08-05|2014-02-28|72.32.173.194|72.32.173.0|US|com|36|48</Row>
+			<Row>40|furbo.org|-1|6598|176863|1066|846|2008-10-04|2014-02-28|38.103.165.50|38.103.165.0|US|org|42|42</Row>
+			<Row>41|attpbgolf.com|-1|3906|57835|1948|1115|2008-10-10|2014-02-28|107.22.220.95|107.22.220.0|US|com|34|47</Row>
+			<Row>42|interactivemediaawards.com|391434|5126|1845975|10128|9341|2008-08-01|2014-02-28|209.237.188.18|209.237.188.0|US|com|46|48</Row>
+			<Row>43|kron4.com|158892|17107|368215|780339|225605|2008-07-29|2014-02-28|208.88.72.116|208.88.72.0|US|com|41|48</Row>
+			<Row>44|madeinalabama.com|-1|453|101435|8209|6743|2013-03-22|2014-02-28|208.94.239.98|208.94.239.0|US|com|46|41</Row>
+			<Row>45|franklintempletonshootout.com|-1|505|27878|4887|4768|2011-10-11|2014-02-28|204.3.178.238|204.3.178.0|US|com|31|39</Row>
+			<Row>46|autonetmobile.com|-1|2932|36775|11390|9623|2008-08-31|2014-02-28|216.69.172.57|216.69.172.0|US|com|32|33</Row>
+			<Row>47|wikipedia.org|6|9103190|12880302063|639748086|9451938|2008-07-29|2014-02-28|208.80.154.225|208.80.154.0|US|org|98|98</Row>
+			<Row>48|webtrends.com|21589|35985|1179244|205109|145209|2008-07-29|2014-02-28|216.64.169.101|216.64.169.0|US|com|50|66</Row>
+			<Row>49|adverblog.com|66347|18740|4496043|77903|63864|2008-08-05|2014-02-28|205.186.138.186|205.186.138.0|US|com|49|39</Row>
+			<Row>50|mbfs.com|142057|2678|94077|1523039|272893|2008-08-05|2014-02-28|192.85.75.13|192.85.75.0|US|com|37|44</Row>
+			<Row>51|outbackbowl.com|-1|3529|23222|4024|1425|2008-08-06|2014-02-28|66.129.100.61|66.129.100.0|US|com|32|46</Row>
+			<Row>52|solagecalistoga.com|843590|2862|37717|6077|3334|2008-08-08|2014-02-28|216.157.98.91|216.157.98.0|US|com|34|31</Row>
+			<Row>53|umd.edu|7241|407855|60105930|7450749|1551641|2008-07-29|2014-02-28|128.8.237.77|128.8.237.0|US|edu|64|80</Row>
+			<Row>54|designboom.com|7090|127840|11113112|489527|268541|2008-07-30|2014-02-28|141.101.126.192|141.101.126.0|EU|com|58|65</Row>
+			<Row>55|sny.tv|221945|11091|10939864|137849|120602|2008-08-14|2014-02-28|12.130.102.16|12.130.102.0|US|tv|49|41</Row>
+			<Row>56|asual.com|208671|6011|194301|1117|939|2009-03-15|2014-02-28|81.201.184.49|81.201.184.0|FR|com|37|47</Row>
+			<Row>57|verizontelematics.com|-1|88|727|446|437|2013-08-24|2014-02-28| | | |com|32|29</Row>
+			<Row>58|culturemap.com|50521|35253|1330481|1906106|360352|2009-11-28|2014-02-28|96.126.117.115|96.126.117.0|US|com|54|44</Row>
+			<Row>59|brucegarrett.com|-1|1561|51765|8085|7039|2008-08-01|2014-02-28|72.29.72.51|72.29.72.0|US|com|31|25</Row>
+			<Row>60|greenfleetconference.com|-1|475|171537|363|351|2012-01-13|2014-02-28|50.57.237.96|50.57.237.0|US|com|27|28</Row>
+			<Row>61|mercedesbenzofdanbury.com|-1|118|1929|48929|7861|2010-08-17|2014-02-28|174.129.88.121|174.129.88.0|US|com|34|35</Row>
+			<Row>62|wellsfargochampionship.com|-1|1251|24944|2872|2674|2010-10-11|2014-02-28|72.15.208.114|72.15.208.0|US|com|36|29</Row>
+			<Row>63|stefauto.it|-1|145|11609|687|329|2008-09-19|2014-02-28|195.225.168.113|195.225.168.0|IT|it|18|35</Row>
+			<Row>64|motortrendenespanol.com|-1|1262|520640|15713|14473|2008-08-22|2014-02-28|206.16.160.123|206.16.160.0|US|com|40|44</Row>
+			<Row>65|thecoolhunter.com.au|269984|7024|337215|5692269|967635|2008-08-03|2014-02-28|199.231.121.80|199.231.121.0|US|au|34|42</Row>
+			<Row>66|mbusi.com|-1|4470|55506|9469|7752|2008-07-30|2014-02-28|184.154.228.142|184.154.228.0|US|com|35|27</Row>
+			<Row>67|collectorscarworld.com|-1|492|219621|79955|20624|2011-05-27|2014-02-28|213.198.78.170|213.198.78.0|DE|com|27|30</Row>
+			<Row>68|aa.com|1393|149232|16707820|15803823|516958|2008-07-31|2014-02-28|184.85.13.41|184.85.13.0|US|com|63|81</Row>
+			<Row>69|mercedes-benz.com|12599|75975|21591295|72915613|1743684|2008-07-30|2014-02-28|23.0.43.87|23.0.43.0|US|com|57|75</Row>
+			<Row>70|strategicvision.com|-1|2969|30639|1825|1355|2008-08-06|2014-02-28|23.21.116.113|23.21.116.0|US|com|39|35</Row>
+			<Row>71|typepad.com|517|1707059|2567878605|96760976|12479706|2008-07-29|2014-02-28|204.9.178.11|204.9.178.0|US|com|80|77</Row>
+			<Row>72|edmunds.com|1745|200809|30819185|19313434|1370763|2008-07-29|2014-02-28|82.112.106.17|82.112.106.0|UK|com|65|78</Row>
+			<Row>73|autotrader.com|1287|94363|61065736|17014386|1380944|2008-07-29|2014-02-28|23.13.152.223|23.13.152.0|US|com|63|71</Row>
+			<Row>74|buccaneers.com|122728|25406|8129993|1286638|216839|2008-07-29|2014-02-28|157.238.74.81|157.238.74.0|US|com|50|58</Row>
+			<Row>75|biodiesel.org|-1|20600|618190|606026|101983|2008-08-13|2014-02-28|64.111.45.88|64.111.45.0|US|org|43|62</Row>
+			<Row>76|ecorazzi.com|134964|36851|2794966|228629|87184|2008-08-06|2014-02-28|64.131.71.184|64.131.71.0|US|com|51|51</Row>
+			<Row>77|geardiary.com|153586|40717|1796842|449574|218104|2008-08-07|2014-02-28|174.123.33.218|174.123.33.0|US|com|49|42</Row>
+			<Row>78|stowemountainlodge.com|-1|2559|73781|6068|4880|2008-08-26|2014-02-28|64.78.188.154|64.78.188.0|US|com|35|47</Row>
+			<Row>79|chargepoint.com|482622|1899|56257|10773|9281|2012-07-24|2014-02-28|198.101.215.90|198.101.215.0|US|com|44|34</Row>
+			<Row>80|ihmrs.com|-1|3153|165333|2635|2305|2008-08-04|2014-02-28|184.172.210.44|184.172.210.0|US|com|31|26</Row>
+			<Row>81|bessthebookbus.org|-1|509|18136|4238|4166|2011-12-04|2014-02-27|174.127.109.52|174.127.109.0|US|org|20|33</Row>
+			<Row>82|theatlantic.com|1817|423192|83005774|908157|499489|2008-07-30|2014-02-28|38.118.71.170|38.118.71.0|US|com|77|73</Row>
+			<Row>83|dmoz.org|1059|546491|868796465|52106510|2697361|2008-07-29|2014-02-28|205.188.87.207|205.188.87.0|US|org|71|77</Row>
+			<Row>84|dragtimes.com|81541|31717|2719469|6687992|1572334|2008-07-30|2014-02-28|208.93.194.171|208.93.194.0|US|com|49|54</Row>
+			<Row>85|alpfa.org|-1|4721|2480334|196538|160046|2009-10-08|2014-02-28|69.93.15.179|69.93.15.0|US|org|35|47</Row>
+			<Row>86|mbca.org|224570|12751|428869|247568|131136|2008-08-13|2014-02-28|74.121.194.106|74.121.194.0|US|org|33|44</Row>
+			<Row>87|jimrogers.com|768517|4352|163610|5111|2792|2008-08-21|2014-02-28|203.211.131.83|203.211.131.0|SG|com|37|33</Row>
+			<Row>88|clearlybetterdiesel.org|-1|164|1419|15|6|2014-01-30|2014-02-28|184.106.55.84|184.106.55.0|US|org|16|33</Row>
+			<Row>89|upickem.net|9257|27623|141022592|5950139|1703208|2008-08-05|2014-02-28|199.19.89.1|199.19.89.0|US|net|57|52</Row>
+			<Row>90|luxuryrealestate.com|85691|27250|15435235|2946712|618578|2008-07-30|2014-02-28|174.129.192.198|174.129.192.0|US|com|51|58</Row>
+			<Row>91|traffick.com|554524|12237|321925|17871|14815|2008-09-19|2014-02-28|168.144.69.94|168.144.69.0|CA|com|42|51</Row>
+			<Row>92|mercedes-benz-passion.com|225772|6865|12054715|2160325|1032187|2008-10-28|2014-02-28|212.223.162.177|212.223.162.0|DE|com|44|36</Row>
+			<Row>93|mensjournal.com|43618|35717|3589898|196158|162289|2008-09-06|2014-02-28|207.152.124.144|207.152.124.0|US|com|55|54</Row>
+			<Row>94|iphones.ru|8710|17752|3734160|8440813|835885|2008-08-04|2014-02-28|217.28.208.98|217.28.208.0|RU|ru|53|54</Row>
+			<Row>95|refdesk.com|22230|61908|3819942|9422|8049|2008-08-01|2014-02-28|98.158.19.154|98.158.19.0|US|com|41|51</Row>
+			<Row>96|mercedes-benz-classic.com|459682|8146|3182456|402651|159458|2008-08-01|2014-02-28|23.60.123.87|23.60.123.0|US|com|43|36</Row>
+			<Row>97|technology.am|242387|8531|853683|38017|24677|2009-09-21|2014-02-28|96.30.14.32|96.30.14.0|US|am|35|40</Row>
+			<Row>98|mbsocal.com|-1|317|2023|270|238|2009-05-03|2010-12-07|207.19.62.166|207.19.62.0|US|com|16|28</Row>
+			<Row>99|codeforamerica.org|157544|31939|1597937|398644|180273|2010-02-19|2014-02-28|50.19.214.65|50.19.214.0|US|org|46|43</Row>
+			<Row>100|ca.gov|720|723272|221558399|9938204|1723256|2008-07-29|2014-02-28|134.186.61.39|134.186.61.0|US|gov|74|91</Row>
+			<Row>101|coolhunting.com|31013|58496|9820949|154205|114217|2008-07-31|2014-02-28|184.72.248.52|184.72.248.0|US|com|60|66</Row>
+			<Row>102|myfoxla.com|78910|67690|2546070|10742271|1680859|2008-07-29|2014-02-28|23.67.250.115|23.67.250.0|US|com|63|57</Row>
+			<Row>103|allmyfaves.com|11953|15223|635147|309058|55025|2008-09-13|2014-02-28|50.62.137.217|50.62.137.0|US|com|45|41</Row>
+			<Row>104|mercedes-amg.com|86174|17647|2298662|8901|5497|2008-09-18|2014-02-28|23.1.47.32|23.1.47.0|US|com|39|41</Row>
+			<Row>105|whowhatwhy.com|230355|5641|2552760|13368|11158|2009-07-05|2014-02-28|74.208.147.93|74.208.147.0|US|com|42|35</Row>
+			<Row>106|cafcp.org|-1|1950|27394|120600|98534|2008-09-04|2014-02-28|184.95.62.74|184.95.62.0|US|org|37|38</Row>
+			<Row>107|bunkspeed.com|739047|3412|381015|31979|23390|2008-08-22|2014-02-28|50.17.229.201|50.17.229.0|US|com|37|35</Row>
+			<Row>108|startekinfo.com|468670|1749|33132|20422|6112|2008-10-22|2014-02-28|12.44.59.75|12.44.59.0|US|com|33|30</Row>
+			<Row>109|discoverluxury.com|-1|2291|54516|404441|70880|2011-03-31|2014-02-28|184.73.170.162|184.73.170.0|US|com|38|21</Row>
+			<Row>110|amgacademy.com|-1|2252|96331|895|668|2010-09-17|2014-02-28|72.32.39.3|72.32.39.0|US|com|28|26</Row>
+			<Row>111|co1000.com|-1|207|4077|657|308|2011-11-21|2014-02-28|184.168.51.1|184.168.51.0|US|com|26|24</Row>
+			<Row>112|prnewswire.com|3596|621682|98788222|6979852|2364461|2008-07-29|2014-02-28|68.142.73.111|68.142.73.0|US|com|63|69</Row>
+			<Row>113|hemmings.com|21287|54035|7266022|3435096|735317|2008-07-30|2014-02-28|65.213.146.39|65.213.146.0|US|com|62|60</Row>
+			<Row>114|realtor.org|21346|147555|115591206|45264735|1805539|2008-07-30|2014-02-28|63.156.247.82|63.156.247.0|US|org|58|64</Row>
+			<Row>115|workingmother.com|38794|22450|2372403|145176|94827|2008-08-18|2014-02-28|209.208.1.66|209.208.1.0|US|com|48|58</Row>
+			<Row>116|thetorquereport.com|172032|14840|734113|192063|95744|2008-08-18|2014-02-28|69.167.142.128|69.167.142.0|US|com|43|36</Row>
+		</DataTable>
+	</DataTables>
+</Result>

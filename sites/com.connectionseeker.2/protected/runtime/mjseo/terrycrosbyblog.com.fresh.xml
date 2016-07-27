@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="645" IndexType="1" RemainingAnalysisResUnits="98930002" RemainingDetailedReportsPerPeriod="933" RemainingRetrievalResUnits="19600299" RemainingStandardReports="933" ServerBuild="2012-07-26 16:35:41" ServerName="CELEBRINDOL" ServerVersion="1.0.4590.28070"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="645" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" BackLinkItem="terrycrosbyblog.com" BackLinkType="RootDomain" TotalBackLinks="534" TotalLines="645" TotalMatches="645">
+			<Row>http://www.seoquake.com/pages/articles.php|7|seoquake parameters defined|2012-07-22|0|0|0|0|0|0|0|http://terrycrosbyblog.com/content-creation/SEOquake-parameters-defined|0|23|20|46|31</Row>
+			<Row>http://searchengineland.com/optimizing-facebook-status-updates-for-local-marketing-48237|4|facebook marketing: how to locally optimize your facebook presence|2012-07-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-marketing-how-to-locally-optimize-your-facebook-presence|1|16|18|26|31</Row>
+			<Row>http://www.meetusinghal.com|5|terry crosby’s blog|2012-07-25|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|32|21</Row>
+			<Row>http://www.youtube.com/user/opportunitygreen|4|http://terrycrosbyblog.com|2012-07-06|0|0|1|0|0|0|0|http://terrycrosbyblog.com|3|26|13|24|27</Row>
+			<Row>http://www.wandernot.com|5|terry crosby social media training|2012-07-24|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|31|17</Row>
+			<Row>http://toffsyheart.com/wordpress-marketing-seo-tips|5|terry crosby|2012-07-15|0|0|1|0|0|0|0|http://terrycrosbyblog.com|5|26|13|30|13</Row>
+			<Row>http://mashable.com/2010/12/05/facebook-pages-redesign|4|terry crosby|2012-07-24|0|0|1|0|0|0|0|http://terrycrosbyblog.com|6|26|13|27|15</Row>
+			<Row>http://mashable.com/2010/12/05/facebook-pages-redesign|4| |2012-07-24|0|0|0|1|0|0|0|http://terrycrosbyblog.com|6|26|13|27|15</Row>
+			<Row>http://www.martyblogs.com/tag/hootsuite|4|terry crosby|2012-06-25|0|0|0|0|0|0|0|http://terrycrosbyblog.com|7|26|13|26|15</Row>
+			<Row>http://www.martyblogs.com/tag/linkedin|4|terry crosby|2012-06-25|0|0|0|0|0|0|0|http://terrycrosbyblog.com|7|26|13|26|15</Row>
+			<Row>http://www.martyblogs.com/tag/twitter|4|terry crosby|2012-06-25|0|0|0|0|0|0|0|http://terrycrosbyblog.com|7|26|13|26|15</Row>
+			<Row>http://www.youtube.com/jscotthypnosis|4|http://terrycrosbyblog.com/...|2012-07-11|0|0|1|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-fan-page-how-use-new-admin-user-interface|3|17|2|25|15</Row>
+			<Row>http://searchengineland.com/facebooks-open-graph-for-local-seo-52098|4|facebook marketing: how to locally optimize your facebook presence|2012-07-23|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-marketing-how-to-locally-optimize-your-facebook-presence|1|16|18|24|16</Row>
+			<Row>http://judislampshades.wordpress.com|4|terry crosby, social media strategist|2012-07-24|0|0|0|0|0|0|0|http://terrycrosbyblog.com|8|26|13|24|12</Row>
+			<Row>http://mashable.com/2010/09/17/facebook-not-now-option|4| |2012-07-11|0|0|0|1|0|0|0|http://terrycrosbyblog.com|6|26|13|25|11</Row>
+			<Row>http://mashable.com/2010/09/17/facebook-not-now-option|4|terry crosby|2012-07-11|0|0|1|0|0|0|0|http://terrycrosbyblog.com|6|26|13|25|11</Row>
+			<Row>http://www.martyblogs.com/category/facebook|3|terry crosby|2012-07-22|0|0|0|0|0|0|0|http://terrycrosbyblog.com|7|26|13|23|13</Row>
+			<Row>http://www.martyblogs.com/category/linkedin|3|terry crosby|2012-06-27|0|0|0|0|0|0|0|http://terrycrosbyblog.com|7|26|13|22|14</Row>
+			<Row>http://www.meetusinghal.com/facebook-hot-links|3|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/apple|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/apple/ipad|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/apple/iphone-apple|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/articles|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/facebook|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/featured|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/google|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/google-buzz|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/google/google-apps|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/how-to-videos|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/internet|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/linkedin|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/mobile|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/mobile-marketing|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/seo|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/social-media|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/topics/twitter|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/about|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://www.meetusinghal.com/contact-us|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|22|13</Row>
+			<Row>http://mashable.com/2010/04/22/facebook-me|3|terry crosby|2012-07-07|0|0|1|0|0|0|0|http://terrycrosbyblog.com|6|26|13|23|11</Row>
+			<Row>http://mashable.com/2010/04/22/facebook-me|3| |2012-07-07|0|0|0|1|0|0|0|http://terrycrosbyblog.com|6|26|13|23|11</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html|3|terry crosby|2012-07-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|21|13</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html|3| |2012-07-19|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|21|13</Row>
+			<Row>http://techfluff.tv/2010/03/31/live-from-facebook-using-vpype-to-live-broadcast-to-your-fb-fans|3|interview with vpype production manager: facebook&#39;s new live video streaming application || terry crosby|2012-07-22|0|0|1|0|0|0|0|http://terrycrosbyblog.com/?p=407|10|0|0|22|11</Row>
+			<Row>http://www.meetusinghal.com/google-apps-great-collaborative-solution-for-your-organization|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|20|13</Row>
+			<Row>http://www.meetusinghal.com/google-io-2010-some-highlights|3|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|20|13</Row>
+			<Row>http://www.meetusinghal.com/who-visited-my-facebook-profile|3|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|20|13</Row>
+			<Row>http://www.meetusinghal.com/export-names-and-email-ids-of-facebook-friends|3|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|20|13</Row>
+			<Row>http://www.martyblogs.com/category/twitter|3|terry crosby|2012-06-27|0|0|0|0|0|0|0|http://terrycrosbyblog.com|7|26|13|20|12</Row>
+			<Row>http://www.meetusinghal.com/facebook-announcement-seamless-messaging-system|3|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|19|13</Row>
+			<Row>http://www.meetusinghal.com/facebook-upgrades-pages-whats-new|3|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|21|11</Row>
+			<Row>http://www.meetusinghal.com/full-website-on-facebook-fan-page|3|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|19|13</Row>
+			<Row>http://www.meetusinghal.com/google-1-button-now-for-your-website|3|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|21|11</Row>
+			<Row>http://www.meetusinghal.com/google-analytics-what-is-it-2|3|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|19|13</Row>
+			<Row>http://www.meetusinghal.com/google-buzz-share-button|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|19|13</Row>
+			<Row>http://www.meetusinghal.com/google-closes-china-operations|3|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|19|13</Row>
+			<Row>http://www.meetusinghal.com/google-having-blast-with-2-shakes-of-a-lambs-tail|3|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|19|13</Row>
+			<Row>http://www.meetusinghal.com/how-to-add-targeted-followers-to-your-google-buzz-and-or-google-reader-account|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|19|13</Row>
+			<Row>http://www.meetusinghal.com/howto-video-control-facebook-privacy|3|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|19|13</Row>
+			<Row>http://www.meetusinghal.com/sending-auto-tweets-via-twitter-feed-is-it-sensible|3|terry crosby’s blog|2012-06-30|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|19|13</Row>
+			<Row>http://www.meetusinghal.com/author/admin|3|terry crosby’s blog|2012-06-18|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|21|11</Row>
+			<Row>http://franspiration.com|4|terry crosby&#39;s blog|2012-07-11|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|28|4</Row>
+			<Row>http://www.twibes.com/smo/twitter-list|3|http://terrycrosbyblo...|2012-07-05|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|22|8</Row>
+			<Row>http://www.wandernot.com/brandish-blog/2010/3/29/eating-my-words-the-9-types-of-social-media-experts.html|3|terry crosby social media training|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|20|9</Row>
+			<Row>http://www.wandernot.com/brandish-blog/atom.xml|3|terry crosby social media training|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|20|9</Row>
+			<Row>http://www.wandernot.com/brandish-blog/rss.xml|3|terry crosby social media training|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|20|9</Row>
+			<Row>http://feeds.feedburner.com/BrandishBlog|3|terry crosby social media training|2012-07-01|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|13|19|9|19|9</Row>
+			<Row>http://www.brazencareerist.com/profile/terry-crosby-0|2|terry crosby&#39;s blog|2012-07-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|14|26|13|16|11</Row>
+			<Row>http://www.meetusinghal.com/tag/facebook|3|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|17|10</Row>
+			<Row>http://www.meetusinghal.com/tag/google|3|terry crosby’s blog|2012-06-18|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|17|10</Row>
+			<Row>http://mashable.com/2010/09/17/facebook-not-now-option/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: Mashable (Mashable)|3|terry crosby|2012-07-06|0|0|1|0|0|0|0|http://terrycrosbyblog.com|6|26|13|23|3</Row>
+			<Row>http://mashable.com/2010/09/17/facebook-not-now-option/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: Mashable (Mashable)|3| |2012-07-06|0|0|0|1|0|0|0|http://terrycrosbyblog.com|6|26|13|23|3</Row>
+			<Row>http://www.slideshare.net/terrycrosby|2|http://terrycrosbyblog.com|2012-06-23|0|0|1|0|0|0|0|http://terrycrosbyblog.com|15|26|13|16|10</Row>
+			<Row>http://www.wandernot.com/brandish-blog/tag/facebook|3|terry crosby social media training|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|17|9</Row>
+			<Row>http://www.wandernot.com/brandish-blog/tag/linkedin|3|terry crosby social media training|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|17|9</Row>
+			<Row>http://www.wandernot.com/brandish-blog/tag/social-media-for-business|3|terry crosby social media training|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|17|9</Row>
+			<Row>http://www.wandernot.com/brandish-blog/tag/social-media-tools|3|terry crosby social media training|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|17|9</Row>
+			<Row>http://www.wandernot.com/brandish-blog/tag/twitter|3|terry crosby social media training|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|17|9</Row>
+			<Row>http://www.youtube.com/TwitterPowerTool|3|http://terrycrosbyblog.com/...|2012-07-15|0|0|1|0|0|0|0|http://terrycrosbyblog.com/twitter-training-tutorials/twitter-search-become-your-target-markets-trusted-resource-in-minutes-a-day|3|16|0|18|7</Row>
+			<Row>http://www.martyblogs.com/2010/03/06/general-interest/tweets-and-greets-on-hootsuite|2|terrycrosby|2012-07-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com|7|26|13|15|10</Row>
+			<Row>http://www.martyblogs.com/2010/03/06/general-interest/tweets-and-greets-on-hootsuite|2|terry crosby|2012-07-13|0|0|0|0|0|0|0|http://terrycrosbyblog.com|7|26|13|15|10</Row>
+			<Row>http://www.martyblogs.com/2010/03/06/general-interest/tweets-and-greets-on-hootsuite|2|http://terrycrosbyblog.com/facebook/how-to-use-facebook-to-attract-unlimited-prospects/|2012-07-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com/facebook/how-to-use-facebook-to-attract-unlimited-prospects|7|13|0|15|10</Row>
+			<Row>http://www.meetusinghal.com/how-news-broke-on-twitter|2|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|16|9</Row>
+			<Row>http://www.meetusinghal.com/tag/gmail|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|16|9</Row>
+			<Row>http://www.wandernot.com/brandish-blog/2010/3/29/eating-my-words-the-9-types-of-social-media-experts.html?printerFriendly=true|2|terry crosby social media training|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|16|9</Row>
+			<Row>http://www.wandernot.com/brandish-blog/tag/experts|2|terry crosby social media training|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|16|9</Row>
+			<Row>http://www.wandernot.com/brandish-blog/tag/rohit-bhargava|2|terry crosby social media training|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|16|9</Row>
+			<Row>http://www.wandernot.com/brandish-blog/tag/social-media-experts|2|terry crosby social media training|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|16|9</Row>
+			<Row>http://www.wandernot.com/brandish-blog/tag/terry-crosby-social-media-training|2|terry crosby social media training|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|16|9</Row>
+			<Row>http://www.wandernot.com/brandish-blog/tag/the-9-types-of-social-media-experts|2|terry crosby social media training|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|4|19|9|16|9</Row>
+			<Row>http://facebookgraphics.org/facebook-resources|3|where to find customers on social media|2012-06-19|0|0|0|0|0|0|0|http://terrycrosbyblog.com/social-media-demographics-whos-using-which-sites|16|16|2|21|4</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types|3|terry crosby|2012-07-24|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|20|4</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types|3| |2012-07-24|0|0|0|1|0|0|0|http://terrycrosbyblog.com|17|26|13|20|4</Row>
+			<Row>http://www.meetusinghal.com/tag/facebook-pages|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|9</Row>
+			<Row>http://www.meetusinghal.com/tag/facebook-tutorials|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|9</Row>
+			<Row>http://www.meetusinghal.com/tag/google-apps|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|9</Row>
+			<Row>http://www.meetusinghal.com/tag/google-buzz|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|9</Row>
+			<Row>http://www.meetusinghal.com/tag/google-docs|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|9</Row>
+			<Row>http://www.meetusinghal.com/tag/googleio2010|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|9</Row>
+			<Row>http://www.meetusinghal.com/tag/how-to-video|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|9</Row>
+			<Row>http://www.meetusinghal.com/tag/iphone|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|9</Row>
+			<Row>http://www.meetusinghal.com/tag/news|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|9</Row>
+			<Row>http://www.meetusinghal.com/tag/twitter|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|9</Row>
+			<Row>http://buildingabrandonline.com/headway-visual-editor|3|http://terrycrosbyblog.com/wordpress/headway-wordpress-theme-review/|2012-07-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com/wordpress/headway-wordpress-theme-review|18|15|0|18|5</Row>
+			<Row>http://www.meetusinghal.com/google-buzz-videos-some-functionalities-and-features|2|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|9</Row>
+			<Row>http://www.meetusinghal.com/tag/data-backup|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|8</Row>
+			<Row>http://www.meetusinghal.com/tag/facebook-how-to-videos|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|8</Row>
+			<Row>http://www.meetusinghal.com/tag/facebook-new-features|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|8</Row>
+			<Row>http://www.meetusinghal.com/tag/facebook-upgrade|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|8</Row>
+			<Row>http://www.meetusinghal.com/tag/iframe-tabs-facebook-pages|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|8</Row>
+			<Row>http://www.meetusinghal.com/tag/yahoo-analytics|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|8</Row>
+			<Row>http://www.meetusinghal.com/are-you-thinking-of-mobile-marketing|2|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|15|8</Row>
+			<Row>http://laurenhuston.com/facebook-hacking-or-facebook-mix-up|2|terry crosby|2012-07-11|0|0|0|0|0|0|0|http://terrycrosbyblog.com|19|26|13|16|7</Row>
+			<Row>http://wandernot.squarespace.com|2|terry crosby social media training|2012-06-22|0|0|0|0|0|0|0|http://terrycrosbyblog.com/work-with-terry|20|19|9|16|6</Row>
+			<Row>http://socialmediatoday.com/terrycrosby/269880/your-solution-guide-facebook-page-changes|3|website|2012-07-21|0|0|0|1|0|0|0|http://terrycrosbyblog.com|21|26|13|17|5</Row>
+			<Row>http://socialmediatoday.com/terrycrosby/269880/your-solution-guide-facebook-page-changes|3|set the default landing tab|2012-07-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-fan-page-how-use-new-admin-user-interface|21|17|2|17|5</Row>
+			<Row>http://socialmediatoday.com/terrycrosby/269880/your-solution-guide-facebook-page-changes|3|click here to view the embedded video.|2012-07-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-page-changes-your-solution-guide|21|14|2|17|5</Row>
+			<Row>http://www.meetusinghal.com/instant-gift-cards|2|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/apple-ipad|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/baseball-league|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/businesses|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/e-books|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/facebook-graph-api|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/facebook-messaging|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/google-profile|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/google-reader|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/google1|2|terry crosby’s blog|2012-06-18|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/iwork|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/linkedin|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/mobile|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/mobile-marketing|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/open-social|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/social-graph|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/social-media|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/spam-apps|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/steve-jobs|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/touch-screen|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/tag/wordpress|2|terry crosby’s blog|2012-06-18|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://www.meetusinghal.com/apple-launches-tablet-named-it-ipad|2|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|14|8</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media|3|terry crosby|2012-07-15|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|19|3</Row>
+			<Row>http://www.meetusinghal.com/if-you-have-iphone-then-you-have-a-personal-assistant-siri|2|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|13|8</Row>
+			<Row>http://www.meetusinghal.com/tag/apple|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|13|8</Row>
+			<Row>http://www.meetusinghal.com/tag/iphone-3g|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|13|8</Row>
+			<Row>http://www.meetusinghal.com/tag/iphone-app|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|13|8</Row>
+			<Row>http://www.meetusinghal.com/tag/siri|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|13|8</Row>
+			<Row>http://socialmediatoday.com/index.php?q=pammoore/175438/surf-web-or-surf-facebook-top-15-reasons-why-you%e2%80%99re-surfing-facebook|3|terry crosby|2012-07-14|0|0|1|0|0|0|0|http://terrycrosbyblog.com|21|26|13|20|0</Row>
+			<Row>http://www.meetusinghal.com/gaps-in-apple-ipad|2|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/how-to-reuse-conversations-on-your-facebook-wall-as-business-testimonials|2|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/appple|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/april-fools-day|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/auto-tweets|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/buzz-this-button|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/collaborative-content-creation|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/facebook-api|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/facebook-apps|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/facebook-privacy|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/fbjs|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/fbml|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/google-analytics|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/google-china|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/graph-api|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/mashabel-com|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/omniture|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/open-graph|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/quantcast|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/twitterfeed-com|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/web-analytics|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://www.meetusinghal.com/tag/website-visitors|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|12|8</Row>
+			<Row>http://alinanavarro.com/uncategorized/3-ways-to-borrow-information-in-2011-without-plagiarizing|2|terry crosby|2012-07-16|0|0|1|0|0|0|0|http://terrycrosbyblog.com|23|26|13|16|4</Row>
+			<Row>http://www.alexresolutions.com/dating-networks-are-the-next-big-thing/comment-page-1|2|terry crosby|2012-07-12|0|0|1|0|0|0|0|http://terrycrosbyblog.com|24|26|13|16|4</Row>
+			<Row>http://www.twibes.com/socialmediatrainer/twitter-list|2|http://terrycrosbyblo...|2012-07-03|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|14|5</Row>
+			<Row>http://mashable.com/2010/12/05/facebook-pages-redesign/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: Mashable (Mashable)|2| |2012-07-07|0|0|0|1|0|0|0|http://terrycrosbyblog.com|6|26|13|16|2</Row>
+			<Row>http://mashable.com/2010/12/05/facebook-pages-redesign/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: Mashable (Mashable)|2|terry crosby|2012-07-07|0|0|1|0|0|0|0|http://terrycrosbyblog.com|6|26|13|16|2</Row>
+			<Row>http://www.twibes.com/twittermarketing/twitter-list|2|http://terrycrosbyblo...|2012-06-16|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|14|4</Row>
+			<Row>http://www.twibes.com/facebookmarketing/twitter-list|2|http://terrycrosbyblo...|2012-07-03|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|14|4</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=100054|2|terry crosby|2012-07-24|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=100054|2| |2012-07-24|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88354|2|terry crosby|2012-07-03|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88354|2| |2012-07-03|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88359|2| |2012-07-03|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88359|2|terry crosby|2012-07-03|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88363|2|terry crosby|2012-07-03|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88363|2| |2012-07-03|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88423|2|terry crosby|2012-07-03|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88423|2| |2012-07-03|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88429|2|terry crosby|2012-06-26|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88429|2| |2012-06-26|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88435|2| |2012-06-26|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88435|2|terry crosby|2012-06-26|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88437|2|terry crosby|2012-06-26|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88437|2| |2012-06-26|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88445|2|terry crosby|2012-06-26|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88445|2| |2012-06-26|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88827|2| |2012-07-09|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88827|2|terry crosby|2012-07-09|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88850|2| |2012-07-09|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88850|2|terry crosby|2012-07-09|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88852|2| |2012-07-09|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=88852|2|terry crosby|2012-07-09|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=89106|2| |2012-07-09|0|0|1|1|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.shoutmeloud.com/why-how-to-embed-youtube-iframe-code-for-wordpress.html?replytocom=89106|2|terry crosby|2012-07-09|0|0|1|0|0|0|0|http://terrycrosbyblog.com|9|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/good-email-signature-important-tool-for-your-business|2|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/back-links|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/chrome-extension|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/email-signatures|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/firefox-extension|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/inbound-links|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/interaction|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/ipod|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/link-popularity|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/marketing-efforts|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/mistake|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/online-directories|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/optimization-methods|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/phrases|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/press-release|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/prospective-patrons|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/relevant-content|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/search-engine-optimization|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/search-engines|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/seo|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/social-bookmarking-sites|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/social-interaction|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/social-networking|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/spending-time|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/straightforward-techniques|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/target-market|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/tag/traction|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/topics/articles/page/2|2|terry crosby’s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://www.meetusinghal.com/3-straightforward-techniques-to-get-your-website-top-rankings-6|2|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|11|7</Row>
+			<Row>http://franspiration.com/giving-though-chocolate|2|terry crosby&#39;s blog|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|4</Row>
+			<Row>http://franspiration.com/love-and-gratitude-through-photography|2|terry crosby&#39;s blog|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|4</Row>
+			<Row>http://www.youtube.com/watch?v=AdwFkO5ZN4I&#38;feature=related|2|http://terrycrosbyblog.com/facebooktutorials/facebook-fan-page-how-use-new-ad...|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-fan-page-how-use-new-admin-user-interface|3|17|2|10|7</Row>
+			<Row>http://www.flickr.com/photos/terrycrosby/5435407744|2|terrycrosbyblog.com/|2012-07-22|0|0|1|0|0|0|0|http://terrycrosbyblog.com|25|26|13|15|2</Row>
+			<Row>http://www.flickr.com/photos/terrycrosby/5437696020|2|facebook page upgrade|2012-07-22|0|0|1|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-page-changes|25|16|0|15|2</Row>
+			<Row>http://www.flickr.com/photos/terrycrosby/5443441202|2|facebook page upgrade|2012-07-22|0|0|1|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-page-changes|25|16|0|15|2</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|attention facebook fan page administrators: learn how to strategically use the new admin area|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-fan-page-how-use-new-admin-user-interface|13|17|2|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|set the default landing tab|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-fan-page-how-use-new-admin-user-interface|13|17|2|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|click here to view the embedded video.|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/twitter-training-tutorials/how-to-use-twitter-lists-to-accelerate-your-twitter-influence|13|16|2|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|matt cutts says social media is a great link building technique|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/matt-cutts-says-social-media-is-a-great-link-building-technique|13|18|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|good news! you can now convert your facebook personal profile into a business page|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-now-allows-users-to-convert-their-personal-profile-into-a-business-page|13|16|1|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|converting your facebook personal profile to a business page|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-now-allows-users-to-convert-their-personal-profile-into-a-business-page|13|16|1|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|here|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-page-upgrade-news-customize-your-page-tab-names|13|16|1|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|customize your facebook page tab names|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-page-upgrade-news-customize-your-page-tab-names|13|16|1|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|facebook page upgrade news: customize your page tab names|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-page-upgrade-news-customize-your-page-tab-names|13|16|1|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|here|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/your-facebook-twitter-reputation-will-determine-if-you-show-up-in-search-result|13|17|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|ranking your twitter reputation|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/your-facebook-twitter-reputation-will-determine-if-you-show-up-in-search-result|13|17|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|consulting|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/san-diego-social-media-marketing-services|13|16|1|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|who you are on facebook and twitter will determine if you show up in search results|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/your-facebook-twitter-reputation-will-determine-if-you-show-up-in-search-result|13|17|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|improve your twitter influence and reputation with twylah (video review)|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/improve-your-twitter-influence-andreputation-with-twylah|13|17|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|google and bing use twitter and facebook as ranking signals in regular search|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/your-facebook-twitter-reputation-will-determine-if-you-show-up-in-search-result|13|17|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|twitter rank|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/your-facebook-twitter-reputation-will-determine-if-you-show-up-in-search-result|13|17|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|delete and rearrange your facebook page tabs|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-page-changes|13|16|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|click here to view the embedded video.|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-page-changes|13|16|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|solution guide to the facebook page changes|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-page-changes|13|16|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|your solution guide to the facebook page changes|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-page-changes|13|16|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|here|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-page-changes|13|16|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|my headway wordpress theme review|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/wordpress/headway-wordpress-theme-review|13|15|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|here|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/wordpress/headway-wordpress-theme-review|13|15|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|headway themes|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/wordpress/headway-wordpress-theme-review|13|15|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|google local news: google testing new location-based marketing platform in portland|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/google-local-news-google-testing-new-location-based-marketing-platform-in-portland|13|15|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|google reveals how they order and rank their local search results (video)|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/google-reveals-how-they-rank-local-search-results|13|15|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|profile to business page migration appeal|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/reverse-your-facebook-personal-profile-to-business-page-conversion|13|14|1|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|interview: social paradigm w/ social media maven, strategist &#38; trainer terry crosby|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/interviews/interview-social-paradigm-w-social-media-maven-strategist-trainer-terry-crosby|13|15|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|facebook breaking news: you are being followed and most likely do not know it|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-new-firend-request-and-follow-feature|13|14|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|local optimization: did you know your business is already on foursquare?|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/local-visibility/local-social-and-search-optimization-foursquare|13|13|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|12 tips to mastering google search|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/12-google-search-tips|13|13|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|facebook fan page tips: how to encourage more engagement|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-fan-page-tips-how-to-encourage-more-engagement|13|13|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|google social search: how and why|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/content-creation/google-social-search-how-and-why|13|13|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|facebook’s advanced search 2.0 – how to add to your profile|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebooks-advanced-search-2-0-how-to-add-to-your-profile|13|13|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|twitter – the new business card|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/twitter-training-tutorials/twitter-the-new-business-card|13|13|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|video marketing + social media = more customers|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/social-media-training-tutorials/video-marketing-social-media-more-customers|13|13|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|catapult your twitter presence from just ok to great in record time with|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/social-media-tools/catapult-your-twitter-presence-from-just-ok-to-great-in-record-time-with|13|13|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|social media needs search engine optimization (seo) as much as seo needs social media|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/social-media-needs-search-engine-optimization-seo-as-much-as-seo-needs-social-media|13|13|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|facebook fan page: how to add local fans|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-fan-page-how-to-add-local-fans|13|7|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|local social media marketing (video)|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/local-visibility/local-social-media-marketing|13|5|0|16|1</Row>
+			<Row>http://feeds.feedburner.com/TerryCrosby|2|twitter lists – how to get yourself added to 100s of lists in days|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com/twitter-training-tutorials/twitterlists-getadded|13|5|0|16|1</Row>
+			<Row>http://www.veteranstoday.com/2010/03/26/iran-gets-help-from-israel|3|interview of terry crosby, social media strategist and trainer || terry crosby|2012-07-23|0|0|1|0|0|0|0|http://terrycrosbyblog.com/?p=356|26|13|0|17|0</Row>
+			<Row>http://www.qando.net/?p=7709|1|vpype live video streaming for facebook || terry crosby|2012-07-16|0|0|1|0|0|0|0|http://terrycrosbyblog.com/?p=391|27|0|0|9|8</Row>
+			<Row>http://www.youtube.com/watch?v=MBz44YswJBM&#38;feature=related|1|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-p...|2012-06-24|0|0|1|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-page-changes|3|16|0|7|9</Row>
+			<Row>http://www.youtube.com/user/shukonion|2|http://terrycrosbyblog.com/...|2012-07-07|0|0|1|0|0|0|0|http://terrycrosbyblog.com/social-media-tools/how-to-become-your-customers-trusted-advisor-google-alerts|3|13|0|10|6</Row>
+			<Row>http://www.youtube.com/watch?v=xn_Hzcl-qus&#38;feature=related|2|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-p...|2012-07-08|0|0|1|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-page-changes|3|16|0|11|5</Row>
+			<Row>http://www.trunity.net/?__ajax=PortalRSS&#38;portal=2550&#38;type=topic&#38;id=30606|2|http://www.terrycrosbyblog.com/|2012-07-23|0|0|0|0|0|0|0|http://www.terrycrosbyblog.com|28|17|2|11|5</Row>
+			<Row>http://www.twibes.com/socialmediastrategis/twitter-list|2|http://terrycrosbyblo...|2012-06-16|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|12|4</Row>
+			<Row>http://socialsonya.com/2010/08/08/top-15-social-media-experts-websites|2|terry crosby|2012-07-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|29|26|13|14|2</Row>
+			<Row>http://franspiration.com/about-fran|2|terry crosby&#39;s blog|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|2</Row>
+			<Row>http://franspiration.com/tag/appreciation|2|terry crosby&#39;s blog|2012-06-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|2</Row>
+			<Row>http://franspiration.com/tag/beautiful-friends|2|terry crosby&#39;s blog|2012-06-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|2</Row>
+			<Row>http://franspiration.com/tag/deep-gratitude|2|terry crosby&#39;s blog|2012-06-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|2</Row>
+			<Row>http://franspiration.com/tag/endless-gratitude|2|terry crosby&#39;s blog|2012-06-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|2</Row>
+			<Row>http://franspiration.com/tag/gratitude|2|terry crosby&#39;s blog|2012-06-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|2</Row>
+			<Row>http://franspiration.com/tag/happiness|2|terry crosby&#39;s blog|2012-06-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|2</Row>
+			<Row>http://franspiration.com/tag/heart|2|terry crosby&#39;s blog|2012-06-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|2</Row>
+			<Row>http://franspiration.com/tag/hugs-and-smiles|2|terry crosby&#39;s blog|2012-06-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|2</Row>
+			<Row>http://franspiration.com/tag/love|2|terry crosby&#39;s blog|2012-06-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|2</Row>
+			<Row>http://franspiration.com/tag/lovely-day|2|terry crosby&#39;s blog|2012-06-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|11|26|13|14|2</Row>
+			<Row>http://www.youtube.com/watch?v=vmCvTVpVubk&#38;feature=related|2|http://terrycrosbyblog.com/google/improve-your-twitter-influence-andreputatio...|2012-07-14|0|0|1|0|0|0|0|http://terrycrosbyblog.com/google/improve-your-twitter-influence-andreputation-with-twylah|3|17|0|11|4</Row>
+			<Row>http://www.twibes.com/facebookfanpage/twitter-list|2|http://terrycrosbyblo...|2012-06-21|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|11|4</Row>
+			<Row>http://www.brazencareerist.com/profile/terry-crosby-0/activity|1|terry crosby&#39;s blog|2012-07-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|14|26|13|9|6</Row>
+			<Row>http://www.brazencareerist.com/profile/terry-crosby-0/fans|1|terry crosby&#39;s blog|2012-06-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com|14|26|13|9|6</Row>
+			<Row>http://techfluff.tv/2010/03/31/live-from-facebook-using-vpype-to-live-broadcast-to-your-fb-fans/comment-page-1|2|interview with vpype production manager: facebook&#39;s new live video streaming application || terry crosby|2012-07-22|0|0|1|0|0|0|0|http://terrycrosbyblog.com/?p=407|10|0|0|10|5</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation|2| |2012-07-05|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|10|5</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation|2|terry crosby|2012-07-05|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|10|5</Row>
+			<Row>http://www.meetusinghal.com/author/admin/page/2|2|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|10|5</Row>
+			<Row>http://laurenhuston.com/facebook-questions|2|terry crosby|2012-06-25|0|0|0|0|0|0|0|http://terrycrosbyblog.com|19|26|13|14|1</Row>
+			<Row>http://robertarthursblog.com/facebooksuccesstraining|2|http://terrycrosbyblog.com|2012-07-08|0|0|0|0|0|0|0|http://terrycrosbyblog.com|31|26|13|15|0</Row>
+			<Row>http://socialmediatoday.com/user/34555|2|website|2012-07-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com|21|26|13|13|1</Row>
+			<Row>http://socialmediatoday.com/user/34555|2| |2012-07-21|0|0|0|1|0|0|0|http://terrycrosbyblog.com|21|26|13|13|1</Row>
+			<Row>http://www.twibes.com/smo/twitter-list?view=people&#38;sort=followers|2|http://terrycrosbyblo...|2012-06-20|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|10|4</Row>
+			<Row>http://www.twibes.com/smo/twitter-list?view=people&#38;sort=influence|2|http://terrycrosbyblo...|2012-06-20|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|10|4</Row>
+			<Row>http://laurenhuston.com/ask-me-monday-edition-20|2|terry crosby|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|19|26|13|14|0</Row>
+			<Row>http://socialmediatoday.com/terrycrosby/269880/your-solution-guide-facebook-page-changes?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Social Media Today (all posts)|2|website|2012-07-14|0|0|0|1|0|0|0|http://terrycrosbyblog.com|21|26|13|13|0</Row>
+			<Row>http://socialmediatoday.com/terrycrosby/269880/your-solution-guide-facebook-page-changes?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Social Media Today (all posts)|2|set the default landing tab|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-fan-page-how-use-new-admin-user-interface|21|17|2|13|0</Row>
+			<Row>http://socialmediatoday.com/terrycrosby/269880/your-solution-guide-facebook-page-changes?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Social Media Today (all posts)|2|click here to view the embedded video.|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-page-changes-your-solution-guide|21|14|2|13|0</Row>
+			<Row>http://www.meetusinghal.com/facebook-hot-links/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: meetusinghal (Meetu Singhal)|2|terry crosby’s blog|2012-07-05|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|13|0</Row>
+			<Row>http://socialvideoceo.com/2010/03/30/vpype-goes-social-in-london|1|interview with vpype production manager: facebook&#39;s new live video streaming application || terry crosby|2012-07-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com/?p=407|32|0|0|9|4</Row>
+			<Row>http://znznz.com/biz/M1R2KZR|2|service info|2012-07-25|0|0|0|0|0|0|0|http://terrycrosbyblog.com|33|26|13|13|0</Row>
+			<Row>http://znznz.com/biz/M1R2KZR|2|terry crosby site|2012-07-25|0|0|0|0|0|0|0|http://terrycrosbyblog.com|33|26|13|13|0</Row>
+			<Row>http://franspiration.com/happy-mothers-day-o-2|2|terry crosby&#39;s blog|2012-07-17|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|11|2</Row>
+			<Row>http://franspiration.com/thats-what-friends-are-for|2|terry crosby&#39;s blog|2012-06-15|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|11|2</Row>
+			<Row>http://www.flickr.com/people/terrycrosby|2|terry crosby&#39;s social media training blog|2012-07-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|25|26|13|11|1</Row>
+			<Row>http://the-marketing-center.com/blog/2010/07/28|1|attraction marketing: how to re-purpose targeted valuable content || terry crosby|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com/content-creation/attraction-marketing-how-to-re-purpse-targeted-valuable-content|34|13|2|9|3</Row>
+			<Row>http://the-marketing-center.com/blog/2010/07/page/2|1|attraction marketing: how to re-purpose targeted valuable content || terry crosby|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com/content-creation/attraction-marketing-how-to-re-purpse-targeted-valuable-content|34|13|2|9|3</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=13563|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=15|2|terry crosby|2012-07-15|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=16|2|terry crosby|2012-07-15|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=17|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=18|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=19|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=20|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=21|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=22|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=24|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=25|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=26|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=27|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=28|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=29|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=30|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=31|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=35|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://nmsmallbiz.com/2011/01/07/guest-blogger-five-reason-your-business-needs-social-media/?replytocom=873|2|terry crosby|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com|22|26|13|11|1</Row>
+			<Row>http://www.alexresolutions.com/dating-networks-are-the-next-big-thing|2|terry crosby|2012-07-18|0|0|1|0|0|0|0|http://terrycrosbyblog.com|24|26|13|10|2</Row>
+			<Row>http://www.dvdepoch.com/facebook-embed-video-high-quality.html|1|who you are on facebook and twitter will determine if you show up|2012-07-15|0|0|1|0|0|0|0|http://terrycrosbyblog.com/google/your-facebook-twitter-reputation-will-determine-if-you-show-up-in-search-result|35|17|0|9|2</Row>
+			<Row>http://buildingabrandonline.com/headway-visual-editor/feed|1|http://terrycrosbyblog.com/wordpress/headway-wordpress-theme-review/|2012-07-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com/wordpress/headway-wordpress-theme-review|18|15|0|9|2</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=1331|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=1331|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=1509|2| |2012-07-14|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=1509|2|terry crosby|2012-07-14|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=1576|2| |2012-07-14|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=1576|2|terry crosby|2012-07-14|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=596|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=596|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=597|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=597|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=598|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=598|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=599|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=599|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=601|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=601|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=602|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=602|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=603|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=603|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=604|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=604|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=605|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=605|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=606|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=606|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=612|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=612|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=615|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=615|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=616|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=616|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=619|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=619|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=621|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=621|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=622|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=622|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=624|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=624|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=625|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=625|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=629|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=629|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=631|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=631|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=632|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=632|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=639|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=639|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=646|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=646|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=656|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=656|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=658|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=658|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=659|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=659|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=669|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=669|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=798|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=798|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=849|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=849|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=1088|2|terry crosby|2012-07-10|0|0|1|0|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://www.thenetworkdad.com/4-main-personality-types/?replytocom=1088|2| |2012-07-10|0|0|1|1|0|0|0|http://terrycrosbyblog.com|17|26|13|10|1</Row>
+			<Row>http://laurenhuston.com/lurker-or-listener|1|terry crosby|2012-07-11|0|0|0|0|0|0|0|http://www.terrycrosbyblog.com|19|17|2|9|2</Row>
+			<Row>http://keystoyourbusiness.com/how-find-your-google-place-photos-videos|2|social media maven, strategist, trainer and speaker|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com/san-diego-social-media-marketing-services|36|16|1|11|0</Row>
+			<Row>http://keystoyourbusiness.com/how-small-business-can-use-location-based-services-grow-their-business|2|social media maven, strategist, trainer and speaker|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com/san-diego-social-media-marketing-services|36|16|1|11|0</Row>
+			<Row>http://keystoyourbusiness.com/how-to-improve-your-google-place-page-listin|2|social media maven, strategist, trainer and speaker|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com/san-diego-social-media-marketing-services|36|16|1|11|0</Row>
+			<Row>http://keystoyourbusiness.com/how-to-submit-and-optimize-your-small-business-listing-with-bing|2|social media maven, strategist, trainer and speaker|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com|36|26|13|11|0</Row>
+			<Row>http://keystoyourbusiness.com/category/local-business-marketing-tutorials/feed|2|social media maven, strategist, trainer and speaker|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com|36|26|13|11|0</Row>
+			<Row>http://keystoyourbusiness.com/category/local-business-marketing-tutorials/feed|2|social media maven, strategist, trainer and speaker|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com/san-diego-social-media-marketing-services|36|16|1|11|0</Row>
+			<Row>http://keystoyourbusiness.com/google-places-checklist|2|social media maven, strategist, trainer and speaker|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com/san-diego-social-media-marketing-services|36|16|1|11|0</Row>
+			<Row>http://franspiration.com/at-times-our-own-light-goes-out|1|terry crosby&#39;s blog|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|9|2</Row>
+			<Row>http://franspiration.com/friends-encouragement-priceless|1|terry crosby&#39;s blog|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|9|2</Row>
+			<Row>http://franspiration.com/love-and-gratitude-through-social-media|1|terry crosby&#39;s blog|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|9|2</Row>
+			<Row>http://tagwalk.com/Terry|1|resources/tools || terry crosby, social media strategist &#38; trainer|2012-07-03|0|0|0|0|0|0|0|http://terrycrosbyblog.com/social-media-resources-tools|37|14|2|5|5</Row>
+			<Row>http://socialsonya.com/2010/08/08/top-15-social-media-experts-websites/?replytocom=310|1|terry crosby|2012-07-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com|29|26|13|9|1</Row>
+			<Row>http://socialsonya.com/2010/08/08/top-15-social-media-experts-websites/?replytocom=311|1|terry crosby|2012-07-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com|29|26|13|9|1</Row>
+			<Row>http://socialsonya.com/2010/08/08/top-15-social-media-experts-websites/?replytocom=319|1|terry crosby|2012-07-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com|29|26|13|9|1</Row>
+			<Row>http://www.twibes.com/facebookmarketing/twitter-list?view=people&#38;sort=followers|1|http://terrycrosbyblo...|2012-06-21|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|7|2</Row>
+			<Row>http://www.twibes.com/facebookmarketing/twitter-list?view=people&#38;sort=influence|1|http://terrycrosbyblo...|2012-06-21|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|7|2</Row>
+			<Row>http://tagwalk.com/%D9%85%D8%A7|1|how to use twitter lists to accelerate your twitter influence || terry...|2012-07-10|0|0|0|0|0|0|0|http://terrycrosbyblog.com/twitter-training-tutorials/how-to-use-twitter-lists-to-accelerate-your-twitter-influence|37|16|2|5|4</Row>
+			<Row>http://www.youtube.com/watch?v=2tn0lM_WvNk&#38;feature=related|1|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-p...|2012-07-05|0|0|1|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-page-changes|3|16|0|5|3</Row>
+			<Row>http://www.twibes.com/facebookfanpage/twitter-list?view=people&#38;sort=followers|1|http://terrycrosbyblo...|2012-06-21|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|6|2</Row>
+			<Row>http://www.twibes.com/facebookfanpage/twitter-list?view=people&#38;sort=influence|1|http://terrycrosbyblo...|2012-06-21|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|6|2</Row>
+			<Row>http://www.veteranstoday.com/2010/03/26/iran-gets-help-from-israel/comment-page-1|1|interview of terry crosby, social media strategist and trainer || terry crosby|2012-07-15|0|0|1|0|0|0|0|http://terrycrosbyblog.com/?p=356|26|13|0|8|0</Row>
+			<Row>http://www.digitaluniverse.net/?__ajax=PortalRSS&#38;portal=2550&#38;type=home|1|http://www.terrycrosbyblog.com/|2012-07-12|0|0|0|0|0|0|0|http://www.terrycrosbyblog.com|38|17|2|4|4</Row>
+			<Row>http://www.qando.net/?p=7709&#38;cpage=1|1|vpype live video streaming for facebook || terry crosby|2012-07-16|0|0|1|0|0|0|0|http://terrycrosbyblog.com/?p=391|27|0|0|3|4</Row>
+			<Row>http://www.jasonberkesblog.com/tag/video-marketing/feed|1|how to find out if your target audience is on facebook. || terry crosby|2012-07-25|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/is-your-target-audience-on-facebook|39|13|0|6|1</Row>
+			<Row>http://www.jasonberkesblog.com/2010/03/attorney-video-marketing-how-you-can-make-it-right|1|how to find out if your target audience is on facebook. || terry crosby|2012-07-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/is-your-target-audience-on-facebook|39|13|0|6|1</Row>
+			<Row>http://onlinebusinessowners.org/history-of-franchising|1|terry crosby|2012-05-31|0|0|1|0|0|0|0|http://terrycrosbyblog.com|40|26|13|6|1</Row>
+			<Row>http://robertarthursblog.com/facebooksuccesstraining/comment-page-1|1|http://terrycrosbyblog.com|2012-07-08|0|0|0|0|0|0|0|http://terrycrosbyblog.com|31|26|13|7|0</Row>
+			<Row>http://the-marketing-center.com/blog/tag/attraction-marketing-system|1|attraction marketing: how to re-purpose targeted valuable content || terry crosby|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com/content-creation/attraction-marketing-how-to-re-purpse-targeted-valuable-content|34|13|2|4|2</Row>
+			<Row>http://www.meetusinghal.com/author/admin/page/3|1|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|4|2</Row>
+			<Row>http://www.phillipatanzilo.com/intuition-do-you-act-on-yours-do-you-use-an-evidence-based-strategy|1|terry crosby|2012-06-20|0|0|1|0|0|0|0|http://terrycrosbyblog.com|41|26|13|5|1</Row>
+			<Row>http://whatisthisateaparty.uwcblog.com/tag/social-networks|1|this post|2012-07-11|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/google-just-took-realtime-search-to-the-next-level-video|42|13|0|5|0</Row>
+			<Row>http://www.thinkbigrevolution.com/profile/TerryCrosby|1| |2012-07-17|0|0|0|0|0|0|0|http://www.terrycrosbyblog.com|43|17|2|2|3</Row>
+			<Row>http://www.thinkbigrevolution.com/profile/TerryCrosby|1|terry crosby&#39;s blog - social media training|2012-07-17|0|0|1|0|0|0|0|http://www.terrycrosbyblog.com|43|17|2|2|3</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=1074|1| |2012-07-17|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=1074|1|terry crosby|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=1139|1| |2012-07-17|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=1139|1|terry crosby|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=756|1|terry crosby|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=756|1| |2012-07-17|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=758|1| |2012-07-17|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=758|1|terry crosby|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=765|1| |2012-07-17|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=765|1|terry crosby|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=766|1| |2012-07-17|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=766|1|terry crosby|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=767|1| |2012-07-17|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=767|1|terry crosby|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=768|1| |2012-07-17|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=768|1|terry crosby|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=769|1| |2012-07-17|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=769|1|terry crosby|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=770|1|terry crosby|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/?replytocom=770|1| |2012-07-17|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|4|1</Row>
+			<Row>http://www.phillipatanzilo.com/why-should-i-use-social-media-how-i-transformed-my-resistance-and-discovered-a-world-of-generosity%e2%80%94passion-and-trust|1|terry crosby|2012-06-20|0|0|1|0|0|0|0|http://terrycrosbyblog.com|41|26|13|4|1</Row>
+			<Row>http://www.phillipatanzilo.com/why-should-i-use-social-media-how-i-transformed-my-resistance-and-discovered-a-world-of-generosity%e2%80%94passion-and-trust|1|http://terrycrosbyblog.com|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|41|26|13|4|1</Row>
+			<Row>http://www.phillipatanzilo.com/why-should-i-use-social-media-how-i-transformed-my-resistance-and-discovered-a-world-of-generosity%e2%80%94passion-and-trust|1|terry crosby|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|41|26|13|4|1</Row>
+			<Row>http://laurenhuston.com/from-paper-book-to-ebook|1|terry crosby|2012-07-03|0|0|0|0|0|0|0|http://terrycrosbyblog.com|19|26|13|4|0</Row>
+			<Row>http://shareyourdreamfriday.com/share-dream-friday-special-guest-dreamer-meetu-singhal|1|terry crosby|2012-06-19|0|0|0|0|0|0|0|http://terrycrosbyblog.com|44|26|13|4|0</Row>
+			<Row>http://www.snuglicarrier.com/tag/painting|1|how to add a video to your linkedin profile|2012-07-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com/linkedintutorials/how-to-add-a-video-to-your-linkedin-profile-video|45|13|0|4|0</Row>
+			<Row>http://140twibe.parnassusgroup.com/smo/twitter-list|1|http://terrycrosbyblo...|2012-07-11|0|0|1|0|0|0|0|http://terrycrosbyblog.com|46|26|13|3|0</Row>
+			<Row>http://ginnytoll.com/google-reveals-how-they-order-and-rank-their-local-search-results-P3365|1|terry crosby blog|2012-07-14|0|0|1|0|0|0|0|http://terrycrosbyblog.com/google/google-reveals-how-they-rank-local-search-results|47|15|0|3|0</Row>
+			<Row>http://ginnytoll.com/google-reveals-how-they-order-and-rank-their-local-search-results-P3365|1|google local-optimization local-visibility social-search google reveals how they order and rank their local search results (video...|2012-07-14|0|0|1|1|0|0|0|http://terrycrosbyblog.com/wp-content/uploads/2010/12/google-places.png|47|0|0|3|0</Row>
+			<Row>http://ginnytoll.com/google-reveals-how-they-order-and-rank-their-local-search-results-P3365|1|google local-optimization local-visibility social-search google reveals how they order and rank their local search results (video...|2012-07-14|0|0|1|1|0|0|0|http://terrycrosbyblog.com/wp-content/uploads/2010/12/Google-places-shot1.png|47|0|0|3|0</Row>
+			<Row>http://ginnytoll.com/google-reveals-how-they-order-and-rank-their-local-search-results-P3365|1|google local-optimization local-visibility social-search google reveals how they order and rank their local search results (video...|2012-07-14|0|0|1|1|0|0|0|http://terrycrosbyblog.com/wp-content/uploads/2010/12/macho-tacos.png|47|0|0|3|0</Row>
+			<Row>http://www.snuglicarrier.com/tag/heart|1|how to add a video to your linkedin profile|2012-07-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com/linkedintutorials/how-to-add-a-video-to-your-linkedin-profile-video|45|13|0|3|0</Row>
+			<Row>http://www.webstatsology.com/url/terrycrosbyblog.com|1|terrycrosbyblog.com|2012-07-15|0|0|1|0|0|0|0|http://terrycrosbyblog.com|48|26|13|2|0</Row>
+			<Row>http://www.meetusinghal.com/how-to-overcome-anything-like-tony-robbins|1|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|2|0</Row>
+			<Row>http://www.phillipatanzilo.com/why-should-i-use-social-media-how-i-transformed-my-resistance-and-discovered-a-world-of-generosity%e2%80%94passion-and-trust/comment-page-1|1|terry crosby|2012-06-14|0|0|1|0|0|0|0|http://terrycrosbyblog.com|41|26|13|2|0</Row>
+			<Row>http://www.phillipatanzilo.com/why-should-i-use-social-media-how-i-transformed-my-resistance-and-discovered-a-world-of-generosity%e2%80%94passion-and-trust/comment-page-1|1|http://terrycrosbyblog.com|2012-06-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|41|26|13|2|0</Row>
+			<Row>http://www.phillipatanzilo.com/why-should-i-use-social-media-how-i-transformed-my-resistance-and-discovered-a-world-of-generosity%e2%80%94passion-and-trust/comment-page-1|1|terry crosby|2012-06-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|41|26|13|2|0</Row>
+			<Row>http://140twibe.parnassusgroup.com/facebookfanpage/twitter-list|1|http://terrycrosbyblo...|2012-07-12|0|0|1|0|0|0|0|http://terrycrosbyblog.com|46|26|13|1|0</Row>
+			<Row>http://140twibe.parnassusgroup.com/facebookmarketing/twitter-list|1|http://terrycrosbyblo...|2012-07-12|0|0|1|0|0|0|0|http://terrycrosbyblog.com|46|26|13|1|0</Row>
+			<Row>http://140twibe.parnassusgroup.com/facebooktrainer/twitter-list|1|http://terrycrosbyblo...|2012-07-12|0|0|1|0|0|0|0|http://terrycrosbyblog.com|46|26|13|1|0</Row>
+			<Row>http://www.alexresolutions.com/the-admin-area-for-facebook-like-pages-have-changed-video|1|terry crosby|2012-07-18|0|0|1|0|0|0|0|http://terrycrosbyblog.com|24|26|13|1|0</Row>
+			<Row>http://www.alexresolutions.com/the-admin-area-for-facebook-like-pages-have-changed-video|1|terry crosby|2012-07-18|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-fan-page-how-use-new-admin-user-interface|24|17|2|1|0</Row>
+			<Row>http://www.youtube.com/LiveFireGuy|0|http://terrycrosbyblog.com/...|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com/google/improve-your-twitter-influence-andreputation-with-twylah|3|17|0|0|0</Row>
+			<Row>http://www.youtube.com/LiveFireGuy|0|http://terrycrosbyblog.com/...|2012-07-04|0|0|1|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/solution-guide-to-the-facebook-page-changes|3|16|0|0|0</Row>
+			<Row>http://www.youtube.com/user/MrChinmc|0|http://terrycrosbyblog.com/|2012-06-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|3|26|13|0|0</Row>
+			<Row>http://www.youtube.com/watch?v=H9BK089MFN8&#38;feature=related|0|http://terrycrosbyblog.com/local-visibility/local-social-media-marketing/|2012-07-24|0|0|1|0|0|0|0|http://terrycrosbyblog.com/local-visibility/local-social-media-marketing|3|5|0|0|0</Row>
+			<Row>http://www.linkedin.com/slink?code=UFaZ8X|0| |2012-07-17|1|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-launches-new-friend-browser|49|15|0|0|0</Row>
+			<Row>http://www.linkedin.com/slink?code=b2_QxV|0| |2012-07-07|1|0|0|0|0|0|0|http://terrycrosbyblog.com/google/tweet-economics-understanding-how-to-use-twitter-for-business|49|15|0|0|0</Row>
+			<Row>http://mashable.com/2010/12/05/facebook-pages-redesign/2|0|terry crosby|2012-07-07|0|0|1|0|0|0|0|http://terrycrosbyblog.com|6|26|13|0|0</Row>
+			<Row>http://mashable.com/2010/12/05/facebook-pages-redesign/2|0| |2012-07-07|0|0|0|1|0|0|0|http://terrycrosbyblog.com|6|26|13|0|0</Row>
+			<Row>http://bit.ly/fRZ4Ke|0| |2012-07-05|1|0|0|0|0|0|0|http://terrycrosbyblog.com/google/your-facebook-twitter-reputation-will-determine-if-you-show-up-in-search-result|50|17|0|0|0</Row>
+			<Row>http://www.viddler.com/profile/terrycrosby|0|http://terrycrosbyblog.com/|2012-06-21|0|0|1|0|0|0|0|http://terrycrosbyblog.com|51|26|13|0|0</Row>
+			<Row>http://tweet.grader.com/terrycrosby|0|http://terrycrosbyblog.com|2012-07-12|0|0|1|0|0|0|0|http://terrycrosbyblog.com|52|26|13|0|0</Row>
+			<Row>http://www.trunity.net/PartnerDevelopment/video/view/144778/?topic=30606|0|http://www.terrycrosbyblog.com/|2012-07-11|0|0|0|0|0|0|0|http://www.terrycrosbyblog.com|28|17|2|0|0</Row>
+			<Row>http://www.trunity.net/PartnerDevelopment/video/view/144779/?topic=30606|0|http://www.terrycrosbyblog.com/|2012-07-11|0|0|0|0|0|0|0|http://www.terrycrosbyblog.com|28|17|2|0|0</Row>
+			<Row>http://www.selfgrowth.com/internet_marketing.html?sorting=alpha&#38;l=t|0|terry crosby&#39;s social media training blog|2012-07-07|0|0|0|0|0|0|0|http://terrycrosbyblog.com|53|26|13|0|0</Row>
+			<Row>http://www.twibes.com/newmedia/twitter-list?cursor=5567432&#38;sort=followers&#38;page=1|0|http://terrycrosbyblo...|2012-06-19|0|0|1|0|0|0|0|http://terrycrosbyblog.com|12|26|13|0|0</Row>
+			<Row>http://lnkd.in/b2_QxV|0| |2012-07-07|1|0|0|0|0|0|0|http://terrycrosbyblog.com/google/tweet-economics-understanding-how-to-use-twitter-for-business|54|15|0|0|0</Row>
+			<Row>http://lnkd.in/UFaZ8X|0| |2012-07-08|1|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-launches-new-friend-browser|54|15|0|0|0</Row>
+			<Row>http://www.web-strategist.com/blog/2010/03/27/people-on-the-move-in-the-social-media-industry-march-27-2010/?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed: WebStrategyByJeremiah (Web Strategy by Jeremiah)|0|video marketing + social media = more customers || terry crosby|2012-07-12|0|0|1|0|0|0|0|http://terrycrosbyblog.com/?p=354|55|13|0|0|0</Row>
+			<Row>http://autopopuli.blogspot.fi|0|improve your twitter influence and reputation with twylah|2012-06-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/improve-your-twitter-influence-andreputation-with-twylah|56|17|0|0|0</Row>
+			<Row>http://autopopuli.blogspot.fi|0|get the most out of your tweetstream|2012-06-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/improve-your-twitter-influence-andreputation-with-twylah|56|17|0|0|0</Row>
+			<Row>http://www.autopopuli.blogspot.fi|0|improve your twitter influence and reputation with twylah|2012-06-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/improve-your-twitter-influence-andreputation-with-twylah|56|17|0|0|0</Row>
+			<Row>http://www.autopopuli.blogspot.fi|0|get the most out of your tweetstream|2012-06-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/improve-your-twitter-influence-andreputation-with-twylah|56|17|0|0|0</Row>
+			<Row>http://www.betternetworker.com/members/terry_crosby|0|http://terrycrosbyblog.com|2012-07-18|0|0|0|0|0|0|0|http://terrycrosbyblog.com|57|26|13|0|0</Row>
+			<Row>http://www.betternetworker.com/members/terry_crosby|0| |2012-07-18|0|0|0|1|0|0|0|http://terrycrosbyblog.com|57|26|13|0|0</Row>
+			<Row>http://www.betternetworker.com/members/terry_crosby|0| |2012-07-18|0|0|0|0|0|0|0|http://terrycrosbyblog.com/wp-content/uploads/2009/12/terry-crosby.jpg|57|0|0|0|0</Row>
+			<Row>http://bcweb2.brazencareerist.com/profile/terry-crosby-0|0|terry crosby&#39;s blog|2012-07-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com|14|26|13|0|0</Row>
+			<Row>http://wieowie.nl/personen/patricia-ubaghs|0|http://terrycrosbyblog.com/social-media-t…l-media-top-20-mashable-reader-responses/|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/social-media-training-tutorials/what-is-social-media-top-20-mashable-reader-responses|58|13|0|0|0</Row>
+			<Row>http://wieowie.nl/personen/patricia-ubaghs|0|terrycrosbyblog.co…-reader-responses/|2012-07-02|0|0|0|0|0|0|0|http://terrycrosbyblog.com/social-media-training-tutorials/what-is-social-media-top-20-mashable-reader-responses|58|13|0|0|0</Row>
+			<Row>http://www.carelmeyer.com/free-homepage-seo-analysis/site-stats.aspx?site=terrycrosbyblog.com|0|visit this page|2012-07-10|0|0|1|0|0|0|0|http://www.terrycrosbyblog.com|59|17|2|0|0</Row>
+			<Row>http://www.web-marketing-pros.com/web-marketing-blog/2010/03/about-google%E2%80%99s-adsense-affiliate-program|0|matt cutts says social media is a great link building technique || terry crosby|2012-07-24|0|0|1|0|0|0|0|http://terrycrosbyblog.com/?p=363|60|13|0|0|0</Row>
+			<Row>http://www.onemillionvideos.de/watch/?v=Q5zpiAl4z5M|0|http://terrycrosbyblog.com|2012-06-13|0|0|1|0|0|0|0|http://terrycrosbyblog.com|61|26|13|0|0</Row>
+			<Row>http://eevent.com/575758032|0| |2012-07-15|0|0|0|1|0|0|0|http://terrycrosbyblog.com|62|26|13|0|0</Row>
+			<Row>http://eevent.com/575758032|0|http://terrycrosbyblog.com/|2012-07-15|0|0|0|0|0|0|0|http://terrycrosbyblog.com|62|26|13|0|0</Row>
+			<Row>http://eevent.com/575758032|0|visit website|2012-07-15|0|0|0|0|0|0|0|http://terrycrosbyblog.com|62|26|13|0|0</Row>
+			<Row>http://140twibe.parnassusgroup.com/newmedia/twitter-list?cursor=15990407&#38;sort=influence&#38;page=2|0|http://terrycrosbyblo...|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|46|26|13|0|0</Row>
+			<Row>http://140twibe.parnassusgroup.com/newmedia/twitter-list?cursor=5567432&#38;sort=followers&#38;page=1|0|http://terrycrosbyblo...|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|46|26|13|0|0</Row>
+			<Row>http://140twibe.parnassusgroup.com/newmedia/twitter-list?cursor=5663759&#38;sort=followers&#38;page=1|0|http://terrycrosbyblo...|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|46|26|13|0|0</Row>
+			<Row>http://hobhub.biz/profile/TerryCrosby|0|http://terrycrosbyblog.com|2012-07-11|0|0|1|0|0|0|0|http://terrycrosbyblog.com|63|26|13|0|0</Row>
+			<Row>http://hobhub.biz/profile/TerryCrosby?xg_source=activity|0|http://terrycrosbyblog.com|2012-07-11|0|0|1|0|0|0|0|http://terrycrosbyblog.com|63|26|13|0|0</Row>
+			<Row>http://gasta.tv/Image/Local News/5|0| |2012-06-22|0|0|0|1|0|0|0|http://terrycrosbyblog.com/google/google-local-news-google-testing-new-location-based-marketing-platform-in-portland|64|15|0|0|0</Row>
+			<Row>http://gasta.tv/Image/Local News/5|0|google local news: google testing new location-based marketing ... http://terrycrosbyblog.com/google/google-local-news-google-testing...|2012-06-22|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/google-local-news-google-testing-new-location-based-marketing-platform-in-portland|64|15|0|0|0</Row>
+			<Row>http://www.alleyenterprise.com/11172/is-affiliate-marketing-school-necessary-to-succeed-as-an-affiliate-marketer|0|attraction marketing: how to find your industry’s top trusted blogs. || terry crosby|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/attraction-marketing-how-to-find-your-industrys-most-trusted-blogs|65|13|0|0|0</Row>
+			<Row>http://b2l.me/k8ntd|0| |2012-07-13|1|0|0|0|0|0|0|http://terrycrosbyblog.com/interviews/interview-social-paradigm-w-social-media-maven-strategist-trainer-terry-crosby|66|15|0|0|0</Row>
+			<Row>http://b2l.me/gxzgw|0| |2012-07-11|1|0|0|0|0|0|0|http://terrycrosbyblog.com/twitter/video-how-to-manage-your-twitter-with-hootsuite|66|13|0|0|0</Row>
+			<Row>http://www.martyblogs.com/2010/03|0|terry crosby|2012-06-27|0|0|0|0|0|0|0|http://terrycrosbyblog.com|7|26|13|0|0</Row>
+			<Row>http://www.plsearch.com/Trusted Web Resources|0|twitter search – become your target market&#39;s trusted resource ...|2012-06-30|0|0|1|0|0|0|0|http://terrycrosbyblog.com/twitter-training-tutorials/twitter-search-become-your-target-markets-trusted-resource-in-minutes-a-day|67|16|0|0|0</Row>
+			<Row>http://socialmediadirectory.org/Terry-Crosby|0|http://terrycrosbyblog.com/|2012-07-19|0|0|0|0|0|0|0|http://terrycrosbyblog.com|68|26|13|0|0</Row>
+			<Row>http://socialmediadirectory.org/Terry-Crosby|0|terry crosby|2012-07-19|0|0|0|1|0|0|0|http://terrycrosbyblog.com|68|26|13|0|0</Row>
+			<Row>http://socialmediadirectory.org/x-cid-258-review-write|0|terry crosby|2012-07-09|0|0|0|1|0|0|0|http://terrycrosbyblog.com|68|26|13|0|0</Row>
+			<Row>http://socialmediadirectory.org/x-cid-258-review-write|0|http://terrycrosbyblog.com/|2012-07-09|0|0|0|0|0|0|0|http://terrycrosbyblog.com|68|26|13|0|0</Row>
+			<Row>http://socialmediadirectory.org/x-cid-258-widget-x|0|terry crosby|2012-07-19|0|0|0|1|0|0|0|http://terrycrosbyblog.com|68|26|13|0|0</Row>
+			<Row>http://socialmediadirectory.org/x-cid-258-widget-x|0|http://terrycrosbyblog.com/|2012-07-19|0|0|0|0|0|0|0|http://terrycrosbyblog.com|68|26|13|0|0</Row>
+			<Row>http://socialmediadirectory.org/x-city-El_Cajon-state-CA|0|http://terrycrosbyblog.com/|2012-07-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com|68|26|13|0|0</Row>
+			<Row>http://socialmediadirectory.org/x-city-El_Cajon-state-CA|0|terry crosby|2012-07-21|0|0|0|1|0|0|0|http://terrycrosbyblog.com|68|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907|0|terry crosby|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907|0| |2012-07-17|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=1074|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=1074|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=1139|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=1139|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=756|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=756|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=758|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=758|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=765|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=765|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=766|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=766|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=767|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=767|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=768|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=768|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=769|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=769|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=770|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/?p=907&#38;replytocom=770|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1|0| |2012-07-17|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1|0|terry crosby|2012-07-17|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=1074|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=1074|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=1139|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=1139|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=756|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=756|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=758|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=758|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=765|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=765|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=766|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=766|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=767|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=767|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=768|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=768|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=769|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=769|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=770|0| |2012-07-25|0|0|1|1|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.scottbradley.name/blog-content-strategy-creation/comment-page-1/?replytocom=770|0|terry crosby|2012-07-25|0|0|1|0|0|0|0|http://terrycrosbyblog.com|30|26|13|0|0</Row>
+			<Row>http://www.meetusinghal.com/export-names-and-email-ids-of-facebook-friends/comment-page-1|0|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|0|0</Row>
+			<Row>http://www.meetusinghal.com/full-website-on-facebook-fan-page/comment-page-1|0|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|0|0</Row>
+			<Row>http://www.meetusinghal.com/google-apps-great-collaborative-solution-for-your-organization/comment-page-1|0|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|0|0</Row>
+			<Row>http://www.meetusinghal.com/google-io-2010-some-highlights/comment-page-1|0|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|0|0</Row>
+			<Row>http://www.meetusinghal.com/how-news-broke-on-twitter/comment-page-1|0|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|0|0</Row>
+			<Row>http://www.meetusinghal.com/if-you-have-iphone-then-you-have-a-personal-assistant-siri/comment-page-1|0|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|0|0</Row>
+			<Row>http://www.meetusinghal.com/who-visited-my-facebook-profile/comment-page-1|0|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|0|0</Row>
+			<Row>http://www.meetusinghal.com/3-straightforward-techniques-to-get-your-website-top-rankings-6/comment-page-1|0|terry crosby’s blog|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|2|26|13|0|0</Row>
+			<Row>http://www.galeriemc.com/topics/20110221.php|0|local seo strategies (google places) || terry crosby, social media ...|2012-06-20|0|0|1|0|0|0|0|http://terrycrosbyblog.com|69|26|13|0|0</Row>
+			<Row>http://www.jasonbetter.com/mlm-business-training/10-tools-for-building-your-home-based-business-on-a-budget|0| |2012-07-16|0|0|1|1|0|0|0|http://terrycrosbyblog.com|70|26|13|0|0</Row>
+			<Row>http://www.jasonbetter.com/mlm-business-training/10-tools-for-building-your-home-based-business-on-a-budget|0|terry crosby|2012-07-16|0|0|1|0|0|0|0|http://terrycrosbyblog.com|70|26|13|0|0</Row>
+			<Row>http://www.waffil.com/2011/02/21/facebook-page-upgrade-news-customize-your-page-tab-names-terry|0|facebook page upgrade news: customize your page tab names || terry …|2012-07-05|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-page-upgrade-news-customize-your-page-tab-names|71|16|1|0|0</Row>
+			<Row>http://locationagadir.net/google-local-news-google-testing-new-location-based-marketing/10/12/2010|0|google local news: google testing new location-based marketing …|2012-07-11|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/google-local-news-google-testing-new-location-based-marketing-platform-in-portland/?isalt=0|72|13|0|0|0</Row>
+			<Row>http://locationagadir.net/tag/book|0|google local news: google testing new location-based marketing …|2012-07-11|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/google-local-news-google-testing-new-location-based-marketing-platform-in-portland/?isalt=0|72|13|0|0|0</Row>
+			<Row>http://laurenhuston.com/facebook-hacking-or-facebook-mix-up/comment-page-1|0|terry crosby|2012-07-23|0|0|0|0|0|0|0|http://terrycrosbyblog.com|19|26|13|0|0</Row>
+			<Row>http://laurenhuston.com/facebook-questions/comment-page-1|0|terry crosby|2012-06-25|0|0|0|0|0|0|0|http://terrycrosbyblog.com|19|26|13|0|0</Row>
+			<Row>http://laurenhuston.com/from-paper-book-to-ebook/comment-page-1|0|terry crosby|2012-07-11|0|0|0|0|0|0|0|http://terrycrosbyblog.com|19|26|13|0|0</Row>
+			<Row>http://laurenhuston.com/lurker-or-listener/comment-page-1|0|terry crosby|2012-07-11|0|0|0|0|0|0|0|http://www.terrycrosbyblog.com|19|17|2|0|0</Row>
+			<Row>http://tweets.kabaim.com/tweets/25710133958934528|0|http://terrycrosbyblog.com/google/improve-your-twitter-influence-andreputation-with-twylah/|2012-07-16|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/improve-your-twitter-influence-andreputation-with-twylah|73|17|0|0|0</Row>
+			<Row>http://tweets.kabaim.com/tweets/25710133958934528|0|read full article on terrycrosbyblog|2012-07-16|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/improve-your-twitter-influence-andreputation-with-twylah|73|17|0|0|0</Row>
+			<Row>http://tweets.kabaim.com/tweets/25710133958934528|0|improve your twitter influence and reputation with twylah (video review) || terry crosby, social media strategist &#38; trainer|2012-07-16|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/improve-your-twitter-influence-andreputation-with-twylah|73|17|0|0|0</Row>
+			<Row>http://seome.me/user/marketingm8|0|how to use twitter lists to accelerate your twitter influence || terry crosby, social media…|2012-07-07|0|0|0|0|0|0|0|http://terrycrosbyblog.com/twitter-training-tutorials/how-to-use-twitter-lists-to-accelerate-your-twitter-influence|74|16|2|0|0</Row>
+			<Row>http://www.sgseosocialmedia.com/ways-to-improve-your-reputation-using-twitter|0|twitter search|2012-06-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com/twitter-training-tutorials/twitter-search-become-your-target-markets-trusted-resource-in-minutes-a-day|75|16|0|0|0</Row>
+			<Row>http://actionsportsnews.eu/user/MrChinmc|0|http://terrycrosbyblog.com/|2012-06-27|0|0|1|0|0|0|0|http://terrycrosbyblog.com|76|26|13|0|0</Row>
+			<Row>http://onlinebusinessowners.org/?p=1537|0|terry crosby|2012-07-20|0|0|1|0|0|0|0|http://terrycrosbyblog.com|40|26|13|0|0</Row>
+			<Row>http://onlinebusinessowners.org/?p=1601|0|terry crosby|2012-07-20|0|0|1|0|0|0|0|http://terrycrosbyblog.com|40|26|13|0|0</Row>
+			<Row>http://onlinebusinessowners.org/?p=1763|0|terry crosby|2012-07-20|0|0|1|0|0|0|0|http://terrycrosbyblog.com|40|26|13|0|0</Row>
+			<Row>http://onlinebusinessowners.org/?p=1763|0|google and bing use twitter and facebook as ranking signals in regular search|2012-07-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/your-facebook-twitter-reputation-will-determine-if-you-show-up-in-search-result|40|17|0|0|0</Row>
+			<Row>http://onlinebusinessowners.org/?p=1763|0|social media maven, strategist, trainer and speaker|2012-07-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com/san-diego-social-media-marketing-services|40|16|1|0|0</Row>
+			<Row>http://onlinebusinessowners.org/?p=1763|0|s|2012-07-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/seo-checklist-for-social-medi|40|13|0|0|0</Row>
+			<Row>http://onlinebusinessowners.org/?p=1763|0|earch engine optimization (seo)|2012-07-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com/google/seo-checklist-for-social-medi|40|13|0|0|0</Row>
+			<Row>http://onlinebusinessowners.org/?p=2099|0|terry crosby|2012-07-20|0|0|1|0|0|0|0|http://terrycrosbyblog.com|40|26|13|0|0</Row>
+			<Row>http://onlinebusinessowners.org/?p=2146|0|terry crosby|2012-07-20|0|0|1|0|0|0|0|http://terrycrosbyblog.com|40|26|13|0|0</Row>
+			<Row>http://www.medicalalertbuttons.org/goto/How_to_fit_long_website_addresses_urls_in_Twitter_Terry_Crosby/90/4|0| |2012-07-06|1|0|0|0|0|0|0|http://terrycrosbyblog.com/twitter-training-tutorials/how-to-fit-long-website-addresses-urls-in-twitter|77|13|0|0|0</Row>
+			<Row>http://www.medicalalertbuttons.org/wp-content/plugins/link-cloaking-plugin/wplc_redirector.php?post_id=90&#38;link_num=4&#38;cloaked_url=goto/How_to_fit_long_website_addresses_urls_in_Twitter_Terry_Crosby/90/4|0| |2012-07-06|1|0|0|0|0|0|0|http://terrycrosbyblog.com/twitter-training-tutorials/how-to-fit-long-website-addresses-urls-in-twitter|77|13|0|0|0</Row>
+			<Row>http://www.phillipatanzilo.com/why-should-i-use-social-media-how-i-transformed-my-resistance-and-discovered-a-world-of-generosity%E2%80%94passion-and-trust|0|terry crosby|2012-06-28|0|0|1|0|0|0|0|http://terrycrosbyblog.com|41|26|13|0|0</Row>
+			<Row>http://www.phillipatanzilo.com/why-should-i-use-social-media-how-i-transformed-my-resistance-and-discovered-a-world-of-generosity%E2%80%94passion-and-trust|0|terry crosby|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com|41|26|13|0|0</Row>
+			<Row>http://www.phillipatanzilo.com/why-should-i-use-social-media-how-i-transformed-my-resistance-and-discovered-a-world-of-generosity%E2%80%94passion-and-trust|0|http://terrycrosbyblog.com|2012-06-28|0|0|0|0|0|0|0|http://terrycrosbyblog.com|41|26|13|0|0</Row>
+			<Row>http://franspiration.com/cultivating-an-attitude-of-gratitude-%E2%99%A5|0|terry crosby&#39;s blog|2012-07-16|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://franspiration.com/do-you-believe-in-miracles|0|terry crosby&#39;s blog|2012-06-19|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://franspiration.com/happy-mothers-day|0|terry crosby&#39;s blog|2012-07-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://franspiration.com/healing-through-love-and-gratitude|0|terry crosby&#39;s blog|2012-07-23|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://franspiration.com/how-to-show-love-and-support-during-natural-disasters|0|terry crosby&#39;s blog|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://franspiration.com/living-life-with-laughter|0|terry crosby&#39;s blog|2012-06-19|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://franspiration.com/love-and-gratitude-through-a-shift-in-consciousness/feed|0|terry crosby&#39;s blog|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://franspiration.com/my-meaning-of-friendship|0|terry crosby&#39;s blog|2012-07-08|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://franspiration.com/spending-holidays-with-love-and-gratitude|0|terry crosby&#39;s blog|2012-07-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://franspiration.com/the-health-benefits-of-pet-ownership|0|terry crosby&#39;s blog|2012-06-20|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://franspiration.com/the-importance-of-speaking-kindly|0|terry crosby&#39;s blog|2012-06-19|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://franspiration.com/watching-royal-history-take-place-with-friends-from-social-media|0|terry crosby&#39;s blog|2012-07-21|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://franspiration.com/what-does-love-mean-to-you-%E2%99%A5|0|terry crosby&#39;s blog|2012-06-19|0|0|0|0|0|0|0|http://terrycrosbyblog.com|11|26|13|0|0</Row>
+			<Row>http://www.alexresolutions.com/feed|0|terry crosby|2012-07-18|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-fan-page-how-use-new-admin-user-interface|24|17|2|0|0</Row>
+			<Row>http://www.alexresolutions.com/the-admin-area-for-facebook-like-pages-have-changed-video/comment-page-1|0|terry crosby|2012-07-18|0|0|1|0|0|0|0|http://terrycrosbyblog.com|24|26|13|0|0</Row>
+			<Row>http://www.alexresolutions.com/the-admin-area-for-facebook-like-pages-have-changed-video/comment-page-1|0|terry crosby|2012-07-18|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-fan-page-how-use-new-admin-user-interface|24|17|2|0|0</Row>
+			<Row>http://www.ncsmallbusinesstraining.com/category/facebook/feed|0|terry crosby has done such a great job explaining it i am just posting the link to his page for you to read. http://terrycrosbyblog...|2012-07-11|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-now-allows-users-to-convert-their-personal-profile-into-a-business-page|78|16|1|0|0</Row>
+			<Row>http://www.ncsmallbusinesstraining.com/why-you-cannot-use-a-facebook-personal-profile-as-a-business-page|0|terry crosby has done such a great job explaining it i am just posting the link to his page for you to read. http://terrycrosbyblog...|2012-06-19|0|0|0|0|0|0|0|http://terrycrosbyblog.com/facebooktutorials/facebook-now-allows-users-to-convert-their-personal-profile-into-a-business-page|78|16|1|0|0</Row>
+			<Row>http://www.omniousmusic.com/test/feed|0|terry crosby|2012-07-12|0|0|0|0|0|0|0|http://terrycrosbyblog.com|79|26|13|0|0</Row>
+			<Row>http://www.omniousmusic.com/test/social-media/what-the-hell-is-social-media-2-minute-video|0|terry crosby|2012-07-12|0|0|1|0|0|0|0|http://terrycrosbyblog.com|79|26|13|0|0</Row>
+			<Row>http://www.kernelemente.com/links/links_shopping.aspx?SubCategoryNo=54&#38;MainCategoryNo=2|0| |2012-07-14|0|0|0|1|0|0|0|http://terrycrosbyblog.com|80|26|13|0|0</Row>
+			<Row>http://www.kernelemente.com/links/links_shopping.aspx?SubCategoryNo=54&#38;MainCategoryNo=2|0|terry crosby, social media strategist and trainer|2012-07-14|0|0|0|0|0|0|0|http://terrycrosbyblog.com|80|26|13|0|0</Row>
+			<Row>http://socialbent.com|0| |2012-07-13|1|0|0|0|0|0|0|http://terrycrosbyblog.com|81|26|13|0|0</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="82" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|seoquake.com|1768|4280|142593|8403|4677|2012-06-04|2012-07-25|46.229.160.154|46.229.160.0|US|com|50|31</Row>
+			<Row>1|searchengineland.com|1631|39342|1753940|97023|57815|2012-05-26|2012-07-25|64.62.209.218|64.62.209.0|US|com|75|64</Row>
+			<Row>2|meetusinghal.com|-1|48|287|424|207|2012-06-18|2012-07-25|174.120.203.9|174.120.203.0|US|com|19|13</Row>
+			<Row>3|youtube.com|3|5863317|1371982745|537956878|37157877|2012-05-25|2012-07-25|209.85.229.190|209.85.229.0|US|com|99|98</Row>
+			<Row>4|wandernot.com|-1|20|336|241|117|2012-06-12|2012-07-25|65.39.205.54|65.39.205.0|US|com|16|11</Row>
+			<Row>5|toffsyheart.com|-1|22|136|449|134|2012-06-15|2012-07-15|64.22.89.242|64.22.89.0|US|com|14|7</Row>
+			<Row>6|mashable.com|276|163304|11170820|1757150|164074|2012-05-26|2012-07-25|216.146.46.10|216.146.46.0|US|com|91|75</Row>
+			<Row>7|martyblogs.com|-1|90|1975|1376|439|2012-06-09|2012-07-23|68.178.254.204|68.178.254.0|US|com|26|15</Row>
+			<Row>8|wordpress.com|21|2108077|956867834|216912071|19281588|2012-05-25|2012-07-25|72.233.2.58|72.233.2.0|US|com|95|93</Row>
+			<Row>9|shoutmeloud.com|3483|3688|85131|55839|37406|2012-05-26|2012-07-25|184.173.232.158|184.173.232.0|US|com|48|25</Row>
+			<Row>10|techfluff.tv|558844|390|25103|3234|1977|2012-06-01|2012-07-25|82.165.51.92|82.165.51.0|DE|tv|30|16</Row>
+			<Row>11|franspiration.com|-1|11|982|115|41|2012-06-15|2012-07-23|174.120.155.124|174.120.155.0|US|com|11|3</Row>
+			<Row>12|twibes.com|64361|2498|485334|333103|114858|2012-05-29|2012-07-25|209.85.148.121|209.85.148.0|US|com|66|27</Row>
+			<Row>13|feedburner.com|437|867558|605458819|35978290|4403888|2012-05-26|2012-07-25|74.125.226.237|74.125.226.0|US|com|94|93</Row>
+			<Row>14|brazencareerist.com|35453|3966|103576|166611|56141|2012-05-26|2012-07-25|209.41.68.26|209.41.68.0|US|com|49|29</Row>
+			<Row>15|slideshare.net|253|230450|12918322|4739128|167017|2012-05-26|2012-07-25|174.36.28.11|174.36.28.0|US|net|77|76</Row>
+			<Row>16|facebookgraphics.org|-1|18|61|29|10|2012-06-19|2012-07-25| | | |org|12|4</Row>
+			<Row>17|thenetworkdad.com|-1|151|5816|1974|928|2012-06-02|2012-07-25|174.120.42.91|174.120.42.0|US|com|26|7</Row>
+			<Row>18|buildingabrandonline.com|338476|166|4374|1420|433|2012-06-14|2012-07-25|174.120.188.250|174.120.188.0|US|com|25|8</Row>
+			<Row>19|laurenhuston.com|-1|78|1146|1047|437|2012-06-11|2012-07-24|174.122.149.130|174.122.149.0|US|com|17|12</Row>
+			<Row>20|squarespace.com|1963|128419|11079717|1787431|209031|2012-05-26|2012-07-25|65.39.205.54|65.39.205.0|US|com|76|72</Row>
+			<Row>21|socialmediatoday.com|5484|12497|565111|418747|103112|2012-05-27|2012-07-25|72.32.52.107|72.32.52.0|US|com|62|33</Row>
+			<Row>22|nmsmallbiz.com|-1|23|54|583|391|2012-06-13|2012-07-25|184.168.207.1|184.168.207.0|US|com|16|5</Row>
+			<Row>23|alinanavarro.com|-1|40|768|1256|516|2012-05-31|2012-07-20|204.187.15.61|204.187.15.0|CA|com|17|3</Row>
+			<Row>24|alexresolutions.com|-1|14|472|276|144|2012-06-19|2012-07-25|69.89.31.248|69.89.31.0|US|com|9|4</Row>
+			<Row>25|flickr.com|33|1475277|521204914|423317900|14968756|2012-05-26|2012-07-25|216.115.101.178|216.115.101.0|US|com|98|96</Row>
+			<Row>26|veteranstoday.com|47900|7651|361596|175077|82660|2012-05-26|2012-07-25|72.10.38.181|72.10.38.0|US|com|57|32</Row>
+			<Row>27|qando.net|338973|3763|576484|69208|32651|2012-05-27|2012-07-25|216.119.96.83|216.119.96.0|US|net|54|31</Row>
+			<Row>28|trunity.net|-1|685|334375|54658|19532|2012-05-27|2012-07-25|64.13.147.67|64.13.147.0|US|net|85|34</Row>
+			<Row>29|socialsonya.com|-1|33|102|1952|557|2012-05-27|2012-07-24|74.200.243.253|74.200.243.0|US|com|15|4</Row>
+			<Row>30|scottbradley.name|785323|100|422|1012|767|2012-05-29|2012-07-24|69.175.61.114|69.175.61.0|US|name|15|19</Row>
+			<Row>31|robertarthursblog.com|-1|4|11|378|187|2012-06-20|2012-07-24|208.109.138.7|208.109.138.0|US|com|10|0</Row>
+			<Row>32|socialvideoceo.com|-1|10|23|1136|369|2012-05-27|2012-07-24|76.74.254.123|76.74.254.0|US|com|16|10</Row>
+			<Row>33|znznz.com|-1|3|3674|2926|366|2012-06-19|2012-07-25| | | |com|19|3</Row>
+			<Row>34|the-marketing-center.com|-1|308|8792|13193|6168|2012-05-30|2012-07-25|50.116.64.134|50.116.64.0|US|com|40|8</Row>
+			<Row>35|dvdepoch.com|260618|241|14168|2257|2123|2012-06-08|2012-07-25|174.120.171.34|174.120.171.0|US|com|22|20</Row>
+			<Row>36|keystoyourbusiness.com|-1|18|26|842|644|2012-06-13|2012-07-23|66.147.244.196|66.147.244.0|US|com|16|5</Row>
+			<Row>37|tagwalk.com|833768|277|8892|2767141|124865|2012-05-31|2012-07-25|77.68.56.221|77.68.56.0|UK|com|30|20</Row>
+			<Row>38|digitaluniverse.net|-1|656|13052|21588|7720|2012-05-30|2012-07-25|64.13.147.71|64.13.147.0|US|net|42|29</Row>
+			<Row>39|jasonberkesblog.com|-1|74|528|3505|2427|2012-06-20|2012-07-25|70.87.12.233|70.87.12.0|US|com|18|6</Row>
+			<Row>40|onlinebusinessowners.org|-1|81|1334|1336|1126|2012-05-31|2012-07-23|174.122.50.91|174.122.50.0|US|org|12|5</Row>
+			<Row>41|phillipatanzilo.com|-1|25|255|855|537|2012-05-31|2012-07-22|174.120.233.222|174.120.233.0|US|com|12|4</Row>
+			<Row>42|uwcblog.com|71293|7068|88286|287969|48395|2012-05-29|2012-07-25|69.167.183.121|69.167.183.0|US|com|45|18</Row>
+			<Row>43|thinkbigrevolution.com|765392|604|4207|27203|7734|2012-05-29|2012-07-25|8.6.19.68|8.6.19.0|US|com|31|26</Row>
+			<Row>44|shareyourdreamfriday.com|-1|33|472|2264|350|2012-06-16|2012-07-25|64.202.189.170|64.202.189.0|US|com|16|4</Row>
+			<Row>45|snuglicarrier.com|-1|8|17|9661|2418|2012-05-31|2012-07-25|174.121.37.222|174.121.37.0|US|com|12|0</Row>
+			<Row>46|parnassusgroup.com|-1|503|4465|78000|22662|2012-05-31|2012-07-25|209.221.166.200|209.221.166.0|US|com|35|21</Row>
+			<Row>47|ginnytoll.com|-1|53|1267|4243|1729|2012-06-02|2012-07-25|204.187.15.61|204.187.15.0|CA|com|16|6</Row>
+			<Row>48|webstatsology.com|28526|269|2814|529789|64929|2012-05-26|2012-07-24|173.201.98.1|173.201.98.0|US|com|24|15</Row>
+			<Row>49|linkedin.com|17|1653005|296712634|38247337|1380409|2012-05-25|2012-07-25|216.52.242.80|216.52.242.0|US|com|92|95</Row>
+			<Row>50|bit.ly|157|701554|150606518|16175374|1309664|2012-05-26|2012-07-25|69.58.188.40|69.58.188.0|US|ly|80|81</Row>
+			<Row>51|viddler.com|2414|58621|1753921|937240|179538|2012-05-27|2012-07-25|69.25.171.239|69.25.171.0|US|com|73|62</Row>
+			<Row>52|grader.com|13763|7970|530554|1888135|215874|2012-05-26|2012-07-25|184.73.4.119|184.73.4.0|US|com|73|60</Row>
+			<Row>53|selfgrowth.com|2589|26317|527030|575740|125239|2012-05-26|2012-07-25|50.19.98.143|50.19.98.0|US|com|66|52</Row>
+			<Row>54|lnkd.in|201403|9608|836665|123090|81319|2012-05-26|2012-07-03|62.157.140.133|62.157.140.0|DE|in|44|42</Row>
+			<Row>55|web-strategist.com|20854|10454|397171|9935|7249|2012-05-27|2012-07-25|70.32.68.213|70.32.68.0|US|com|50|33</Row>
+			<Row>56|blogspot.fi|-1|13780|1598406|23178960|1291503|2012-05-29|2012-07-25|64.124.14.82|64.124.14.0|US|fi|50|33</Row>
+			<Row>57|betternetworker.com|4286|6345|191187|490978|97545|2012-05-27|2012-07-25|50.28.27.215|50.28.27.0|US|com|58|21</Row>
+			<Row>58|wieowie.nl|35341|1489|206808|643839|222164|2012-05-26|2012-07-25|91.196.104.133|91.196.104.0|NL|nl|43|30</Row>
+			<Row>59|carelmeyer.com|192644|806|17741|331332|219281|2012-05-26|2012-07-25|196.220.41.89|196.220.41.0|ZA|com|46|21</Row>
+			<Row>60|web-marketing-pros.com|-1|415|113543|7506|1927|2012-06-04|2012-07-25|72.167.183.49|72.167.183.0|US|com|41|24</Row>
+			<Row>61|onemillionvideos.de|-1|149|9381|566754|48338|2012-05-26|2012-07-25| | | |de|47|18</Row>
+			<Row>62|eevent.com|168766|398|7502|19968|9081|2012-05-30|2012-07-25|50.56.4.77|50.56.4.0|US|com|34|22</Row>
+			<Row>63|hobhub.biz|-1|60|5384|60582|12659|2012-05-28|2012-07-25|8.6.19.68|8.6.19.0|US|biz|42|8</Row>
+			<Row>64|gasta.tv|-1|182|938554|5630218|286033|2012-05-28|2012-07-25|83.138.184.201|83.138.184.0|UK|tv|26|17</Row>
+			<Row>65|alleyenterprise.com|-1|556|16939|25115|10461|2012-05-31|2012-07-25|174.120.18.157|174.120.18.0|US|com|36|6</Row>
+			<Row>66|b2l.me|-1|1440|18233|10847|8897|2012-05-29|2012-07-25|81.200.64.50|81.200.64.0|UK|me|24|17</Row>
+			<Row>67|plsearch.com|67804|451|6019|118225|116864|2012-06-01|2012-07-24|184.107.150.156|184.107.150.0|CA|com|27|11</Row>
+			<Row>68|socialmediadirectory.org|353006|52|265|42988|7848|2012-05-28|2012-07-25|8.12.36.140|8.12.36.0|US|org|19|16</Row>
+			<Row>69|galeriemc.com|-1|34|108|87|55|2012-06-20|2012-07-22|203.140.66.10|203.140.66.0|JP|com|19|13</Row>
+			<Row>70|jasonbetter.com|425997|122|876|734|340|2012-06-15|2012-07-25|67.18.252.162|67.18.252.0|US|com|21|9</Row>
+			<Row>71|waffil.com|-1|158|501|53854|11755|2012-05-27|2012-07-24|173.255.248.192|173.255.248.0|US|com|25|5</Row>
+			<Row>72|locationagadir.net|-1|72|2652|2576|1111|2012-05-26|2012-07-24|74.208.216.149|74.208.216.0|US|net|19|11</Row>
+			<Row>73|kabaim.com|-1|30|1169|13177|4971|2012-06-01|2012-07-24|173.245.61.117|173.245.61.0|US|com|22|7</Row>
+			<Row>74|seome.me|446919|209|1004|39707|20577|2012-05-28|2012-07-25|89.151.116.55|89.151.116.0|UK|me|15|9</Row>
+			<Row>75|sgseosocialmedia.com|-1|6|10|33|5|2012-06-21|2012-06-22| | | |com|8|16</Row>
+			<Row>76|actionsportsnews.eu|-1|399|1779|4205900|128167|2012-05-27|2012-07-25|81.169.145.73|81.169.145.0|DE|eu|17|6</Row>
+			<Row>77|medicalalertbuttons.org|-1|20|40|1972|1519|2012-06-25|2012-07-25|174.120.154.58|174.120.154.0|US|org|15|2</Row>
+			<Row>78|ncsmallbusinesstraining.com|-1|9|34|272|53|2012-06-19|2012-07-20| | | |com|9|3</Row>
+			<Row>79|omniousmusic.com|-1|7|29|179|26|2012-06-20|2012-07-21|209.188.93.208|209.188.93.0|US|com|7|2</Row>
+			<Row>80|kernelemente.com|-1|5|13|10048|461|2012-06-29|2012-07-23|8.14.196.7|8.14.196.0|US|com|8|0</Row>
+			<Row>81|socialbent.com|-1|0|0|1|0|2012-07-13|2012-05-24|64.202.189.170|64.202.189.0|US|com|0|0</Row>
+		</DataTable>
+	</DataTables>
+</Result>

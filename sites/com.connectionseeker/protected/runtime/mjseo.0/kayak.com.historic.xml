@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="250" IndexBuildDate="2014-03-19 09:04:51" IndexType="0" RemainingAnalysisResUnits="96646113" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19883334" RemainingStandardReports="950" ServerBuild="2014-04-10 16:18:39" ServerName="SHADOJAGUAR" ServerVersion="1.0.5213.27559" UniqueIndexID="20140319090451-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="250" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="kayak.com" BackLinkType="RootDomain" TotalBackLinks="45587891" TotalLines="50000" TotalMatches="250">
+			<Row>http://www.commondreams.org/|10|kayak|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|0|2009-09-23|2014-02-28| | |TextLink|TextLink_Normal|66|70|66|65</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9|travel|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=&#38;pgsrc=comcast&#38;p=1b|1|2014-02-13|2014-02-28| | |TextLink|TextLink_Normal|46|42|61|60</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9|travel|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/air?ai=comcast&#38;p=QuickLink|1|2014-02-13|2014-02-28| | |TextLink|TextLink_Normal|43|39|61|60</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9|travel|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/flights?ai=comcast&#38;p=222|1|2014-02-13|2014-02-28| | |TextLink|TextLink_Normal|30|32|61|60</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9|bahamas deals: 4-day cruises from $169+|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=bahamas cruise&#38;pgsrc=comcast&#38;p=053|1|2014-02-27|2014-02-28| | |TextLink|TextLink_Normal|30|32|61|60</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9|hot deals: aruba|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=aruba vacation &#38;pgsrc=comcast&#38;p=052|1|2014-02-27|2014-02-28| | |TextLink|TextLink_Normal|30|32|61|60</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9|hawaii|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=hawaii vacation&#38;pgsrc=comcast&#38;p=052|1|2014-02-27|2014-02-28| | |TextLink|TextLink_Normal|30|32|61|60</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9|florida|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=florida vacation&#38;pgsrc=comcast&#38;p=052|1|2014-02-27|2014-02-28| | |TextLink|TextLink_Normal|30|32|61|60</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9|curacao|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=curacao vacation &#38;pgsrc=comcast&#38;p=052|1|2014-02-27|2014-02-28| | |TextLink|TextLink_Normal|30|32|61|60</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9|explore ireland: 7 nights with air &#38; car $989+|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=ireland self vacation&#38;pgsrc=comcast&#38;p=051|1|2014-02-27|2014-02-28| | |TextLink|TextLink_Normal|30|32|61|60</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9|prepare for takeoff »|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=american nationwide flight&#38;pgsrc=comcast&#38;p=050|1|2014-02-27|2014-02-28| | |TextLink|TextLink_Normal|30|32|61|60</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9|fly the u.s. from $130|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=american nationwide flight&#38;pgsrc=comcast&#38;p=056|1|2014-02-27|2014-02-28| | |TextLink|TextLink_Normal|30|32|61|60</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9| |2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=american nationwide flight&#38;pgsrc=comcast&#38;p=055|1|2014-02-27|2014-02-28| | |TextLink|TextLink_Normal|30|32|61|60</Row>
+			<Row>http://xfinity.comcast.net/tt2/?cid=BBI|9|save on flights|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/dealssearch?dest=&#38;destid=&#38;type=F&#38;cat=*&#38;rp=t&#38;pz=10&#38;searchid=FZAADQUJff&#38;p=056|1|2014-02-27|2014-02-28| | |TextLink|TextLink_Normal_HighContent|30|32|61|60</Row>
+			<Row>http://www.ceoexpress.com/default.asp|8|kayak.com|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|2|2008-08-29|2014-02-28| | |TextLink|TextLink_Normal|66|70|53|68</Row>
+			<Row>http://www.kayak.co.uk/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|3|2013-10-25|2014-02-28| | |TextLink|TextLink_Normal|66|70|68|51</Row>
+			<Row>http://www.kayak.co.uk/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|3|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.co.uk/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|3|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.co.uk/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|3|2013-11-26|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.co.uk/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|3|2013-10-17|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.co.uk/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|3|2013-10-17|2014-02-28| | |TextLink|TextLink_Normal|62|50|68|51</Row>
+			<Row>http://www.kayak.co.uk/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|3|2013-10-17|2014-02-28| | |TextLink|TextLink_Normal|61|50|68|51</Row>
+			<Row>http://www.kayak.se/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|4|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|66|70|68|51</Row>
+			<Row>http://www.kayak.se/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|4|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.se/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|4|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.se/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|4|2013-12-03|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.se/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|4|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.se/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|4|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|62|50|68|51</Row>
+			<Row>http://www.kayak.se/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|4|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|61|50|68|51</Row>
+			<Row>http://www.kayak.nl/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|5|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|66|70|68|51</Row>
+			<Row>http://www.kayak.nl/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|5|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.nl/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|5|2013-12-01|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.nl/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|5|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.nl/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|5|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.nl/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|5|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|62|50|68|51</Row>
+			<Row>http://www.kayak.nl/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|5|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|61|50|68|51</Row>
+			<Row>http://www.kayak.no/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|6|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|66|70|68|51</Row>
+			<Row>http://www.kayak.no/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|6|2013-11-27|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.no/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|6|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.no/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|6|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.no/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|6|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.no/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|6|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|62|50|68|51</Row>
+			<Row>http://www.kayak.no/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|6|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|61|50|68|51</Row>
+			<Row>http://www.kayak.com.au/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|7|2008-11-27|2014-02-28| | |TextLink|TextLink_Normal|66|70|68|51</Row>
+			<Row>http://www.kayak.com.au/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|7|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.com.au/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|7|2013-10-21|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.com.au/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|7|2013-12-05|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.com.au/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|7|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.com.au/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|7|2013-10-20|2014-02-28| | |TextLink|TextLink_Normal|62|50|68|51</Row>
+			<Row>http://www.kayak.com.au/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|7|2013-10-20|2014-02-28| | |TextLink|TextLink_Normal|61|50|68|51</Row>
+			<Row>http://www.kayak.de/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|8|2013-10-24|2014-02-28| | |TextLink|TextLink_Normal|66|70|66|53</Row>
+			<Row>http://www.kayak.de/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|8|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|66|53</Row>
+			<Row>http://www.kayak.de/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|8|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|66|53</Row>
+			<Row>http://www.kayak.de/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|8|2013-10-22|2014-02-28| | |TextLink|TextLink_Normal|63|51|66|53</Row>
+			<Row>http://www.kayak.de/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|8|2013-11-26|2014-02-28| | |TextLink|TextLink_Normal|63|51|66|53</Row>
+			<Row>http://www.kayak.de/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|8|2013-10-17|2014-02-28| | |TextLink|TextLink_Normal|62|50|66|53</Row>
+			<Row>http://www.kayak.de/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|8|2013-10-17|2014-02-28| | |TextLink|TextLink_Normal|61|50|66|53</Row>
+			<Row>http://www.kayak.ie/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|9|2013-12-09|2014-02-28| | |TextLink|TextLink_Normal|66|70|68|51</Row>
+			<Row>http://www.kayak.ie/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|9|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.ie/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|9|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.ie/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|9|2013-12-09|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.ie/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|9|2013-10-24|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.ie/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|9|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|62|50|68|51</Row>
+			<Row>http://www.kayak.ie/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|9|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|61|50|68|51</Row>
+			<Row>http://www.kayak.com.mx/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|10|2008-11-27|2014-02-28| | |TextLink|TextLink_Normal|66|70|68|51</Row>
+			<Row>http://www.kayak.com.mx/|10|大人|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|10|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.com.mx/|10|대학자체평가|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|10|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.com.mx/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|10|2013-11-29|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.com.mx/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|10|2013-11-29|2014-02-28| | |TextLink|TextLink_Normal|63|51|68|51</Row>
+			<Row>http://www.kayak.com.mx/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|10|2013-11-29|2014-02-28| | |TextLink|TextLink_Normal|62|50|68|51</Row>
+			<Row>http://www.kayak.com.mx/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|10|2013-11-29|2014-02-28| | |TextLink|TextLink_Normal|61|50|68|51</Row>
+			<Row>http://www.kayak.pt/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|11|2011-04-16|2014-02-28| | |TextLink|TextLink_Normal|66|70|67|51</Row>
+			<Row>http://www.kayak.pt/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|11|2013-12-13|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.pt/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|11|2013-10-24|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.pt/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|11|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.pt/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|11|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.pt/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|11|2013-10-24|2014-02-28| | |TextLink|TextLink_Normal|62|50|67|51</Row>
+			<Row>http://www.kayak.pt/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|11|2013-10-24|2014-02-28| | |TextLink|TextLink_Normal|61|50|67|51</Row>
+			<Row>http://www.kayak.it/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|12|2013-10-21|2014-02-28| | |TextLink|TextLink_Normal|66|70|67|51</Row>
+			<Row>http://www.kayak.it/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|12|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.it/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|12|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.it/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|12|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.it/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|12|2013-12-09|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.it/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|12|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|62|50|67|51</Row>
+			<Row>http://www.kayak.it/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|12|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|61|50|67|51</Row>
+			<Row>http://www.kayak.fr/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|13|2013-11-07|2014-02-28| | |TextLink|TextLink_Normal|66|70|67|51</Row>
+			<Row>http://www.kayak.fr/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|13|2013-10-19|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.fr/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|13|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.fr/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|13|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.fr/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|13|2013-12-07|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.fr/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|13|2013-10-19|2014-02-28| | |TextLink|TextLink_Normal|62|50|67|51</Row>
+			<Row>http://www.kayak.fr/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|13|2013-10-19|2014-02-28| | |TextLink|TextLink_Normal|61|50|67|51</Row>
+			<Row>http://www.kayak.dk/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|14|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|66|70|67|51</Row>
+			<Row>http://www.kayak.dk/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|14|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.dk/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|14|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.dk/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|14|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.dk/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|14|2013-11-29|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.dk/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|14|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|62|50|67|51</Row>
+			<Row>http://www.kayak.dk/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|14|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|61|50|67|51</Row>
+			<Row>http://www.kayak.com.br/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|15|2009-03-27|2014-02-28| | |TextLink|TextLink_Normal|66|70|67|51</Row>
+			<Row>http://www.kayak.com.br/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|15|2013-10-23|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.com.br/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|15|2013-11-27|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.com.br/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|15|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.com.br/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|15|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.com.br/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|15|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|62|50|67|51</Row>
+			<Row>http://www.kayak.com.br/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|15|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|61|50|67|51</Row>
+			<Row>http://www.kayak.com.hk/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|16|2008-12-27|2014-02-28| | |TextLink|TextLink_Normal|66|70|67|51</Row>
+			<Row>http://www.kayak.com.hk/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|16|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.com.hk/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|16|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.com.hk/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|16|2013-11-05|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.com.hk/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|16|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.com.hk/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|16|2013-11-05|2014-02-28| | |TextLink|TextLink_Normal|62|50|67|51</Row>
+			<Row>http://www.kayak.com.hk/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|16|2013-11-05|2014-02-28| | |TextLink|TextLink_Normal|61|50|67|51</Row>
+			<Row>http://www.kayak.sg/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|17|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|66|70|67|51</Row>
+			<Row>http://www.kayak.sg/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|17|2013-11-03|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.sg/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|17|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.sg/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|17|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.sg/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|17|2013-12-12|2014-02-28| | |TextLink|TextLink_Normal|63|51|67|51</Row>
+			<Row>http://www.kayak.sg/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|17|2013-11-03|2014-02-28| | |TextLink|TextLink_Normal|62|50|67|51</Row>
+			<Row>http://www.kayak.sg/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|17|2013-11-03|2014-02-28| | |TextLink|TextLink_Normal|61|50|67|51</Row>
+			<Row>http://www.kayak.sg/|10|cars|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/in?cc=us&#38;lc=en&#38;a=kayak&#38;url=/cars&#38;oxp=null&#38;_sid_=7-4PRs37RUT3OiTvWBVQjuo&#38;tcid=zNeCCuWm$Zhf8oCwJAhx&#38;olc=en_SG|17|2014-02-28|2014-02-28| | |TextLink|TextLink_Normal|36|29|67|51</Row>
+			<Row>http://www.kayak.sg/|10|deals|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/in?cc=us&#38;lc=en&#38;a=kayak&#38;url=/deals&#38;oxp=null&#38;_sid_=7-4PRs37RUT3OiTvWBVQjuo&#38;tcid=zNeCCuWm$Zhf8oCwJAhx&#38;olc=en_SG|17|2014-02-28|2014-02-28| | |TextLink|TextLink_Normal|36|29|67|51</Row>
+			<Row>http://www.kayak.sg/|10|flights|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/in?cc=us&#38;lc=en&#38;a=kayak&#38;url=/flights&#38;oxp=null&#38;_sid_=7-4PRs37RUT3OiTvWBVQjuo&#38;tcid=zNeCCuWm$Zhf8oCwJAhx&#38;olc=en_SG|17|2014-02-28|2014-02-28| | |TextLink|TextLink_Normal|36|29|67|51</Row>
+			<Row>http://www.kayak.sg/|10|holidays|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/in?cc=us&#38;lc=en&#38;a=kayak&#38;url=/vacations&#38;oxp=null&#38;_sid_=7-4PRs37RUT3OiTvWBVQjuo&#38;tcid=zNeCCuWm$Zhf8oCwJAhx&#38;olc=en_SG|17|2014-02-28|2014-02-28| | |TextLink|TextLink_Normal|36|29|67|51</Row>
+			<Row>http://www.kayak.es/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|18|2013-11-01|2014-02-28| | |TextLink|TextLink_Normal|66|70|66|51</Row>
+			<Row>http://www.kayak.es/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|18|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|63|51|66|51</Row>
+			<Row>http://www.kayak.es/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|18|2013-12-05|2014-02-28| | |TextLink|TextLink_Normal|63|51|66|51</Row>
+			<Row>http://www.kayak.es/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|18|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|66|51</Row>
+			<Row>http://www.kayak.es/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|18|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|66|51</Row>
+			<Row>http://www.kayak.es/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|18|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|62|50|66|51</Row>
+			<Row>http://www.kayak.es/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|18|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|61|50|66|51</Row>
+			<Row>http://www.kayak.pl/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|19|2012-09-07|2014-02-28| | |TextLink|TextLink_Normal|66|70|66|51</Row>
+			<Row>http://www.kayak.pl/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|19|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|66|51</Row>
+			<Row>http://www.kayak.pl/|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|19|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|63|51|66|51</Row>
+			<Row>http://www.kayak.pl/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|19|2013-10-17|2014-02-28| | |TextLink|TextLink_Normal|63|51|66|51</Row>
+			<Row>http://www.kayak.pl/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|19|2013-11-26|2014-02-28| | |TextLink|TextLink_Normal|63|51|66|51</Row>
+			<Row>http://www.kayak.pl/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|19|2013-10-17|2014-02-28| | |TextLink|TextLink_Normal|62|50|66|51</Row>
+			<Row>http://www.kayak.pl/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|19|2013-10-17|2014-02-28| | |TextLink|TextLink_Normal|61|50|66|51</Row>
+			<Row>http://www.aeiou.pt/|10|kayak explore|2014-02-28|0|0|1|0|0|0|0|http://www.kayak.com/explore/|20|2012-04-10|2014-02-28| | |TextLink|TextLink_Normal|44|35|64|53</Row>
+			<Row>http://www.kayak.ch/|10|united states|2014-02-25|0|0|0|0|0|0|0|http://www.kayak.com/|21|2012-06-06|2014-02-25| | |TextLink|TextLink_Normal|66|70|65|51</Row>
+			<Row>http://www.kayak.ch/|10|argentina|2014-02-25|0|0|0|0|0|0|0|http://www.ar.kayak.com/|21|2013-11-27|2014-02-25| | |TextLink|TextLink_Normal|63|51|65|51</Row>
+			<Row>http://www.kayak.ch/|10|suomi|2014-02-25|0|0|0|0|0|0|0|http://www.fi.kayak.com/|21|2013-10-23|2014-02-25| | |TextLink|TextLink_Normal|63|51|65|51</Row>
+			<Row>http://www.kayak.ch/|10|ελλάδα|2014-02-25|0|0|0|0|0|0|0|http://www.gr.kayak.com/|21|2013-12-20|2014-02-25| | |TextLink|TextLink_Normal|63|51|65|51</Row>
+			<Row>http://www.kayak.ch/|10|台灣|2014-02-25|0|0|0|0|0|0|0|http://www.tw.kayak.com/|21|2013-12-20|2014-02-25| | |TextLink|TextLink_Normal|63|51|65|51</Row>
+			<Row>http://www.kayak.ch/|10|canada|2014-02-25|0|0|0|0|0|0|0|http://www.ca.kayak.com/|21|2013-10-19|2014-02-25| | |TextLink|TextLink_Normal|62|50|65|51</Row>
+			<Row>http://www.kayak.ch/|10|new zealand|2014-02-25|0|0|0|0|0|0|0|http://www.nz.kayak.com/|21|2013-10-19|2014-02-25| | |TextLink|TextLink_Normal|61|50|65|51</Row>
+			<Row>http://www.kayak.ru/|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|22|2012-08-08|2014-02-28| | |TextLink|TextLink_Normal|66|70|64|51</Row>
+			<Row>http://www.kayak.ru/|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/|22|2013-12-19|2014-02-28| | |TextLink|TextLink_Normal|63|51|64|51</Row>
+			<Row>http://www.kayak.ru/|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/|22|2013-11-26|2014-02-28| | |TextLink|TextLink_Normal|63|51|64|51</Row>
+			<Row>http://www.kayak.ru/|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/|22|2013-10-22|2014-02-28| | |TextLink|TextLink_Normal|63|51|64|51</Row>
+			<Row>http://www.kayak.ru/|10|аренда|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/|22|2013-12-19|2014-02-28| | |TextLink|TextLink_Normal|63|51|64|51</Row>
+			<Row>http://www.kayak.ru/|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/|22|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|62|50|64|51</Row>
+			<Row>http://www.kayak.ru/|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/|22|2013-10-18|2014-02-28| | |TextLink|TextLink_Normal|61|50|64|51</Row>
+			<Row>http://xfinitytv.comcast.net/|8|travel|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=&#38;pgsrc=comcast&#38;p=1b|1|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|46|42|56|58</Row>
+			<Row>http://www.kayak.com.tr/|9|united states|2014-02-26|0|0|0|0|0|0|0|http://www.kayak.com/|23|2011-10-11|2014-02-26| | |TextLink|TextLink_Normal|66|70|62|51</Row>
+			<Row>http://www.kayak.com.tr/|9|台灣|2014-02-26|0|0|0|0|0|0|0|http://www.tw.kayak.com/|23|2013-12-20|2014-02-26| | |TextLink|TextLink_Normal|63|51|62|51</Row>
+			<Row>http://www.kayak.com.tr/|9|ελλάδα|2014-02-26|0|0|0|0|0|0|0|http://www.gr.kayak.com/|23|2013-12-20|2014-02-26| | |TextLink|TextLink_Normal|63|51|62|51</Row>
+			<Row>http://www.kayak.com.tr/|9|argentina|2014-02-26|0|0|0|0|0|0|0|http://www.ar.kayak.com/|23|2013-12-14|2014-02-26| | |TextLink|TextLink_Normal|63|51|62|51</Row>
+			<Row>http://www.kayak.com.tr/|9|suomi|2014-02-26|0|0|0|0|0|0|0|http://www.fi.kayak.com/|23|2013-12-14|2014-02-26| | |TextLink|TextLink_Normal|63|51|62|51</Row>
+			<Row>http://www.kayak.com.tr/|9|canada|2014-02-26|0|0|0|0|0|0|0|http://www.ca.kayak.com/|23|2013-12-14|2014-02-26| | |TextLink|TextLink_Normal|62|50|62|51</Row>
+			<Row>http://www.kayak.com.tr/|9|new zealand|2014-02-26|0|0|0|0|0|0|0|http://www.nz.kayak.com/|23|2013-12-14|2014-02-26| | |TextLink|TextLink_Normal|61|50|62|51</Row>
+			<Row>http://www.milliondollarhomepage.com/|7|find flights, hotels and cars at kayak.com|2014-02-28|0|0|0|1|0|0|0|http://www.kayak.com/k/redirect/in?a=md|24|2008-08-29|2014-02-28| | |ImageLink|ImageLink_Normal|18|30|49|64</Row>
+			<Row>http://www.kayak.lt/|9|united states|2014-02-27|0|0|0|0|0|0|0|http://www.kayak.com/|25|2012-10-06|2014-02-27| | |TextLink|TextLink_Normal|66|70|62|50</Row>
+			<Row>http://www.kayak.lt/|9|suomi|2014-02-27|0|0|0|0|0|0|0|http://www.fi.kayak.com/|25|2013-10-23|2014-02-27| | |TextLink|TextLink_Normal|63|51|62|50</Row>
+			<Row>http://www.kayak.lt/|9|argentina|2014-02-27|0|0|0|0|0|0|0|http://www.ar.kayak.com/|25|2013-12-08|2014-02-27| | |TextLink|TextLink_Normal|63|51|62|50</Row>
+			<Row>http://www.kayak.lt/|9|ελλάδα|2014-02-27|0|0|0|0|0|0|0|http://www.gr.kayak.com/|25|2013-12-28|2014-02-27| | |TextLink|TextLink_Normal|63|51|62|50</Row>
+			<Row>http://www.kayak.lt/|9|台灣|2014-02-27|0|0|0|0|0|0|0|http://www.tw.kayak.com/|25|2013-12-28|2014-02-27| | |TextLink|TextLink_Normal|63|51|62|50</Row>
+			<Row>http://www.kayak.lt/|9|canada|2014-02-27|0|0|0|0|0|0|0|http://www.ca.kayak.com/|25|2013-10-23|2014-02-27| | |TextLink|TextLink_Normal|62|50|62|50</Row>
+			<Row>http://www.kayak.lt/|9|new zealand|2014-02-27|0|0|0|0|0|0|0|http://www.nz.kayak.com/|25|2013-10-23|2014-02-27| | |TextLink|TextLink_Normal|61|50|62|50</Row>
+			<Row>http://xfinitytv.comcast.net/tv-listings|8|travel|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=&#38;pgsrc=comcast&#38;p=1b|1|2013-10-03|2014-02-28| | |TextLink|TextLink_Normal|46|42|53|58</Row>
+			<Row>http://xfinity.comcast.net/parents/|8|travel|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/air?ai=comcast&#38;p=QuickLink|1|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|43|39|54|57</Row>
+			<Row>http://www.clevelandairport.com/Home.aspx|7|cle to ewr $158 may 10 - 12 on united found today|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/Cheap-Flights-Cleveland-to-Newark.CLE.EWR.co.html|26|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|34|44|48|63</Row>
+			<Row>http://www.clevelandairport.com/Home.aspx|7|cle to orl $198 jun 28 - jul 4 on frontier found today|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/Cheap-Flights-Cleveland-to-Orlando.CLE.ORL.co.html|26|2014-01-06|2014-02-28| | |TextLink|TextLink_Normal|34|44|48|63</Row>
+			<Row>http://www.clevelandairport.com/Home.aspx|7|cle to jfk $158 apr 15 - 21 on delta found today|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/Cheap-Flights-Cleveland-to-New-York.CLE.JFK.co.html|26|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|34|44|48|63</Row>
+			<Row>http://www.clevelandairport.com/Home.aspx|7|cle to lga $149 mar 8 - 11 on american airlines found today|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/Cheap-Flights-Cleveland-to-New-York.CLE.LGA.co.html|26|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|34|44|48|63</Row>
+			<Row>http://www.clevelandairport.com/Home.aspx|7|cle to las $300 may 4 - 8 on frontier found today|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/Cheap-Flights-Cleveland-to-Las-Vegas.CLE.LAS.co.html|26|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|34|44|48|63</Row>
+			<Row>http://www.clevelandairport.com/Home.aspx|7|cle to nyc $149 mar 8 - 11 on american airlines found today|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/Cheap-Flights-Cleveland-to-New-York.CLE.NYC.co.html|26|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|33|44|48|63</Row>
+			<Row>http://www.tineye.com/clients/|7|kayak|2014-02-25|0|0|0|1|0|0|0|http://www.kayak.com/|27|2013-07-31|2014-02-25| | |ImageLink|ImageLink_Normal|66|70|48|60</Row>
+			<Row>http://xfinitytv.comcast.net/mytv/dvr|8|travel|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=&#38;pgsrc=comcast&#38;p=1b|1|2013-10-06|2014-02-28| | |TextLink|TextLink_Normal|46|42|51|57</Row>
+			<Row>http://www.kayak.se/hotels|10|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/hotels|4|2013-11-07|2014-02-28| | |TextLink|TextLink_Normal|63|57|66|41</Row>
+			<Row>http://www.kayak.se/hotels|10|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/hotels|4|2013-11-07|2014-02-28| | |TextLink|TextLink_Normal|57|40|66|41</Row>
+			<Row>http://www.kayak.se/hotels|10|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/hotels|4|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|54|40|66|41</Row>
+			<Row>http://www.kayak.se/hotels|10|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/hotels|4|2013-11-30|2014-02-28| | |TextLink|TextLink_Normal|54|40|66|41</Row>
+			<Row>http://www.kayak.se/hotels|10|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/hotels|4|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|54|39|66|41</Row>
+			<Row>http://www.kayak.se/hotels|10|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/hotels|4|2013-11-07|2014-02-28| | |TextLink|TextLink_Normal|42|34|66|41</Row>
+			<Row>http://www.kayak.se/hotels|10|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/hotels|4|2013-11-07|2014-02-28| | |TextLink|TextLink_Normal|42|34|66|41</Row>
+			<Row>http://www.tineye.com/about|7|kayak|2014-02-28|0|0|0|1|0|0|0|http://www.kayak.com/|27|2012-06-09|2014-02-28| | |ImageLink|ImageLink_Normal|66|70|47|59</Row>
+			<Row>http://www.kayak.com.au/more|9|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/more|7|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|46|63|41</Row>
+			<Row>http://www.kayak.com.au/more|9|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/more|7|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|59|40|63|41</Row>
+			<Row>http://www.kayak.com.au/more|9|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/more|7|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|41</Row>
+			<Row>http://www.kayak.com.au/more|9|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/more|7|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|41</Row>
+			<Row>http://www.kayak.com.au/more|9|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/more|7|2013-12-27|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|41</Row>
+			<Row>http://www.kayak.com.au/more|9|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/more|7|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|41</Row>
+			<Row>http://www.kayak.com.au/more|9|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/more|7|2013-12-27|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|41</Row>
+			<Row>http://xfinity.comcast.net/privacy/2014-01/|9|travel|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=&#38;pgsrc=comcast&#38;p=1b|1|2014-01-24|2014-02-28| | |TextLink|TextLink_Normal|46|42|59|44</Row>
+			<Row>http://xfinity.comcast.net/privacy/2014-01/|9|travel|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/air?ai=comcast&#38;p=QuickLink|1|2014-01-24|2014-02-28| | |TextLink|TextLink_Normal|43|39|59|44</Row>
+			<Row>http://www.kayak.co.uk/more|9|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/more|3|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|46|63|40</Row>
+			<Row>http://www.kayak.co.uk/more|9|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/more|3|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|59|40|63|40</Row>
+			<Row>http://www.kayak.co.uk/more|9|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/more|3|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.co.uk/more|9|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/more|3|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.co.uk/more|9|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/more|3|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.co.uk/more|9|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/more|3|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.co.uk/more|9|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/more|3|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.se/more|9|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/more|4|2013-12-08|2014-02-28| | |TextLink|TextLink_Normal|58|46|63|40</Row>
+			<Row>http://www.kayak.se/more|9|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/more|4|2013-12-08|2014-02-28| | |TextLink|TextLink_Normal|59|40|63|40</Row>
+			<Row>http://www.kayak.se/more|9|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/more|4|2013-12-08|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.se/more|9|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/more|4|2013-12-08|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.se/more|9|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/more|4|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.se/more|9|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/more|4|2013-12-08|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.se/more|9|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/more|4|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.no/more|9|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/more|6|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|46|63|40</Row>
+			<Row>http://www.kayak.no/more|9|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/more|6|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|59|40|63|40</Row>
+			<Row>http://www.kayak.no/more|9|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/more|6|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.no/more|9|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/more|6|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.no/more|9|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/more|6|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.no/more|9|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/more|6|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.no/more|9|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/more|6|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.pt/more|9|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/more|11|2013-12-07|2014-02-28| | |TextLink|TextLink_Normal|58|46|63|40</Row>
+			<Row>http://www.kayak.pt/more|9|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/more|11|2013-12-07|2014-02-28| | |TextLink|TextLink_Normal|59|40|63|40</Row>
+			<Row>http://www.kayak.pt/more|9|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/more|11|2013-12-07|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.pt/more|9|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/more|11|2013-12-07|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.pt/more|9|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/more|11|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.pt/more|9|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/more|11|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.pt/more|9|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/more|11|2013-12-07|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.it/more|9|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/more|12|2013-12-12|2014-02-28| | |TextLink|TextLink_Normal|58|46|63|40</Row>
+			<Row>http://www.kayak.it/more|9|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/more|12|2013-12-12|2014-02-28| | |TextLink|TextLink_Normal|59|40|63|40</Row>
+			<Row>http://www.kayak.it/more|9|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/more|12|2013-12-12|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.it/more|9|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/more|12|2013-12-12|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.it/more|9|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/more|12|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.it/more|9|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/more|12|2013-12-12|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.it/more|9|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/more|12|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.fr/more|9|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/more|13|2013-12-08|2014-02-28| | |TextLink|TextLink_Normal|58|46|63|40</Row>
+			<Row>http://www.kayak.fr/more|9|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/more|13|2013-12-08|2014-02-28| | |TextLink|TextLink_Normal|59|40|63|40</Row>
+			<Row>http://www.kayak.fr/more|9|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/more|13|2013-12-08|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.fr/more|9|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/more|13|2013-12-08|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.fr/more|9|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/more|13|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.fr/more|9|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/more|13|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.fr/more|9|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/more|13|2013-12-08|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.dk/more|9|united states|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/more|14|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|46|63|40</Row>
+			<Row>http://www.kayak.dk/more|9|suomi|2014-02-28|0|0|0|0|0|0|0|http://www.fi.kayak.com/more|14|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|59|40|63|40</Row>
+			<Row>http://www.kayak.dk/more|9|canada|2014-02-28|0|0|0|0|0|0|0|http://www.ca.kayak.com/more|14|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.dk/more|9|new zealand|2014-02-28|0|0|0|0|0|0|0|http://www.nz.kayak.com/more|14|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|39|63|40</Row>
+			<Row>http://www.kayak.dk/more|9|台灣|2014-02-28|0|0|0|0|0|0|0|http://www.tw.kayak.com/more|14|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.dk/more|9|argentina|2014-02-28|0|0|0|0|0|0|0|http://www.ar.kayak.com/more|14|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://www.kayak.dk/more|9|ελλάδα|2014-02-28|0|0|0|0|0|0|0|http://www.gr.kayak.com/more|14|2013-12-20|2014-02-28| | |TextLink|TextLink_Normal|58|38|63|40</Row>
+			<Row>http://search.yahoo.com/404handler?url=http://travel.yahoo.com/p-travelguide-191501598-cairo_vacations-i|8|kayak (travel)|2014-02-28|0|0|0|0|0|0|0|http://www.kayak.com/|28|2014-02-28|2014-02-28| | |TextLink|TextLink_Normal_HighContent|66|70|51|51</Row>
+			<Row>http://xfinity.comcast.net/?cid=wnamp&#38;INTCMP=ILCCOMCOM164818|7|travel|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=&#38;pgsrc=comcast&#38;p=1b|1|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|46|42|48|54</Row>
+			<Row>http://xfinity.comcast.net/?cid=wnamp&#38;INTCMP=ILCCOMCOM164818|7|travel|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/air?ai=comcast&#38;p=QuickLink|1|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|43|39|48|54</Row>
+			<Row>http://xfinity.comcast.net/?cid=wnamp&#38;INTCMP=ILCCOMCOM164818|7|travel|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/flights?ai=comcast&#38;p=222|1|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|30|32|48|54</Row>
+			<Row>http://xfinity.comcast.net/?cid=wnamp&#38;INTCMP=ILCCOMCOM164818|7|bahamas deals: 4-day cruises from $169+|2014-02-28|0|0|0|0|0|0|0|http://comcast.kayak.com/s/search/deal?dest=bahamas cruise&#38;pgsrc=comcast&#38;p=053|1|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|30|32|48|54</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="29" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|commondreams.org|19221|153787|30028885|2821867|772561|2008-07-29|2014-02-28|74.86.112.226|74.86.112.0|US|org|66|58</Row>
+			<Row>1|comcast.net|184|439195|76681917|13403029|1864605|2008-07-29|2014-02-28|24.220.183.25|24.220.183.0|US|net|61|64</Row>
+			<Row>2|ceoexpress.com|74324|15146|559498|91724|50729|2008-07-30|2014-02-28|216.34.107.232|216.34.107.0|US|com|38|49</Row>
+			<Row>3|kayak.co.uk|26070|11156|9932260|10521647|1466401|2008-08-14|2014-02-28|95.100.70.152|95.100.70.0|EU|uk|69|47</Row>
+			<Row>4|kayak.se|323798|695|6659677|8522026|1250960|2008-08-27|2014-02-28|92.123.207.196|92.123.207.0|EU|se|69|47</Row>
+			<Row>5|kayak.nl|-1|161|1853529|624506|83190|2010-09-09|2014-02-28|217.70.184.38|217.70.184.0|FR|nl|69|47</Row>
+			<Row>6|kayak.no|980759|651|6604035|8760075|1341282|2009-09-03|2014-02-28|23.0.47.196|23.0.47.0|US|no|68|47</Row>
+			<Row>7|kayak.com.au|-1|182|1945526|666405|99175|2011-02-20|2014-02-28|209.126.255.163|209.126.255.0|US|au|68|47</Row>
+			<Row>8|kayak.de|-1|1405|4900934|2989427|357773|2011-11-14|2014-02-28|23.67.134.152|23.67.134.0|US|de|67|48</Row>
+			<Row>9|kayak.ie|-1|110|2046729|814801|91897|2013-10-10|2014-02-28|209.126.255.163|209.126.255.0|US|ie|68|47</Row>
+			<Row>10|kayak.com.mx|-1|72|1480283|450964|107265|2013-11-29|2014-02-28|209.126.255.163|209.126.255.0|US|mx|68|46</Row>
+			<Row>11|kayak.pt|796197|89|1838942|744361|130108|2012-03-24|2014-02-28|23.11.86.152|23.11.86.0|US|pt|68|47</Row>
+			<Row>12|kayak.it|51117|1667|7139084|9738428|1407405|2008-08-20|2014-02-28|2.16.255.196|2.16.255.0|DE|it|68|47</Row>
+			<Row>13|kayak.fr|-1|2755|9904836|12263229|1596772|2008-08-12|2014-02-28|23.13.159.196|23.13.159.0|US|fr|68|47</Row>
+			<Row>14|kayak.dk|-1|1025|6686957|7978327|1187125|2008-08-29|2014-02-28|23.61.54.152|23.61.54.0|US|dk|68|47</Row>
+			<Row>15|kayak.com.br|105010|198|4433052|1566961|271858|2009-04-25|2014-02-28|23.13.159.196|23.13.159.0|US|br|67|47</Row>
+			<Row>16|kayak.com.hk|-1|69|1815231|445581|91581|2008-12-06|2014-02-28|209.126.255.163|209.126.255.0|US|hk|67|46</Row>
+			<Row>17|kayak.sg|-1|57|1808994|418320|82932|2013-10-05|2014-02-28|64.193.235.91|64.193.235.0|US|sg|67|46</Row>
+			<Row>18|kayak.es|22397|2807|7464866|9805709|1409698|2008-08-14|2014-02-28|23.0.38.152|23.0.38.0|US|es|68|47</Row>
+			<Row>19|kayak.pl|223231|1437|1981999|684647|116965|2011-10-10|2014-02-28|23.11.95.196|23.11.95.0|US|pl|65|46</Row>
+			<Row>20|aeiou.pt|22283|67178|80344955|7446492|1918912|2008-07-29|2014-02-28|195.170.168.62|195.170.168.0|PT|pt|61|49</Row>
+			<Row>21|kayak.ch|338659|156|1897169|760990|109951|2008-10-11|2014-02-28|23.1.166.152|23.1.166.0|US|ch|65|46</Row>
+			<Row>22|kayak.ru|65744|1856|1891851|987682|169613|2008-08-09|2014-02-28|95.100.223.196|95.100.223.0|DE|ru|63|46</Row>
+			<Row>23|kayak.com.tr|-1|49|1586345|347800|17917|2013-11-30|2014-02-27|209.126.255.163|209.126.255.0|US|tr|56|45</Row>
+			<Row>24|milliondollarhomepage.com|62804|30925|4604538|1576|823|2008-10-12|2014-02-28|69.26.178.167|69.26.178.0|US|com|32|45</Row>
+			<Row>25|kayak.lt|-1|208|564168|180531|70309|2009-02-18|2014-02-27|23.67.143.196|23.67.143.0|US|lt|44|41</Row>
+			<Row>26|clevelandairport.com|727924|5821|182593|1809|1393|2008-08-02|2014-02-28|66.218.186.76|66.218.186.0|US|com|33|47</Row>
+			<Row>27|tineye.com|3384|41379|8267757|5744424|518200|2008-08-25|2014-02-28|204.15.199.138|204.15.199.0|CA|com|53|72</Row>
+			<Row>28|yahoo.com|4|9766818|22221251403|5281632652|341861463|2008-07-29|2014-02-28|87.248.122.122|87.248.122.0|CH|com|95|97</Row>
+		</DataTable>
+	</DataTables>
+</Result>

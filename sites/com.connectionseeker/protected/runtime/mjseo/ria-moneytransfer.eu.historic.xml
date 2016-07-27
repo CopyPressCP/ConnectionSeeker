@@ -1,0 +1,45 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 7,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2014-10-21 03:32:31",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 99821000,
+	"RemainingRetrievalResUnits" : 19964146,
+	"ServerBuild" : "2014-11-03 13:11:22",
+	"ServerName" : "HUMMERR",
+	"ServerVersion" : "1.0.5420.23740",
+	"UniqueIndexID" : "20141021033231-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "ria-moneytransfer.eu", "UsedRootDomain" : "ria-moneytransfer.eu", "TotalRefDomains" : 7, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 7
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "prlog.ru", "RefDomains" : 17290, "AlexaRank" : 8089, "Matches" : 1, "MatchedLinks" : 4, "ExtBackLinks" : 5413899, "IndexedURLs" : 1336277, "CrawledURLs" : 181692, "FirstCrawled" : "2012-11-13", "LastSuccessfulCrawl" : "2014-09-26", "IP" : "162.159.241.63", "SubNet" : "162.159.241.0", "CountryCode" : "US", "TLD" : "ru", "CitationFlow" : 45, "TrustFlow" : 34, "TopicalTrustFlow_Topic_0" : "Home/Cooking", "TopicalTrustFlow_Value_0" : "34", "BackLinks_ria-moneytransfer.eu" : "4", "FirstLinkDate_ria-moneytransfer.eu" : "2014-02-01", "LastLinkDate_ria-moneytransfer.eu" : "2014-02-01" },
+				{ "Position" : 2, "Domain" : "blogtotal.de", "RefDomains" : 8123, "AlexaRank" : 62737, "Matches" : 1, "MatchedLinks" : 3, "ExtBackLinks" : 7621078, "IndexedURLs" : 498577, "CrawledURLs" : 196578, "FirstCrawled" : "2009-03-20", "LastSuccessfulCrawl" : "2014-09-26", "IP" : "78.46.164.243", "SubNet" : "78.46.164.0", "CountryCode" : "DE", "TLD" : "de", "CitationFlow" : 44, "TrustFlow" : 34, "TopicalTrustFlow_Topic_0" : "Business/Small Business", "TopicalTrustFlow_Value_0" : "31", "BackLinks_ria-moneytransfer.eu" : "3", "FirstLinkDate_ria-moneytransfer.eu" : "2013-04-19", "LastLinkDate_ria-moneytransfer.eu" : "2014-04-13" },
+				{ "Position" : 3, "Domain" : "investor411.org", "RefDomains" : 2810, "AlexaRank" : 710971, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 44922, "IndexedURLs" : 395711, "CrawledURLs" : 320869, "FirstCrawled" : "2009-03-03", "LastSuccessfulCrawl" : "2014-09-26", "IP" : "207.58.129.237", "SubNet" : "207.58.129.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 24, "TrustFlow" : 3, "TopicalTrustFlow_Topic_0" : "Reference/Education", "TopicalTrustFlow_Value_0" : "3", "BackLinks_ria-moneytransfer.eu" : "2", "FirstLinkDate_ria-moneytransfer.eu" : "2014-02-25", "LastLinkDate_ria-moneytransfer.eu" : "2014-09-22" },
+				{ "Position" : 4, "Domain" : "sapundealep.com", "RefDomains" : 11, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 41, "IndexedURLs" : 7083, "CrawledURLs" : 6383, "FirstCrawled" : "2013-03-03", "LastSuccessfulCrawl" : "2014-09-06", "IP" : "176.56.63.136", "SubNet" : "176.56.63.0", "CountryCode" : "UK", "TLD" : "com", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_ria-moneytransfer.eu" : "2", "FirstLinkDate_ria-moneytransfer.eu" : "2013-05-09", "LastLinkDate_ria-moneytransfer.eu" : "2014-08-31" },
+				{ "Position" : 5, "Domain" : "kultursoleni.de", "RefDomains" : 5, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 91, "ExtBackLinks" : 953, "IndexedURLs" : 887, "CrawledURLs" : 137, "FirstCrawled" : "2014-07-12", "LastSuccessfulCrawl" : "2014-09-26", "IP" : "85.13.134.197", "SubNet" : "85.13.134.0", "CountryCode" : "DE", "TLD" : "de", "CitationFlow" : 15, "TrustFlow" : 5, "TopicalTrustFlow_Topic_0" : "News/Journalism", "TopicalTrustFlow_Value_0" : "5", "BackLinks_ria-moneytransfer.eu" : "91", "FirstLinkDate_ria-moneytransfer.eu" : "2014-05-01", "LastLinkDate_ria-moneytransfer.eu" : "2014-05-28" },
+				{ "Position" : 6, "Domain" : "3d-sal.de", "RefDomains" : 2, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 306, "ExtBackLinks" : 169, "IndexedURLs" : 1590, "CrawledURLs" : 1334, "FirstCrawled" : "2013-10-15", "LastSuccessfulCrawl" : "2014-09-26", "IP" : "81.169.145.153", "SubNet" : "81.169.145.0", "CountryCode" : "DE", "TLD" : "de", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_ria-moneytransfer.eu" : "306", "FirstLinkDate_ria-moneytransfer.eu" : "2013-12-16", "LastLinkDate_ria-moneytransfer.eu" : "2014-01-13" },
+				{ "Position" : 7, "Domain" : "3dsal.de", "RefDomains" : 0, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 0, "IndexedURLs" : 2, "CrawledURLs" : 2, "FirstCrawled" : "2014-08-17", "LastSuccessfulCrawl" : "", "IP" : "95.130.17.36", "SubNet" : "95.130.17.0", "CountryCode" : "DE", "TLD" : "de", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_ria-moneytransfer.eu" : "2", "FirstLinkDate_ria-moneytransfer.eu" : "2014-05-29", "LastLinkDate_ria-moneytransfer.eu" : "2014-05-29" }
+			]
+			}
+		}
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="26" IndexType="1" RemainingAnalysisResUnits="104720000" RemainingDetailedReportsPerPeriod="1010" RemainingRetrievalResUnits="20894436" RemainingStandardReports="1010" ServerBuild="2012-04-07 16:01:43" ServerName="SCEPTIC" ServerVersion="1.0.4480.27051"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="26" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID" BackLinkItem="diaperdeals.ca" BackLinkType="RootDomain" TotalBackLinks="28" TotalLines="26" TotalMatches="26">
+			<Row>http://simplymerry.wordpress.com|5|diaperdeals.ca|2012-04-02|0|0|0|0|0|0|0|http://www.diaperdeals.ca/applecheeks-diaper-giveaway|0</Row>
+			<Row>http://simplymerry.wordpress.com|5|applecheeks black|2012-04-02|0|0|0|1|0|0|0|http://www.diaperdeals.ca/applecheeks-diaper-giveaway|0</Row>
+			<Row>http://change-diapers.com/category/friday-giveaway-linky|3|glow bug diaper from diaper deals|2012-04-09|0|0|0|0|0|0|0|http://www.diaperdeals.ca/giveaway-glow-bug-cloth-diaper|1</Row>
+			<Row>http://change-diapers.com/category/friday-giveaway-linky|3|lil helper diaper &#38; wet bag from diaperdeals.ca|2012-04-09|0|0|0|0|0|0|0|http://www.diaperdeals.ca/giveaway-lil-helper-organic-cloth-diaper-wet-bag|1</Row>
+			<Row>http://mamabblog.com/2011/06/introducing-applecheeks-prints.html|2|giveaway: applecheeks cloth diaper gift card at mama b blog || diaper deals canada|2012-04-12|0|0|1|0|0|0|0|http://www.diaperdeals.ca/applecheeks-cloth-diaper-giveaway|2</Row>
+			<Row>http://www.list-of-domains.org/alexa/Alexa_166.html|2|diaperdeals.ca|2012-04-07|0|0|0|0|0|0|0|http://diaperdeals.ca|3</Row>
+			<Row>http://change-diapers.com/2011/09|0|applecheeks little bundle from diaper deals|2012-03-15|0|0|1|0|0|0|0|http://www.diaperdeals.ca/applecheeks-diaper-giveaway|1</Row>
+			<Row>http://www.sibername.com/en/company/domains.d.php|0|diaperdeals.ca|2012-04-02|0|0|0|0|0|0|0|http://diaperdeals.ca|4</Row>
+			<Row>http://sibername.com/company/domains.d.php|0|diaperdeals.ca|2012-04-02|0|0|0|0|0|0|0|http://diaperdeals.ca|4</Row>
+			<Row>http://www.sibername.com/en/company/domains/d-commerce.ca.php|0|diaperdeals.ca|2012-04-02|0|0|0|0|0|0|0|http://diaperdeals.ca|4</Row>
+			<Row>http://gritti.co.cc/info/flip black friday deals.html|0|read more »|2012-04-03|0|0|1|0|0|0|0|http://www.diaperdeals.ca/black-friday-cloth-diaper-sales-hit-canada|5</Row>
+			<Row>http://sibername.com/company/domains/d-commerce.ca.php|0|diaperdeals.ca|2012-04-02|0|0|0|0|0|0|0|http://diaperdeals.ca|4</Row>
+			<Row>http://sibername.com/fr/company/domains/d-commerce.ca.php|0|diaperdeals.ca|2012-04-09|0|0|0|0|0|0|0|http://diaperdeals.ca|4</Row>
+			<Row>http://www.list-of-domains.org/alexa/alexa_166.html|0|diaperdeals.ca|2012-04-07|0|0|0|0|0|0|0|http://diaperdeals.ca|3</Row>
+			<Row>http://feeds.feedburner.com/JustAnotherClothDiaperingMama|0|diaperdeals.ca|2012-04-11|0|0|0|0|0|0|0|http://www.diaperdeals.ca/applecheeks-diaper-giveaway|6</Row>
+			<Row>http://feeds.feedburner.com/JustAnotherClothDiaperingMama|0|applecheeks black|2012-04-11|0|0|0|1|0|0|0|http://www.diaperdeals.ca/applecheeks-diaper-giveaway|6</Row>
+			<Row>http://indexsite.org/domain-list-2071|0|diaperdeals.ca|2012-04-07|0|0|1|0|0|0|0|http://diaperdeals.ca|7</Row>
+			<Row>http://www.sibername.com/fr/company/domains/d-commerce.ca.php|0|diaperdeals.ca|2012-04-02|0|0|0|0|0|0|0|http://diaperdeals.ca|4</Row>
+			<Row>http://change-diapers.com/category/giveaways|0|glow bug diaper from diaper deals|2012-04-09|0|0|0|0|0|0|0|http://www.diaperdeals.ca/giveaway-glow-bug-cloth-diaper|1</Row>
+			<Row>http://change-diapers.com/category/giveaways|0|lil helper diaper &#38; wet bag from diaperdeals.ca|2012-04-09|0|0|0|0|0|0|0|http://www.diaperdeals.ca/giveaway-lil-helper-organic-cloth-diaper-wet-bag|1</Row>
+			<Row>http://change-diapers.com/category/linky|0|lil helper diaper &#38; wet bag from diaperdeals.ca|2012-04-09|0|0|0|0|0|0|0|http://www.diaperdeals.ca/giveaway-lil-helper-organic-cloth-diaper-wet-bag|1</Row>
+			<Row>http://change-diapers.com/category/linky|0|glow bug diaper from diaper deals|2012-04-09|0|0|0|0|0|0|0|http://www.diaperdeals.ca/giveaway-glow-bug-cloth-diaper|1</Row>
+			<Row>http://www.sibername.com/company/domains.d.php|0|diaperdeals.ca|2012-04-02|0|0|0|0|0|0|0|http://diaperdeals.ca|4</Row>
+			<Row>http://sibername.com/en/company/domains.d.php|0|diaperdeals.ca|2012-04-02|0|0|0|0|0|0|0|http://diaperdeals.ca|4</Row>
+			<Row>http://indexsite.org/domain-list-2399|0|diaperdeals.ca|2012-04-03|0|0|1|0|0|0|0|http://diaperdeals.ca|7</Row>
+			<Row>http://sibername.com/en/company/domains/d-commerce.ca.php|0|diaperdeals.ca|2012-04-02|0|0|0|0|0|0|0|http://diaperdeals.ca|4</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="8" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD">
+			<Row>0|wordpress.com|21|1833022|459666881|157815144|13816999|2012-03-13|2012-04-13|72.233.2.58|72.233.2.0|US|com</Row>
+			<Row>1|change-diapers.com|387927|242|8668|10707|1613|2012-03-14|2012-04-13|207.204.28.58|207.204.28.0|US|com</Row>
+			<Row>2|mamabblog.com|343928|224|8293|6791|561|2012-03-17|2012-04-13|64.202.189.170|64.202.189.0|US|com</Row>
+			<Row>3|list-of-domains.org|23732|180|970|10725|9012|2012-03-14|2012-04-13|184.168.140.104|184.168.140.0|US|org</Row>
+			<Row>4|sibername.com|120654|6826|62953|29616|19972|2012-03-14|2012-04-13|205.204.64.74|205.204.64.0|CA|com</Row>
+			<Row>5|gritti.co.cc|-1|15|103|127040|26918|2012-03-14|2012-04-13|209.51.136.67|209.51.136.0|US|cc</Row>
+			<Row>6|feedburner.com|437|768906|344890003|26957443|2344122|2012-03-14|2012-04-13|74.125.226.237|74.125.226.0|US|com</Row>
+			<Row>7|indexsite.org|-1|39|62|6311|5310|2012-03-26|2012-04-11|173.245.60.40|173.245.60.0|US|org</Row>
+		</DataTable>
+	</DataTables>
+</Result>

@@ -1,0 +1,51 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 15,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2014-04-16 10:01:34",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 95942193,
+	"RemainingRetrievalResUnits" : 19832000,
+	"ServerBuild" : "2014-04-16 03:14:48",
+	"ServerName" : "HUMMERR",
+	"ServerVersion" : "1.0.5219.4044",
+	"UniqueIndexID" : "20140416100134-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "tailoredlegal.com", "UsedRootDomain" : "tailoredlegal.com", "TotalRefDomains" : 15, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 15
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "cornell.edu", "RefDomains" : 626028, "AlexaRank" : 2822, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 156131722, "IndexedURLs" : 16906792, "CrawledURLs" : 2197947, "FirstCrawled" : "2008-08-18", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "132.236.204.10", "SubNet" : "132.236.204.0", "CountryCode" : "US", "TLD" : "edu", "CitationFlow" : 74, "TrustFlow" : 86, "BackLinks_tailoredlegal.com" : "1", "FirstLinkDate_tailoredlegal.com" : "2014-02-10", "LastLinkDate_tailoredlegal.com" : "2014-02-10" },
+				{ "Position" : 2, "Domain" : "justia.com", "RefDomains" : 111263, "AlexaRank" : 9556, "Matches" : 1, "MatchedLinks" : 5, "ExtBackLinks" : 25809290, "IndexedURLs" : 14082148, "CrawledURLs" : 1959511, "FirstCrawled" : "2008-08-18", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "174.129.213.48", "SubNet" : "174.129.213.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 63, "TrustFlow" : 60, "BackLinks_tailoredlegal.com" : "5", "FirstLinkDate_tailoredlegal.com" : "2014-01-24", "LastLinkDate_tailoredlegal.com" : "2014-01-24" },
+				{ "Position" : 3, "Domain" : "hg.org", "RefDomains" : 55845, "AlexaRank" : 22110, "Matches" : 1, "MatchedLinks" : 100, "ExtBackLinks" : 8966081, "IndexedURLs" : 4998467, "CrawledURLs" : 1557014, "FirstCrawled" : "2008-08-26", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "208.75.212.81", "SubNet" : "208.75.212.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 47, "TrustFlow" : 52, "BackLinks_tailoredlegal.com" : "100", "FirstLinkDate_tailoredlegal.com" : "2014-01-05", "LastLinkDate_tailoredlegal.com" : "2014-01-25" },
+				{ "Position" : 4, "Domain" : "llrx.com", "RefDomains" : 40209, "AlexaRank" : 248297, "Matches" : 1, "MatchedLinks" : 13, "ExtBackLinks" : 5215421, "IndexedURLs" : 2357087, "CrawledURLs" : 780554, "FirstCrawled" : "2008-08-26", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "54.243.52.90", "SubNet" : "54.243.52.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 47, "TrustFlow" : 52, "BackLinks_tailoredlegal.com" : "13", "FirstLinkDate_tailoredlegal.com" : "2014-01-31", "LastLinkDate_tailoredlegal.com" : "2014-01-31" },
+				{ "Position" : 5, "Domain" : "yext.com", "RefDomains" : 16993, "AlexaRank" : 10485, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 6685708, "IndexedURLs" : 1086793, "CrawledURLs" : 253201, "FirstCrawled" : "2009-07-05", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "64.74.243.98", "SubNet" : "64.74.243.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 49, "TrustFlow" : 47, "BackLinks_tailoredlegal.com" : "1", "FirstLinkDate_tailoredlegal.com" : "2013-11-17", "LastLinkDate_tailoredlegal.com" : "2014-02-05" },
+				{ "Position" : 6, "Domain" : "lawyercentral.com", "RefDomains" : 8568, "AlexaRank" : 247436, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 428846, "IndexedURLs" : 1692579, "CrawledURLs" : 967093, "FirstCrawled" : "2008-08-18", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "204.232.131.23", "SubNet" : "204.232.131.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 37, "TrustFlow" : 42, "BackLinks_tailoredlegal.com" : "1", "FirstLinkDate_tailoredlegal.com" : "2014-03-14", "LastLinkDate_tailoredlegal.com" : "2014-03-14" },
+				{ "Position" : 7, "Domain" : "targetlaw.com", "RefDomains" : 3125, "AlexaRank" : 326018, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 1014238, "IndexedURLs" : 39705, "CrawledURLs" : 36129, "FirstCrawled" : "2008-08-18", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "207.7.90.40", "SubNet" : "207.7.90.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 34, "TrustFlow" : 20, "BackLinks_tailoredlegal.com" : "1", "FirstLinkDate_tailoredlegal.com" : "2014-03-15", "LastLinkDate_tailoredlegal.com" : "2014-03-15" },
+				{ "Position" : 8, "Domain" : "venturestreet.com", "RefDomains" : 2732, "AlexaRank" : 210615, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 191349, "IndexedURLs" : 4178377, "CrawledURLs" : 440962, "FirstCrawled" : "2008-10-23", "LastSuccessfulCrawl" : "2014-03-15", "IP" : "69.167.172.45", "SubNet" : "69.167.172.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 37, "TrustFlow" : 25, "BackLinks_tailoredlegal.com" : "1", "FirstLinkDate_tailoredlegal.com" : "2014-01-25", "LastLinkDate_tailoredlegal.com" : "2014-01-25" },
+				{ "Position" : 9, "Domain" : "kaptinlin.com", "RefDomains" : 2516, "AlexaRank" : 26344, "Matches" : 1, "MatchedLinks" : 4, "ExtBackLinks" : 185187, "IndexedURLs" : 425699, "CrawledURLs" : 289349, "FirstCrawled" : "2011-01-05", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "205.186.142.209", "SubNet" : "205.186.142.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 38, "TrustFlow" : 22, "BackLinks_tailoredlegal.com" : "4", "FirstLinkDate_tailoredlegal.com" : "2013-07-12", "LastLinkDate_tailoredlegal.com" : "2013-07-12" },
+				{ "Position" : 10, "Domain" : "sdsignings.com", "RefDomains" : 147, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 1592, "IndexedURLs" : 590, "CrawledURLs" : 518, "FirstCrawled" : "2009-07-29", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "50.63.83.1", "SubNet" : "50.63.83.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 15, "TrustFlow" : 4, "BackLinks_tailoredlegal.com" : "1", "FirstLinkDate_tailoredlegal.com" : "2014-03-20", "LastLinkDate_tailoredlegal.com" : "2014-03-20" },
+				{ "Position" : 11, "Domain" : "attorneysearchonline.com", "RefDomains" : 45, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 170, "IndexedURLs" : 33422, "CrawledURLs" : 32433, "FirstCrawled" : "2008-11-12", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "174.143.22.217", "SubNet" : "174.143.22.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 12, "TrustFlow" : 3, "BackLinks_tailoredlegal.com" : "2", "FirstLinkDate_tailoredlegal.com" : "2014-01-24", "LastLinkDate_tailoredlegal.com" : "2014-01-24" },
+				{ "Position" : 12, "Domain" : "promatcher.com", "RefDomains" : 22, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 23114, "IndexedURLs" : 63142, "CrawledURLs" : 24074, "FirstCrawled" : "2014-03-01", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "", "SubNet" : "", "CountryCode" : "", "TLD" : "com", "CitationFlow" : 53, "TrustFlow" : 22, "BackLinks_tailoredlegal.com" : "1", "FirstLinkDate_tailoredlegal.com" : "2014-03-03", "LastLinkDate_tailoredlegal.com" : "2014-03-03" },
+				{ "Position" : 13, "Domain" : "law-faq.com", "RefDomains" : 8, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 789, "IndexedURLs" : 446, "CrawledURLs" : 446, "FirstCrawled" : "2013-07-16", "LastSuccessfulCrawl" : "2014-03-19", "IP" : "173.205.127.44", "SubNet" : "173.205.127.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 9, "TrustFlow" : 0, "BackLinks_tailoredlegal.com" : "2", "FirstLinkDate_tailoredlegal.com" : "2014-03-15", "LastLinkDate_tailoredlegal.com" : "2014-03-16" },
+				{ "Position" : 14, "Domain" : "techlawyers.org", "RefDomains" : 2, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 3, "IndexedURLs" : 721696, "CrawledURLs" : 721696, "FirstCrawled" : "2010-01-30", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "76.74.152.132", "SubNet" : "76.74.152.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 0, "TrustFlow" : 0, "BackLinks_tailoredlegal.com" : "1", "FirstLinkDate_tailoredlegal.com" : "2014-02-12", "LastLinkDate_tailoredlegal.com" : "2014-02-12" },
+				{ "Position" : 15, "Domain" : "lawyerfreelist.com", "RefDomains" : 1, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 827, "IndexedURLs" : 2665, "CrawledURLs" : 2350, "FirstCrawled" : "2013-05-27", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "", "SubNet" : "", "CountryCode" : "", "TLD" : "com", "CitationFlow" : 10, "TrustFlow" : 0, "BackLinks_tailoredlegal.com" : "2", "FirstLinkDate_tailoredlegal.com" : "2014-01-25", "LastLinkDate_tailoredlegal.com" : "2014-01-25" }
+			]
+			}
+		}
+}

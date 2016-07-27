@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="30" IndexType="1" RemainingAnalysisResUnits="103125000" RemainingDetailedReportsPerPeriod="989" RemainingRetrievalResUnits="20271136" RemainingStandardReports="989" ServerBuild="2012-04-06 19:21:42" ServerName="OPYRT" ServerVersion="1.0.4479.33051"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="30" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID" BackLinkItem="elitemktg.net" BackLinkType="RootDomain" TotalBackLinks="30" TotalLines="30" TotalMatches="30">
+			<Row>http://www.tcis-inc.com|2|elite|2012-04-05|0|0|0|1|0|0|0|http://www.elitemktg.net/index.html|0</Row>
+			<Row>http://www.aarpweb.info/?p=1906|0|disability income – elite marketing group|2012-04-04|0|0|0|0|0|0|0|http://www.elitemktg.net/Disability/Forms/Disabilty_MutualOmaha_forms.htm|1</Row>
+			<Row>http://www.esopassociation.org/resources/resources_yellowpages.asp?category=INSURANCE&#38;action=search|0|www.elitemktg.net|2012-04-03|0|0|0|0|0|0|0|http://www.elitemktg.net|2</Row>
+			<Row>http://www.aarpweb.info/?feed=rss2&#38;tag=omaha|0|disability income – elite marketing group|2012-04-03|0|0|0|0|0|0|0|http://www.elitemktg.net/Disability/Forms/Disabilty_MutualOmaha_forms.htm|1</Row>
+			<Row>http://www.blackhillshd.com/sturgis-rally.html|0|www.elitemktg.net|2012-04-03|0|0|0|0|0|0|0|http://www.elitemktg.net|3</Row>
+			<Row>http://www.aarpweb.info/?tag=mutual&#38;paged=2|0|disability income – elite marketing group|2012-04-04|0|0|0|0|0|0|0|http://www.elitemktg.net/Disability/Forms/Disabilty_MutualOmaha_forms.htm|1</Row>
+			<Row>http://how-to-hunt-bear.10fast.net/roadmaster-bicycle.html|0|alan vester automotive|2012-04-01|0|0|0|0|0|0|0|http://www.elitemktg.net/Medicare_Supp/Medicare_Pre ion/Humana/2007_COMPARISION_RATE_SHEET_TX.pdf|4</Row>
+			<Row>http://www.bhini.com/memberlist.cfm?state=TX|0|elite marketing|2012-04-04|0|0|0|0|0|0|0|http://www.elitemktg.net|5</Row>
+			<Row>http://www.bhini.com/memberlist.cfm?state=TX|0|web site|2012-04-04|0|0|0|1|0|0|0|http://www.elitemktg.net|5</Row>
+			<Row>http://www.bhini.com/memberlist.cfm?state=TX&#38;sort=ca|0|elite marketing|2012-04-04|0|0|0|0|0|0|0|http://www.elitemktg.net|5</Row>
+			<Row>http://www.bhini.com/memberlist.cfm?state=TX&#38;sort=ca|0|web site|2012-04-04|0|0|0|1|0|0|0|http://www.elitemktg.net|5</Row>
+			<Row>http://www.bhini.com/memberlist.cfm?state=TX&#38;sort=cd|0|elite marketing|2012-04-04|0|0|0|0|0|0|0|http://www.elitemktg.net|5</Row>
+			<Row>http://www.bhini.com/memberlist.cfm?state=TX&#38;sort=cd|0|web site|2012-04-04|0|0|0|1|0|0|0|http://www.elitemktg.net|5</Row>
+			<Row>http://eliteltc.net/webs/modern/LTCModern_ExtraButtons.cfm?WID=866&#38;PageName=Index|0|visit www.elitemktg.net|2012-03-28|0|0|0|0|0|0|0|http://www.elitemktg.net|6</Row>
+			<Row>http://www.eliteltc.net/webs/modern/LTCModern_ExtraButtons.cfm?WID=866&#38;PageName=Index|0|visit www.elitemktg.net|2012-03-28|0|0|0|0|0|0|0|http://www.elitemktg.net|6</Row>
+			<Row>http://www.aarpweb.info/?tag=omaha|0|disability income – elite marketing group|2012-03-24|0|0|0|0|0|0|0|http://www.elitemktg.net/Disability/Forms/Disabilty_MutualOmaha_forms.htm|1</Row>
+			<Row>http://www.lead411.com/Amy_Jeffryes_1981946.html|0|amy jeffryes|2012-03-26|0|0|1|0|0|0|0|http://www.elitemktg.net/HomePage/EliteDirectory.htm|7</Row>
+			<Row>http://www.lead411.com/Amy_Jeffryes_1981946.html|0|amy jeffryes|2012-03-26|0|0|1|0|0|0|0|http://elitemktg.net/EliteDirectory.htm|7</Row>
+			<Row>http://www.lead411.com/Amy_Jeffryes_1981946.html|0|amy jeffryes|2012-03-26|0|0|1|0|0|0|0|http://www.elitemktg.net/Life_ins/index.html|7</Row>
+			<Row>http://www.lead411.com/Amy_Jeffryes_1981946.html|0|amy jeffryes|2012-03-26|0|0|1|0|0|0|0|http://www.elitemktg.net/HomePage/MgmtStaff.htm|7</Row>
+			<Row>http://www.lead411.com/Amy_Jeffryes_1981946.html|0|amy jeffryes|2012-03-26|0|0|1|0|0|0|0|http://elitemktg.net/management/index.html|7</Row>
+			<Row>http://www.lead411.com/Amy_Jeffryes_1981946.html|0|www.elitemktg.net|2012-03-26|0|0|0|0|0|0|0|http://www.elitemktg.net|7</Row>
+			<Row>http://www.lead411.com/Amy_Jeffryes_1981946.html|0|amy jeffryes|2012-03-26|0|0|1|0|0|0|0|http://www.elitemktg.net/HomePage/Bio_Amy_Jeffryes.htm|7</Row>
+			<Row>http://www.lead411.com/Amy_Jeffryes_1981946.html|0|amy jeffryes|2012-03-26|0|0|1|0|0|0|0|http://elitemktg.net/management/Bio_Amy_Jeffryes.htm|7</Row>
+			<Row>http://black-diamond-ranch-real.007webs.com/travel-ingot.html|0|alan vester automotive|2012-03-23|0|0|0|0|0|0|0|http://www.elitemktg.net/Medicare_Supp/Medicare_Pre ion/Humana/2007_COMPARISION_RATE_SHEET_TX.pdf|8</Row>
+			<Row>http://members.multimania.nl/kaylasc/carcazas.html|0|alan vester automotive|2012-03-15|0|0|0|0|0|0|0|http://www.elitemktg.net/Medicare_Supp/Medicare_Prescription/Humana/2007_COMPARISION_RATE_SHEET_TX.pdf|9</Row>
+			<Row>http://mjxdolr.55fast.com/34.html|0|alan vester automotive|2012-03-19|0|0|0|0|0|0|0|http://www.elitemktg.net/Medicare_Supp/Medicare_Pre ion/Humana/2007_COMPARISION_RATE_SHEET_TX.pdf|10</Row>
+			<Row>http://www.docheartdiseases.info/en_f-28~d-9165~n-heart diseases angina pectoris 000194 LSTM 35 Angina Pectoris~|0|here|2012-03-30|0|0|0|0|0|0|0|http://www.elitemktg.net/SRLSTMPDFs/LSTM35.pdf|11</Row>
+			<Row>http://euafiah.007sites.com/37.html|0|alan vester automotive|2012-03-19|0|0|0|0|0|0|0|http://www.elitemktg.net/Medicare_Supp/Medicare_Prescription/Humana/2007_COMPARISION_RATE_SHEET_TX.pdf|12</Row>
+			<Row>http://naifanet.com/page.cfm?usr=485868&#38;pageid=6182|0|http://www.elitemktg.net|2012-04-01|0|0|0|0|0|0|0|http://www.elitemktg.net|13</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="14" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD">
+			<Row>0|tcis-inc.com|-1|4|4|8|2|2012-04-05|2012-04-05|216.139.213.144|216.139.213.0|US|com</Row>
+			<Row>1|aarpweb.info|-1|192|1196|18170|8528|2012-03-14|2012-04-05|72.167.76.82|72.167.76.0|US|info</Row>
+			<Row>2|esopassociation.org|794624|767|11264|2610|961|2012-03-08|2012-04-05|209.190.242.41|209.190.242.0|US|org</Row>
+			<Row>3|blackhillshd.com|-1|147|718|321|83|2012-03-06|2012-04-05|50.28.66.215|50.28.66.0|US|com</Row>
+			<Row>4|10fast.net|543696|8701|888498|456612|102415|2012-03-07|2012-04-05|74.114.116.110|74.114.116.0|US|net</Row>
+			<Row>5|bhini.com|-1|7|17|228|68|2012-04-03|2012-04-04|64.253.190.147|64.253.190.0|US|com</Row>
+			<Row>6|eliteltc.net|-1|0|0|14|13|2012-03-18|2012-04-02|64.7.202.222|64.7.202.0|US|net</Row>
+			<Row>7|lead411.com|10652|3480|332063|861026|110264|2012-03-06|2012-04-05|65.60.38.146|65.60.38.0|US|com</Row>
+			<Row>8|007webs.com|620717|9214|906346|376579|43918|2012-03-06|2012-04-05|74.114.116.100|74.114.116.0|US|com</Row>
+			<Row>9|multimania.nl|53262|9885|3079721|1042739|126267|2012-03-06|2012-04-05|213.131.252.254|213.131.252.0|DE|nl</Row>
+			<Row>10|55fast.com|503249|10146|1776231|538907|38042|2012-03-06|2012-04-05|74.114.116.108|74.114.116.0|US|com</Row>
+			<Row>11|docheartdiseases.info|-1|27|11243|8483|4704|2012-03-17|2012-04-04|95.110.133.79|95.110.133.0|IT|info</Row>
+			<Row>12|007sites.com|335884|13730|1070386|429754|37866|2012-03-06|2012-04-05|74.114.116.106|74.114.116.0|US|com</Row>
+			<Row>13|naifanet.com|-1|355|2216|1686|532|2012-03-06|2012-04-05|209.61.156.20|209.61.156.0|US|com</Row>
+		</DataTable>
+	</DataTables>
+</Result>

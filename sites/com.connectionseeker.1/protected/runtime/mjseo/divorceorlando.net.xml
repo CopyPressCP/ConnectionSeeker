@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="630" IndexType="0" RemainingAnalysisResUnits="103395000" RemainingDetailedReportsPerPeriod="989" RemainingRetrievalResUnits="20373737" RemainingStandardReports="989" ServerBuild="2012-04-04 15:35:30" ServerName="SILVERTHORNE" ServerVersion="1.0.4477.26265"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="630" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID" BackLinkItem="divorceorlando.net" BackLinkType="RootDomain" TotalBackLinks="1113" TotalLines="630" TotalMatches="630">
+			<Row>http://www.hg.org/lawfirms/USA-Florida/Longwood.html|4|website|2010-12-02|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.hg.org/lawfirms.asp?action=search&#38;city=Orlando&#38;stateorprovince=Florida|3|website|2010-12-05|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://customer.lawchek.net/asp/type_results.asp?type=Divorce&#38;state=FL&#38;name=&#38;email=&#38;curpage=1|2|www.divorceorlando.net|2012-02-19|0|0|0|0|0|0|0|http://www.divorceorlando.net|1</Row>
+			<Row>http://wholesaler.me.uk/2010/09|2|divorce attorney|2012-02-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|2</Row>
+			<Row>http://customer.lawchek.net/asp/type_results.asp?type=Family&#38;state=FL&#38;name=&#38;email=&#38;curpage=1|2|www.divorceorlando.net|2012-02-19|0|0|0|0|0|0|0|http://www.divorceorlando.net|1</Row>
+			<Row>http://www.personal-injury-attorney-los-angeles-now.com/personalinjurylosangeles/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney-2|2|divorce attorney|2012-02-02|0|0|0|0|0|0|0|http://www.divorceorlando.net|3</Row>
+			<Row>http://www.hg.org/lawfirms.asp?action=search&#38;city=Winter||Park&#38;stateorprovince=Florida|1|website|2010-11-08|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5799/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=16&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=17&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.westbelfast.net/Search/Florida Divorce Laws/3|0|divorceorlando.net|2010-06-15|0|0|0|0|0|0|0|http://divorceorlando.net|6</Row>
+			<Row>http://www.westbelfast.net/Search/Florida Divorce Laws/3|0|28. orlando divorce lawyers &#38; family law attorneys - dunlop, dunlop ...|2010-06-15|0|0|0|0|0|0|0|http://divorceorlando.net|6</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6261/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=18&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=19&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.articles-cafe.com/Art/98622/312/Illustrations-Of-Pedestrians-Seriously-Hurt-While-In-A-Marked-Crosswalk.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.resortquestmortgage.com/tag/divorce-attorney-contacts|0|divorce attorney|2012-02-22|0|0|0|0|0|0|0|http://www.divorceorlando.net|8</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=20&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.resortquestmortgage.com/tag/divorce-attorney-groups|0|divorce attorney|2012-02-22|0|0|0|0|0|0|0|http://www.divorceorlando.net|8</Row>
+			<Row>http://civilgideon.com/?tag=divorce-attorney-contacts|0|divorce attorney|2012-02-21|0|0|0|0|0|0|0|http://www.divorceorlando.net|9</Row>
+			<Row>http://www.justmelpublishing.com/society/divorce/divorce-attorney-what-you-should-know.html|0|divorce attorney orlando|2012-02-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|10</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=21&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://thejoannawebsite.com/tag/divorce-attorney-contacts|0|divorce attorney|2010-10-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|11</Row>
+			<Row>http://civilgideon.com/?tag=divorce-attorney-groups|0|divorce attorney|2012-02-21|0|0|0|0|0|0|0|http://www.divorceorlando.net|9</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=22&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.hg.org/law-firms/Child-Support/USA-Florida/Orlando.html|0|website|2011-02-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://thejoannawebsite.com/tag/divorce-attorney-contacts/feed|0|divorce attorney|2010-11-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|11</Row>
+			<Row>http://articlesure.com/society/how-to-pick-a-good-divorce-attorney-for-your-divorce-settlement|0|divorce attorney|2010-11-27|0|0|0|0|0|0|0|http://www.divorceorlando.net|12</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=23&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://thejoannawebsite.com/tag/divorce-attorney-groups|0|divorce attorney|2010-10-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|11</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=24&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://thejoannawebsite.com/tag/divorce-attorney-groups/feed|0|divorce attorney|2010-11-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|11</Row>
+			<Row>http://www.articlebanker.com/Art/56153/270/Divorce-Attorney-What-You-Should-Know.html|0|divorce attorney orlando|2012-02-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|13</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5768/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=3&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6580/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=4&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://thejoannawebsite.com/tag/wedding/feed|0|divorce attorney|2010-10-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|11</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=5&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=6&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://gatearticles.com/no/2010/09|0|skilsmisse advokat|2011-11-17|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.hg.org/law-firms/Alimony/USA-florida.html|0|website|2010-06-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=7&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7322/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=8&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.hometaker.com/Shopping/index.php?c=1653|0|divorce attorney orlando|2012-02-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|15</Row>
+			<Row>http://www.myarticlesonline.com/printart.php?artname=How To Pick A Good Divorce Attorney For Your Divorce Settlement&#38;act=print|0|divorce attorney|2010-10-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|16</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274///pdate/asc|0|divorce attorney orlando|2010-02-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=9&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274///pdate/asc/1|0|divorce attorney orlando|2010-04-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=0-9&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://alluniquearticles.com/search.php?q= Attorney Office|0|divorce attorney|2010-09-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://selfhelpblog.impawned.com/tag/laws|0|divorce attorney|2010-06-19|0|0|0|0|0|0|0|http://www.divorceorlando.net|19</Row>
+			<Row>http://selfhelpblog.impawned.com/tag/laws|0|divorce attorney orlando|2010-06-19|0|0|0|0|0|0|0|http://www.divorceorlando.net|19</Row>
+			<Row>http://www.wesotec.de/bookmarks.php/haribogel|0|divorce attorney orlando|2012-02-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|20</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274///pdate/desc|0|divorce attorney orlando|2010-02-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=A&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.hg.org/law-firms/Family-Law/USA-Florida/Fern-Park.html|0|website|2010-11-20|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274///pdate/desc/1|0|divorce attorney orlando|2010-04-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=B&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://onlinelawyers4me.info/2010/01|0|divorce attorney orlando|2012-02-21|0|0|0|0|0|0|0|http://www.divorceorlando.net|21</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=C&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274///title/asc//1|0|divorce attorney orlando|2010-02-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=D&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://spotback.com/users/smaximizer/tag/lawyers|0|www.divorceorlando.net|2010-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|22</Row>
+			<Row>http://spotback.com/users/smaximizer/tag/lawyers|0|divorce attorney orlando|2010-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|22</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274///title/asc/1|0|divorce attorney orlando|2010-05-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=E&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://lawinfo.maidish.com/tag/laws/page/5|0|divorce attorney orlando|2010-09-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|23</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274///title/asc/1/1|0|divorce attorney orlando|2010-04-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=F&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.hg.org/lawfirms/USA-florida/Longwood.html|0|website|2010-06-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274///title/desc|0|divorce attorney orlando|2010-02-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=G&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.hg.org/lawfirms/USA-florida/Maitland.html|0|website|2010-06-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274///title/desc/1|0|divorce attorney orlando|2010-04-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=H&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.buzzingniches.com/self-improvement/70|0|divorce attorney orlando|2010-04-08|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://selfhelpblog.maidish.com/tag/legal/page/2|0|divorce attorney orlando|2010-07-14|0|0|0|0|0|0|0|http://www.divorceorlando.net|23</Row>
+			<Row>http://selfhelpblog.maidish.com/tag/legal/page/2|0|divorce attorney|2010-07-14|0|0|0|0|0|0|0|http://www.divorceorlando.net|23</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=I&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7130/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://buzzingniches.com/view/printview-11638.html|0|divorce attorney orlando|2010-03-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=J&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://the-secret-tv.com/thesecret/dunlo_p.html|0|orlando divorce lawyers &#38; family law attorneys - dunlop, dunlop ...|2010-06-06|0|0|0|0|0|0|0|http://divorceorlando.net|25</Row>
+			<Row>http://weddingplannews.com/blog/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney|0|divorce attorney|2010-10-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|26</Row>
+			<Row>http://www.hometaker.com/Travel/index.php?c=1653|0|divorce attorney orlando|2010-11-27|0|0|0|0|0|0|0|http://www.divorceorlando.net|15</Row>
+			<Row>http://www.hometaker.com/Travel/index.php?c=1653|0|divorce attorney orlando|2010-11-27|0|0|0|0|0|0|0|http://www.divorceorlando.net|15</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=K&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=L&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.allsortsofinfo.com/legal/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney.html|0|divorce attorney orlando|2010-06-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|27</Row>
+			<Row>http://www.allsortsofinfo.com/legal/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney.html|0|divorce attorney|2010-06-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|27</Row>
+			<Row>http://articlecanyon.com/law/divorce-attorney-what-you-should-know.html|0|divorce attorney orlando|2010-07-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|28</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274//asc/title/asc//ALL|0|divorce attorney orlando|2010-03-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5834/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=M&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=N&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6548/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5940/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6091/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6176/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.hg.org/lawfirms.asp?action=search&#38;subcategory=Divorce|0|website|2010-07-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=O&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6906/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.hg.org/law-firms/Domestic-Violence/USA-florida.html|0|website|2010-06-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://buzzingniches.com/self-improvement/34|0|divorce attorney orlando|2010-03-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=P&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://spotback.com/users/smaximizer/tag/legal|0|www.divorceorlando.net|2010-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|22</Row>
+			<Row>http://spotback.com/users/smaximizer/tag/legal|0|divorce attorney orlando|2010-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|22</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5998/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=Q&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6041/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=R&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.articles-cafe.com/Art/98898/312/Physician-Pays-457-000-On-Claim-Of-Loss-Of-Baby-Because-Of-Failure-To-Administer-Antibiotics.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://eiksys.net/directory/Home/Recreation/Business/Business_Law?p=14|0|divorce attorney orlando|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|29</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=S&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://gatearticles.com/fr/2010/09|0|avocat divorce|2011-12-21|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Business/235/title/asc//ALL|0|divorce attorney orlando|2010-04-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=T&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=U&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.jayde.com/search.html/?q=family law attorneys|0|orlando divorce lawyers &#38; family law attorneys - dunlop, dunlop &#38; dunlop, p.a|2010-11-12|0|0|0|0|0|0|0|http://divorceorlando.net|30</Row>
+			<Row>http://www.jayde.com/search.html/?q=family law attorneys|0|divorceorlando.net|2010-11-12|0|0|0|0|0|0|0|http://divorceorlando.net|30</Row>
+			<Row>http://hotannals.com/divorce-attorney-what-you-should-know.html|0|divorce attorney orlando|2010-07-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|31</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=V&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.child-custody-help.com/blog|0|orlando divorce lawyer|2012-02-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|32</Row>
+			<Row>http://www.zicosur.org/Business_and_Economy/Law/?p=16|0|divorce attorney orlando|2012-02-18|0|0|1|0|0|0|0|http://www.divorceorlando.net|33</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=W&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7076/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/98388/312/Fast-Speed-Computers-Offered-at-Affordable-Prices.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://onlinearticles4you.com/ezineready.php?id=94068|0|divorce attorney|2010-09-05|0|0|0|0|0|0|0|http://www.divorceorlando.net|34</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=X&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.hg.org/law-firms/Child-Visitation/USA-Florida/Fern-Park.html|0|website|2010-11-14|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.qzepc.com/tag/divorce-attorney-contacts|0|divorce attorney|2012-02-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|35</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=Y&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.qzepc.com/tag/divorce-attorney-contacts/feed|0|divorce attorney|2010-12-17|0|0|0|0|0|0|0|http://www.divorceorlando.net|35</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;letter=Z&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.qzepc.com/how-to-pick-a-good-divorce-attorney-for-your-divorce-settlement.html|0|divorce attorney|2012-02-02|0|0|0|0|0|0|0|http://www.divorceorlando.net|35</Row>
+			<Row>http://gatearticles.com/fr/author/SteveYoung|0|avocat divorce|2010-11-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.qzepc.com/tag/divorce-attorney-groups|0|divorce attorney|2012-01-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|35</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5941/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;sobi2Task=addNew&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.qzepc.com/tag/divorce-attorney-groups/feed|0|divorce attorney|2010-12-17|0|0|0|0|0|0|0|http://www.divorceorlando.net|35</Row>
+			<Row>http://www.articles-cafe.com/Art/98663/312/Medical-Malpractice-Case-Alleges-That-Infant-Sustained-Brain-Damage-After-Nurse-Did-not-Inform-Doctor-Of-Indications-Of-Fetal-Distress.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.diigo.com/tag/Law?tab=153|0|www.divorceorlando.net/enforcement|2010-06-29|0|0|1|0|0|0|0|http://www.divorceorlando.net/enforcement|36</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;sobi2Task=search&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.articles-cafe.com/Art/98664/312/Several-Incidents-Of-Motor-Vehicle-Accidents-Involving-Teenage-Drivers.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://divorcelawflorida.net/Alimony Florida Law Orlando.html|0| |2012-02-25|1|0|0|0|0|0|0|http://www.divorceorlando.net/Alimony Florida Law Orlando.html|37</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6551/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/97049/312/Cancer-Lawyer-Helps-Victims-Of-Advanced-Colon-Cancer-Whose-Doctor-Did-Not-Follow-Up-To-Their-Symptoms.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.articles-cafe.com/Art/99849/312/Doctor-Settles-For-1-25-Million-With-Family-Of-Individual-Who-Passed-Away-Following-Multi-Year-Delay-In-Diagnosis-Of-Colon-Cancer.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Divorce/309|0|divorce attorney orlando|2010-02-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.hg.org/lawfirms/United-States-of-America-/Winter-Park.html|0|website|2011-02-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.articles-cafe.com/Art/99850/312/Man-Informs-3-Doctors-About-His-Symptoms-But-The-Physicians-Go-For-Years-Without-Diagnosing-His-Prostate-Cancer.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Divorce/309/pdate/asc|0|divorce attorney orlando|2010-03-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;part=recent|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://divorcelawflorida.net/Change Judgment Orders Law Florida Orlando.html|0| |2012-02-25|1|0|0|0|0|0|0|http://www.divorceorlando.net/Change Judgment Orders Law Florida Orlando.html|37</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Divorce/309/pdate/desc|0|divorce attorney orlando|2010-03-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://eiksys.net/directory/Business/Arts/Business/Business_Law?p=14|0|divorce attorney orlando|2012-02-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|29</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Divorce/309/title/asc|0|divorce attorney orlando|2010-04-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.alluniquearticles.com/search.php?q=schedule|0|divorce attorney|2010-07-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://divorcelawflorida.net/Child Support Florida Law Orlando.html|0| |2012-02-25|1|0|0|0|0|0|0|http://www.divorceorlando.net/Child Support Florida Law Orlando.html|37</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Divorce/309/title/asc//1|0|divorce attorney orlando|2010-03-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://hg.org/law-firms/Family-Law/USA-Florida/Winter-Park.html|0|website|2010-10-01|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.buzzingniches.com/self-improvement/are-you-in-need-of-a-divorce-attorney.html|0|divorce attorney orlando|2010-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://www.hg.org/lawfirms/USA-florida/Orlando.html|0|website|2010-06-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://divorcelawflorida.net/Contempt Florida Law Orlando.html|0| |2012-02-25|1|0|0|0|0|0|0|http://www.divorceorlando.net/Contempt Florida Law Orlando.html|37</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Divorce/309/title/asc//ALL|0|divorce attorney orlando|2010-04-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5836/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://divorcelawflorida.net/Custody Contact Law Florida Orlando.html|0| |2012-02-25|1|0|0|0|0|0|0|http://www.divorceorlando.net/Custody Contact Law Florida Orlando.html|37</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Divorce/309/title/desc|0|divorce attorney orlando|2010-03-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://divorcelawflorida.net/Divorce Florida Law Orlando.html|0| |2012-02-25|1|0|0|0|0|0|0|http://www.divorceorlando.net/Divorce Florida Law Orlando.html|37</Row>
+			<Row>http://weddingplannews.com/blog/tag/divorce-attorney-groups/feed|0|divorce attorney|2010-11-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|26</Row>
+			<Row>http://www.wahyupromo.com/tag/divorce-attorney-contacts|0|divorce attorney|2012-02-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|38</Row>
+			<Row>http://article401.com/topics/tag/laws|0|divorce attorney orlando|2010-10-26|0|0|1|0|0|0|0|http://www.divorceorlando.net|39</Row>
+			<Row>http://gatearticles.com/pt/2010/09|0|advogado de divórcio|2011-11-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://article401.com/topics/tag/laws/feed|0|divorce attorney orlando|2010-11-26|0|0|0|0|0|0|0|http://www.divorceorlando.net|39</Row>
+			<Row>http://divorcelawflorida.net/Enforcement of Orders Judgments Florida Law.html|0| |2012-02-25|1|0|0|0|0|0|0|http://www.divorceorlando.net/Enforcement of Orders Judgments Florida Law.html|37</Row>
+			<Row>http://www.alluniquearticles.com/search.php?q=good attorney|0|divorce attorney|2010-11-02|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://www.wahyupromo.com/tag/divorce-attorney-groups|0|divorce attorney|2012-02-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|38</Row>
+			<Row>http://cothivalebooks.com/artdir/view/printview-68967.html|0|divorce attorney orlando|2010-10-27|0|0|0|0|0|0|0|http://www.divorceorlando.net|40</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7108/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://gatearticles.com/ja/author/SteveYoung|0|離婚弁護士|2010-11-20|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://divorcelawflorida.net/Paternity Law Florida Orlando.html|0| |2012-02-25|1|0|0|0|0|0|0|http://www.divorceorlando.net/Paternity Law Florida Orlando.html|37</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/1996/type/universities|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6310/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.1lovecalculators.com/tag/divorce-attorney-groups|0|divorce attorney|2010-10-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|41</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7330/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/98407/312/Doctor-Overlooking-Abnormal-Prostate-Cancer-Test-Results-Might-Lead-To-Medical-Malpractice-Case.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.1lovecalculators.com/tag/divorce-attorney-groups/feed|0|divorce attorney|2010-11-20|0|0|0|0|0|0|0|http://www.divorceorlando.net|41</Row>
+			<Row>http://etup.org/business_and_economy/lawpage-20.html?s=A&#38;p=381|0|divorce attorney orlando|2010-07-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|42</Row>
+			<Row>http://customer.lawchek.net/asp/type_results.asp?type=Divorce&#38;state=&#38;name=&#38;email=&#38;curpage=8|0|www.divorceorlando.net|2012-02-19|0|0|0|0|0|0|0|http://www.divorceorlando.net|1</Row>
+			<Row>http://www.tagbox.de/shownewtags/?page=244|0| |2012-02-05|0|0|0|1|0|0|0|http://www.divorceorlando.net|43</Row>
+			<Row>http://www.tagbox.de/shownewtags/?page=244|0|divorce attorney orlando|2012-02-05|0|0|0|0|0|0|0|http://www.divorceorlando.net|43</Row>
+			<Row>http://www.hometaker.com/Travel/Online_Reservations/index.php?c=1653|0|divorce attorney orlando|2012-02-21|0|0|0|0|0|0|0|http://www.divorceorlando.net|15</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6212/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://buzzingniches.com/self-improvement/56|0|divorce attorney orlando|2010-03-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://gatearticles.com/ca/author/JustinSu|0|advocat de divorci|2010-11-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://gatearticles.com/da/category/reference-education/legal/page/3|0|skilsmisse advokat|2010-12-01|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Family/250/title/asc//ALL|0|divorce attorney orlando|2010-06-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7180/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.exotaarticles.com/Art/15465/280/Divorce-Attorney-What-You-Should-Know.html|0|divorce attorney orlando|2010-11-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|44</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6268/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/2054/type/universities|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.mbceo.com/tag/society/feed|0|divorce attorney orlando|2012-02-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|45</Row>
+			<Row>http://www.littlewebdirectory.com/links.asp?Page=103&#38;cat=37|0|divorce attorney orlando|2012-02-08|0|0|0|0|0|0|0|http://www.divorceorlando.net|46</Row>
+			<Row>http://www.littlewebdirectory.com/links.asp?Page=103&#38;cat=37|0|http://www.divorceorlando.net|2012-02-08|0|0|0|0|0|0|0|http://www.divorceorlando.net|46</Row>
+			<Row>http://www.oldrec.com/story.php?title=divorce-attorney-orlando|0|divorce attorney orlando|2010-02-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|47</Row>
+			<Row>http://www.oldrec.com/story.php?title=divorce-attorney-orlando|0|» read more|2010-02-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|47</Row>
+			<Row>http://www.articles-cafe.com/Art/100906/312/California-Department-of-Insurance-Points-to-Employers.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.eastbradfordcitizens.com/tag/laws/page/3|0|divorce attorney orlando|2012-02-17|0|0|0|0|0|0|0|http://www.divorceorlando.net|48</Row>
+			<Row>http://www.eastbradfordcitizens.com/tag/laws/page/3|0|divorce attorney|2012-02-17|0|0|0|0|0|0|0|http://www.divorceorlando.net|48</Row>
+			<Row>http://gatearticles.com/hi/2010/09|0|तलाक के वकील|2011-11-17|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5735/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Gardening/567/title/asc//ALL|0|divorce attorney orlando|2010-05-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.articledirectorycentral.com/Author/129048/Tiffany-Qunach.html|0|divorce attorney|2012-02-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|49</Row>
+			<Row>http://hg.org/law-firms/Divorce/USA-Florida/Winter-Park.html|0|website|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://buzzingniches.com/view/printview-13260.html|0|divorce attorney orlando|2010-03-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://www.myarticlesonline.com/Author/105784/Tiffany-Qunach.html|0|divorce attorney|2012-02-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|16</Row>
+			<Row>http://propertylondon.net/Search/Florida Divorce Alimony Law/2|0|14. orlando divorce law firm || dunlop, dunlop &#38; dunlop, p.a ...|2010-04-07|0|0|0|0|0|0|0|http://divorceorlando.net|50</Row>
+			<Row>http://propertylondon.net/Search/Florida Divorce Alimony Law/2|0|divorceorlando.net|2010-04-07|0|0|0|0|0|0|0|http://divorceorlando.net|50</Row>
+			<Row>http://101ez.com/Browse/61795/Tiffany-Qunach.html|0|divorce attorney|2010-12-02|0|0|0|0|0|0|0|http://www.divorceorlando.net|51</Row>
+			<Row>http://www.allsortsofinfo.com/legal/74|0|divorce attorney orlando|2010-04-27|0|0|0|0|0|0|0|http://www.divorceorlando.net|27</Row>
+			<Row>http://www.hometaker.com/index.php?c=1653|0|divorce attorney orlando|2010-10-26|0|0|0|0|0|0|0|http://www.divorceorlando.net|15</Row>
+			<Row>http://www.hometaker.com/index.php?c=1653|0|divorce attorney orlando|2010-10-26|0|0|0|0|0|0|0|http://www.divorceorlando.net|15</Row>
+			<Row>http://www.articles-cafe.com/Art/97925/312/Nurse-s-Failure-To-Recognize-Symptoms-Of-Placental-Abruption-Results-In-Baby-s-Brain-Injury.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.articles.contentwritingzone.com/choosing-the-right-divorce-attorney|0|divorce attorney orlando|2010-11-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|52</Row>
+			<Row>http://www.vagi.org/how-to-pick-a-good-divorce-attorney-for-your-divorce-settlement.html|0|divorce attorney|2012-02-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|53</Row>
+			<Row>http://ccarrabida.org/Business_Economy/Law/page-20.html?s=H|0|divorce attorney orlando|2012-02-22|0|0|0|0|0|0|0|http://www.divorceorlando.net|54</Row>
+			<Row>http://eiksys.net/directory/Business/Science/Business/Business_Law?p=14|0|divorce attorney orlando|2010-10-02|0|0|0|0|0|0|0|http://www.divorceorlando.net|29</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Golf/360/title/asc//ALL|0|divorce attorney orlando|2010-05-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://europasearch.co.uk/Search/Florida Divorce Laws/4|0|36. orlando divorce lawyers &#38; family law attorneys - dunlop, dunlop ...|2010-06-01|0|0|0|0|0|0|0|http://divorceorlando.net|55</Row>
+			<Row>http://europasearch.co.uk/Search/Florida Divorce Laws/4|0|divorceorlando.net|2010-06-01|0|0|0|0|0|0|0|http://divorceorlando.net|55</Row>
+			<Row>http://www.articles-cafe.com/Art/97654/312/Examples-Of-Two-Fatal-Vehicle-Accident-Cases-Leading-To-Settlements-Or-Awards-Above-One-Million-Dollars.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.exotaarticles.com/Author/9151/Kim-Nigh.html|0|divorce attorney orlando|2010-09-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|44</Row>
+			<Row>http://ccarrabida.org/Business_Economy/Law/page-21.html?s=P|0|divorce attorney orlando|2012-02-22|0|0|0|0|0|0|0|http://www.divorceorlando.net|54</Row>
+			<Row>http://www.justmelpublishing.com/view/printview-37667.html|0|divorce attorney orlando|2010-12-01|0|0|0|0|0|0|0|http://www.divorceorlando.net|10</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6047/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://civilgideon.com/?m=201009|0|divorce attorney|2012-02-21|0|0|0|0|0|0|0|http://www.divorceorlando.net|9</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5738/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://propertylondon.net/Search/Orange County Florida Divorce Laws/3|0|22. orlando divorce law firm || dunlop, dunlop &#38; dunlop, p.a ...|2010-04-06|0|0|0|0|0|0|0|http://divorceorlando.net|50</Row>
+			<Row>http://propertylondon.net/Search/Orange County Florida Divorce Laws/3|0|divorceorlando.net|2010-04-06|0|0|0|0|0|0|0|http://divorceorlando.net|50</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/1984/type/universities|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/97092/312/Seven-Hour-Holdup-By-Medical-Professionals-In-Responding-To-Fetal-Distress-Results-in-Child-s-Brain-Injury.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.articledirectorycentral.com/Browse/129048/Tiffany-Qunach.html|0|divorce attorney|2012-02-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|49</Row>
+			<Row>http://www.1lovecalculators.com/tag/weddings|0|divorce attorney|2010-10-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|41</Row>
+			<Row>http://oldrec.com/Business/divorce-attorney-orlando|0|» read more|2010-04-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|47</Row>
+			<Row>http://oldrec.com/Business/divorce-attorney-orlando|0|divorce attorney orlando|2010-04-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|47</Row>
+			<Row>http://www.articles-cafe.com/Art/97369/312/Doctor-Does-Not-Notify-Patient-Regarding-Abnormal-Prostate-Cancer-Tests-For-3-Years.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.hg.org/law-firms/Personal-Property/USA-florida.html|0|website|2010-06-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Home/260/title/asc/1/ALL|0|divorce attorney orlando|2010-03-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://propertylondon.net/Search/State Florida Divorce Laws/6|0|divorceorlando.net|2010-04-09|0|0|0|0|0|0|0|http://divorceorlando.net|50</Row>
+			<Row>http://propertylondon.net/Search/State Florida Divorce Laws/6|0|52. orlando divorce law firm || dunlop, dunlop &#38; dunlop, p.a ...|2010-04-09|0|0|0|0|0|0|0|http://divorceorlando.net|50</Row>
+			<Row>http://www.hg.org/attorneys/page5/USA-Florida.html|0|website|2011-04-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.hg.org/law-firms/Paternity/USA-florida.html|0|website|2010-06-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.zicosur.org/Business_and_Economy/Law?p=16|0|divorce attorney orlando|2012-02-18|0|0|1|0|0|0|0|http://www.divorceorlando.net|33</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5739/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://ccarrabida.org/Business_Economy/Law/page-7.html?s=A|0|divorce attorney orlando|2012-02-22|0|0|0|0|0|0|0|http://www.divorceorlando.net|54</Row>
+			<Row>http://selfhelpblog.maidish.com/tag/attorneys|0|divorce attorney|2010-07-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|23</Row>
+			<Row>http://selfhelpblog.maidish.com/tag/attorneys|0|divorce attorney orlando|2010-07-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|23</Row>
+			<Row>http://www.currentarticles.org/divorce-attorney-what-you-should-know|0|divorce attorney orlando|2012-02-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|56</Row>
+			<Row>http://www.1lovecalculators.com/tag/weddings/page/10|0|divorce attorney|2011-04-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|41</Row>
+			<Row>http://etup.org/detail/link-144238.html|0|divorce attorney orlando|2010-11-19|0|0|0|0|0|0|0|http://www.divorceorlando.net|42</Row>
+			<Row>http://ministryofreviews.com/tag/divorce/page/2|0|divorce attorney orlando|2010-02-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|57</Row>
+			<Row>http://royalavenue.com/Search/Divorce Laws/22|0|divorceorlando.net|2010-04-24|0|0|0|0|0|0|0|http://divorceorlando.net|58</Row>
+			<Row>http://royalavenue.com/Search/Divorce Laws/22|0|218. orlando divorce law firm || dunlop, dunlop &#38; dunlop, p.a ...|2010-04-24|0|0|0|0|0|0|0|http://divorceorlando.net|58</Row>
+			<Row>http://ministryofreviews.com/tag/divorce/page/3|0|divorce attorney orlando|2010-03-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|57</Row>
+			<Row>http://ministryofreviews.com/tag/divorce/page/4|0|divorce attorney orlando|2010-04-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|57</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Investing/516/title/asc//ALL|0|divorce attorney orlando|2010-05-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6325/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.resortquestmortgage.com/2010/09/page/2|0|divorce attorney|2012-02-05|0|0|0|0|0|0|0|http://www.divorceorlando.net|8</Row>
+			<Row>http://marriagerelationship.net/tag/divorce-attorney-contacts|0|divorce attorney|2012-02-19|0|0|1|0|0|0|0|http://www.divorceorlando.net|59</Row>
+			<Row>http://www.articles-cafe.com/Art/97379/312/Important-Points-to-Consider-Prior-to-Initiating-a-Personal-Injury-Suit.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://marriagerelationship.net/tag/divorce-attorney-contacts/feed|0|divorce attorney|2010-11-19|0|0|0|0|0|0|0|http://www.divorceorlando.net|59</Row>
+			<Row>http://www.articles-cafe.com/Art/97110/312/Physician-Does-Not-Tell-Patient-His-PSA-Levels-Are-Abnormal-And-Man-s-Prostate-Cancer-Metastasizes.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.planetarticle.com/Article/What-You-Need-To-Know-To-Be-Able-To-Choose-The-Right-Divorce-Attorney/190963|0|divorce attorney|2010-10-27|0|0|0|0|0|0|0|http://www.divorceorlando.net|60</Row>
+			<Row>http://propertylondon.net/Search/Florida Divorce Law Forms/8|0|divorceorlando.net|2010-04-07|0|0|0|0|0|0|0|http://divorceorlando.net|50</Row>
+			<Row>http://propertylondon.net/Search/Florida Divorce Law Forms/8|0|72. orlando divorce law firm || dunlop, dunlop &#38; dunlop, p.a ...|2010-04-07|0|0|0|0|0|0|0|http://divorceorlando.net|50</Row>
+			<Row>http://marriagerelationship.net/tag/divorce-attorney-groups|0|divorce attorney|2010-10-20|0|0|1|0|0|0|0|http://www.divorceorlando.net|59</Row>
+			<Row>http://marriagerelationship.net/tag/divorce-attorney-groups/feed|0|divorce attorney|2010-11-19|0|0|0|0|0|0|0|http://www.divorceorlando.net|59</Row>
+			<Row>http://www.articles-cafe.com/Art/97112/312/Parents-and-Doctors-Reach-Settlement-In-Amount-Of-900-000-For-900-000-Over-Erb-s-Palsy-Injury-To-Newborn.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.hg.org/lawyer/Erwin-Dunlop/108654|0|mr. erwin dunlop - partner, winter park, florida|2010-08-11|0|0|0|0|0|0|0|http://www.divorceorlando.net/erwin-dunlop|0</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5920/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.exotaarticles.com/Browse/9151/Kim-Nigh.html|0|divorce attorney orlando|2010-10-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|44</Row>
+			<Row>http://www.articleplugin.com/tag/divorce-attorney-contacts|0|divorce attorney|2010-08-27|0|0|0|0|0|0|0|http://www.divorceorlando.net|61</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Landscaping/568/title/asc//ALL|0|divorce attorney orlando|2010-05-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.hg.org/law-firms/Alimony/USA-Florida/Fern-Park.html|0|website|2010-11-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.articleplugin.com/tag/divorce-attorney-contacts/feed|0|divorce attorney|2010-09-17|0|0|0|0|0|0|0|http://www.divorceorlando.net|61</Row>
+			<Row>http://www.articles.contentwritingzone.com/category/society/divorce|0|divorce attorney orlando|2012-02-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|52</Row>
+			<Row>http://www.alluniquearticles.com/authordetail.php?autid=76768|0|divorce attorney|2010-08-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://hometaker.com/index.php?c=1653|0|divorce attorney orlando|2012-02-05|0|0|0|0|0|0|0|http://www.divorceorlando.net|15</Row>
+			<Row>http://www.articleplugin.com/tag/divorce-attorney-groups|0|divorce attorney|2010-08-27|0|0|0|0|0|0|0|http://www.divorceorlando.net|61</Row>
+			<Row>http://gatearticles.com/ca/libel-slander-repair|0|advocat de divorci|2010-10-11|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.articles.contentwritingzone.com/category/society/divorce/feed|0|divorce attorney orlando|2012-02-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|52</Row>
+			<Row>http://www.alluniquearticles.com/authordetail.php?autid=76768&#38;script=browse|0|divorce attorney|2010-08-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://www.hg.org/law-firms/Personal-Property/USA-Florida/Fern-Park.html|0|website|2010-11-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.articleplugin.com/tag/divorce-attorney-groups/feed|0|divorce attorney|2010-09-17|0|0|0|0|0|0|0|http://www.divorceorlando.net|61</Row>
+			<Row>http://www.articles-cafe.com/Art/96565/312/Miners-Of-American-Indian-Descent-Are-Entitled-To-Workers-Comp.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.wahyupromo.com/choosing-the-right-divorce-attorney.html|0|divorce attorney|2012-02-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|38</Row>
+			<Row>http://www.articles-cafe.com/Art/106714/312/How-To-Pick-A-Good-Divorce-Attorney-For-Your-Divorce-Settlement.html|0|divorce attorney|2010-10-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.articles-cafe.com/Art/106714/312/How-To-Pick-A-Good-Divorce-Attorney-For-Your-Divorce-Settlement.html|0|divorce attorney|2010-10-28|0|0|1|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.rabunda.com/index.php?s=P&#38;c=68&#38;p=30|0|divorce attorney orlando|2010-04-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|62</Row>
+			<Row>http://gatearticles.com/fi/author/SteveYoung|0|avioero asiamies|2010-11-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.rabunda.com/index.php?s=H&#38;c=68&#38;p=30|0|divorce attorney orlando|2010-04-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|62</Row>
+			<Row>http://caplar.com/tag/laws/feed|0|divorce attorney|2010-05-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|63</Row>
+			<Row>http://caplar.com/tag/laws/feed|0|divorce attorney orlando|2010-05-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|63</Row>
+			<Row>http://www.articles-cafe.com/Art/97392/312/Lawsuit-Alleging-Infant-Sustained-Brain-Damage-As-a-result-of-Pediatrician-s-Hesitation-In-Diagnosing-And-Treating-A-GBS-Infection.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.hg.org/law-firms/Family-Law/USA-florida.html|0|website|2010-06-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://a-p-e-x.org/Society/Lawpage-3.html|0|divorce attorney orlando|2010-03-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|64</Row>
+			<Row>http://www.chinagridforum.org/entertainment-arts/other-ae/how-to-pick-a-good-divorce-attorney-for-your-divorce-settlement.html|0|divorce attorney|2012-02-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|65</Row>
+			<Row>http://www.chinagridforum.org/entertainment-arts/other-ae/how-to-pick-a-good-divorce-attorney-for-your-divorce-settlement.html|0|divorce attorney orlando|2012-02-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|65</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Legal/269/title/asc//ALL|0|divorce attorney orlando|2010-03-30|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.hg.org/lawfirms/USA-florida/Winter-Park.html|0|website|2010-06-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.hg.org/lawfirms/USA-florida/Winter-Springs.html|0|website|2010-06-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://propertylondon.net/Search/Florida Divorce Law/7|0|69. divorce attorneys dunlop &#38; dunlop|2010-03-14|0|0|0|0|0|0|0|http://www.divorceorlando.net/OrlandoDivorceSiteIndexPage.html|50</Row>
+			<Row>http://propertylondon.net/Search/Florida Divorce Law/7|0|www.divorceorlando.net/orlandodivorcesiteindexpage.html|2010-03-14|0|0|0|0|0|0|0|http://www.divorceorlando.net/OrlandoDivorceSiteIndexPage.html|50</Row>
+			<Row>http://propertylondon.net/Search/Florida Divorce Law/7|0|divorceorlando.net|2010-03-14|0|0|0|0|0|0|0|http://divorceorlando.net|50</Row>
+			<Row>http://propertylondon.net/Search/Florida Divorce Law/7|0|63. orlando divorce law firm || dunlop, dunlop &#38; dunlop, p.a ...|2010-03-14|0|0|0|0|0|0|0|http://divorceorlando.net|50</Row>
+			<Row>http://www.articledirectory.name/Author/58594/Kim-Nigh.html|0|divorce attorney orlando|2012-02-19|0|0|1|0|0|0|0|http://www.divorceorlando.net|66</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6921/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/98473/312/Physician-Disregards-Abnormal-Screening-Test-Results-And-Subsequently-Patient-Is-Diagnosed-With-Advanced-Prostate-Cancer.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5742/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/97397/312/Promises-Made-by-Lawyers-Makes-More-Suits.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://selfhelpblog.impawned.com/tag/legal/page/2|0|divorce attorney orlando|2010-06-19|0|0|0|0|0|0|0|http://www.divorceorlando.net|19</Row>
+			<Row>http://selfhelpblog.impawned.com/tag/legal/page/2|0|divorce attorney|2010-06-19|0|0|0|0|0|0|0|http://www.divorceorlando.net|19</Row>
+			<Row>http://www.myarticlesonline.com/Art/223558/267/How-To-Pick-A-Good-Divorce-Attorney-For-Your-Divorce-Settlement.html|0|divorce attorney|2012-02-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|16</Row>
+			<Row>http://www.wcom51.com/myarticles/Allen-Wright/40712/Health/4/title/asc//ALL|0|divorce attorney orlando|2010-02-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|67</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Personal-Development/277/title/asc//ALL|0|divorce attorney orlando|2010-06-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.civilrightslawyer.info/tag/divorce-attorney-contacts|0|divorce attorney|2010-10-20|0|0|0|0|0|0|0|http://www.divorceorlando.net|68</Row>
+			<Row>http://www.avidarticles.com/ezineready.php?id=219481|0|divorce attorney orlando|2010-03-31|0|0|0|0|0|0|0|http://www.divorceorlando.net|69</Row>
+			<Row>http://hg.org/law-firms/Domestic-Violence/USA-Florida/Altamonte-Springs.html|0|website|2010-10-02|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.alluniquearticles.com/search.php?q= divorce attorney|0|divorce attorney|2010-09-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://www.hg.org/law-firms/Child-Support-and-Custody/USA-florida.html|0|website|2010-06-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.oldrec.com/index.php?page=86&#38;part=month|0|http://www.divorceorlando.net|2010-02-05|0|0|0|0|0|0|0|http://www.divorceorlando.net|47</Row>
+			<Row>http://www.civilrightslawyer.info/tag/divorce-attorney-contacts/feed|0|divorce attorney|2010-11-01|0|0|0|0|0|0|0|http://www.divorceorlando.net|68</Row>
+			<Row>http://hg.org/law-firms/Child-Visitation/USA-Florida/Winter-Park.html|0|website|2010-10-01|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://gatearticles.com/de/author/VeronicaCarrillo|0|scheidungsanwalt|2010-11-08|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://gatearticles.com/ja/doggie-tricks-of-the-trade|0|離婚弁護士|2010-10-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.civilrightslawyer.info/tag/divorce-attorney-groups|0|divorce attorney|2010-10-20|0|0|0|0|0|0|0|http://www.divorceorlando.net|68</Row>
+			<Row>http://www.wcom51.com/myarticles/Allen-Wright/40712/Root-Category//pdate/asc|0|divorce attorney orlando|2010-02-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|67</Row>
+			<Row>http://eiksys.net/directory/Home/Reference/Business/Business_Law?p=14|0|divorce attorney orlando|2010-10-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|29</Row>
+			<Row>http://www.civilrightslawyer.info/tag/divorce-attorney-groups/feed|0|divorce attorney|2010-11-01|0|0|0|0|0|0|0|http://www.divorceorlando.net|68</Row>
+			<Row>http://www.hg.org/attorneys/page6/USA-Florida.html|0|website|2011-04-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.wcom51.com/myarticles/Allen-Wright/40712/Root-Category//pdate/desc|0|divorce attorney orlando|2010-02-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|67</Row>
+			<Row>http://onlinearticles4you.com/article.php?id=94068&#38;act=print|0|divorce attorney|2010-09-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|34</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6485/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6924/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://mp3beats.net/?url=http://www.divorcelawflorida.net/|0| |2010-02-21|1|0|0|0|0|0|0|http://www.divorceorlando.net/OrlandoDivorceSiteIndexPage.html|70</Row>
+			<Row>http://www.wcom51.com/myarticles/Allen-Wright/40712/Root-Category//title/asc//1|0|divorce attorney orlando|2010-02-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|67</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5926/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.rabunda.com/index.php?c=68&#38;p=30|0|divorce attorney orlando|2010-03-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|62</Row>
+			<Row>http://www.articles-cafe.com/Art/99699/312/Why-Medical-Malpractice-Liability-Results-When-Physician-s-Error-Responsible-For-Infant-s-Erb-s-Palsy-Injury.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.wcom51.com/myarticles/Allen-Wright/40712/Root-Category//title/desc|0|divorce attorney orlando|2010-02-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|67</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Sports/346/title/asc//ALL|0|divorce attorney orlando|2010-06-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.alluniquearticles.com/search.php?q= divorce lawyer|0|divorce attorney|2010-10-05|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://www.articledirectorycentral.com/Art/300058/156/Choosing-The-Right-Divorce-Attorney.html|0|divorce attorney|2012-02-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|49</Row>
+			<Row>http://www.alluniquearticles.com/articledetail.php?artid=150573&#38;catid=156|0|divorce attorney|2010-10-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://www.planetarticle.com/ezineready.php?id=190963|0|divorce attorney|2010-11-26|0|0|0|0|0|0|0|http://www.divorceorlando.net|60</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/1867/type/universities|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://wholesaler.me.uk/category/home-family/wedding/feed|0|divorce attorney|2011-12-31|0|0|0|0|0|0|0|http://www.divorceorlando.net|2</Row>
+			<Row>http://blinklist.com/users/smaximizer/Lawyer|0|divorce attorney orlando|2011-04-10|0|0|1|0|0|0|0|http://www.divorceorlando.net|71</Row>
+			<Row>http://blinklist.com/users/smaximizer/Lawyer|0| |2011-04-10|0|0|1|1|0|0|0|http://www.divorceorlando.net|71</Row>
+			<Row>http://www.articles-cafe.com/Art/98746/312/Diagnosed-With-Metastatic-Colon-Cancer-Was-The-Delay-Due-To-Actions-Of-Your-Doctor.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://gatearticles.com/how-to-pick-a-good-divorce-attorney-for-your-divorce-settlement|0|divorce attorney|2010-11-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://wholesaler.me.uk/2010/09/30|0|divorce attorney|2012-02-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|2</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7492/type/private|0|orlando divorce lawyer|2010-08-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/97980/312/Driver-s-Insurance-Company-Makes-Low-Ball-Offer-To-Injured-Bicyclist.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://icaats.com/?p=14556|0|divorce attorney orlando|2012-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|72</Row>
+			<Row>http://icaats.com/?p=14556|0|divorce attorney|2012-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|72</Row>
+			<Row>http://www.alluniquearticles.com/search.php?q= divorce settlement|0|divorce attorney|2010-10-05|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://www.articles-cafe.com/Art/97137/312/Man-Discovers-He-Has-Metastatic-Prostate-Cancer-After-Years-Of-Doctors-Not-Doing-A-Follow-Up-Biopsy.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.articles-cafe.com/Art/17023/312/Intellectual-Property-Agreement.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://civilgideon.com/?p=4538|0|divorce attorney|2011-10-31|0|0|0|0|0|0|0|http://www.divorceorlando.net|9</Row>
+			<Row>http://www.wcom51.com/myarticles/Allen-Wright/40712/Technology/8/title/asc//ALL|0|divorce attorney orlando|2010-02-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|67</Row>
+			<Row>http://articlebarracks.com/myarticles/Allen-Wright/26274/Travel/371/title/asc//ALL|0|divorce attorney orlando|2010-06-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.articles.contentwritingzone.com/author/NathanWebster|0|divorce attorney orlando|2012-02-20|0|0|0|0|0|0|0|http://www.divorceorlando.net|52</Row>
+			<Row>http://snoot.ru/Law-Matters-Home.html|0|orlando divorce law firm dunlop dunlop &#38; dunlop p.a.|2010-04-20|0|0|1|0|0|0|0|http://www.divorceorlando.net|73</Row>
+			<Row>http://www.myseobookmarks.info/upcoming.php?page=190&#38;category=business|0|http://www.divorceorlando.net|2012-02-15|0|0|1|0|0|0|0|http://www.divorceorlando.net|74</Row>
+			<Row>http://www.justmelpublishing.com/view/printview-38208.html|0|divorce attorney|2010-12-01|0|0|0|0|0|0|0|http://www.divorceorlando.net|10</Row>
+			<Row>http://www.justmelpublishing.com/view/printview-38208.html|0|divorce attorney orlando|2010-12-01|0|0|0|0|0|0|0|http://www.divorceorlando.net|10</Row>
+			<Row>http://wesotec.de/bookmarks.php/haribogel|0|divorce attorney orlando|2012-02-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|20</Row>
+			<Row>http://www.buzzingniches.com/self-improvement/how-to-pick-a-good-divorce-attorney-for-your-divorce-settlement.html|0|divorce attorney orlando|2010-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://www.articles-cafe.com/Art/97417/312/Medical-Expert-Refutes-Defense-Version-Of-Automobile-Accident-And-Proves-Liability.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.habitofharmony.com/tag/legal|0|divorce attorney orlando|2012-02-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|75</Row>
+			<Row>http://www.habitofharmony.com/tag/legal|0|divorce attorney|2012-02-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|75</Row>
+			<Row>http://www.chinagridforum.org/page/119?s=here|0|divorce attorney|2012-02-17|0|0|0|0|0|0|0|http://www.divorceorlando.net|65</Row>
+			<Row>http://www.wcom51.com/myarticles/Allen-Wright/40712/Traveling/101/title/asc//ALL|0|divorce attorney orlando|2010-02-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|67</Row>
+			<Row>http://www.hg.org/law-firms/Divorce/USA-florida.html|0|website|2010-06-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.articles-cafe.com/Art/99248/312/You-May-Win-the-Case-with-a-Lawyers-Aid-but-They-ll-Get-their-Fair-Share.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.satangel.ru/Winter-Park-FL-married-affair.html|0|divorce orlando index|2010-08-28|0|0|1|0|0|0|0|http://divorceorlando.net/Paternity Law Florida Orlando.html|76</Row>
+			<Row>http://www.articles-cafe.com/Art/97155/312/Lawsuits-Due-to-Pedestrians-Injured-By-A-Automobile-While-In-A-Crosswalk.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5785/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6964/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://articlebarracks.com/ezineready.php?id=291618|0|divorce attorney|2010-11-22|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://article-place.co.cc/legal/48|0|divorce attorney|2010-08-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|77</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6693/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6628/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://articlesit.com/society/choosing-the-right-divorce-attorney|0|divorce attorney|2010-11-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|78</Row>
+			<Row>http://gatearticles.com/no/cheap-website-hosting-within-your-reach-today|0|skilsmisse advokat|2010-10-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.mbceo.com/category/society|0|divorce attorney orlando|2012-02-17|0|0|0|0|0|0|0|http://www.divorceorlando.net|45</Row>
+			<Row>http://hg.org/law-firms/Domestic-Violence/USA-Florida/Winter-Park.html|0|website|2010-10-02|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.tekki.de/bookmarks.php/haribogel|0|divorce attorney orlando|2012-02-05|0|0|0|0|0|0|0|http://www.divorceorlando.net|79</Row>
+			<Row>http://www.totheglobe.info/relationships/divorce|0|divorce attorney orlando|2012-02-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|80</Row>
+			<Row>http://www.bing.com/search?q=divorce law in florida spouse&#38;cc=gb|0|orlando divorce lawyers &#38; family law attorneys - dunlop, dunlop ...|2010-05-21|0|0|0|0|0|0|0|http://divorceorlando.net|81</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7374/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.habitofharmony.com/tag/divorce/page/3|0|divorce attorney orlando|2012-02-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|75</Row>
+			<Row>http://www.habitofharmony.com/tag/divorce/page/3|0|divorce attorney|2012-02-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|75</Row>
+			<Row>http://hg.org/law-firms/Paternity/USA-Florida/Winter-Park.html|0|website|2010-10-02|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.justmelpublishing.com/society/divorce/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney.html|0|divorce attorney|2010-10-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|10</Row>
+			<Row>http://www.justmelpublishing.com/society/divorce/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney.html|0|divorce attorney orlando|2010-10-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|10</Row>
+			<Row>http://www.zzygg.com/output.php?title=Divorce_Attorney_Orlando|0| |2010-03-09|1|0|0|0|0|0|0|http://www.divorceorlando.net|82</Row>
+			<Row>http://www.articles-cafe.com/Art/1616/312/Describing-Intellectual-Property-in-Your-Business-Plan.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5422/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://hg.org/law-firms/Alimony/USA-Florida/Winter-Park.html|0|website|2010-09-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.tallstreet.com/view/divorce_law/page76|0|orlando divorce lawyers &#38; family law attorneys - dunlop ...|2010-06-21|0|0|0|0|0|0|0|http://divorceorlando.net|83</Row>
+			<Row>http://www.tallstreet.com/view/divorce_law/page76|0|new window|2010-06-21|0|0|0|1|0|0|0|http://divorceorlando.net|83</Row>
+			<Row>http://alluniquearticles.com/search.php?q= divorce attorney|0|divorce attorney|2010-09-21|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://www.articles-cafe.com/Art/99727/312/Jury-Gives-2-75-Million-To-Advanced-Prostate-Cancer-Patient-Whose-Doctor-Failed-To-Do-Requested-Screening.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://socibook.com/out.php?title=divorce-attorney-orlando|0| |2012-02-19|1|0|0|0|0|0|0|http://www.divorceorlando.net|84</Row>
+			<Row>http://online-dating-relationships.the-monkey.biz/tag/social-sciences|0|orlando divorce lawyer|2012-02-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|85</Row>
+			<Row>http://online-dating-relationships.the-monkey.biz/tag/social-sciences|0|divorce attorney orlando|2012-02-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|85</Row>
+			<Row>http://www.articles-cafe.com/Art/97750/312/Man-Informs-3-Doctors-About-His-Symptoms-But-They-Take-Years-Diagnose-His-Prostate-Cancer.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://feelthelovefrommee.com/tag/divorce-attorney-groups|0|divorce attorney|2010-11-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|86</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6660/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.bigarticlesarchive.com/myarticles/Tiffany-Qunach/37798|0|divorce attorney|2012-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|87</Row>
+			<Row>http://feelthelovefrommee.com/tag/divorce-attorney-groups/feed|0|divorce attorney|2010-12-05|0|0|0|0|0|0|0|http://www.divorceorlando.net|86</Row>
+			<Row>http://lexcites.com/international-law/choosing-the-right-divorce-attorney|0|divorce attorney|2012-02-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|88</Row>
+			<Row>http://www.bigarticlesarchive.com/myarticles/Tiffany-Qunach/37798/Legal/269|0|divorce attorney|2012-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|87</Row>
+			<Row>http://gatearticles.com/no/author/RichKeys|0|skilsmisse advokat|2010-11-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://gatearticles.com/no/author/JustinSu|0|skilsmisse advokat|2010-11-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6056/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles.com.mx/tag/attorneys/feed|0|divorce attorney orlando|2010-12-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|89</Row>
+			<Row>http://www.articles.com.mx/tag/attorneys/feed|0|divorce attorney|2010-12-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|89</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/1988/type/universities|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://eiksys.net/directory/Computers_and_Internet/Home/Business/Business_Law?p=14|0|divorce attorney orlando|2010-12-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|29</Row>
+			<Row>http://www.hg.org/law-firms/Divorce/USA-Florida/Fern-Park.html|0|website|2010-07-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.articles-cafe.com/Art/98526/312/Family-And-Doctors-Reach-Settlement-In-The-Amount-Of-2-000-000-For-Medical-Mistake-Ending-In-Wrongful-Death-Of-46-Year-Old-Woman.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6596/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7092/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://alluniquearticles.com/search.php?q= divorce settlement|0|divorce attorney|2010-10-11|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://eiksys.net/directory/Computers_and_Internet/Health/Business/Business_Law?p=14|0|divorce attorney orlando|2010-12-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|29</Row>
+			<Row>http://www.1lovecalculators.com/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney-408|0|divorce attorney|2010-10-26|0|0|0|0|0|0|0|http://www.divorceorlando.net|41</Row>
+			<Row>http://www.allsortsofinfo.com/view/printview-22727.html|0|divorce attorney orlando|2010-05-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|27</Row>
+			<Row>http://www.totheglobe.info/relationships/divorce/divorce-attorney-what-you-should-know.html|0|divorce attorney orlando|2012-02-22|0|0|0|0|0|0|0|http://www.divorceorlando.net|80</Row>
+			<Row>http://www.cheapdivorcelawyers.us/tag/advice/feed|0|divorce attorney orlando|2011-10-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|90</Row>
+			<Row>http://www.personal-injury-attorney-los-angeles-now.com/personalinjurylosangeles/divorce-attorney-are-you-in-need-of-one|0|divorce attorney orlando|2012-02-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|3</Row>
+			<Row>http://www.hometaker.com/index.php?s=A&#38;c=1653&#38;p=1|0|divorce attorney orlando|2012-02-11|0|0|0|0|0|0|0|http://www.divorceorlando.net|15</Row>
+			<Row>http://www.civilrightslawyer.info/author/DeannFinch|0|divorce attorney|2010-09-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|68</Row>
+			<Row>http://www.justmelpublishing.com/society/divorce/55|0|divorce attorney orlando|2012-02-22|0|0|0|0|0|0|0|http://www.divorceorlando.net|10</Row>
+			<Row>http://www.exotaarticles.com/Art/16728/280/What-You-Need-To-Know-To-Be-Able-To-Choose-The-Right-Divorce-Attorney.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|44</Row>
+			<Row>http://www.exotaarticles.com/Art/16728/280/What-You-Need-To-Know-To-Be-Able-To-Choose-The-Right-Divorce-Attorney.html|0|divorce attorney orlando|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|44</Row>
+			<Row>http://www.articles-cafe.com/Art/98247/312/Trials-Of-Claims-For-The-Benefit-Of-Infants-Badly-Hurt-By-Nursing-Error-Yield-Million-Dollar-Plus-Jury-Verdicts.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://gatearticles.com/ca/2010/09|0|advocat de divorci|2011-10-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.articles-cafe.com/Art/98249/312/Learning-More-About-Your-Personal-Injury-Claims.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://buzzingniches.com/self-improvement/are-you-in-need-of-a-divorce-attorney.html|0|divorce attorney orlando|2010-03-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://gatearticles.com/pt/how-can-an-industrial-air-compressor-help-my-small-construction-business-grow|0|advogado de divórcio|2010-10-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://pda.memori.qip.ru/all/Divorce|0|divorce attorney orlando|2012-02-05|0|0|1|0|0|0|0|http://www.divorceorlando.net|91</Row>
+			<Row>http://pda.memori.qip.ru/all/Divorce|0|http://www.divorceorlando.net|2012-02-05|0|0|0|0|0|0|0|http://www.divorceorlando.net|91</Row>
+			<Row>http://www.hg.org/law-firms/Child-Visitation/USA-florida.html|0|website|2010-06-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.eastbradfordcitizens.com/tag/divorce/page/2|0|divorce attorney orlando|2012-02-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|48</Row>
+			<Row>http://www.eastbradfordcitizens.com/tag/divorce/page/2|0|divorce attorney|2012-02-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|48</Row>
+			<Row>http://www.personal-injury-attorney-los-angeles-now.com/personalinjurylosangeles/tag/divorce-attorney-contacts|0|divorce attorney|2012-02-21|0|0|0|0|0|0|0|http://www.divorceorlando.net|3</Row>
+			<Row>http://eiksys.net/directory/Home/Health/Business/Business_Law?p=14|0|divorce attorney orlando|2010-10-21|0|0|0|0|0|0|0|http://www.divorceorlando.net|29</Row>
+			<Row>http://www.hg.org/lawfirms.asp?action=search&#38;subcategory=Child||Support|0|website|2010-07-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6198/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/98254/312/The-Benefits-Of-Workers-Compensation-For-Labor-And-Business.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.personal-injury-attorney-los-angeles-now.com/personalinjurylosangeles/tag/divorce-attorney-contacts/feed|0|divorce attorney|2010-11-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|3</Row>
+			<Row>http://www.personal-injury-attorney-los-angeles-now.com/personalinjurylosangeles/tag/divorce-attorney-groups|0|divorce attorney|2010-10-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|3</Row>
+			<Row>http://alluniquearticles.com/authordetail.php?autid=76768&#38;script=browse|0|divorce attorney|2010-08-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://www.personal-injury-attorney-los-angeles-now.com/personalinjurylosangeles/tag/divorce-attorney-groups/feed|0|divorce attorney|2010-11-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|3</Row>
+			<Row>http://www.hg.org/lawfirms.asp?action=search&#38;subcategory=Child||Support&#38;country=United||States||of||America|0|website|2010-07-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.articles-cafe.com/Art/97777/312/Physician-And-Nurse-Pay-Out-After-Allowing-Fetal-Distress-Deteriorate-And-Unborn-Child-Dies.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://do-ok.com/search/florida-divorce-lawyer-search-Trust-earch-divorce/1-8.html|0|divorce attorneys lawyers orlando free consultation|2010-08-22|0|0|0|0|0|0|0|http://divorceorlando.net/OrlandoDivorceSiteIndexPage.html|92</Row>
+			<Row>http://archivisionmodels.com/Architectural_Model/?p=44451|0|divorce attorney|2012-02-21|0|0|0|0|0|0|0|http://www.divorceorlando.net|93</Row>
+			<Row>http://www.hg.org/lawfirms.asp?action=search&#38;subcategory=Child||Support&#38;stateorprovince=Florida|0|website|2010-07-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.chinagridforum.org/entertainment-arts/other-ae/are-you-in-need-of-a-divorce-attorney.html|0|divorce attorney orlando|2012-02-17|0|0|0|0|0|0|0|http://www.divorceorlando.net|65</Row>
+			<Row>http://www.cothivalebooks.com/artdir/society/divorce/divorce-attorney-what-you-should-know.html|0|divorce attorney orlando|2010-08-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|40</Row>
+			<Row>http://selfhelpblog.maidish.com/tag/laws|0|divorce attorney|2010-07-14|0|0|0|0|0|0|0|http://www.divorceorlando.net|23</Row>
+			<Row>http://selfhelpblog.maidish.com/tag/laws|0|divorce attorney orlando|2010-07-14|0|0|0|0|0|0|0|http://www.divorceorlando.net|23</Row>
+			<Row>http://www.articles-cafe.com/Author/19114/Tiffany-Qunach.html|0|divorce attorney|2010-11-28|0|0|1|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://eiksys.net/directory/Business/Computers_and_Internet/Business/Business_Law?p=14|0|divorce attorney orlando|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|29</Row>
+			<Row>http://seobase.at/kategorie/Social-Network.html|0|divorce attorney orlando || divorce attorney orlando|2012-02-14|0|0|0|0|0|0|0|http://www.divorceorlando.net|94</Row>
+			<Row>http://seobase.at/kategorie/Social-Network.html|0|webseite|2012-02-14|0|0|0|0|0|0|0|http://www.divorceorlando.net|94</Row>
+			<Row>http://justmelpublishing.com/society/divorce/55|0|divorce attorney orlando|2012-02-08|0|0|0|0|0|0|0|http://www.divorceorlando.net|10</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6423/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.hometaker.com/detail.php?id=10900|0|divorce attorney orlando|2010-11-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|15</Row>
+			<Row>http://ministryofreviews.com/choosing-the-right-divorce-attorney-48267|0|divorce attorney orlando|2010-10-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|57</Row>
+			<Row>http://ministryofreviews.com/choosing-the-right-divorce-attorney-48267|0|divorce attorney|2010-10-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|57</Row>
+			<Row>http://linkarena.com/tags/divorce|0|divorce attorney orlando|2012-02-02|0|0|1|0|0|0|0|http://www.divorceorlando.net|95</Row>
+			<Row>http://rabunda.com/index.php?s=A&#38;c=68&#38;p=12|0|divorce attorney orlando|2010-04-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|62</Row>
+			<Row>http://www.myarticlesonline.com/Browse/105784/Tiffany-Qunach.html|0|divorce attorney|2012-02-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|16</Row>
+			<Row>http://hg.org/law-firms/Child-Support-and-Custody/USA-Florida/Orlando.html|0|website|2010-08-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://gatearticles.com/ja/how-to-get-best-laser-toner-cartridges|0|離婚弁護士|2010-10-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.simplyarticles.co.uk/profile/allen-wright-22432.html?fmt=rss|0|divorce attorney orlando|2010-02-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|96</Row>
+			<Row>http://www.articles-cafe.com/Art/98559/312/Doctor-Settles-Medical-Malpractice-Lawsuit-For-Failing-To-Recognizing-Or-Responding-To-Unborn-Child-In-Fetal-Distress.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.hg.org/law-firms/Paternity/USA-Florida/Fern-Park.html|0|website|2010-11-14|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7378/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles.contentwritingzone.com/divorce-attorney-are-you-in-need-of-one|0|divorce attorney orlando|2010-11-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|52</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7291/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6426/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.oldrec.com/Business/divorce-attorney-orlando|0|» read more|2010-03-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|47</Row>
+			<Row>http://www.oldrec.com/Business/divorce-attorney-orlando|0|divorce attorney orlando|2010-03-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|47</Row>
+			<Row>http://www.articles-cafe.com/Art/99054/312/1-200-000-Jury-Award-For-Pedestrian-Injured-In-Motor-Vehicle-Accident-When-Defendant-Attempted-To-Deflect-Liability.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://alluniquearticles.com/search.php?q=good attorney|0|divorce attorney|2010-10-26|0|0|0|0|0|0|0|http://www.divorceorlando.net|18</Row>
+			<Row>http://www.cothivalebooks.com/artdir/society/divorce/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney.html|0|divorce attorney|2010-08-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|40</Row>
+			<Row>http://www.cothivalebooks.com/artdir/society/divorce/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney.html|0|divorce attorney orlando|2010-08-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|40</Row>
+			<Row>http://eiksys.net/directory/Home/Home/Business/Business_Law?p=14|0|divorce attorney orlando|2010-12-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|29</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6599/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7146/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/96091/312/Witty-and-Clever-Insults-are-An-Integral-Part-of-Courtroom-Testimony.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.tagbox.de/bookmarks/haribogel|0| |2012-02-12|0|0|0|1|0|0|0|http://www.divorceorlando.net|43</Row>
+			<Row>http://www.tagbox.de/bookmarks/haribogel|0|divorce attorney orlando|2012-02-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|43</Row>
+			<Row>http://www.totheglobe.info/relationships/divorce/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney.html|0|divorce attorney orlando|2012-02-22|0|0|0|0|0|0|0|http://www.divorceorlando.net|80</Row>
+			<Row>http://www.totheglobe.info/relationships/divorce/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney.html|0|divorce attorney|2012-02-22|0|0|0|0|0|0|0|http://www.divorceorlando.net|80</Row>
+			<Row>http://hg.org/law-firms/Child-Support-and-Custody/USA-Florida/Winter-Park.html|0|website|2010-10-01|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.buzzingniches.com/view/printview-13260.html|0|divorce attorney orlando|2010-03-16|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://www.articles-cafe.com/Art/99056/312/Parents-Pursue-Case-Against-Doctor-For-Their-Disabled-Baby.html|0|divorce attorney|2010-10-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6896/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://gatearticles.com/it/author/SteveYoung|0|avvocato di divorzio|2010-11-28|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://onlinelawyers4me.info/lawyers/divorce-attorney-are-you-in-need-of-one|0|divorce attorney orlando|2012-02-21|0|0|0|0|0|0|0|http://www.divorceorlando.net|21</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6975/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/96095/312/Do-Some-Research-Before-You-File-a-Personal-Injury-Lawsuit.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.hg.org/lawfirms/USA-florida/Altamonte-Springs.html|0|website|2010-06-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://articlebarracks.com/ezineready.php?id=119520|0|divorce attorney orlando|2010-06-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://articlebarracks.com/ezineready.php?id=119520|0|divorce attorney|2010-06-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://thejoannawebsite.com/category/wedding/feed|0|divorce attorney|2010-10-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|11</Row>
+			<Row>http://www.articles-cafe.com/Art/98293/312/Doctor-To-Pay-Family-3-000-000-For-Medical-Mistake-Leading-to-Baby-s-Death.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5756/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://easybookmarks.info/upcoming.php?page=303&#38;category=business|0| |2012-02-18|0|0|1|1|0|0|0|http://www.divorceorlando.net|97</Row>
+			<Row>http://easybookmarks.info/upcoming.php?page=303&#38;category=business|0|http://www.divorceorlando.net|2012-02-18|0|0|1|0|0|0|0|http://www.divorceorlando.net|97</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6665/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://zicosur.org/Business_and_Economy/Law?p=16|0|divorce attorney orlando|2012-02-25|0|0|1|0|0|0|0|http://www.divorceorlando.net|33</Row>
+			<Row>http://gatearticles.com/ca/how-to-pick-a-good-divorce-attorney-for-your-divorce-settlement|0|advocat de divorci|2010-11-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.hg.org/law-firms/Child-Support/USA-Florida.html|0|website|2011-01-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://gatearticles.com/it/2010/09|0|avvocato di divorzio|2011-10-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://gatearticles.com/ja/author/JustinSu|0|離婚弁護士|2010-11-12|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.avidarticles.com/ezineready.php?id=220871|0|divorce attorney orlando|2010-07-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|69</Row>
+			<Row>http://www.avidarticles.com/ezineready.php?id=220871|0|divorce attorney|2010-07-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|69</Row>
+			<Row>http://gatearticles.com/es/2010/09|0|abogado de divorcio|2011-12-21|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6289/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://articlebarracks.com/ezineready.php?id=116343|0|divorce attorney orlando|2010-03-19|0|0|0|0|0|0|0|http://www.divorceorlando.net|17</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/5826/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.attorneymarketingdirectory.com/attorneydirectory/tag/legal/feed|0|divorce attorney orlando|2010-02-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|98</Row>
+			<Row>http://www.webdee.org/detail/78918/divorce-attorney-orlando.html|0|http://www.divorceorlando.net|2010-03-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|99</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/1929/type/universities|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://greatspouse.com/tag/social-issues|0|divorce attorney orlando|2012-02-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|100</Row>
+			<Row>http://greatspouse.com/tag/social-issues|0|orlando divorce attorney|2012-02-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|100</Row>
+			<Row>http://www.eduology.com/business_and_economy/law?p=26|0|divorce attorney orlando|2010-04-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|101</Row>
+			<Row>http://www.hg.org/law-firms/Domestic-Violence/USA-Florida/Fern-Park.html|0|website|2010-11-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.bigarticlesarchive.com/Category/Legal/269/pdate/desc/12|0|divorce attorney|2012-02-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|87</Row>
+			<Row>http://www.buzzingniches.com/self-improvement/2|0|divorce attorney orlando|2010-02-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://forlegaljustice.com/practice.html|0|divorce|2012-02-21|0|0|0|0|0|0|0|http://www.divorceorlando.net/divorce|102</Row>
+			<Row>http://www.listofadvertisers.com/story.php?title=divorce-attorney-orlando|0|http://www.divorceorlando.net|2010-02-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.listofadvertisers.com/story.php?title=divorce-attorney-orlando|0|divorce attorney orlando|2010-02-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.hg.org/law-firms/Child-Support/USA-Florida/Conway.html|0|website|2011-02-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.eduology.com/business_and_economy/law?p=30|0|divorce attorney orlando|2010-05-14|0|0|0|0|0|0|0|http://www.divorceorlando.net|101</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7170/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6575/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.buzzingniches.com/self-improvement/23|0|divorce attorney orlando|2010-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://feelthelovefrommee.com/wedding/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney|0|divorce attorney|2010-11-10|0|0|0|0|0|0|0|http://www.divorceorlando.net|86</Row>
+			<Row>http://www.allsortsofinfo.com/legal/divorce-attorney-are-you-in-need-of-one.html|0|divorce attorney orlando|2010-04-26|0|0|0|0|0|0|0|http://www.divorceorlando.net|27</Row>
+			<Row>http://wholesaler.me.uk/tag/divorce-attorney-contacts|0|divorce attorney|2012-02-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|2</Row>
+			<Row>http://wholesaler.me.uk/tag/divorce-attorney-contacts/feed|0|divorce attorney|2011-12-31|0|0|0|0|0|0|0|http://www.divorceorlando.net|2</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6355/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6576/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://wholesaler.me.uk/tag/divorce-attorney-groups|0|divorce attorney|2012-02-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|2</Row>
+			<Row>http://www.listofadvertisers.com/search.php?search=divorce attorney&#38;tag=true|0|http://www.divorceorlando.net|2010-02-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.hg.org/lawyer/Diana-Dunlop/108653|0|mrs. diana dunlop - partner, winter park, florida|2010-08-11|0|0|0|0|0|0|0|http://www.divorceorlando.net/diana-dunlop|0</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/1977/type/universities|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://wholesaler.me.uk/tag/divorce-attorney-groups/feed|0|divorce attorney|2011-12-31|0|0|0|0|0|0|0|http://www.divorceorlando.net|2</Row>
+			<Row>http://www.dugf.com/category/law-legal/page/30|0|divorce attorney|2011-12-22|0|0|0|0|0|0|0|http://www.divorceorlando.net|103</Row>
+			<Row>http://article-marketing-online.com/keywords/divorce-attorney-groups|0|divorce attorney|2010-11-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|104</Row>
+			<Row>http://hg.org/law-firms/Personal-Property/USA-Florida/Orlando.html|0|website|2010-08-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://gatearticles.com/de/author/JustinSu|0|scheidungsanwalt|2010-11-08|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://buzzingniches.com/self-improvement/how-to-pick-a-good-divorce-attorney-for-your-divorce-settlement.html|0|divorce attorney orlando|2010-03-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://www.articledirectory.name/Browse/58594/Kim-Nigh.html|0|divorce attorney orlando|2012-02-14|0|0|1|0|0|0|0|http://www.divorceorlando.net|66</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6667/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7440/type/private|0|orlando divorce lawyer|2010-08-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articleplugin.com/2010/07/how-to-pick-a-good-divorce-attorney-for-your-divorce-settlement|0|divorce attorney|2010-08-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|61</Row>
+			<Row>http://hg.org/law-firms/Personal-Property/USA-Florida/Winter-Park.html|0|website|2010-10-01|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.hg.org/lawfirms.asp?action=search&#38;City=Longwood&#38;stateorprovince=Florida|0|website|2010-07-26|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.articles-cafe.com/Art/90044/312/Revealed-What-does-the-Louisiana-Lemon-Law-Cover.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.articles-cafe.com/Art/90045/312/Do-you-know-how-to-Hire-an-Attorney-Who-Can-Handle-Case-for-Lemon-Laws-in-Louisiana.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://washlaw.edu/lfirms/index.php?s=H&#38;c=14&#38;p=25|0|dunlop, dunlop, dunlop, p.a.|2012-02-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|105</Row>
+			<Row>http://www.articles-cafe.com/Art/90046/312/Revealed-The-5-Popular-Misconceptions-About-The-Lemon-Laws-In-Louisiana.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.worldlyarticles.com/author/AllenWright|0|divorce attorney orlando|2010-02-13|0|0|0|0|0|0|0|http://www.divorceorlando.net|106</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6542/type/private|0|orlando divorce lawyer|2010-08-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/13640/312/Joint-Venture-Agreements-Key-Drafting-Issues.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://spotback.com/users/smaximizer/tag/Lawyers|0|divorce attorney orlando|2010-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|22</Row>
+			<Row>http://spotback.com/users/smaximizer/tag/Lawyers|0|www.divorceorlando.net|2010-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|22</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/7473/type/private|0|orlando divorce lawyer|2010-08-03|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/90050/312/Revealed-Lemon-Laws-in-Louisiana-and-what-they-can-do-for-you.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.hg.org/lawfirms.asp?action=search&#38;stateorprovince=florida&#38;getall=true|0|website|2010-06-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.articles-cafe.com/Art/90051/312/What-do-the-lemon-laws-in-Louisiana-Cover.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.articles-cafe.com/Art/99799/312/Pedestrian-Suffers-Various-Leg-Factures-And-Pursues-1-2-Million-Personal-Injury-Matter-Against-Driver.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.hg.org/lawfirms/USA-florida/Fern-Park.html|0|website|2010-06-25|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.articles-cafe.com/Art/90052/312/Is-A-Lemon-Eating-Up-Your-Time-And-Money-Lemon-Laws-in-Louisiana-Can-Help.html|0|divorce attorney|2010-10-07|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6032/type/private|0|orlando divorce lawyer|2010-08-09|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://spotback.com/users/smaximizer/tag/Legal|0|divorce attorney orlando|2010-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|22</Row>
+			<Row>http://spotback.com/users/smaximizer/tag/Legal|0|www.divorceorlando.net|2010-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|22</Row>
+			<Row>http://www.hg.org/lawfirms.asp?action=search&#38;City=Winter||Park&#38;stateorprovince=Florida|0|website|2010-07-01|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6668/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_jvlinx&#38;Itemid=94&#38;task=all_links|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.hg.org/law-firms/Child-Support/USA-Florida/Lockhart.html|0|website|2011-02-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.newquestcity.com/templates/education_school.cfm/id/6901/type/private|0|orlando divorce lawyer|2010-08-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|4</Row>
+			<Row>http://www.articles-cafe.com/Art/101069/312/Unsung-saviors-that-you-can-trust-during-personal-injuries.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://eiksys.net/directory/Business/Business/Business/Business_Law?p=14|0|divorce attorney orlando|2012-02-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|29</Row>
+			<Row>http://gatearticles.com/no/author/SteveYoung|0|skilsmisse advokat|2010-11-29|0|0|0|0|0|0|0|http://www.divorceorlando.net|14</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_jvlinx&#38;Itemid=94&#38;task=checklinkstatus|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.hg.org/law-firms/Child-Support/USA-Florida/Longwood.html|0|website|2011-02-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.buzzingniches.com/self-improvement/43|0|divorce attorney orlando|2010-03-15|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_jvlinx&#38;Itemid=94&#38;task=recommend|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.hg.org/law-firms/Child-Support/USA-Florida/Maitland.html|0|website|2011-02-04|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.articles-cafe.com/Art/97842/312/7-Hour-Holdup-By-Medical-Professionals-In-Reacting-To-Fetal-Distress-Brings-About-Child-s-Brain-Injury.html|0|divorce attorney|2010-10-06|0|0|0|0|0|0|0|http://www.divorceorlando.net|7</Row>
+			<Row>http://www.qzepc.com/2010/09|0|divorce attorney|2012-02-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|35</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=10&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://marriagerelationship.net/700/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney|0|divorce attorney|2012-02-20|0|0|1|0|0|0|0|http://www.divorceorlando.net|59</Row>
+			<Row>http://www.personal-injury-attorney-los-angeles-now.com/personalinjurylosangeles/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney|0|divorce attorney|2010-11-26|0|0|0|0|0|0|0|http://www.divorceorlando.net|3</Row>
+			<Row>http://www.personal-injury-attorney-los-angeles-now.com/personalinjurylosangeles/what-you-need-to-know-to-be-able-to-choose-the-right-divorce-attorney|0|divorce attorney orlando|2010-11-26|0|0|0|0|0|0|0|http://www.divorceorlando.net|3</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=11&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.hg.org/lawfirms.asp?action=search&#38;City=Maitland&#38;stateorprovince=Florida|0|website|2010-07-26|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=12&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://washlaw.edu/lfirms/index.php?s=A&#38;c=14&#38;p=12|0|dunlop, dunlop, dunlop, p.a.|2012-02-20|0|0|0|0|0|0|0|http://www.divorceorlando.net|105</Row>
+			<Row>http://spotback.com/users/smaximizer/tag/orlando|0|www.divorceorlando.net|2010-04-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|22</Row>
+			<Row>http://spotback.com/users/smaximizer/tag/orlando|0|divorce attorney orlando|2010-04-23|0|0|0|0|0|0|0|http://www.divorceorlando.net|22</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=13&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+			<Row>http://www.justezine.com/relationships/divorce/5|0|divorce attorney orlando|2011-01-05|0|0|0|0|0|0|0|http://www.divorceorlando.net|107</Row>
+			<Row>http://www.buzzingniches.com/view/printview-11638.html|0|divorce attorney orlando|2010-03-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|24</Row>
+			<Row>http://www.hg.org/law-firms/Personal-Property/United-States-of-America-/Winter-Park.html|0|website|2011-01-22|0|0|0|0|0|0|0|http://www.divorceorlando.net|0</Row>
+			<Row>http://eiksys.net/directory/Business/Business_Law?p=14|0|divorce attorney orlando|2012-02-18|0|0|0|0|0|0|0|http://www.divorceorlando.net|29</Row>
+			<Row>http://www.listofadvertisers.com/index.php?page=57&#38;option=com_sobi2&#38;catid=14&#38;Itemid=91|0|http://www.divorceorlando.net|2010-01-24|0|0|0|0|0|0|0|http://www.divorceorlando.net|5</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="108" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD">
+			<Row>0|hg.org|15989|42923|43514531|2884085|1385037|2006-08-04|2012-02-25|208.75.212.81|208.75.212.0|US|org</Row>
+			<Row>1|lawchek.net|-1|1079|64443|26305|21374|2006-10-22|2012-02-25|67.55.152.68|67.55.152.0|US|net</Row>
+			<Row>2|wholesaler.me.uk|-1|283|34281|55157|22540|2011-02-10|2012-02-25|213.171.195.53|213.171.195.0|UK|uk</Row>
+			<Row>3|personal-injury-attorney-los-angeles-now.com|-1|3418|55492|35270|26764|2009-12-24|2012-02-25|66.147.242.186|66.147.242.0|US|com</Row>
+			<Row>4|newquestcity.com|430230|4730|844091|601214|315047|2006-08-21|2012-02-25|209.192.103.11|209.192.103.0|US|com</Row>
+			<Row>5|listofadvertisers.com|36082|7471|314825|1332116|720986|2009-04-22|2012-02-25|66.40.66.251|66.40.66.0|UK|com</Row>
+			<Row>6|westbelfast.net|-1|336|1453|7367685|868273|2009-06-09|2012-02-08|212.100.243.206|212.100.243.0|UK|net</Row>
+			<Row>7|articles-cafe.com|162405|16936|213716|494457|114678|2009-06-11|2012-02-25|67.18.3.36|67.18.3.0|US|com</Row>
+			<Row>8|resortquestmortgage.com|804380|1737|482857|63204|41673|2010-02-22|2012-02-25|174.120.80.130|174.120.80.0|US|com</Row>
+			<Row>9|civilgideon.com|-1|398|4800|187573|45099|2007-11-21|2012-02-25|67.18.20.84|67.18.20.0|US|com</Row>
+			<Row>10|justmelpublishing.com|181765|3167|30821|618133|200054|2010-01-20|2012-02-25|174.120.154.187|174.120.154.0|US|com</Row>
+			<Row>11|thejoannawebsite.com|-1|152|6175|73704|47321|2008-02-13|2011-01-06|64.92.102.4|64.92.102.0|US|com</Row>
+			<Row>12|articlesure.com|-1|182|84793|67395|35809|2010-09-27|2012-02-25|174.132.192.188|174.132.192.0|US|com</Row>
+			<Row>13|articlebanker.com|62155|17820|205515|1357870|496897|2008-03-14|2012-02-25|74.220.207.165|74.220.207.0|US|com</Row>
+			<Row>14|gatearticles.com|-1|205|3851|756593|241105|2008-06-12|2012-02-25|66.7.212.69|66.7.212.0|US|com</Row>
+			<Row>15|hometaker.com|42297|310|1606|94722|57175|2008-11-11|2012-02-25|174.120.200.91|174.120.200.0|US|com</Row>
+			<Row>16|myarticlesonline.com|188062|7512|73954|1038297|350452|2009-05-29|2012-02-25|74.52.154.132|74.52.154.0|US|com</Row>
+			<Row>17|articlebarracks.com|368635|1302|386133|1464923|839811|2009-08-23|2012-02-25|174.132.145.94|174.132.145.0|US|com</Row>
+			<Row>18|alluniquearticles.com|-1|374|147954|1773260|904703|2008-01-11|2011-12-20|174.120.8.194|174.120.8.0|US|com</Row>
+			<Row>19|impawned.com|-1|1288|12148|263110|142171|2010-03-03|2011-01-09|206.222.226.17|206.222.226.0|US|com</Row>
+			<Row>20|wesotec.de|-1|362|486175|348892|31563|2010-11-09|2012-02-25|82.197.146.30|82.197.146.0|DE|de</Row>
+			<Row>21|onlinelawyers4me.info|-1|12|60|7212|1881|2010-09-21|2012-02-21| | | |info</Row>
+			<Row>22|spotback.com|8996|31665|2468285|7059745|1325879|2006-08-13|2012-02-05|173.45.67.210|173.45.67.0|US|com</Row>
+			<Row>23|maidish.com|-1|294|2779|316603|223446|2010-03-14|2010-09-27|208.179.202.2|208.179.202.0|US|com</Row>
+			<Row>24|buzzingniches.com|-1|595|11356|966707|444246|2010-01-11|2012-02-25|66.147.240.97|66.147.240.0|US|com</Row>
+			<Row>25|the-secret-tv.com|-1|54|45634|20026782|610337|2008-05-11|2011-04-13|74.208.60.67|74.208.60.0|US|com</Row>
+			<Row>26|weddingplannews.com|-1|592|84294|141190|106038|2009-12-15|2012-02-25|69.89.27.246|69.89.27.0|US|com</Row>
+			<Row>27|allsortsofinfo.com|-1|1244|9310|592270|188300|2009-06-01|2012-02-25|174.120.139.61|174.120.139.0|US|com</Row>
+			<Row>28|articlecanyon.com|188804|4067|50874|6160245|436157|2009-12-13|2011-02-13|174.120.40.6|174.120.40.0|US|com</Row>
+			<Row>29|eiksys.net|155827|2158|24711|1171492|137383|2007-07-02|2012-02-25|216.59.0.163|216.59.0.0|IN|net</Row>
+			<Row>30|jayde.com|4876|42605|1606561|3860436|743093|2006-07-27|2012-02-25|66.28.139.67|66.28.139.0|US|com</Row>
+			<Row>31|hotannals.com|-1|409|2570|3016946|555339|2009-11-20|2011-06-11|208.82.204.116|208.82.204.0|US|com</Row>
+			<Row>32|child-custody-help.com|-1|177|993|7032|3979|2009-05-20|2012-02-25|66.147.240.95|66.147.240.0|US|com</Row>
+			<Row>33|zicosur.org|20922|2089|132914|162590|106433|2010-04-06|2012-02-25|67.220.206.214|67.220.206.0|US|org</Row>
+			<Row>34|onlinearticles4you.com|-1|25|352|299309|257153|2010-01-24|2011-10-14|74.53.28.217|74.53.28.0|US|com</Row>
+			<Row>35|qzepc.com|863051|1820|548276|50836|32392|2009-12-13|2012-02-25|174.132.146.93|174.132.146.0|US|com</Row>
+			<Row>36|diigo.com|1503|303634|372338422|108993375|3349411|2006-07-29|2012-02-25|72.26.226.42|72.26.226.0|US|com</Row>
+			<Row>37|divorcelawflorida.net|-1|901|3607|166|125|2006-10-23|2012-02-25|65.254.254.34|65.254.254.0|US|net</Row>
+			<Row>38|wahyupromo.com|-1|2599|555536|54012|38307|2007-06-06|2012-02-25|174.132.146.93|174.132.146.0|US|com</Row>
+			<Row>39|article401.com|-1|114|744|56542|22444|2010-09-15|2012-02-25|208.109.181.55|208.109.181.0|US|com</Row>
+			<Row>40|cothivalebooks.com|537420|2548|28673|1090390|658553|2008-03-24|2012-02-25|67.18.19.178|67.18.19.0|US|com</Row>
+			<Row>41|1lovecalculators.com|-1|93|14745|12931|6001|2010-09-11|2011-05-27|96.30.39.60|96.30.39.0|US|com</Row>
+			<Row>42|etup.org|27204|2027|44968|126403|40642|2006-10-19|2012-02-25|174.120.171.253|174.120.171.0|US|org</Row>
+			<Row>43|tagbox.de|62157|2101|90103|1503242|463758|2007-12-29|2012-02-25|212.227.89.235|212.227.89.0|DE|de</Row>
+			<Row>44|exotaarticles.com|-1|1717|51250|171238|104742|2010-04-09|2012-02-12|88.198.55.9|88.198.55.0|DE|com</Row>
+			<Row>45|mbceo.com|-1|2691|15848|6310498|302517|2006-07-28|2012-02-25|75.126.243.12|75.126.243.0|US|com</Row>
+			<Row>46|littlewebdirectory.com|13659|16152|3777623|1304650|180772|2006-08-30|2012-02-25|208.109.138.201|208.109.138.0|US|com</Row>
+			<Row>47|oldrec.com|125093|1792|1308177|2049379|740890|2008-03-26|2012-02-23|174.132.159.93|174.132.159.0|US|com</Row>
+			<Row>48|eastbradfordcitizens.com|-1|820|8421|43509|14693|2008-01-02|2012-02-25|74.50.0.200|74.50.0.0|US|com</Row>
+			<Row>49|articledirectorycentral.com|224784|13650|156847|763662|297416|2009-08-26|2012-02-25|174.120.28.58|174.120.28.0|US|com</Row>
+			<Row>50|propertylondon.net|-1|411|6956450|4706083|664315|2008-10-10|2012-02-23|212.100.239.216|212.100.239.0|UK|net</Row>
+			<Row>51|101ez.com|319349|2277|34637|522732|202200|2008-03-10|2011-05-20|74.53.88.50|74.53.88.0|US|com</Row>
+			<Row>52|contentwritingzone.com|746396|3348|12447|17843|12388|2010-04-14|2012-02-25|174.123.114.130|174.123.114.0|US|com</Row>
+			<Row>53|vagi.org|-1|1828|11405|94177|47801|2011-01-12|2012-02-25|208.73.210.121|208.73.210.0|US|org</Row>
+			<Row>54|ccarrabida.org|278884|5415|98001|27860|13336|2008-07-10|2012-02-25|174.132.227.149|174.132.227.0|US|org</Row>
+			<Row>55|europasearch.co.uk|-1|374|1238475|5989732|761497|2009-09-25|2012-02-25|212.100.243.206|212.100.243.0|UK|uk</Row>
+			<Row>56|currentarticles.org|-1|1928|17928|191757|102368|2010-01-21|2012-02-25|174.120.188.125|174.120.188.0|US|org</Row>
+			<Row>57|ministryofreviews.com|-1|442|32540|276328|192765|2009-11-17|2012-02-25|74.53.87.210|74.53.87.0|US|com</Row>
+			<Row>58|royalavenue.com|-1|295|13734949|3074451|452758|2009-07-06|2012-02-25|212.100.243.206|212.100.243.0|UK|com</Row>
+			<Row>59|marriagerelationship.net|-1|148|512|13886|10823|2008-10-09|2012-02-25|65.98.14.106|65.98.14.0|US|net</Row>
+			<Row>60|planetarticle.com|256129|2860|26228|1199212|620997|2010-01-20|2012-02-25|174.120.23.154|174.120.23.0|US|com</Row>
+			<Row>61|articleplugin.com|64648|14324|165811|343822|185123|2009-08-27|2011-06-29|97.74.144.131|97.74.144.0|US|com</Row>
+			<Row>62|rabunda.com|812023|501|3600|22547|19198|2007-06-21|2010-04-25|85.17.137.170|85.17.137.0|NL|com</Row>
+			<Row>63|caplar.com|-1|1519|39813|91995|60068|2010-01-09|2012-02-25|67.228.57.208|67.228.57.0|US|com</Row>
+			<Row>64|a-p-e-x.org|17788|2429|68297|107944|33703|2007-11-16|2012-02-25|174.120.194.36|174.120.194.0|US|org</Row>
+			<Row>65|chinagridforum.org|279910|1692|2741283|184826|170863|2007-03-30|2012-02-25|82.146.53.7|82.146.53.0|RU|org</Row>
+			<Row>66|articledirectory.name|76825|8111|794245|651019|279973|2009-07-11|2012-02-25|67.18.137.226|67.18.137.0|US|name</Row>
+			<Row>67|wcom51.com|-1|164|1126|821448|534354|2008-02-14|2012-02-25|70.87.90.196|70.87.90.0|US|com</Row>
+			<Row>68|civilrightslawyer.info|-1|425|14259|36762|31587|2010-02-17|2010-11-20|174.120.154.2|174.120.154.0|US|info</Row>
+			<Row>69|avidarticles.com|64660|3897|140437|1834975|903558|2008-08-26|2012-02-25|174.120.127.62|174.120.127.0|US|com</Row>
+			<Row>70|mp3beats.net|-1|104|427|1888736|425452|2006-09-16|2010-10-21|94.75.233.184|94.75.233.0|NL|net</Row>
+			<Row>71|blinklist.com|4128|571112|1236671702|327736694|4066278|2006-08-26|2012-02-25|174.129.4.145|174.129.4.0|US|com</Row>
+			<Row>72|icaats.com|-1|233|2737|44438|22675|2009-07-19|2012-02-25|67.225.161.244|67.225.161.0|US|com</Row>
+			<Row>73|snoot.ru|-1|3172|383855|10334220|685124|2009-11-15|2011-06-21|69.73.169.145|69.73.169.0|US|ru</Row>
+			<Row>74|myseobookmarks.info|65457|1637|3656415|550458|108078|2010-05-04|2012-02-25|68.168.100.129|68.168.100.0|US|info</Row>
+			<Row>75|habitofharmony.com|-1|565|8961|3304|1969|2009-01-02|2012-02-25|67.222.37.123|67.222.37.0|US|com</Row>
+			<Row>76|satangel.ru|-1|2456|234395|19866568|686132|2010-01-10|2011-06-23|91.213.117.42|91.213.117.0|UA|ru</Row>
+			<Row>77|article-place.co.cc|-1|417|3934|409563|82460|2010-06-13|2011-05-19|118.219.232.177|118.219.232.0|SG|cc</Row>
+			<Row>78|articlesit.com|-1|149|1281|65432|51521|2010-09-15|2011-04-26|174.120.6.7|174.120.6.0|US|com</Row>
+			<Row>79|tekki.de|-1|184|172686|137375|34669|2009-07-14|2012-02-25|80.67.19.109|80.67.19.0|DE|de</Row>
+			<Row>80|totheglobe.info|153799|3975|25995|222501|71162|2007-12-14|2012-02-25|74.55.39.203|74.55.39.0|US|info</Row>
+			<Row>81|bing.com|18|771088|495259464|225712298|6133124|2008-01-08|2012-02-25|96.17.106.209|96.17.106.0|US|com</Row>
+			<Row>82|zzygg.com|287446|369|9646|932266|421931|2008-05-05|2010-06-28|220.226.178.172|220.226.178.0|IN|com</Row>
+			<Row>83|tallstreet.com|114015|3742|90758|678347|340022|2007-04-12|2012-02-21|74.125.95.121|74.125.95.0|US|com</Row>
+			<Row>84|socibook.com|94794|2952|1754508|1692124|545574|2009-03-16|2012-02-25|72.167.232.6|72.167.232.0|US|com</Row>
+			<Row>85|the-monkey.biz|582913|8383|1039845|620112|170211|2007-11-22|2012-02-25|64.34.103.94|64.34.103.0|CA|biz</Row>
+			<Row>86|feelthelovefrommee.com|-1|404|27828|19488|17802|2008-08-22|2011-12-08|193.164.131.16|193.164.131.0|DE|com</Row>
+			<Row>87|bigarticlesarchive.com|-1|165|1647|799421|302027|2010-06-10|2012-02-25|74.220.207.191|74.220.207.0|US|com</Row>
+			<Row>88|lexcites.com|-1|339|37448|32072|18688|2008-09-18|2012-02-25|64.202.189.170|64.202.189.0|US|com</Row>
+			<Row>89|articles.com.mx|-1|4160|313341|894408|536469|2007-01-07|2012-02-25|67.225.142.86|67.225.142.0|US|mx</Row>
+			<Row>90|cheapdivorcelawyers.us|-1|1121|39710|12841|11843|2009-03-13|2012-02-25|67.225.195.153|67.225.195.0|US|us</Row>
+			<Row>91|qip.ru|640|65528|144482191|27017071|2129678|2006-11-10|2012-02-25|195.68.160.209|195.68.160.0|RU|ru</Row>
+			<Row>92|do-ok.com|-1|730|73462|1374886|914237|2007-01-10|2011-03-06|69.42.58.70|69.42.58.0|US|com</Row>
+			<Row>93|archivisionmodels.com|-1|1833|14646|147904|48475|2007-02-03|2012-02-25|97.74.215.50|97.74.215.0|US|com</Row>
+			<Row>94|seobase.at|669302|259|21464|7888|5529|2011-01-02|2012-02-25|85.124.51.103|85.124.51.0|AT|at</Row>
+			<Row>95|linkarena.com|7753|183069|855456842|119296384|1655019|2006-08-07|2012-02-25|84.200.227.131|84.200.227.0|DE|com</Row>
+			<Row>96|simplyarticles.co.uk|-1|182|3082|476659|220549|2009-08-05|2012-02-24|174.120.21.162|174.120.21.0|US|uk</Row>
+			<Row>97|easybookmarks.info|131794|1223|3983100|282645|61752|2008-10-30|2012-02-25|68.168.100.129|68.168.100.0|US|info</Row>
+			<Row>98|attorneymarketingdirectory.com|-1|3231|66730|58021|20332|2009-09-18|2012-02-25|66.147.242.186|66.147.242.0|US|com</Row>
+			<Row>99|webdee.org|303111|1313|74773|2306472|706133|2008-11-30|2012-02-25|74.53.81.226|74.53.81.0|US|org</Row>
+			<Row>100|greatspouse.com|-1|166|1899|20690|4483|2006-12-11|2012-02-25|62.157.140.133|62.157.140.0|DE|com</Row>
+			<Row>101|eduology.com|24880|1732|111128|1099844|456294|2007-04-15|2012-02-25|67.18.100.147|67.18.100.0|US|com</Row>
+			<Row>102|forlegaljustice.com|-1|3|4|10|7|2010-10-13|2012-02-21| | | |com</Row>
+			<Row>103|dugf.com|-1|407|30369|56593|16407|2010-09-23|2012-02-25|69.41.246.37|69.41.246.0|US|com</Row>
+			<Row>104|article-marketing-online.com|-1|126|272|52092|36368|2009-12-22|2011-05-15|74.52.119.134|74.52.119.0|US|com</Row>
+			<Row>105|washlaw.edu|221309|22442|397040|21199|13177|2006-08-10|2012-02-25|198.252.9.97|198.252.9.0|US|edu</Row>
+			<Row>106|worldlyarticles.com|-1|3062|61688|214294|136050|2009-09-11|2011-02-16|69.175.84.210|69.175.84.0|US|com</Row>
+			<Row>107|justezine.com|-1|1434|18103|1469721|411185|2007-02-06|2012-01-17|208.115.208.34|208.115.208.0|US|com</Row>
+		</DataTable>
+	</DataTables>
+</Result>

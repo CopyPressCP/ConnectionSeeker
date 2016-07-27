@@ -1,0 +1,251 @@
+<?php
+$cs=Yii::app()->clientScript;
+$cs->registerCoreScript( 'jquery.ui' );
+//$cs->registerScriptFile(Yii::app()->baseUrl . '/js/timepicker/jquery.timePicker.min.js', CClientScript::POS_HEAD);
+
+$cs->registerCssFile(Yii::app()->theme->baseUrl . '/css/gridview/styles.css');
+$cs->registerScriptFile(Yii::app()->theme->baseUrl . '/css/gridview/jquery.yiigridview.js', CClientScript::POS_END);
+
+//outreach table list reference. 
+//http://www.webdesignbooth.com/15-great-jquery-plugins-for-better-table-manipulation/
+?>
+
+<div class="form leftform">
+
+<?php $form=$this->beginWidget('CActiveForm', array(
+	'id'=>'client-domain-form',
+	'enableAjaxValidation'=>false,
+)); ?>
+
+	<p class="note">Fields with <span class="required">*</span> are required.</p>
+
+	<?php echo $form->errorSummary($model, $kymodel); ?>
+
+  <div id="leftbasicinfo" style="width:320px;">
+	<div class="row">
+		<?php echo $form->labelEx($model,'domain'); ?>
+		<?php echo $form->textField($model,'domain',array('size'=>60,'maxlength'=>255)); ?>
+		<?php echo $form->error($model,'domain'); ?>
+	</div>
+
+	<div class="row">
+		<?php echo $form->labelEx($model,'client_id'); ?>
+		<?php //echo $form->textField($model,'client_id'); ?>
+        <?php echo $form->dropDownList($model, 'client_id', Chtml::listData(Client::model()->findAll(),'id','name'),array('prompt'=>'-- Select --')); ?>
+		<?php echo $form->error($model,'client_id'); ?>
+	</div>
+
+	<div class="row" id="domain_keywords">
+        <?php
+        echo $form->labelEx($kymodel,'keyword');
+        echo $form->error($kymodel,'keyword');
+        $_t_count = 3;//default text filed count
+
+        if (isset($model->id) && $model->id > 0) {
+            $_kymodel = $kymodel->findAllByAttributes(array('domain_id'=>$model->id));
+            $keywordcount = count($_kymodel);
+            if ($keywordcount > 0) {
+                foreach($_kymodel as $_kv) {
+                    echo $form->textField($_kv,'keyword',array('size'=>60,'maxlength'=>255,'name'=>get_class($kymodel)."[keyword][ck_"."$_kv->id]"));
+                }
+            }
+            $_t_count = $_t_count - $keywordcount;
+        }
+
+        if ($_t_count > 0) {
+            for ($i = 0; $i < $_t_count; $i++) {
+                echo $form->textField($kymodel,'keyword[]',array('size'=>60,'maxlength'=>255));
+            }
+        }
+        ?>
+	</div>
+	<div class="row" id="add_more_keyword">
+        <?php echo CHtml::link(Yii::t('Client', '+Add More'), 'javascript:void(0);'); ?>
+	</div>
+  </div><!-- end of leftbasicinfo -->
+
+  <div id="middlebasicinfo" style="width:310px;">
+     <div class="row" id="domain_competitors">
+        <?php
+        //echo $model->rcompetitor
+        //print_r($model);
+        //print_r($model->rcompetitor);
+
+        echo $form->labelEx($cptmodel,'domain', array('label'=>'Competitor Domains'));
+        echo $form->error($cptmodel,'domain');
+        $_t_count = 6;//default text filed count
+        if (isset($model->id) && $model->id > 0) {
+            //$_kymodel = $cptmodel->findAllByAttributes(array('domain_id'=>$model->id));
+            $_cptarr = $model->rcompetitor;
+            /*
+            $keywordcount = count($_cptmodel);
+            if ($keywordcount > 0) {
+                foreach($_cptmodel as $_kv) {
+                    echo $form->textField($_kv,'domain',array('size'=>60,'maxlength'=>255,'name'=>get_class($_cptmodel)."[domain][ck_"."$_kv->id]"));
+                }
+            }
+            */
+            if (!empty($model->rcompetitor)) {
+                $cptcount = count($model->rcompetitor);
+                foreach ($model->rcompetitor as $ov) {
+                    $tfarr = array();
+                    $tfarr = array('size'=>60, 'maxlength'=>255, 'name'=>get_class($ov)."[domain][dk_"."$ov->id]");
+                    if (!empty($ov->last_call_api_time)) $tfarr['readonly'] = 'readonly';
+                    echo $form->textField($ov,'domain',$tfarr);
+                }
+            }
+
+            $_t_count = $_t_count - $cptcount;
+        }
+
+        if ($_t_count > 0) {
+            for ($i = 0; $i < $_t_count; $i++) {
+                echo $form->textField($cptmodel,'domain[]',array('size'=>60,'maxlength'=>255));
+            }
+        }
+
+        ?>
+	</div>
+	<div class="row" id="add_more_competitor">
+        <?php echo CHtml::link(Yii::t('Client', '+Add More'), 'javascript:void(0);'); ?>
+	</div>
+
+  </div><!-- end of middlebasicinfo -->
+
+    <div style="clear:both"></div>
+	<div class="row buttons">
+		<?php echo CHtml::submitButton($model->isNewRecord ? 'Create' : 'Save'); ?>
+	</div>
+
+<?php $this->endWidget(); ?>
+
+</div><!-- form -->
+
+<div class="form rightform">
+  <div id="rightbasicinfo" style="width:450px;">
+	<div class="row">
+    <?php echo Yii::t('Client', 'Search for competitors')?>
+	</div>
+	<div class="row">
+    <?php echo Yii::t('Client', 'Enter Keyword')?>:
+    <input type="text" id="GoogleSearch_keyword" name="GoogleSearch[keyword]" maxlength="255" size="60" style="width:210px;">
+
+    <?php echo CHtml::link(Yii::t('Client', 'Search'), 'javascript:void(0);' ,
+                           array('id' => 'cptsearch', 'class' => 'linkbutton')); ?>
+
+    <?php
+    /*
+        echo CHtml::ajaxLink(Yii::t('Client', 'Search'), array('/googleSearch/index'), 
+               array(
+                  'type' => 'GET',
+                  'data' => array('GoogleSearch[keyword]' => ''),
+                  'dataType' => 'json',
+                  'success'=>'js:function(data){
+                                    //alert(data.msg);
+                                    //alert(data.counter);
+                                    $("#rightscroll").html($.ajaxSettings.dataFilter(data.msg)); 
+                             }',
+               ), 
+               array('id' => 'cptsearch', 'class' => 'linkbutton'));
+    */
+    ?>
+	</div>
+
+	<div class="row">
+    <?php echo Yii::t('Client', 'Search Result')?>
+	</div>
+	<div class="row grid-view" id="rightscroll">
+        <table id="livecpt" class="items">
+        <thead><tr>
+        <th><input type="checkbox" class="select-on-check-all" value="1" name="ids_all" id="ids_all"></th>
+        <th>Domain</th>
+        <th>PR</th>
+        <th>Alexa</th>
+        <th>Age</th></tr></thead>
+        </table>
+	</div>
+
+
+    <div id="other">
+      Trigger the handler
+    </div>
+
+
+  </div><!-- end of middlebasicinfo -->
+  <div style="clear:both"></div>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#add_more_keyword').click(function(){
+        $('#domain_keywords').append('<?php echo $form->textField($kymodel,"keyword[]",array("size"=>60,"maxlength"=>255)); ?>');
+        $('#domain_keywords').append('<?php echo $form->textField($kymodel,"keyword[]",array("size"=>60,"maxlength"=>255)); ?>');
+    });
+    $('#add_more_competitor').click(function(){
+        $('#domain_competitors').append('<?php echo $form->textField($cptmodel,"domain[]",array("size"=>60,"maxlength"=>255)); ?>');
+        $('#domain_competitors').append('<?php echo $form->textField($cptmodel,"domain[]",array("size"=>60,"maxlength"=>255)); ?>');
+    });
+
+    $('#cptsearch').click(function(){
+        $.ajax({
+            'type':'GET',
+            'dataType':'json',
+            'url':"<?php echo CHtml::normalizeUrl(array('/googleSearch/index'));?>",
+            'data':'GoogleSearch[keyword]='+$("#GoogleSearch_keyword").val(),
+            'success':function(data){
+                /*
+                //way 1:
+                var str = "";
+                for(var p in data.cpt_domain){
+                    //str = str + data.cpt_domain[p].pr +',';
+                    str = str + p +',';
+                }
+                alert(str);
+                */
+                var tabletpl = $('<table></table>').attr({ id:"livecpt", class:"items"});
+                var rowtpl = $('<thead><tr><th><input type="checkbox" id="ids_all" name="ids_all" value="1" class="select-on-check-all"></th><th>Domain</th><th>PR</th><th>Alexa</th><th>Age</th></tr></thead>').appendTo(tabletpl);
+                var trclass = "even";
+                var ti = 0;
+                $.each(data.cpt_domain,function(index,cptinfo){
+                    //document.write('<div>'+cptinfo.domain+'</div><br />');
+                    trclass = (trclass == "odd") ? "even" : "odd";
+                    rowtpl = $('<tr></tr>').attr({ class:trclass }).appendTo(tabletpl);
+                    $('<td></td>').attr({class:"checkbox-column"}).html($('<input id="ids_'+ti+'" class="select-on-check" type="checkbox" name="ids[]" value="1">')).appendTo(rowtpl);
+                    $('<td></td>').text(cptinfo.domain).appendTo(rowtpl);
+                    $('<td></td>').text(cptinfo.pr).appendTo(rowtpl);
+                    $('<td></td>').text(cptinfo.alexa).appendTo(rowtpl);
+                    $('<td></td>').text(cptinfo.age).appendTo(rowtpl);
+                    ti ++;
+                });
+                //tabletpl.appendTo($("#rightscroll"));
+                $("#rightscroll").html(tabletpl);
+
+                //alert($.inArray('google.com',data.cpt_domain));
+
+                /*
+                  $(function() {
+                    var tbl = $('<table></table>').attr({ id: "bob" });
+                    var row = $('<tr></tr>').attr({ class: ["class1", "class2", "class3"].join(' ') }).appendTo(tbl);
+                    $('<td></td>').text("text1").appendTo(row);
+                    $('<td></td>').text("Test22").prepend($('<a></a>').attr({ href: "#" }).text("LINK")).appendTo(row);        
+                    tbl.appendTo($("#rightscroll"));        
+                  });
+                */
+
+                //$("#rightscroll").html($.ajaxSettings.dataFilter(data.msg));
+            },
+            'cache':false
+        });
+    });
+});
+
+$('#rightscroll').scroll(function() {
+    //nothing to do for now.
+    //$('#log').append('<div>Handler for .scroll() called.</div>');
+});
+</script>
+
+
+<?php //$this->endWidget(); ?>
+

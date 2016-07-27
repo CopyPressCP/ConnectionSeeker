@@ -1,0 +1,50 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 12,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2015-01-08 21:31:53",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 98984000,
+	"RemainingRetrievalResUnits" : 19614184,
+	"ServerBuild" : "2014-12-20 16:14:37",
+	"ServerName" : "SHADOJAGUAR",
+	"ServerVersion" : "1.0.5467.29238",
+	"UniqueIndexID" : "20150108213153-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "anbcomponents.com", "UsedRootDomain" : "anbcomponents.com", "TotalRefDomains" : 12, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 12
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "secureserver.net", "RefDomains" : 2123058, "AlexaRank" : 164, "Matches" : 1, "MatchedLinks" : 3, "ExtBackLinks" : 143621463, "IndexedURLs" : 26201277, "CrawledURLs" : 19980032, "FirstCrawled" : "2009-05-16", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "50.63.202.24", "SubNet" : "50.63.202.0", "CountryCode" : "US", "TLD" : "net", "CitationFlow" : 73, "TrustFlow" : 51, "TopicalTrustFlow_Topic_0" : "Computers/Hardware", "TopicalTrustFlow_Value_0" : "44", "BackLinks_anbcomponents.com" : "3", "FirstLinkDate_anbcomponents.com" : "2014-10-03", "LastLinkDate_anbcomponents.com" : "2014-10-05" },
+				{ "Position" : 2, "Domain" : "applenberry.com", "RefDomains" : 20400, "AlexaRank" : 336635, "Matches" : 1, "MatchedLinks" : 253050, "ExtBackLinks" : 506371, "IndexedURLs" : 265759, "CrawledURLs" : 173784, "FirstCrawled" : "2010-10-16", "LastSuccessfulCrawl" : "2014-12-14", "IP" : "184.168.221.8", "SubNet" : "184.168.221.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 26, "TrustFlow" : 21, "TopicalTrustFlow_Topic_0" : "Computers/Systems", "TopicalTrustFlow_Value_0" : "21", "BackLinks_anbcomponents.com" : "253050", "FirstLinkDate_anbcomponents.com" : "2014-09-09", "LastLinkDate_anbcomponents.com" : "2014-12-15" },
+				{ "Position" : 3, "Domain" : "list-of-domains.org", "RefDomains" : 2901, "AlexaRank" : 31540, "Matches" : 1, "MatchedLinks" : 31, "ExtBackLinks" : 152944, "IndexedURLs" : 23949, "CrawledURLs" : 19335, "FirstCrawled" : "2009-06-22", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "173.201.142.193", "SubNet" : "173.201.142.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 21, "TrustFlow" : 6, "TopicalTrustFlow_Topic_0" : "Health", "TopicalTrustFlow_Value_0" : "6", "BackLinks_anbcomponents.com" : "31", "FirstLinkDate_anbcomponents.com" : "2014-10-03", "LastLinkDate_anbcomponents.com" : "2014-10-03" },
+				{ "Position" : 4, "Domain" : "fansdeapple.com", "RefDomains" : 2523, "AlexaRank" : 113373, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 897258, "IndexedURLs" : 2153597, "CrawledURLs" : 363123, "FirstCrawled" : "2010-04-09", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "91.192.111.200", "SubNet" : "91.192.111.0", "CountryCode" : "ES", "TLD" : "com", "CitationFlow" : 25, "TrustFlow" : 16, "TopicalTrustFlow_Topic_0" : "Computers/Internet/Searching", "TopicalTrustFlow_Value_0" : "15", "BackLinks_anbcomponents.com" : "1", "FirstLinkDate_anbcomponents.com" : "2014-12-15", "LastLinkDate_anbcomponents.com" : "2014-12-15" },
+				{ "Position" : 5, "Domain" : "webnamelist.com", "RefDomains" : 2239, "AlexaRank" : 26077, "Matches" : 1, "MatchedLinks" : 46, "ExtBackLinks" : 125828, "IndexedURLs" : 16191, "CrawledURLs" : 13425, "FirstCrawled" : "2010-03-17", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "173.201.142.193", "SubNet" : "173.201.142.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 21, "TrustFlow" : 19, "TopicalTrustFlow_Topic_0" : "Computers/Graphics", "TopicalTrustFlow_Value_0" : "19", "BackLinks_anbcomponents.com" : "46", "FirstLinkDate_anbcomponents.com" : "2014-10-02", "LastLinkDate_anbcomponents.com" : "2014-10-02" },
+				{ "Position" : 6, "Domain" : "supermobilityweek.com", "RefDomains" : 1863, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 833749, "IndexedURLs" : 12259, "CrawledURLs" : 11409, "FirstCrawled" : "2013-12-10", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "206.112.71.79", "SubNet" : "206.112.71.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 48, "TrustFlow" : 44, "TopicalTrustFlow_Topic_0" : "Business/Telecommunications", "TopicalTrustFlow_Value_0" : "44", "BackLinks_anbcomponents.com" : "1", "FirstLinkDate_anbcomponents.com" : "2014-10-15", "LastLinkDate_anbcomponents.com" : "2014-12-05" },
+				{ "Position" : 7, "Domain" : "privatelink.de", "RefDomains" : 1310, "AlexaRank" : 194047, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 133539, "IndexedURLs" : 48615, "CrawledURLs" : 21333, "FirstCrawled" : "2010-11-30", "LastSuccessfulCrawl" : "2014-12-14", "IP" : "148.251.117.29", "SubNet" : "148.251.117.0", "CountryCode" : "DE", "TLD" : "de", "CitationFlow" : 28, "TrustFlow" : 10, "TopicalTrustFlow_Topic_0" : "Computers/Internet/Web Design and Development", "TopicalTrustFlow_Value_0" : "10", "BackLinks_anbcomponents.com" : "1", "FirstLinkDate_anbcomponents.com" : "2014-12-06", "LastLinkDate_anbcomponents.com" : "2014-12-06" },
+				{ "Position" : 8, "Domain" : "listofdomains.org", "RefDomains" : 822, "AlexaRank" : 103503, "Matches" : 1, "MatchedLinks" : 11, "ExtBackLinks" : 11433, "IndexedURLs" : 17942, "CrawledURLs" : 16155, "FirstCrawled" : "2013-02-26", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "192.185.10.227", "SubNet" : "192.185.10.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 20, "TrustFlow" : 9, "TopicalTrustFlow_Topic_0" : "Arts/Music", "TopicalTrustFlow_Value_0" : "9", "BackLinks_anbcomponents.com" : "11", "FirstLinkDate_anbcomponents.com" : "2014-10-07", "LastLinkDate_anbcomponents.com" : "2014-10-12" },
+				{ "Position" : 9, "Domain" : "findeen.co.uk", "RefDomains" : 722, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 258531, "IndexedURLs" : 687454, "CrawledURLs" : 81049, "FirstCrawled" : "2014-05-28", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "178.32.58.89", "SubNet" : "178.32.58.0", "CountryCode" : "UK", "TLD" : "uk", "CitationFlow" : 57, "TrustFlow" : 22, "TopicalTrustFlow_Topic_0" : "Computers/Internet", "TopicalTrustFlow_Value_0" : "20", "BackLinks_anbcomponents.com" : "1", "FirstLinkDate_anbcomponents.com" : "2014-09-22", "LastLinkDate_anbcomponents.com" : "2014-10-25" },
+				{ "Position" : 10, "Domain" : "iblogru.com", "RefDomains" : 525, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 6234, "IndexedURLs" : 28666, "CrawledURLs" : 26548, "FirstCrawled" : "2013-03-16", "LastSuccessfulCrawl" : "2014-12-14", "IP" : "144.76.4.136", "SubNet" : "144.76.4.0", "CountryCode" : "DE", "TLD" : "com", "CitationFlow" : 26, "TrustFlow" : 3, "TopicalTrustFlow_Topic_0" : "Arts/Literature", "TopicalTrustFlow_Value_0" : "3", "BackLinks_anbcomponents.com" : "2", "FirstLinkDate_anbcomponents.com" : "2014-12-06", "LastLinkDate_anbcomponents.com" : "2014-12-06" },
+				{ "Position" : 11, "Domain" : "webdirectory.com.np", "RefDomains" : 477, "AlexaRank" : 870358, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 3618, "IndexedURLs" : 516469, "CrawledURLs" : 107527, "FirstCrawled" : "2013-02-23", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "198.57.217.178", "SubNet" : "198.57.217.0", "CountryCode" : "US", "TLD" : "np", "CitationFlow" : 14, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_anbcomponents.com" : "1", "FirstLinkDate_anbcomponents.com" : "2014-12-01", "LastLinkDate_anbcomponents.com" : "2014-12-07" },
+				{ "Position" : 12, "Domain" : "malroz.ru", "RefDomains" : 210, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 3, "ExtBackLinks" : 9510, "IndexedURLs" : 165379, "CrawledURLs" : 74967, "FirstCrawled" : "2012-06-18", "LastSuccessfulCrawl" : "2014-12-14", "IP" : "193.109.247.162", "SubNet" : "193.109.247.0", "CountryCode" : "UK", "TLD" : "ru", "CitationFlow" : 12, "TrustFlow" : 1, "TopicalTrustFlow_Topic_0" : "Computers/Internet/Searching", "TopicalTrustFlow_Value_0" : "1", "BackLinks_anbcomponents.com" : "3", "FirstLinkDate_anbcomponents.com" : "2014-12-05", "LastLinkDate_anbcomponents.com" : "2014-12-05" }
+			]
+			}
+		}
+}

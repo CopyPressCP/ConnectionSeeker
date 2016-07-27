@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="0" IndexType="0" RemainingAnalysisResUnits="99990000" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19999626" RemainingStandardReports="950" ServerBuild="2012-06-05 16:51:02" ServerName="SILVERTHORNE" ServerVersion="1.0.4539.28531"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="0" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" BackLinkItem="comithenextweb.com" BackLinkType="RootDomain" TotalBackLinks="0" TotalLines="0" TotalMatches="0">
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="0" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+		</DataTable>
+	</DataTables>
+</Result>

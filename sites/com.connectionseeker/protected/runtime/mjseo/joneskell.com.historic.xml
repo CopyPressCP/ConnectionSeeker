@@ -1,0 +1,52 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 14,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2015-01-08 21:31:53",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 99210000,
+	"RemainingRetrievalResUnits" : 19668102,
+	"ServerBuild" : "2014-12-20 16:14:37",
+	"ServerName" : "HUMMERR",
+	"ServerVersion" : "1.0.5467.29238",
+	"UniqueIndexID" : "20150108213153-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "joneskell.com", "UsedRootDomain" : "joneskell.com", "TotalRefDomains" : 14, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 14
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "superlawyers.com", "RefDomains" : 49748, "AlexaRank" : 63856, "Matches" : 1, "MatchedLinks" : 11, "ExtBackLinks" : 7646076, "IndexedURLs" : 1802338, "CrawledURLs" : 555233, "FirstCrawled" : "2009-05-15", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "66.35.197.98", "SubNet" : "66.35.197.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 55, "TrustFlow" : 60, "TopicalTrustFlow_Topic_0" : "Society/Law", "TopicalTrustFlow_Value_0" : "60", "BackLinks_joneskell.com" : "11", "FirstLinkDate_joneskell.com" : "2014-01-31", "LastLinkDate_joneskell.com" : "2014-04-14" },
+				{ "Position" : 2, "Domain" : "massbar.org", "RefDomains" : 8740, "AlexaRank" : 870367, "Matches" : 1, "MatchedLinks" : 10, "ExtBackLinks" : 319468, "IndexedURLs" : 105734, "CrawledURLs" : 76768, "FirstCrawled" : "2009-05-15", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "208.252.57.230", "SubNet" : "208.252.57.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 35, "TrustFlow" : 32, "TopicalTrustFlow_Topic_0" : "Society/Law", "TopicalTrustFlow_Value_0" : "31", "BackLinks_joneskell.com" : "10", "FirstLinkDate_joneskell.com" : "2014-05-08", "LastLinkDate_joneskell.com" : "2014-10-09" },
+				{ "Position" : 3, "Domain" : "waterfire.org", "RefDomains" : 4665, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 206, "ExtBackLinks" : 156688, "IndexedURLs" : 321360, "CrawledURLs" : 236054, "FirstCrawled" : "2009-06-04", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "72.10.53.199", "SubNet" : "72.10.53.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 35, "TrustFlow" : 50, "TopicalTrustFlow_Topic_0" : "Arts", "TopicalTrustFlow_Value_0" : "50", "BackLinks_joneskell.com" : "206", "FirstLinkDate_joneskell.com" : "2014-08-19", "LastLinkDate_joneskell.com" : "2014-08-20" },
+				{ "Position" : 4, "Domain" : "m.biz", "RefDomains" : 2569, "AlexaRank" : 388210, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 7741673, "IndexedURLs" : 545478, "CrawledURLs" : 545477, "FirstCrawled" : "2011-10-08", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "117.25.144.135", "SubNet" : "117.25.144.0", "CountryCode" : "CN", "TLD" : "biz", "CitationFlow" : 43, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_joneskell.com" : "1", "FirstLinkDate_joneskell.com" : "2014-10-13", "LastLinkDate_joneskell.com" : "2014-10-13" },
+				{ "Position" : 5, "Domain" : "litcounsel.org", "RefDomains" : 855, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 27, "ExtBackLinks" : 18313, "IndexedURLs" : 2061, "CrawledURLs" : 1028, "FirstCrawled" : "2009-06-03", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "96.126.121.253", "SubNet" : "96.126.121.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 25, "TrustFlow" : 18, "TopicalTrustFlow_Topic_0" : "Society/Law", "TopicalTrustFlow_Value_0" : "17", "BackLinks_joneskell.com" : "27", "FirstLinkDate_joneskell.com" : "2014-01-30", "LastLinkDate_joneskell.com" : "2014-02-12" },
+				{ "Position" : 6, "Domain" : "trialcounsel.org", "RefDomains" : 625, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 36, "ExtBackLinks" : 14937, "IndexedURLs" : 1089, "CrawledURLs" : 708, "FirstCrawled" : "2009-11-16", "LastSuccessfulCrawl" : "2014-09-06", "IP" : "208.91.197.27", "SubNet" : "208.91.197.0", "CountryCode" : "UK", "TLD" : "org", "CitationFlow" : 18, "TrustFlow" : 16, "TopicalTrustFlow_Topic_0" : "Society/Law", "TopicalTrustFlow_Value_0" : "16", "BackLinks_joneskell.com" : "36", "FirstLinkDate_joneskell.com" : "2014-02-15", "LastLinkDate_joneskell.com" : "2014-08-18" },
+				{ "Position" : 7, "Domain" : "cooleymanionjones.com", "RefDomains" : 609, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 38711, "ExtBackLinks" : 10922, "IndexedURLs" : 51445, "CrawledURLs" : 43961, "FirstCrawled" : "2009-05-30", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "64.118.79.176", "SubNet" : "64.118.79.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 25, "TrustFlow" : 23, "TopicalTrustFlow_Topic_0" : "Society/Work", "TopicalTrustFlow_Value_0" : "23", "BackLinks_joneskell.com" : "38711", "FirstLinkDate_joneskell.com" : "2014-01-01", "LastLinkDate_joneskell.com" : "2014-01-01" },
+				{ "Position" : 8, "Domain" : "litcounsel.com", "RefDomains" : 247, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 57, "ExtBackLinks" : 3356, "IndexedURLs" : 951, "CrawledURLs" : 880, "FirstCrawled" : "2010-10-11", "LastSuccessfulCrawl" : "2014-12-14", "IP" : "68.178.254.8", "SubNet" : "68.178.254.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 14, "TrustFlow" : 15, "TopicalTrustFlow_Topic_0" : "Society/Law", "TopicalTrustFlow_Value_0" : "15", "BackLinks_joneskell.com" : "57", "FirstLinkDate_joneskell.com" : "2014-02-12", "LastLinkDate_joneskell.com" : "2014-04-03" },
+				{ "Position" : 9, "Domain" : "coolgames4free.com", "RefDomains" : 90, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 716, "IndexedURLs" : 17430, "CrawledURLs" : 11423, "FirstCrawled" : "2013-09-28", "LastSuccessfulCrawl" : "2014-11-01", "IP" : "81.200.64.50", "SubNet" : "81.200.64.0", "CountryCode" : "UK", "TLD" : "com", "CitationFlow" : 6, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_joneskell.com" : "1", "FirstLinkDate_joneskell.com" : "2014-02-25", "LastLinkDate_joneskell.com" : "2014-02-25" },
+				{ "Position" : 10, "Domain" : "wiseadmin.biz", "RefDomains" : 57, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 430, "ExtBackLinks" : 6835, "IndexedURLs" : 72319, "CrawledURLs" : 49296, "FirstCrawled" : "2009-11-10", "LastSuccessfulCrawl" : "2014-12-14", "IP" : "64.118.79.176", "SubNet" : "64.118.79.0", "CountryCode" : "US", "TLD" : "biz", "CitationFlow" : 17, "TrustFlow" : 19, "TopicalTrustFlow_Topic_0" : "Society/Government", "TopicalTrustFlow_Value_0" : "19", "BackLinks_joneskell.com" : "430", "FirstLinkDate_joneskell.com" : "2014-01-07", "LastLinkDate_joneskell.com" : "2014-01-07" },
+				{ "Position" : 11, "Domain" : "conspiracy-index.com", "RefDomains" : 4, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 22, "IndexedURLs" : 36619, "CrawledURLs" : 30373, "FirstCrawled" : "2014-03-23", "LastSuccessfulCrawl" : "2014-12-14", "IP" : "162.159.242.161", "SubNet" : "162.159.242.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 11, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_joneskell.com" : "1", "FirstLinkDate_joneskell.com" : "2014-03-29", "LastLinkDate_joneskell.com" : "2014-11-23" },
+				{ "Position" : 12, "Domain" : "massbarcle.com", "RefDomains" : 4, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 4, "IndexedURLs" : 14894, "CrawledURLs" : 9650, "FirstCrawled" : "2009-10-13", "LastSuccessfulCrawl" : "2014-12-14", "IP" : "208.252.57.230", "SubNet" : "208.252.57.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_joneskell.com" : "2", "FirstLinkDate_joneskell.com" : "2014-08-24", "LastLinkDate_joneskell.com" : "2014-12-06" },
+				{ "Position" : 13, "Domain" : "rimonthly-digital.com", "RefDomains" : 4, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 1637, "IndexedURLs" : 5546, "CrawledURLs" : 5520, "FirstCrawled" : "2013-11-03", "LastSuccessfulCrawl" : "2014-12-14", "IP" : "72.3.231.99", "SubNet" : "72.3.231.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 16, "TrustFlow" : 19, "TopicalTrustFlow_Topic_0" : "Society/Law", "TopicalTrustFlow_Value_0" : "17", "BackLinks_joneskell.com" : "1", "FirstLinkDate_joneskell.com" : "2014-10-29", "LastLinkDate_joneskell.com" : "2014-10-30" },
+				{ "Position" : 14, "Domain" : "conspiracy-watch.info", "RefDomains" : 3, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 4, "ExtBackLinks" : 23362, "IndexedURLs" : 36718, "CrawledURLs" : 32552, "FirstCrawled" : "2014-05-06", "LastSuccessfulCrawl" : "2014-12-14", "IP" : "37.139.19.13", "SubNet" : "37.139.19.0", "CountryCode" : "NL", "TLD" : "info", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_joneskell.com" : "4", "FirstLinkDate_joneskell.com" : "2014-05-15", "LastLinkDate_joneskell.com" : "2014-08-16" }
+			]
+			}
+		}
+}

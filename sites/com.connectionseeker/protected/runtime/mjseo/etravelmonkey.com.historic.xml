@@ -1,0 +1,53 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 15,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2014-11-24 10:55:19",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 99722000,
+	"RemainingRetrievalResUnits" : 19854989,
+	"ServerBuild" : "2014-12-20 16:14:37",
+	"ServerName" : "HUMMERR",
+	"ServerVersion" : "1.0.5467.29238",
+	"UniqueIndexID" : "20141124105519-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "etravelmonkey.com", "UsedRootDomain" : "etravelmonkey.com", "TotalRefDomains" : 15, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 15
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "phish.net", "RefDomains" : 9419, "AlexaRank" : 147068, "Matches" : 1, "MatchedLinks" : 3, "ExtBackLinks" : 1898513, "IndexedURLs" : 1861872, "CrawledURLs" : 395800, "FirstCrawled" : "2009-04-23", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "198.58.123.117", "SubNet" : "198.58.123.0", "CountryCode" : "US", "TLD" : "net", "CitationFlow" : 46, "TrustFlow" : 33, "TopicalTrustFlow_Topic_0" : "Arts/Music", "TopicalTrustFlow_Value_0" : "33", "BackLinks_etravelmonkey.com" : "3", "FirstLinkDate_etravelmonkey.com" : "2012-05-16", "LastLinkDate_etravelmonkey.com" : "2012-05-16" },
+				{ "Position" : 2, "Domain" : "buses.org", "RefDomains" : 8259, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 843562, "IndexedURLs" : 15030, "CrawledURLs" : 8011, "FirstCrawled" : "2009-04-03", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "74.207.237.71", "SubNet" : "74.207.237.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 36, "TrustFlow" : 49, "TopicalTrustFlow_Topic_0" : "Business/Transportation and Logistics", "TopicalTrustFlow_Value_0" : "49", "BackLinks_etravelmonkey.com" : "2", "FirstLinkDate_etravelmonkey.com" : "2013-03-28", "LastLinkDate_etravelmonkey.com" : "2014-10-18" },
+				{ "Position" : 3, "Domain" : "usatravelregistration.com", "RefDomains" : 3135, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 69091, "IndexedURLs" : 264887, "CrawledURLs" : 175771, "FirstCrawled" : "2010-06-09", "LastSuccessfulCrawl" : "2013-07-31", "IP" : "198.57.151.178", "SubNet" : "198.57.151.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 11, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_etravelmonkey.com" : "1", "FirstLinkDate_etravelmonkey.com" : "2012-10-08", "LastLinkDate_etravelmonkey.com" : "2012-12-22" },
+				{ "Position" : 4, "Domain" : "woodstocktradeco.com", "RefDomains" : 994, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 6853, "IndexedURLs" : 20358, "CrawledURLs" : 18867, "FirstCrawled" : "2009-04-20", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "204.15.122.112", "SubNet" : "204.15.122.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 26, "TrustFlow" : 9, "TopicalTrustFlow_Topic_0" : "Society/Issues", "TopicalTrustFlow_Value_0" : "9", "BackLinks_etravelmonkey.com" : "2", "FirstLinkDate_etravelmonkey.com" : "2013-08-07", "LastLinkDate_etravelmonkey.com" : "2013-10-01" },
+				{ "Position" : 5, "Domain" : "baltssc.com", "RefDomains" : 465, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 17, "ExtBackLinks" : 4423, "IndexedURLs" : 12937, "CrawledURLs" : 11967, "FirstCrawled" : "2009-07-05", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "64.37.65.235", "SubNet" : "64.37.65.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 23, "TrustFlow" : 18, "TopicalTrustFlow_Topic_0" : "Arts/Writers Resources", "TopicalTrustFlow_Value_0" : "18", "BackLinks_etravelmonkey.com" : "17", "FirstLinkDate_etravelmonkey.com" : "2014-03-25", "LastLinkDate_etravelmonkey.com" : "2014-04-04" },
+				{ "Position" : 6, "Domain" : "grouptravelvideos.com", "RefDomains" : 194, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 3, "ExtBackLinks" : 7637, "IndexedURLs" : 684, "CrawledURLs" : 650, "FirstCrawled" : "2010-05-14", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "216.87.170.134", "SubNet" : "216.87.170.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 27, "TrustFlow" : 21, "TopicalTrustFlow_Topic_0" : "Business/Hospitality", "TopicalTrustFlow_Value_0" : "21", "BackLinks_etravelmonkey.com" : "3", "FirstLinkDate_etravelmonkey.com" : "2013-07-05", "LastLinkDate_etravelmonkey.com" : "2014-09-12" },
+				{ "Position" : 7, "Domain" : "croscon.com", "RefDomains" : 134, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 122606, "IndexedURLs" : 1610, "CrawledURLs" : 1110, "FirstCrawled" : "2012-09-12", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "54.230.103.245", "SubNet" : "54.230.103.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 19, "TrustFlow" : 23, "TopicalTrustFlow_Topic_0" : "Business/Transportation and Logistics", "TopicalTrustFlow_Value_0" : "23", "BackLinks_etravelmonkey.com" : "2", "FirstLinkDate_etravelmonkey.com" : "2013-03-22", "LastLinkDate_etravelmonkey.com" : "2014-09-12" },
+				{ "Position" : 8, "Domain" : "talentcompetition.org", "RefDomains" : 100, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 5, "ExtBackLinks" : 315, "IndexedURLs" : 53486, "CrawledURLs" : 35971, "FirstCrawled" : "2013-03-12", "LastSuccessfulCrawl" : "2014-05-05", "IP" : "208.76.50.50", "SubNet" : "208.76.50.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_etravelmonkey.com" : "5", "FirstLinkDate_etravelmonkey.com" : "2013-03-29", "LastLinkDate_etravelmonkey.com" : "2013-07-08" },
+				{ "Position" : 9, "Domain" : "jerseyclubsports.com", "RefDomains" : 92, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 1916, "IndexedURLs" : 276, "CrawledURLs" : 232, "FirstCrawled" : "2009-08-11", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "72.167.3.171", "SubNet" : "72.167.3.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 19, "TrustFlow" : 8, "TopicalTrustFlow_Topic_0" : "Regional/North America", "TopicalTrustFlow_Value_0" : "7", "BackLinks_etravelmonkey.com" : "1", "FirstLinkDate_etravelmonkey.com" : "2014-03-26", "LastLinkDate_etravelmonkey.com" : "2014-03-26" },
+				{ "Position" : 10, "Domain" : "boomersingroups.com", "RefDomains" : 90, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 46, "ExtBackLinks" : 288374, "IndexedURLs" : 6011, "CrawledURLs" : 5673, "FirstCrawled" : "2011-05-19", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "184.168.230.128", "SubNet" : "184.168.230.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 18, "TrustFlow" : 27, "TopicalTrustFlow_Topic_0" : "Sports", "TopicalTrustFlow_Value_0" : "27", "BackLinks_etravelmonkey.com" : "46", "FirstLinkDate_etravelmonkey.com" : "2012-10-02", "LastLinkDate_etravelmonkey.com" : "2013-02-12" },
+				{ "Position" : 11, "Domain" : "annssc.com", "RefDomains" : 60, "AlexaRank" : 970669, "Matches" : 1, "MatchedLinks" : 10, "ExtBackLinks" : 10478, "IndexedURLs" : 1836, "CrawledURLs" : 1702, "FirstCrawled" : "2010-02-22", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "64.37.65.234", "SubNet" : "64.37.65.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 15, "TrustFlow" : 12, "TopicalTrustFlow_Topic_0" : "Reference/Education", "TopicalTrustFlow_Value_0" : "11", "BackLinks_etravelmonkey.com" : "10", "FirstLinkDate_etravelmonkey.com" : "2014-04-04", "LastLinkDate_etravelmonkey.com" : "2014-04-04" },
+				{ "Position" : 12, "Domain" : "boomersingroups.info", "RefDomains" : 0, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 7, "ExtBackLinks" : 0, "IndexedURLs" : 2601, "CrawledURLs" : 2536, "FirstCrawled" : "2013-07-30", "LastSuccessfulCrawl" : "2014-10-28", "IP" : "184.168.230.128", "SubNet" : "184.168.230.0", "CountryCode" : "US", "TLD" : "info", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_etravelmonkey.com" : "7", "FirstLinkDate_etravelmonkey.com" : "2012-10-27", "LastLinkDate_etravelmonkey.com" : "2014-04-02" },
+				{ "Position" : 13, "Domain" : "boomersingroups.net", "RefDomains" : 0, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 8, "ExtBackLinks" : 0, "IndexedURLs" : 2665, "CrawledURLs" : 2600, "FirstCrawled" : "2011-04-27", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "184.168.230.128", "SubNet" : "184.168.230.0", "CountryCode" : "US", "TLD" : "net", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_etravelmonkey.com" : "8", "FirstLinkDate_etravelmonkey.com" : "2012-10-29", "LastLinkDate_etravelmonkey.com" : "2014-08-26" },
+				{ "Position" : 14, "Domain" : "boomersingroups.org", "RefDomains" : 0, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 7, "ExtBackLinks" : 0, "IndexedURLs" : 2637, "CrawledURLs" : 2575, "FirstCrawled" : "2013-06-08", "LastSuccessfulCrawl" : "2014-10-26", "IP" : "184.168.230.128", "SubNet" : "184.168.230.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_etravelmonkey.com" : "7", "FirstLinkDate_etravelmonkey.com" : "2012-10-29", "LastLinkDate_etravelmonkey.com" : "2014-01-12" },
+				{ "Position" : 15, "Domain" : "boomersingroups.us", "RefDomains" : 0, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 6, "ExtBackLinks" : 0, "IndexedURLs" : 2626, "CrawledURLs" : 2625, "FirstCrawled" : "2013-07-31", "LastSuccessfulCrawl" : "2014-10-30", "IP" : "184.168.230.128", "SubNet" : "184.168.230.0", "CountryCode" : "US", "TLD" : "us", "CitationFlow" : 0, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_etravelmonkey.com" : "6", "FirstLinkDate_etravelmonkey.com" : "2013-06-23", "LastLinkDate_etravelmonkey.com" : "2014-09-13" }
+			]
+			}
+		}
+}

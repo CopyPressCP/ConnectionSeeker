@@ -1,0 +1,41 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 3,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2015-01-08 21:31:53",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 98992000,
+	"RemainingRetrievalResUnits" : 19619061,
+	"ServerBuild" : "2014-12-20 16:14:37",
+	"ServerName" : "SHADOJAGUAR",
+	"ServerVersion" : "1.0.5467.29238",
+	"UniqueIndexID" : "20150108213153-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "riawebsites.com", "UsedRootDomain" : "riawebsites.com", "TotalRefDomains" : 3, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 3
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "hedgeco.net", "RefDomains" : 12735, "AlexaRank" : 333729, "Matches" : 1, "MatchedLinks" : 3, "ExtBackLinks" : 3354636, "IndexedURLs" : 143793, "CrawledURLs" : 96205, "FirstCrawled" : "2009-05-20", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "72.34.37.76", "SubNet" : "72.34.37.0", "CountryCode" : "US", "TLD" : "net", "CitationFlow" : 39, "TrustFlow" : 23, "TopicalTrustFlow_Topic_0" : "News/Media Industry", "TopicalTrustFlow_Value_0" : "23", "BackLinks_riawebsites.com" : "3", "FirstLinkDate_riawebsites.com" : "2012-05-05", "LastLinkDate_riawebsites.com" : "2012-07-04" },
+				{ "Position" : 2, "Domain" : "sameip.org", "RefDomains" : 1090, "AlexaRank" : 115839, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 186377, "IndexedURLs" : 182722, "CrawledURLs" : 103213, "FirstCrawled" : "2009-12-07", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "198.74.50.205", "SubNet" : "198.74.50.0", "CountryCode" : "US", "TLD" : "org", "CitationFlow" : 28, "TrustFlow" : 7, "TopicalTrustFlow_Topic_0" : "Computers/Programming/Languages", "TopicalTrustFlow_Value_0" : "6", "BackLinks_riawebsites.com" : "1", "FirstLinkDate_riawebsites.com" : "2012-10-03", "LastLinkDate_riawebsites.com" : "2013-03-31" },
+				{ "Position" : 3, "Domain" : "hedgecowebsites.com", "RefDomains" : 724, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 42, "ExtBackLinks" : 429029, "IndexedURLs" : 6377, "CrawledURLs" : 4245, "FirstCrawled" : "2009-06-10", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "209.170.151.4", "SubNet" : "209.170.151.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 31, "TrustFlow" : 23, "TopicalTrustFlow_Topic_0" : "Society/Government", "TopicalTrustFlow_Value_0" : "23", "BackLinks_riawebsites.com" : "42", "FirstLinkDate_riawebsites.com" : "2012-10-06", "LastLinkDate_riawebsites.com" : "2014-02-25" }
+			]
+			}
+		}
+}

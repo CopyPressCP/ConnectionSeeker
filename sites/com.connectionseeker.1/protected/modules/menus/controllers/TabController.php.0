@@ -1,0 +1,405 @@
+<?php
+
+class TabController extends MController
+{
+	/**
+	* @property RAuthorizer
+	*/
+	private $_authorizer;    
+    private $_menu;
+    private $_model;
+
+	public function init()
+	{
+		$this->_authorizer = Rights::module()->getAuthorizer();
+        $this->_menu = Menu::model();
+		$this->layout = $this->module->layout;
+
+		// Register the scripts
+		$this->module->registerScripts();
+	}
+
+    public function actionMenus()
+    {
+		Yii::app()->user->rightsReturnUrl = array('/tab/menus');
+        $pid = isset($_GET['pid']) && $_GET['pid']?$_GET['pid']:0;
+        $params = array(
+			'parent_id' => $pid,
+			'sortable'=>array(
+				'id'=>'RightsTaskTableSort',
+				'element'=>'.task-table',
+				'url'=>$this->createUrl('/tab/sortable'),
+			),
+		);
+        if (empty($pid)) {
+            $params['is_tab'] = 1;
+        }
+		$dataProvider = new MMenuDataProvider('Menu', $params);
+		// Render the view
+		$this->render('/tab/menus', array(
+			'dataProvider'=>$dataProvider,
+		));
+    }
+
+	public function actionIndex()
+	{
+		// Create a data provider for listing the users
+        $dataProvider = new MMenuDataProvider('Menu', array(
+            'type' => Menus::getValidChildTypes(Menu::TYPE_TAB),
+			'pagination'=>array(
+				'pageSize'=>50,
+			),
+		));
+        //$dataProvider = new CActiveRecord('Menu');
+
+		// Render the view
+		$this->render('/tab/index', array(
+			'dataProvider'=>$dataProvider,
+		));
+	}
+
+    public function actionGenerate()
+    {
+        $generator = $this->module->getGenerator();
+		// Createh the form model
+		$model = new GenerateForm();
+
+		// Form has been submitted
+		if( isset($_POST['GenerateForm'])===true )
+		{
+			// Form is valid
+			$model->attributes = $_POST['GenerateForm'];
+			if( $model->validate()===true )
+			{
+				$items = array(
+					'tasks'=>array(),
+					'operations'=>array(),
+				);
+
+				// Get the chosen items
+				foreach( $model->items as $itemname=>$value )
+				{
+					if( (bool)$value===true )
+					{
+						if( strpos($itemname, '*')!==false )
+							$items['tasks'][] = $itemname;
+						else
+							$items['operations'][] = $itemname;
+					}
+				}
+
+				// Add the items to the generator as tasks and operations and run the generator.
+				$generator->addItems($items['tasks'], CAuthItem::TYPE_TASK);
+				$generator->addItems($items['operations'], CAuthItem::TYPE_OPERATION);
+				if( ($generatedItems = $generator->run())!==false && $generatedItems!==array() )
+				{
+					Yii::app()->getUser()->setFlash($this->module->flashSuccessKey,
+						Menus::t('core', 'Authorization items created.')
+					);
+					$this->redirect(array('/tab/index'));
+				}
+			}
+		}
+
+		// Get all items that are available to be generated
+		$items = $generator->getControllerActions();
+        
+		// We need the existing operations for comparason
+		$authItems = $this->_authorizer->getAuthItems(array(
+			CAuthItem::TYPE_TASK,
+			CAuthItem::TYPE_OPERATION,
+		));
+		$existingItems = array();
+		foreach( $authItems as $itemName=>$item )
+			$existingItems[ $itemName ] = $item->description;
+        $menuItems = $this->_menu->getMenus();
+        
+		Yii::app()->clientScript->registerScript('rightsGenerateItemTableSelectRows',
+			"jQuery('.generate-item-table').rightsSelectRows();"
+		);
+
+		// Render the view
+		$this->render('/tab/generate', array(
+			'model'=>$model,
+			'items'=>$items,
+			'authItems'=>$authItems,
+			'existingItems'=>$menuItems,
+		));
+    }
+
+    public function actionUpdate()
+    {  
+       
+       $model=$this->loadModel();
+       $formModel = new MenuForm('update');
+       
+		if( isset($_POST['Menu'])===true )
+		{
+			$formModel->attributes = $_POST['Menu'];
+			if( $formModel->validate()===true )
+			{
+				// Create the item
+                $model->attributes = $formModel->attributes;
+                
+				$item = $model->save();
+				// Set a flash message for creating the item
+				Yii::app()->user->setFlash($this->module->flashSuccessKey,
+					Menus::t('core', ':name updated.', array(':name'=>$model->name))
+				);
+
+				// Redirect to the correct destination
+				$this->redirect(array('/tab/index'));
+			}
+		}
+       
+        $type = Menus::getValidChildTypes($model->type);
+        $childSelectOptions = Menus::getParentMenuSelectOptions($model, $type);
+        $parentDataProvider = new MMenuParentDataProvider($model);
+		$childDataProvider = new MMenuChildDataProvider($model, array(
+			'sortable'=>array(
+				'id'=>'RightsTaskTableSort',
+				'element'=>'.task-table',
+				'url'=>$this->createUrl('/tab/sortable'),
+			),
+		));
+		if( $childSelectOptions!==array() )
+		{
+			$childFormModel = new MenuChildForm();
+		
+			// Child form is submitted and data is valid
+			if( isset($_POST['MenuChildForm'])===true )
+			{
+				$childFormModel->attributes = $_POST['MenuChildForm'];
+				if( $childFormModel->validate()===true )
+				{
+					// Add the child and load it
+                    $child = $this->_menu->getMenu($childFormModel->id);
+                    $child->parent_id = $model->id;
+                    $child->save();
+					// $this->_menu->addItemChild($model->id, $childFormModel->id);
+					
+					$child = Menus::getMenu()->attachMenuBehavior($child);
+
+					// Set a flash message for adding the child
+					Yii::app()->user->setFlash($this->module->flashSuccessKey,
+						Menus::t('core', 'Child :name added.', array(':name'=>$child->name))
+					);
+
+					// Reidrect to the same page
+					$this->redirect(array('/tab/update', 'id'=>$model->id));
+				}
+			}
+		} else {
+			$childFormModel = null;
+		}
+
+		$this->render('/tab/update', array(
+			'model'=>$model,
+			'formModel'=>$model,
+			'childFormModel'=>$childFormModel,
+			'childSelectOptions'=>$childSelectOptions,
+			'parentDataProvider'=>$parentDataProvider,
+			'childDataProvider'=>$childDataProvider,
+		));
+    }
+
+
+	/**
+	* Creates an authorization item.
+	* @todo add type validation.
+	*/
+	public function actionCreate()
+	{
+		$type = $this->getMType();
+		
+        $model = new Menu;
+		// Create the authorization item form
+		 $formModel = new MenuForm('create');
+		if( isset($_POST['MenuForm'])===true )
+		{
+			$formModel->attributes = $_POST['MenuForm'];
+            $formModel->itemname = Menus::module()->getMenu()->generatePermission($formModel->url);
+			if( $formModel->validate()===true )
+			{
+                $formModel->type = $type;
+                $formModel->status = Menu::STATUS_ACTIVE;
+                $formModel->is_tab = 1;
+				// Create the item
+                $model->attributes = $formModel->attributes;
+				$model->save();
+                //print_r($model);
+				// Set a flash message for creating the item
+				Yii::app()->user->setFlash($this->module->flashSuccessKey,
+					Menus::t('core', ':name created.', array(':name'=>$model->name))
+				);
+
+				// Redirect to the correct destination
+				$this->redirect(Yii::app()->user->getRightsReturnUrl(array('tab/index')));
+			}
+		}
+
+        $formModel->parent_id = 0;
+
+		// Render the view
+		$this->render('/tab/create', array(
+			'formModel'=>$formModel,
+		));
+	}
+
+    function actionSortable()
+    {
+		// We only allow sorting via POST request
+		if( Yii::app()->request->isPostRequest===true )
+		{
+            Menus::module()->getMenu()->updateItemOrdering($_POST['result']);
+		}
+		else
+		{
+			throw new CHttpException(400, Rights::t('core', 'Invalid request. Please do not repeat this request again.'));
+		}
+    }
+
+    function actionRemoveTab()
+    {
+		// We only allow deletion via POST request
+		if( Yii::app()->request->isPostRequest===true )
+		{
+            $id = $this->getID();
+            $this->__doMenuAction($id, array('is_tab' =>0), 'Remove :name from tab');
+
+			// If AJAX request, we should not redirect the browser
+			if( isset($_POST['ajax'])===false )
+				$this->redirect(array('/tab/index'));
+		}
+		else
+		{
+			throw new CHttpException(400, Menus::t('core', 'Invalid request. Please do not repeat this request again.'));
+		}
+    }
+
+    function actionAddTab()
+    {
+		// We only allow deletion via POST request
+		if( Yii::app()->request->isPostRequest===true )
+		{
+            $id = $this->getID();
+            $this->__doMenuAction($id, array('is_tab' =>1), 'Add :name as tab');
+			// Set a flash message for removing the child
+			// If AJAX request, we should not redirect the browser
+			if( isset($_POST['ajax'])===false )
+				$this->redirect(array('/tab/index'));
+		}
+		else
+		{
+			throw new CHttpException(400, Menus::t('core', 'Invalid request. Please do not repeat this request again.'));
+		}
+    }
+
+    function __doMenuAction($id, $params, $hint, $hintParams = array())
+    {
+        // Remove the child and load it
+        $item = $this->_menu->getMenu($id);
+        foreach ($params as $k=>$v){
+            $item->{$k} = $v;
+        }
+        $item->save();
+        $item = Menus::getMenu()->attachMenuBehavior($item);
+        if (empty($hintParams)) {
+            $hintParams= array(':name'=>$item->getNameText());
+        }
+        Yii::app()->user->setFlash($this->module->flashSuccessKey,
+            Menus::t('core', $hint , $hintParams)
+        );
+        return $item;
+    }
+
+    function actionRemove()
+    {
+		// We only allow deletion via POST request
+		if( Yii::app()->request->isPostRequest===true )
+		{
+            $id = $this->getID();
+            $this->__doMenuAction($id, array('status' =>0), ':name hidden');
+
+			// If AJAX request, we should not redirect the browser
+			if( isset($_POST['ajax'])===false )
+				$this->redirect(array('/tab/menus'));
+		}
+		else
+		{
+			throw new CHttpException(400, Menus::t('core', 'Invalid request. Please do not repeat this request again.'));
+		}
+    }
+
+    function actionActive()
+    {
+		// We only allow deletion via POST request
+		if( Yii::app()->request->isPostRequest===true )
+		{
+            $id = $this->getID();
+            $this->__doMenuAction($id, array('status' =>1), ':name re-actived');
+
+			// If AJAX request, we should not redirect the browser
+			if( isset($_POST['ajax'])===false )
+				$this->redirect(array('/tab/menus'));
+		}
+		else
+		{
+			throw new CHttpException(400, Menus::t('core', 'Invalid request. Please do not repeat this request again.'));
+		}
+    }
+
+    function actionRemoveChild() 
+    {
+		// We only allow deletion via POST request
+		if( Yii::app()->request->isPostRequest===true )
+		{
+			$id = $this->getID();
+
+			$childId  = $this->getChild();
+
+            $this->__doMenuAction($childId, array('parent_id' =>0), 'Child :name removed.');
+
+			// If AJAX request, we should not redirect the browser
+			if( isset($_POST['ajax'])===false )
+				$this->redirect(array('/tab/update', 'id'=>urlencode($id)));
+		}
+		else
+		{
+			throw new CHttpException(400, Menus::t('core', 'Invalid request. Please do not repeat this request again.'));
+		}
+    }
+
+    public function getID()
+	{
+		return isset($_GET['id'])===true ? urldecode($_GET['id']) : null;
+	}
+
+    public function getMType()
+    {
+        return isset($_GET['type'])===true ? urldecode($_GET['type']) : null;
+    }
+
+     public function getChild()
+	{
+		return isset($_GET['child'])===true ? urldecode($_GET['child']) : null;
+	}
+
+
+
+    public function loadModel()
+	{
+		if($this->_model===null)
+		{
+			if(isset($_GET['id']))
+				$this->_model=Menu::model()->notsafe()->findbyPk($_GET['id']);
+			if($this->_model===null)
+				throw new CHttpException(404,'The requested page does not exist.');
+		}
+		return $this->_model;
+	}
+
+
+
+
+}

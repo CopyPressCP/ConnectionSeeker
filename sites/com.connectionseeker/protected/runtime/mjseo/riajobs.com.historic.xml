@@ -1,0 +1,41 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 3,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2015-01-08 21:31:53",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 98993000,
+	"RemainingRetrievalResUnits" : 19619064,
+	"ServerBuild" : "2014-12-20 16:14:37",
+	"ServerName" : "HUMMERR",
+	"ServerVersion" : "1.0.5467.29238",
+	"UniqueIndexID" : "20150108213153-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "riajobs.com", "UsedRootDomain" : "riajobs.com", "TotalRefDomains" : 3, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 3
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "simplyhired.com", "RefDomains" : 102444, "AlexaRank" : 1709, "Matches" : 1, "MatchedLinks" : 232, "ExtBackLinks" : 1211538175, "IndexedURLs" : 710828433, "CrawledURLs" : 5321747, "FirstCrawled" : "2009-05-17", "LastSuccessfulCrawl" : "2014-12-15", "IP" : "64.13.138.106", "SubNet" : "64.13.138.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 65, "TrustFlow" : 48, "TopicalTrustFlow_Topic_0" : "News/Breaking News", "TopicalTrustFlow_Value_0" : "45", "BackLinks_riajobs.com" : "232", "FirstLinkDate_riajobs.com" : "2012-09-03", "LastLinkDate_riajobs.com" : "2012-09-03" },
+				{ "Position" : 2, "Domain" : "uxpassion.com", "RefDomains" : 1901, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 37442, "IndexedURLs" : 11637, "CrawledURLs" : 7984, "FirstCrawled" : "2009-09-01", "LastSuccessfulCrawl" : "2014-05-28", "IP" : "178.218.164.80", "SubNet" : "178.218.164.0", "CountryCode" : "HR", "TLD" : "com", "CitationFlow" : 23, "TrustFlow" : 25, "TopicalTrustFlow_Topic_0" : "Society/Government", "TopicalTrustFlow_Value_0" : "24", "BackLinks_riajobs.com" : "1", "FirstLinkDate_riajobs.com" : "2011-02-04", "LastLinkDate_riajobs.com" : "2011-02-04" },
+				{ "Position" : 3, "Domain" : "riaddarlea.com", "RefDomains" : 16, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 10, "ExtBackLinks" : 52, "IndexedURLs" : 3026, "CrawledURLs" : 1887, "FirstCrawled" : "2010-08-14", "LastSuccessfulCrawl" : "2014-12-14", "IP" : "91.195.241.121", "SubNet" : "91.195.241.0", "CountryCode" : "DE", "TLD" : "com", "CitationFlow" : 4, "TrustFlow" : 0, "TopicalTrustFlow_Topic_0" : "", "TopicalTrustFlow_Value_0" : "", "BackLinks_riajobs.com" : "10", "FirstLinkDate_riajobs.com" : "2012-10-09", "LastLinkDate_riajobs.com" : "2012-10-09" }
+			]
+			}
+		}
+}

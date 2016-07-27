@@ -1,0 +1,52 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 16,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2014-04-16 10:01:34",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 197186510,
+	"RemainingRetrievalResUnits" : 39853179,
+	"ServerBuild" : "2014-05-13 18:05:49",
+	"ServerName" : "HUMMERR",
+	"ServerVersion" : "1.0.5246.30774",
+	"UniqueIndexID" : "20140416100134-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "riverboatratings.com", "UsedRootDomain" : "riverboatratings.com", "TotalRefDomains" : 16, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 16
+			},
+			"Data" : [
+				{ "Position" : 1, "Domain" : "cntraveler.com", "RefDomains" : 30735, "AlexaRank" : 20998, "Matches" : 1, "MatchedLinks" : 4, "ExtBackLinks" : 2686329, "IndexedURLs" : 166600, "CrawledURLs" : 103416, "FirstCrawled" : "2008-09-14", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "217.212.246.32", "SubNet" : "217.212.246.0", "CountryCode" : "SE", "TLD" : "com", "CitationFlow" : 52, "TrustFlow" : 48, "BackLinks_riverboatratings.com" : "4", "FirstLinkDate_riverboatratings.com" : "2014-01-08", "LastLinkDate_riverboatratings.com" : "2014-01-08" },
+				{ "Position" : 2, "Domain" : "seodigger.com", "RefDomains" : 11653, "AlexaRank" : 458494, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 1305563, "IndexedURLs" : 29458742, "CrawledURLs" : 837972, "FirstCrawled" : "2008-08-18", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "88.214.226.35", "SubNet" : "88.214.226.0", "CountryCode" : "UK", "TLD" : "com", "CitationFlow" : 21, "TrustFlow" : 23, "BackLinks_riverboatratings.com" : "1", "FirstLinkDate_riverboatratings.com" : "2014-02-08", "LastLinkDate_riverboatratings.com" : "2014-02-08" },
+				{ "Position" : 3, "Domain" : "swoopys.com", "RefDomains" : 4037, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 82173, "IndexedURLs" : 222402, "CrawledURLs" : 122383, "FirstCrawled" : "2013-02-15", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "46.182.111.159", "SubNet" : "46.182.111.0", "CountryCode" : "NL", "TLD" : "com", "CitationFlow" : 30, "TrustFlow" : 10, "BackLinks_riverboatratings.com" : "1", "FirstLinkDate_riverboatratings.com" : "2014-03-11", "LastLinkDate_riverboatratings.com" : "2014-03-11" },
+				{ "Position" : 4, "Domain" : "tabbest.com", "RefDomains" : 2419, "AlexaRank" : 194398, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 737003, "IndexedURLs" : 1190043, "CrawledURLs" : 335791, "FirstCrawled" : "2011-10-25", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "174.132.219.187", "SubNet" : "174.132.219.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 32, "TrustFlow" : 18, "BackLinks_riverboatratings.com" : "1", "FirstLinkDate_riverboatratings.com" : "2013-09-10", "LastLinkDate_riverboatratings.com" : "2013-09-10" },
+				{ "Position" : 5, "Domain" : "teamits.com", "RefDomains" : 1817, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 16, "ExtBackLinks" : 51691, "IndexedURLs" : 23911, "CrawledURLs" : 22983, "FirstCrawled" : "2008-09-07", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "161.58.105.39", "SubNet" : "161.58.105.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 32, "TrustFlow" : 22, "BackLinks_riverboatratings.com" : "16", "FirstLinkDate_riverboatratings.com" : "2013-02-08", "LastLinkDate_riverboatratings.com" : "2013-12-31" },
+				{ "Position" : 6, "Domain" : "traveltruth.com", "RefDomains" : 1310, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 18, "ExtBackLinks" : 6228, "IndexedURLs" : 2284, "CrawledURLs" : 1471, "FirstCrawled" : "2008-08-30", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "130.94.221.151", "SubNet" : "130.94.221.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 25, "TrustFlow" : 16, "BackLinks_riverboatratings.com" : "18", "FirstLinkDate_riverboatratings.com" : "2013-02-08", "LastLinkDate_riverboatratings.com" : "2014-01-30" },
+				{ "Position" : 7, "Domain" : "searchnu.com", "RefDomains" : 1058, "AlexaRank" : 135, "Matches" : 1, "MatchedLinks" : 8, "ExtBackLinks" : 12219, "IndexedURLs" : 386368, "CrawledURLs" : 146669, "FirstCrawled" : "2009-10-20", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "207.232.22.60", "SubNet" : "207.232.22.0", "CountryCode" : "IL", "TLD" : "com", "CitationFlow" : 18, "TrustFlow" : 14, "BackLinks_riverboatratings.com" : "8", "FirstLinkDate_riverboatratings.com" : "2013-10-25", "LastLinkDate_riverboatratings.com" : "2013-12-30" },
+				{ "Position" : 8, "Domain" : "cucu0020.info", "RefDomains" : 275, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 37600, "IndexedURLs" : 149148, "CrawledURLs" : 14141, "FirstCrawled" : "2012-12-17", "LastSuccessfulCrawl" : "2013-02-22", "IP" : "69.162.191.82", "SubNet" : "69.162.191.0", "CountryCode" : "US", "TLD" : "info", "CitationFlow" : 11, "TrustFlow" : 2, "BackLinks_riverboatratings.com" : "1", "FirstLinkDate_riverboatratings.com" : "2013-08-17", "LastLinkDate_riverboatratings.com" : "2013-08-17" },
+				{ "Position" : 9, "Domain" : "boatjobs.us", "RefDomains" : 206, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 88017, "IndexedURLs" : 756, "CrawledURLs" : 738, "FirstCrawled" : "2010-08-20", "LastSuccessfulCrawl" : "2013-10-08", "IP" : "74.220.215.204", "SubNet" : "74.220.215.0", "CountryCode" : "US", "TLD" : "us", "CitationFlow" : 13, "TrustFlow" : 0, "BackLinks_riverboatratings.com" : "1", "FirstLinkDate_riverboatratings.com" : "2013-04-28", "LastLinkDate_riverboatratings.com" : "2013-04-28" },
+				{ "Position" : 10, "Domain" : "theimagesl.info", "RefDomains" : 126, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 2, "ExtBackLinks" : 6061, "IndexedURLs" : 152012, "CrawledURLs" : 13963, "FirstCrawled" : "2013-07-09", "LastSuccessfulCrawl" : "2013-07-09", "IP" : "", "SubNet" : "", "CountryCode" : "", "TLD" : "info", "CitationFlow" : 10, "TrustFlow" : 0, "BackLinks_riverboatratings.com" : "2", "FirstLinkDate_riverboatratings.com" : "2013-08-06", "LastLinkDate_riverboatratings.com" : "2013-08-06" },
+				{ "Position" : 11, "Domain" : "e-travelplus.com", "RefDomains" : 124, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 156727, "IndexedURLs" : 204209, "CrawledURLs" : 65396, "FirstCrawled" : "2011-12-04", "LastSuccessfulCrawl" : "2014-03-04", "IP" : "195.250.189.8", "SubNet" : "195.250.189.0", "CountryCode" : "EE", "TLD" : "com", "CitationFlow" : 16, "TrustFlow" : 0, "BackLinks_riverboatratings.com" : "1", "FirstLinkDate_riverboatratings.com" : "2014-01-08", "LastLinkDate_riverboatratings.com" : "2014-01-08" },
+				{ "Position" : 12, "Domain" : "boatjobs.info", "RefDomains" : 86, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 59818, "IndexedURLs" : 438, "CrawledURLs" : 434, "FirstCrawled" : "2010-09-09", "LastSuccessfulCrawl" : "2013-01-24", "IP" : "74.220.215.204", "SubNet" : "74.220.215.0", "CountryCode" : "US", "TLD" : "info", "CitationFlow" : 11, "TrustFlow" : 0, "BackLinks_riverboatratings.com" : "1", "FirstLinkDate_riverboatratings.com" : "2013-04-28", "LastLinkDate_riverboatratings.com" : "2013-05-25" },
+				{ "Position" : 13, "Domain" : "boats-parts-tools.info", "RefDomains" : 23, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 7, "ExtBackLinks" : 3409, "IndexedURLs" : 52069, "CrawledURLs" : 12495, "FirstCrawled" : "2013-09-13", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "184.168.221.41", "SubNet" : "184.168.221.0", "CountryCode" : "US", "TLD" : "info", "CitationFlow" : 40, "TrustFlow" : 0, "BackLinks_riverboatratings.com" : "7", "FirstLinkDate_riverboatratings.com" : "2013-12-06", "LastLinkDate_riverboatratings.com" : "2013-12-22" },
+				{ "Position" : 14, "Domain" : "travertenkarolar.com", "RefDomains" : 20, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 66, "IndexedURLs" : 573, "CrawledURLs" : 56, "FirstCrawled" : "2010-10-06", "LastSuccessfulCrawl" : "2014-03-19", "IP" : "77.245.148.38", "SubNet" : "77.245.148.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 8, "TrustFlow" : 0, "BackLinks_riverboatratings.com" : "1", "FirstLinkDate_riverboatratings.com" : "2013-02-09", "LastLinkDate_riverboatratings.com" : "2013-02-09" },
+				{ "Position" : 15, "Domain" : "realfastsports.com", "RefDomains" : 19, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 320, "IndexedURLs" : 43373, "CrawledURLs" : 43249, "FirstCrawled" : "2013-03-25", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "92.61.153.159", "SubNet" : "92.61.153.0", "CountryCode" : "EU", "TLD" : "com", "CitationFlow" : 17, "TrustFlow" : 0, "BackLinks_riverboatratings.com" : "1", "FirstLinkDate_riverboatratings.com" : "2014-02-17", "LastLinkDate_riverboatratings.com" : "2014-02-17" },
+				{ "Position" : 16, "Domain" : "health-disorders.com", "RefDomains" : 4, "AlexaRank" : -1, "Matches" : 1, "MatchedLinks" : 1, "ExtBackLinks" : 30, "IndexedURLs" : 107951, "CrawledURLs" : 7377, "FirstCrawled" : "2013-08-29", "LastSuccessfulCrawl" : "2014-03-20", "IP" : "184.173.212.160", "SubNet" : "184.173.212.0", "CountryCode" : "US", "TLD" : "com", "CitationFlow" : 10, "TrustFlow" : 0, "BackLinks_riverboatratings.com" : "1", "FirstLinkDate_riverboatratings.com" : "2014-02-20", "LastLinkDate_riverboatratings.com" : "2014-02-20" }
+			]
+			}
+		}
+}

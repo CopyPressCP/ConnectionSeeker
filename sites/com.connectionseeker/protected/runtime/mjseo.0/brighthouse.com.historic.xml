@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="250" IndexBuildDate="2014-03-19 09:04:51" IndexType="0" RemainingAnalysisResUnits="97248369" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19908288" RemainingStandardReports="950" ServerBuild="2014-03-20 15:41:30" ServerName="HUMMERR" ServerVersion="1.0.5192.28245" UniqueIndexID="20140319090451-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="250" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="brighthouse.com" BackLinkType="RootDomain" TotalBackLinks="3677147" TotalLines="50000" TotalMatches="250">
+			<Row>http://www.hbo.com/order-now/|9| |2014-02-28|0|0|0|0|0|0|0|http://support.brighthouse.com/|0|2012-09-07|2014-02-28| | |TextLink|TextLink_Normal|50|51|63|72</Row>
+			<Row>http://www.hbo.com/order-now/|9| |2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/shop|0|2012-09-07|2014-02-28| | |TextLink|TextLink_Normal|42|43|63|72</Row>
+			<Row>http://www.c-spanclassroom.org/|9|bright house|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|1|2010-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|57|59</Row>
+			<Row>http://www.amctv.com/full-episodes/learn-more|8|bright house networks|2014-02-28|0|0|0|0|0|0|0|https://profile.brighthouse.com/residential/login/?target=https://dataservices.brighthouse.com/myservices/default.aspx|2|2013-11-18|2014-02-28| | |TextLink|TextLink_Normal|32|37|54|59</Row>
+			<Row>http://www.twcc.com/|9|support|2014-02-28|0|0|0|0|0|0|0|http://support.brighthouse.com/|3|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|50|51|62|49</Row>
+			<Row>http://www.twcc.com/|9|my services|2014-02-28|0|0|0|0|0|0|0|http://applications.brighthouse.com/MyServices/Default.aspx|3|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|45|47|62|49</Row>
+			<Row>http://www.twcc.com/|9|tv online|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/my-services/tv-online|3|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|38|39|62|49</Row>
+			<Row>http://www.twcc.com/|9|bhtv|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/my-services/app-center/bhtv|3|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|38|39|62|49</Row>
+			<Row>http://www.twcc.com/|9|easy gadget|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/my-services/app-center/easy-gadget|3|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|38|39|62|49</Row>
+			<Row>http://www.twcc.com/|9|how-to videos|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/support/videos|3|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|37|39|62|49</Row>
+			<Row>http://www.twcc.com/|9|dvr manager|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/my-services/app-center/rdvr|3|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|37|38|62|49</Row>
+			<Row>http://www.twcc.com/|9|app center|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/my-services/app-center/by-device|3|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|37|38|62|49</Row>
+			<Row>http://www.twcc.com/|9|pay my bill|2014-02-28|0|0|0|0|0|0|0|https://profile.brighthouse.com/residential/login/?target=https://dataservices.brighthouse.com/myservices/default.aspx?ssochecked=true|3|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|33|33|62|49</Row>
+			<Row>http://www.twcc.com/|9|voice mail|2014-02-28|0|0|0|0|0|0|0|https://profile.brighthouse.com/residential/login/?target=https://dataservices.brighthouse.com/myservices/default.aspx?ssochecked=true|3|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|33|33|62|49</Row>
+			<Row>https://brevardzoo.org/|7|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://brighthouse.com/|4|2013-06-04|2014-02-28| | |ImageLink|ImageLink_Normal|53|48|48|62</Row>
+			<Row>http://www.butlersports.com/landing/index|8|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|5|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|50|56</Row>
+			<Row>http://www.rr.com/|8|support|2014-02-28|0|0|0|0|0|0|0|http://support.brighthouse.com/|6|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|50|51|50|55</Row>
+			<Row>http://www.rr.com/|8|my services|2014-02-28|0|0|0|0|0|0|0|http://applications.brighthouse.com/MyServices/Default.aspx|6|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|45|47|50|55</Row>
+			<Row>http://www.rr.com/|8|tv online|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/my-services/tv-online|6|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|38|39|50|55</Row>
+			<Row>http://www.rr.com/|8|bhtv|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/my-services/app-center/bhtv|6|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|38|39|50|55</Row>
+			<Row>http://www.rr.com/|8|easy gadget|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/my-services/app-center/easy-gadget|6|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|38|39|50|55</Row>
+			<Row>http://www.rr.com/|8|how-to videos|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/support/videos|6|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|37|39|50|55</Row>
+			<Row>http://www.rr.com/|8|dvr manager|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/my-services/app-center/rdvr|6|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|37|38|50|55</Row>
+			<Row>http://www.rr.com/|8|app center|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/my-services/app-center/by-device|6|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|37|38|50|55</Row>
+			<Row>http://www.rr.com/|8|voice mail|2014-02-28|0|0|0|0|0|0|0|https://profile.brighthouse.com/residential/login/?target=https://dataservices.brighthouse.com/myservices/default.aspx?ssochecked=true|6|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|33|33|50|55</Row>
+			<Row>http://www.rr.com/|8|pay my bill|2014-02-28|0|0|0|0|0|0|0|https://profile.brighthouse.com/residential/login/?target=https://dataservices.brighthouse.com/myservices/default.aspx?ssochecked=true|6|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|33|33|50|55</Row>
+			<Row>http://www.moas.org/main.cfm|7|bright house networks|2014-02-28|0|0|1|1|0|0|0|http://brighthouse.com/|7|2013-01-05|2014-02-28| | |ImageLink|ImageLink_Normal|53|48|44|58</Row>
+			<Row>http://bhmediastrategies.com/|8|residential services|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|8|2011-09-13|2014-02-28| | |TextLink|TextLink_Normal|53|48|51|49</Row>
+			<Row>http://bhmediastrategies.com/|8|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|50|43|51|49</Row>
+			<Row>http://bhmediastrategies.com/|8|user agreement|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|8|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|50|43|51|49</Row>
+			<Row>http://bhmediastrategies.com/|8|business services|2014-02-28|0|0|0|0|0|0|0|http://business.brighthouse.com/Home/|8|2011-09-13|2014-02-28| | |TextLink|TextLink_Normal|36|36|51|49</Row>
+			<Row>http://www.nba.com/leaguepass/activate/?ls=iref:nba:gnav:lp:alptv|8| |2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|9|2013-12-28|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|50|49</Row>
+			<Row>http://www.baynews9.com/|7|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2010-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|49|50</Row>
+			<Row>http://www.baynews9.com/|7|road runner|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2010-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|49|50</Row>
+			<Row>http://www.baynews9.com/|7|bright house networks|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2010-11-17|2014-02-28| | |TextLink|TextLink_Normal|53|48|49|50</Row>
+			<Row>http://www.baynews9.com/|7| |2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2010-11-17|2014-02-28| | |TextLink|TextLink_Normal|53|48|49|50</Row>
+			<Row>http://www.baynews9.com/|7|ad choices|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|49|50</Row>
+			<Row>http://www.baynews9.com/|7|user agreement|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|49|50</Row>
+			<Row>http://www.baynews9.com/|7|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|49|50</Row>
+			<Row>http://www.baynews9.com/|7|your california privacy rights|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|49|50</Row>
+			<Row>https://www.ncta.com/positions/unlicensed-spectrum|7|brighthouse networks|2014-02-27|0|0|0|0|0|0|0|http://www.brighthouse.com/corporate/shop/internet/wifi|11|2013-11-21|2014-02-27| | |TextLink|TextLink_Normal|34|41|44|54</Row>
+			<Row>http://mynews13.com/|7|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|12|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|48|44</Row>
+			<Row>http://mynews13.com/|7|road runner|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|12|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|48|44</Row>
+			<Row>http://mynews13.com/|7| |2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|12|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|53|48|48|44</Row>
+			<Row>http://mynews13.com/|7|bright house networks|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|12|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|53|48|48|44</Row>
+			<Row>http://mynews13.com/|7|user agreement|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|12|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|48|44</Row>
+			<Row>http://mynews13.com/|7|ad choices|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|12|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|48|44</Row>
+			<Row>http://mynews13.com/|7|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|12|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|48|44</Row>
+			<Row>http://mynews13.com/|7|your california privacy rights|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|12|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|48|44</Row>
+			<Row>https://www.pcisecuritystandards.org/get_involved/member_list.php/|7|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|13|2011-04-16|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|46|45</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news/espanol.html|7|road runner|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2013-03-06|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|47|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news/espanol.html|7|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2013-03-06|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|47|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news/espanol.html|7| |2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|53|48|47|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news/espanol.html|7|bright house networks|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|53|48|47|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news/espanol.html|7|your california privacy rights|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|47|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news/espanol.html|7|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|47|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news/espanol.html|7|user agreement|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|47|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news/espanol.html|7|ad choices|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|47|44</Row>
+			<Row>http://floridaicecreamfestival.org/|6| |2014-02-28|0|0|0|1|0|0|0|http://brighthouse.com/|14|2013-06-04|2014-02-28| | |ImageLink|ImageLink_Normal|53|48|43|48</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/sports.html|7|road runner|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2013-03-06|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|46|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/sports.html|7|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2013-03-06|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|46|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/sports.html|7|bright house networks|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|53|48|46|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/sports.html|7| |2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|53|48|46|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/sports.html|7|ad choices|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|50|43|46|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/sports.html|7|user agreement|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|50|43|46|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/sports.html|7|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|50|43|46|44</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/sports.html|7|your california privacy rights|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|50|43|46|44</Row>
+			<Row>http://www.polksheriff.org/Pages/default.aspx|7| |2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|15|2014-01-17|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|44|45</Row>
+			<Row>http://www.vanwezel.org/getInvolved/corporate.cfm|6|bright house|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|16|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|39|49</Row>
+			<Row>http://www.atlanticcenterforthearts.org/|6|bright house networks click to visit bright house networks.|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|17|2013-03-06|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|39|49</Row>
+			<Row>http://www.ibj.com/lists|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|43</Row>
+			<Row>http://www.theindianalawyer.com/|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|19|2013-12-04|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|45|42</Row>
+			<Row>http://www.themahaffey.com/|7| |2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|20|2013-05-05|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|45|42</Row>
+			<Row>http://www.ibj.com/events|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/A&#38;Eblog|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/health-care-life-sciences|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/widgets|7|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/cfo-2012|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/cfo-2013|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-06|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/blogs|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/cfo-nominations|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/eli-lilly-co|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/morgan-county|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>https://www.ibj.com/user/forgot_password|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-08|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/book-of-lists|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/ibj/event?eventId=189|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/sports-business|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/leading-questions|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/transportation|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/boone-county|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/cfo-of-the-year-past-recipients/PARAMS/article/22012|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/communications|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/keyword/111/Forefront/RPARAMS/taxonomyId/2347|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/arts|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/forty-under-40-nominations|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/mobile-app|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/Healthiest-Employers|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/forty-under-40|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-08|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/manufacturing-technology|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/hendricks-county|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/shelby-county|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>https://www.ibj.com/profile?tab=subscription|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-08|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/real-estate|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/banking-finance|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/submit-classifieds|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-08|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/contact-us|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-08|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/submit-people|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/subscription-questions|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/multimedia|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/dining-reviews|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/people|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/propertylines|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/regional-news|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/trial-subscriptions|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>https://www.ibj.com/registration|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-08|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/subscriptions|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-08|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/rss|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/the-dose|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/women-in-biz|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/education-workforce|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/women-of-influence|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-08|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/small-business|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/government-economic-development|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/store/cart/view|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/digital-newspaper|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/nominations|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/sitemap|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/influential-women-past-recipients/PARAMS/article/22303|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/madison-county|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/letters-to-the-editor|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/current-issue|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/healthiest-employer-2013|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/law|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/public-companies|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/other-counties|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/north-of-96th|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/opinion|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/hancock-county|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/editorial|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/inside-dish|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/johnson-county|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/magazines-supplements|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/lous-views|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/health-care-heroes|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/energy-environment|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/private-companies|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/simon-property-group|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/wellpoint-inc|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/thescore|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/health-care-heroes-nominations|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/health-care-heroes-past-recipients/PARAMS/article/22777|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/philanthropy|7|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.ibj.com/event-sponsorship|7|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|44|42</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather/klystron-9-radar.html.html.html|6|road runner|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2014-01-03|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|43|43</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather/klystron-9-radar.html.html.html|6|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2014-01-03|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|43|43</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather/klystron-9-radar.html.html.html|6| |2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|53|48|43|43</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather/klystron-9-radar.html.html.html|6|bright house networks|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|53|48|43|43</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather/klystron-9-radar.html.html.html|6|user agreement|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|50|43|43|43</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather/klystron-9-radar.html.html.html|6|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|50|43|43|43</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather/klystron-9-radar.html.html.html|6|ad choices|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|50|43|43|43</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather/klystron-9-radar.html.html.html|6|your california privacy rights|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2014-01-03|2014-02-28| | |TextLink|TextLink_Normal|50|43|43|43</Row>
+			<Row>http://www.ibj.com/media-kit|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/ftp|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/twitter|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/terms|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>https://www.ibj.com/profile|7|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|44|41</Row>
+			<Row>http://www.ibj.com/newsstand-locations|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/newsstory/email|6|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/submit-advertising|6|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/polls/archive|6|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/ibj-mobile|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/reprints|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/customer-service|6|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/indepth-reports|6|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/records|6|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/privacy-policy|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/enews-ealerts-subscription|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/sales-contacts|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.ibj.com/career-opportunities|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|43|42</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather.html.html|7|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2012-05-10|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|44|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather.html.html|7|road runner|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2012-05-10|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|44|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather.html.html|7| |2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2012-05-10|2014-02-28| | |TextLink|TextLink_Normal|53|48|44|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather.html.html|7|bright house networks|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2012-05-10|2014-02-28| | |TextLink|TextLink_Normal|53|48|44|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather.html.html|7|your california privacy rights|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|44|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather.html.html|7|ad choices|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|44|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather.html.html|7|user agreement|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|44|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/weather.html.html|7|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|44|41</Row>
+			<Row>http://www.mynews13.com/|7|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|12|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|44|41</Row>
+			<Row>http://www.mynews13.com/|7|road runner|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|12|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|44|41</Row>
+			<Row>http://www.mynews13.com/|7|bright house networks|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|12|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|53|48|44|41</Row>
+			<Row>http://www.mynews13.com/|7| |2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|12|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|53|48|44|41</Row>
+			<Row>http://www.mynews13.com/|7|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|12|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|44|41</Row>
+			<Row>http://www.mynews13.com/|7|your california privacy rights|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|12|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|44|41</Row>
+			<Row>http://www.mynews13.com/|7|user agreement|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|12|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|44|41</Row>
+			<Row>http://www.mynews13.com/|7|ad choices|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|12|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|44|41</Row>
+			<Row>http://floridatechsports.com/|6|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/central-florida/default|21|2013-02-04|2014-02-28| | |ImageLink|ImageLink_Normal|34|38|42|43</Row>
+			<Row>http://www.daytonachamber.com/|6| |2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|22|2013-04-05|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|39|46</Row>
+			<Row>http://www.magsneaks.com/featured.php|7|brighthouse|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/central-florida/default|23|2010-10-18|2014-02-28| | |TextLink|TextLink_Normal|49|31|46|39</Row>
+			<Row>http://baynews9.com/|6|road runner|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2012-04-10|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|42|42</Row>
+			<Row>http://baynews9.com/|6|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2012-04-10|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|42|42</Row>
+			<Row>http://baynews9.com/|6| |2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|53|48|42|42</Row>
+			<Row>http://baynews9.com/|6|bright house networks|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|53|48|42|42</Row>
+			<Row>http://baynews9.com/|6|user agreement|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|42|42</Row>
+			<Row>http://baynews9.com/|6|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|42|42</Row>
+			<Row>http://baynews9.com/|6|your california privacy rights|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|42|42</Row>
+			<Row>http://baynews9.com/|6|ad choices|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|42|42</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news.html.html|6|road runner|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|43|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news.html.html|6|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|43|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news.html.html|6| |2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|53|48|43|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news.html.html|6|bright house networks|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|53|48|43|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news.html.html|6|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|43|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news.html.html|6|ad choices|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|43|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news.html.html|6|user agreement|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|43|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/news.html.html|6|your california privacy rights|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|50|43|43|41</Row>
+			<Row>http://www.floridatechsports.com/cheer/intro/|6|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/central-florida/default|21|2013-02-03|2014-02-27| | |ImageLink|ImageLink_Normal|34|38|39|45</Row>
+			<Row>http://www.ucfknights.com/|7| |2014-02-28|0|0|0|1|0|0|0|http://brighthouse.com/corporate/default|24|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|48|42|47|37</Row>
+			<Row>http://www.ucfknights.com/|7|bright house|2014-02-28|0|0|0|1|0|0|0|http://brighthouse.com/corporate/default|24|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|48|42|47|37</Row>
+			<Row>http://www.ibj.com/anchor-producer-out-at-wthr/PARAMS/article/44744|6|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.ibj.com/executive-pay|6|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-08|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.ibj.com/indianapolis-software-firm-plans-to-add-95-jobs-by-2016/PARAMS/article/40128|6|brighthouse|2014-02-25|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-08|2014-02-25| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.ibj.com/ibj/event?eventId=192|6|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-21|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.ibj.com/police-raid-el-rodeo-restaurants-in-several-counties/PARAMS/article/44667|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-08|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.ibj.com/ex-ipl-chief-murtlow-picked-to-lead-united-way/PARAMS/article/39893|6|brighthouse|2014-02-25|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-25| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.ibj.com/community/calendar|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-24|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.ibj.com/community/event/submit|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-24|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.ibj.com/mayor-raises-travel-emergency-level-to-red/PARAMS/article/45438|6|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2014-01-06|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.ibj.com/anthem-tries-new-network-strategy/PARAMS/article/39638|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.ibj.com/leading-questions-mainstreet-ceo-digs-efficiency/PARAMS/article/39824|6|brighthouse|2014-02-27|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-04|2014-02-27| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.ibj.com/group-eyes-vacant-illinois-street-building-for-charter-school/PARAMS/article/40009|6|brighthouse|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-28| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.ibj.com/lilly-employees-stole-55-million-in-trade-secrets-indictment-alleges/PARAMS/article/43949|6|brighthouse|2014-02-26|0|0|0|1|0|0|0|http://www.brighthouse.com/business|18|2013-12-07|2014-02-26| | |ImageLink|ImageLink_Normal|44|42|42|41</Row>
+			<Row>http://www.nagra.com/dtv/company/customers/|6|brighthouse|2014-02-25|0|0|0|0|0|0|0|http://brighthouse.com/|25|2011-11-09|2014-02-25| | |TextLink|TextLink_Normal|53|48|38|45</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/project-weather.html|6|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2013-03-06|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/project-weather.html|6|road runner|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2013-03-06|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/project-weather.html|6|bright house networks|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2012-12-06|2014-02-28| | |TextLink|TextLink_Normal|53|48|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/project-weather.html|6| |2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2012-12-06|2014-02-28| | |TextLink|TextLink_Normal|53|48|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/project-weather.html|6|ad choices|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/project-weather.html|6|user agreement|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/project-weather.html|6|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/project-weather.html|6|your california privacy rights|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/project-weather.html|6|bhhoriz_colorcmyk|2014-02-28|0|0|0|1|0|0|0|http://brighthouse.com/tampa-bay/default|10|2012-06-09|2014-02-28| | |ImageLink|ImageLink_Normal|41|34|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/project-weather.html|6|bright house networks.|2014-02-28|0|0|0|0|0|0|0|http://www.brighthouse.com/tampa-bay/default/|10|2012-06-09|2014-02-28| | |TextLink|TextLink_Normal|28|28|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/project-weather.html|6|cable in the classroom|2014-02-28|0|0|0|0|0|0|0|http://www.brighthouse.com/tampa-bay/about/community|10|2012-06-09|2014-02-28| | |TextLink|TextLink_Normal|19|25|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/special-events.html|6|bright house networks|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2013-03-06|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/special-events.html|6|road runner|2014-02-28|0|0|0|1|0|0|0|http://www.brighthouse.com/|10|2013-03-06|2014-02-28| | |ImageLink|ImageLink_Normal|52|53|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/special-events.html|6| |2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2012-12-06|2014-02-28| | |TextLink|TextLink_Normal|53|48|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/special-events.html|6|bright house networks|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/|10|2012-12-06|2014-02-28| | |TextLink|TextLink_Normal|53|48|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/special-events.html|6|user agreement|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/special-events.html|6|your california privacy rights|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/special-events.html|6|privacy policy|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|42|41</Row>
+			<Row>http://www.baynews9.com/content/news/baynews9/community/special-events.html|6|ad choices|2014-02-28|0|0|0|0|0|0|0|http://brighthouse.com/corporate/policies/user-agreement|10|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|50|43|42|41</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="26" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|hbo.com|5826|217996|31565884|10480056|874046|2008-07-30|2014-02-28|206.208.179.53|206.208.179.0|US|com|66|85</Row>
+			<Row>1|c-spanclassroom.org|-1|5556|596844|95489|93312|2008-08-12|2014-02-28|38.105.88.183|38.105.88.0|US|org|42|45</Row>
+			<Row>2|amctv.com|2718|110562|15086047|1437854|531861|2008-07-29|2014-02-28|69.28.157.197|69.28.157.0|US|com|61|76</Row>
+			<Row>3|twcc.com|-1|8806|540574|581252|172485|2010-11-28|2014-02-28|24.28.199.168|24.28.199.0|US|com|50|45</Row>
+			<Row>4|brevardzoo.org|477518|4821|107718|4756|3310|2008-08-29|2014-02-28|74.117.146.53|74.117.146.0|US|org|37|50</Row>
+			<Row>5|butlersports.com|-1|5411|512566|211060|143861|2008-08-05|2014-02-28|67.228.165.35|67.228.165.0|US|com|44|46</Row>
+			<Row>6|rr.com|967|760889|105353800|19550569|1998991|2008-07-29|2014-02-28|24.28.199.168|24.28.199.0|US|com|45|48</Row>
+			<Row>7|moas.org|-1|3381|44990|5039|3869|2008-08-27|2014-02-28|50.57.207.128|50.57.207.0|US|org|36|50</Row>
+			<Row>8|bhmediastrategies.com|-1|155|1449|781|637|2012-08-15|2014-02-28|24.95.234.30|24.95.234.0|US|com|37|42</Row>
+			<Row>9|nba.com|343|496481|3853905896|5892090|1864702|2008-07-29|2014-02-28|92.122.212.26|92.122.212.0|EU|com|79|91</Row>
+			<Row>10|baynews9.com|15589|80545|4640836|1330832|654820|2008-07-29|2014-02-28|71.44.37.48|71.44.37.0|US|com|48|51</Row>
+			<Row>11|ncta.com|834668|15408|494384|26980|19387|2008-08-06|2014-02-28|209.81.90.248|209.81.90.0|US|com|43|60</Row>
+			<Row>12|mynews13.com|-1|6185|453112|381399|260174|2013-08-27|2014-02-28| | | |com|53|43</Row>
+			<Row>13|pcisecuritystandards.org|76460|32520|3671771|20058|15128|2008-09-12|2014-02-28|72.3.223.78|72.3.223.0|US|org|51|48</Row>
+			<Row>14|floridaicecreamfestival.org|-1|69|5524|102|91|2013-09-20|2014-02-28|208.115.41.126|208.115.41.0|US|org|28|42</Row>
+			<Row>15|polksheriff.org|238681|6021|80409|35524|25112|2008-09-09|2014-02-28|71.41.37.165|71.41.37.0|US|org|33|40</Row>
+			<Row>16|vanwezel.org|-1|5421|140781|4940|3946|2008-08-13|2014-02-28|64.156.29.85|64.156.29.0|US|org|36|48</Row>
+			<Row>17|atlanticcenterforthearts.org|-1|2678|34818|116930|114116|2008-09-01|2014-02-28|50.62.226.1|50.62.226.0|US|org|34|48</Row>
+			<Row>18|ibj.com|121823|60219|2568573|739713|242158|2008-07-30|2014-02-28|205.234.169.41|205.234.169.0|US|com|51|56</Row>
+			<Row>19|theindianalawyer.com|-1|1927|228303|63645|52544|2008-08-14|2014-02-28|216.246.43.10|216.246.43.0|US|com|36|38</Row>
+			<Row>20|themahaffey.com|-1|1045|94359|52830|50452|2011-12-05|2014-02-28|173.201.173.196|173.201.173.0|US|com|34|38</Row>
+			<Row>21|floridatechsports.com|751240|2029|402205|219026|130557|2009-04-24|2014-02-28|66.18.106.146|66.18.106.0|US|com|41|49</Row>
+			<Row>22|daytonachamber.com|997230|7190|202427|73972|67858|2008-07-30|2014-02-28|166.78.39.84|166.78.39.0|US|com|37|45</Row>
+			<Row>23|magsneaks.com|-1|431|766057|291|256|2009-11-16|2014-02-28|74.52.132.4|74.52.132.0|US|com|35|40</Row>
+			<Row>24|ucfknights.com|-1|562|57131|57125|52814|2013-08-16|2014-02-28|50.63.202.28|50.63.202.0|US|com|47|35</Row>
+			<Row>25|nagra.com|813032|5481|203251|13359|9003|2008-07-31|2014-02-28|193.192.230.65|193.192.230.0|CH|com|46|54</Row>
+		</DataTable>
+	</DataTables>
+</Result>

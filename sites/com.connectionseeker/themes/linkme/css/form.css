@@ -1,0 +1,177 @@
+/*
+http://www.zurb.com/article/266/super-awesome-buttons-with-css3-and-rgba
+*/
+div.form
+{
+}
+
+div.form .errorSummary {
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+div.form input,
+div.form textarea
+{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+    padding: 9px;
+    height: 18px;
+	font-size: 1.1em;
+    width: 260px;
+}
+
+/* button start */
+div.form div.buttons input, a.linkbutton{
+    font-size: 14px;
+    font-weight: bold;
+
+    line-height: 1;
+
+	background: url("../images/alert-overlay.png") repeat-x scroll 0 0 #2DAEBF;
+    border-bottom: 5px solid rgba(0, 0, 0, 0.25);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.25);
+	font-family: Helvetica Neue,"Arial",Helvetica,Verdana,sans-serif;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+    -moz-box-shadow: 0 1px 3px #999;
+    -webkit-box-shadow: 0 1px 3px #999;
+    padding: 8px 14px 9px;
+    margin: 0 10px 0 0;
+
+/*
+    padding: 5px 10px 6px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+*/
+
+}
+
+div.form div.buttons input{
+    height: 43px;
+    width: 180px;
+}
+
+div.form div.buttons input:hover, a.linkbutton:hover{
+	background-color: #007D9A;
+}
+
+a.linkbutton:hover, a.linkbutton:visited{
+	color: #fff;
+}
+
+/* button end */
+input[type="checkbox"],input[type="radio"]{
+	width:24px !important;
+}
+
+/*ie7 fix*/
+*+html input[type="checkbox"],input[type="radio"]{
+	height:24px;
+	border:none;
+	padding:0px;
+    margin:0px;
+}
+
+/*ie6 fix*/
+* html input.chkbox{
+	width:24px;
+	height:24px;
+	padding:0px;
+    margin:0px;
+	border:none;
+}
+
+.horizonleft {
+    display: inline;
+	float:left
+}
+div.horizonleft label{
+    display: inline;
+}
+
+div.form div.buttons a{
+    color: #666699;
+    font-weight: bold;
+    text-decoration: none;
+	margin:0 0 0 8px;
+}
+
+#leftbasicinfo, #middlebasicinfo, #rightbasicinfo{
+   float: left;
+   min-width: 320px;
+   width:360px;
+}
+
+a.search-button, a.search-button:visited{color: #0066A4;}
+a.search-button:hover{color:#09f;}
+
+div.form select, .formSearch select
+{
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+    padding: 7px 8px;
+    height: 38px;
+}
+
+div.form select {width: 260px;}
+
+div.leftform{
+float:left;
+}
+
+#rightscroll{
+	overflow: scroll;
+    width: 446px;
+	height: 500px;
+	background-color: #fff;
+    border: 2px solid #CCCCCC;
+/*
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+*/
+    padding: 0px;
+
+}
+
+#searchloading{
+  background:url("../images/loading.gif") no-repeat;
+  width:220px;
+  height:19px;
+  display:none;
+}
+
+input.googlecpt{
+  border:2px solid #BCE774 !important;
+}
+
+.ajaxliveupdate{
+	border: 1px solid #ff0000;
+}
+
+#ifrdiv{
+	float:left;
+	width:520px;
+}
+
+#maildiv{
+	float:right;
+	width:480px;
+}
+.clear {clear:both;}
+
+#noteboxdiv{
+	padding: 10px;
+}

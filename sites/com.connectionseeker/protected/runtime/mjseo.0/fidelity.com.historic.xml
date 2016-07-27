@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="250" IndexBuildDate="2014-03-19 09:04:51" IndexType="0" RemainingAnalysisResUnits="96479361" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19873500" RemainingStandardReports="950" ServerBuild="2014-04-10 16:18:39" ServerName="HUMMERR" ServerVersion="1.0.5213.27559" UniqueIndexID="20140319090451-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="250" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="50000" BackLinkItem="fidelity.com" BackLinkType="RootDomain" TotalBackLinks="3601367" TotalLines="50000" TotalMatches="250">
+			<Row>http://www.ceoexpress.com/default.asp|8|fidelity|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|0|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|59|73|53|68</Row>
+			<Row>http://www.investopedia.com/articles/personal-finance/052413/money-tips-stretch-your-retirement-nest-egg.asp|9|fidelity estimates|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/viewpoints/retirees-medical-expenses|1|2013-06-04|2014-02-28| | |TextLink|TextLink_Normal|37|35|59|57</Row>
+			<Row>http://www.rockwellcollins.com/Resources/Employee_Resources.aspx|9|fidelity netbenefits|2014-02-28|0|0|0|0|0|0|0|http://www.netbenefits.fidelity.com/|2|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|37|32|62|51</Row>
+			<Row>http://www.rockwellcollins.com/Resources/Employee_Resources.aspx|9|icon representing fidelity netbenefits|2014-02-28|0|0|0|1|0|0|0|http://www.netbenefits.fidelity.com/|2|2011-03-17|2014-02-28| | |ImageLink|ImageLink_Normal|37|32|62|51</Row>
+			<Row>http://mfea.com/|7|emerging markets: what to do now|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/insights/investing-ideas/what-you-need-to-know-about-emerging-markets|3|2014-02-14|2014-02-28| | |TextLink|TextLink_Normal_HighContent|32|42|47|62</Row>
+			<Row>http://mfea.com/|7|emerging markets: what to do now|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/insights/investing-ideas/what-you-need-to-know-about-emerging-markets|3|2014-02-14|2014-02-28| | |ImageLink|ImageLink_HighContent|32|42|47|62</Row>
+			<Row>http://www.rent.com/press-room/press-releases/|8|rent decision not just location, location, fidelity.com|2014-02-28|0|0|0|0|0|0|0|https://news.fidelity.com/news/news.jhtml?articleid=201009300727STREETCMREALTIME_10874043&#38;IMG=N&#38;ccsource=rss-investing|4|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|23|28|53|53</Row>
+			<Row>http://money.msn.com/top-stocks/|8|important information about fidelity investments tweets|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/social/twitter.shtml|5|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|31|33|51|54</Row>
+			<Row>http://www.payscale.com/about/latest-news/|8|fidelity|2014-02-28|0|0|0|1|0|0|0|https://news.fidelity.com/news/news.jhtml?IMG=N&#38;articleid=201306211702MRKTWTCHNEWS_SVC_4CA8B902-DAAE-11E2-91D1-002128040CF6&#38;ccsource=rss-investing|6|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|25|32|50|54</Row>
+			<Row>http://www.payscale.com/about/latest-news/|8|10 things generation y won&#39;t tell you|2014-02-28|0|0|0|0|0|0|0|https://news.fidelity.com/news/news.jhtml?IMG=N&#38;articleid=201306211702MRKTWTCHNEWS_SVC_4CA8B902-DAAE-11E2-91D1-002128040CF6&#38;ccsource=rss-investing|6|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|25|32|50|54</Row>
+			<Row>http://www.payscale.com/about/latest-news/|8|read more|2014-02-28|0|0|0|0|0|0|0|https://news.fidelity.com/news/news.jhtml?IMG=N&#38;articleid=201306211702MRKTWTCHNEWS_SVC_4CA8B902-DAAE-11E2-91D1-002128040CF6&#38;ccsource=rss-investing|6|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|25|32|50|54</Row>
+			<Row>http://depts.washington.edu/psoweb/|7|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2012-07-06|2014-02-25| | |TextLink|TextLink_Normal|32|39|47|55</Row>
+			<Row>http://www.media.mit.edu/sponsorship/sponsor-list|7|fidelity center for applied technology|2014-02-28|0|0|0|0|0|0|0|http://fcat.fidelity.com/|8|2011-04-16|2014-02-28| | |TextLink|TextLink_Normal|30|33|44|55</Row>
+			<Row>http://www.purdue.edu/employeeportal/|7|fidelity fidelity- access to your retirement plan|2014-02-26|0|0|0|1|0|0|0|https://login.fidelity.com/ftgw/Fidelity/NBPart/Login/Init?AuthRedUrl=https://workplaceservices300.fidelity.com/NBHome.html|9|2013-03-04|2014-02-26| | |ImageLink|ImageLink_Normal|42|36|47|51</Row>
+			<Row>http://www.purdue.edu/employeeportal/|7|fidelity|2014-02-26|0|0|0|0|0|0|0|https://login.fidelity.com/ftgw/Fidelity/NBPart/Login/Init?AuthRedUrl=https://workplaceservices300.fidelity.com/NBHome.html|9|2013-03-04|2014-02-26| | |TextLink|TextLink_Normal|42|36|47|51</Row>
+			<Row>http://www.youtube.com/fidelityinvestments|7|fidelity.com|2014-02-27|0|0|1|0|0|0|0|http://www.fidelity.com/|10|2012-08-07|2014-02-27| | |TextLink|TextLink_Normal|53|62|45|52</Row>
+			<Row>http://www.youtube.com/fidelityinvestments|7| |2014-02-27|0|0|1|1|0|0|0|http://www.fidelity.com/|10|2012-08-07|2014-02-27| | |ImageLink|ImageLink_Normal|53|62|45|52</Row>
+			<Row>http://www.kcrw.com/join/join_us_matchgifts/|7|fidelity investments|2014-02-24|0|0|0|0|0|0|0|https://www.fidelity.com/|11|2011-03-13|2014-02-24| | |TextLink|TextLink_Normal|59|73|48|49</Row>
+			<Row>http://www.acenet.edu/leadership/programs/Pages/ACE-Institute-for-New-Presidents.aspx|7|fidelity investments|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|12|2012-10-07|2014-02-28| | |TextLink|TextLink_Normal|59|73|45|52</Row>
+			<Row>http://www.acenet.edu/leadership/programs/Pages/Advancing-to-the-Presidency.aspx|7|fidelity investments|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|12|2012-10-07|2014-02-28| | |TextLink|TextLink_Normal|59|73|45|52</Row>
+			<Row>http://www.pensions.org/Pages/default.aspx|7|read more|2014-02-28|0|0|0|0|0|0|0|https://communications.fidelity.com/wi/2014/save1percent/|13|2014-02-24|2014-02-28| | |TextLink|TextLink_Normal|26|32|47|50</Row>
+			<Row>http://www.pensions.org/Pages/default.aspx|7|get the most out of your savings plan|2014-02-28|0|0|0|0|0|0|0|https://communications.fidelity.com/wi/2014/save1percent/|13|2014-02-24|2014-02-28| | |TextLink|TextLink_Normal|26|32|47|50</Row>
+			<Row>http://www.santafe.edu/network/|7|fidelity investments|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|14|2011-02-15|2014-02-28| | |TextLink|TextLink_Normal|59|73|44|52</Row>
+			<Row>http://www.investorideas.com/Resources/Newsletter.asp|8|fidelity|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|15|2012-04-10|2014-02-28| | |TextLink|TextLink_Normal|59|73|52|43</Row>
+			<Row>http://www.usfunds.com/investing-with-us/prospectus/|7|annual report|2014-02-25|0|0|0|0|0|0|0|https://fiiscontent.fidelity.com/701843.PDF|16|2013-11-14|2014-02-25| | |TextLink|TextLink_Normal|25|32|46|48</Row>
+			<Row>http://www.usfunds.com/investing-with-us/prospectus/|7|prospectus|2014-02-25|0|0|0|0|0|0|0|https://fiiscontent.fidelity.com/B-CIMMIII.PDF|16|2013-11-14|2014-02-25| | |TextLink|TextLink_Normal|25|32|46|48</Row>
+			<Row>http://www.usfunds.com/investing-with-us/prospectus/|7|statement of additional information|2014-02-25|0|0|0|0|0|0|0|https://fiiscontent.fidelity.com/B-CIMM-PTB.PDF|16|2013-11-14|2014-02-25| | |TextLink|TextLink_Normal|25|32|46|48</Row>
+			<Row>http://www.toast.net/start/|7|fidelity|2014-02-25|0|0|0|0|0|0|0|http://www.fidelity.com/|17|2009-04-23|2014-02-25| | |TextLink|TextLink_Normal|53|62|44|50</Row>
+			<Row>http://www.magazine.com.hk/fina/index-right.htm|6|富達投資|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/|18|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|53|62|40|54</Row>
+			<Row>https://www.nzx.com/services/find_a_vendor|7|fmr llc|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|19|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|59|73|46|47</Row>
+			<Row>http://www.oakland.edu/uhr/|6| |2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/atwork/reservations/|20|2009-09-23|2014-02-28| | |ImageLink|ImageLink_Normal|30|33|42|50</Row>
+			<Row>http://www.tlnt.com/|8|a 2013 report from fidelity investments and the national business group on health|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/inside-fidelity/employer-services/fidelity-nbgh-wellness-survey|21|2014-02-26|2014-02-28| | |TextLink|TextLink_Normal|34|28|51|41</Row>
+			<Row>http://www.wagers.net/links.php|6|fidelity - securities&#39; pricing, dividend, merge or split history|2014-02-28|0|0|0|0|0|0|0|http://activequote.fidelity.com/mmnet/SymLookup.phtml/|22|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|28|34|40|51</Row>
+			<Row>http://www.investopedia.com/articles/personal-finance/022414/obamas-retirement-cap-could-hit-middle-class.asp|7|fidelity estimates|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/viewpoints/retirement/8X-retirement-savings|1|2014-02-25|2014-02-28| | |TextLink|TextLink_Normal|33|35|45|45</Row>
+			<Row>http://www.nbc4i.com/story/20933990/daytime-guest-links|7|fidelity|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|23|2013-08-03|2014-02-28| | |TextLink|TextLink_Normal|59|73|47|43</Row>
+			<Row>https://www.fidelitylabs.com/|6|privacy|2014-02-28|0|0|0|0|0|0|0|http://personal.fidelity.com/accounts/services/findanswer/content/index_privacy.shtml|24|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|46|49|41|49</Row>
+			<Row>https://www.fidelitylabs.com/|6|security|2014-02-28|0|0|0|0|0|0|0|http://personal.fidelity.com/accounts/services/findanswer/content/index_security.shtml|24|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|46|49|41|49</Row>
+			<Row>https://www.fidelitylabs.com/|6|statement of financial condition for national financial services llc|2014-02-28|0|0|0|0|0|0|0|http://personal.fidelity.com/misc/legal/sofclegal.html.cvsr|24|2013-05-05|2014-02-28| | |TextLink|TextLink_Normal|39|41|41|49</Row>
+			<Row>https://www.fidelitylabs.com/|6|fidelity brokerage services llc|2014-02-28|0|0|0|0|0|0|0|http://personal.fidelity.com/misc/legal/legal_frame2.shtml|24|2013-05-05|2014-02-28| | |TextLink|TextLink_Normal|29|35|41|49</Row>
+			<Row>http://www.rollins.edu/directories/faculty-staff.html|6|fidelity|2014-02-28|0|0|0|0|0|0|0|https://login.fidelity.com/ftgw/Fidelity/NBPart/Login/Init?AuthRedUrl=https://workplaceservices300.fidelity.com/NBHome.html|25|2013-12-18|2014-02-28| | |TextLink|TextLink_Normal|42|36|39|49</Row>
+			<Row>http://www.purdue.edu/hr/Benefits/|6|manage your retirement plans|2014-02-27|0|0|0|0|0|0|0|http://www.plan.fidelity.com/purdue|9|2011-02-14|2014-02-27| | |TextLink|TextLink_Normal|26|33|41|46</Row>
+			<Row>http://www.mythicsoft.com/info/customers|6| |2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/|26|2013-06-04|2014-02-28| | |ImageLink|ImageLink_Normal|53|62|42|45</Row>
+			<Row>http://www.mitx.org/|6|fidelity|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/|27|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|59|73|40|47</Row>
+			<Row>http://benefits.stanford.edu/|6|retirement savings|2014-02-28|0|0|0|0|0|0|0|https://login.fidelity.com/ftgw/Fidelity/NBPart/Login/Init?AuthRedUrl=https://workplaceservices200.fidelity.com/NBHome.html|28|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|28|31|42|44</Row>
+			<Row>http://humanresources.vassar.edu/jobs/|6|fidelity investments|2014-02-26|0|0|0|0|0|0|0|http://www.fidelity.com/atwork/|29|2013-11-07|2014-02-26| | |TextLink|TextLink_Normal|31|35|38|48</Row>
+			<Row>http://etfdb.com/library/|9|etf basics|2014-02-25|0|0|0|0|0|0|0|http://personal.fidelity.com/research/etf/index.shtml|30|2010-10-15|2014-02-25| | |TextLink|TextLink_Normal|37|15|61|25</Row>
+			<Row>http://ptmoney.com/best-online-stock-brokers-for-cheap-stock-trading/|6|www.fidelity.com|2014-02-25|0|0|0|0|0|0|0|http://www.fidelity.com/|31|2010-12-14|2014-02-25| | |TextLink|TextLink_Normal|53|62|43|43</Row>
+			<Row>http://www.pyramis.com/us.html|6|privacy|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/privacy-policy|32|2013-06-04|2014-02-28| | |TextLink|TextLink_Normal|36|38|39|47</Row>
+			<Row>https://crypto.stanford.edu/forcehttps/|6|fidelity|2014-02-26|0|0|0|0|0|0|0|https://www.fidelity.com/|28|2011-11-10|2014-02-26| | |TextLink|TextLink_Normal|59|73|39|46</Row>
+			<Row>http://www.gardnermuseum.org/music/|6|fidelity investments®|2014-02-24|0|0|0|0|0|0|0|https://www.fidelity.com/|33|2013-01-31|2014-02-24| | |TextLink|TextLink_Normal|59|73|37|48</Row>
+			<Row>http://www.codesmithtools.com/ourcustomers|6|fidelity investments|2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/|34|2010-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|53|62|40|45</Row>
+			<Row>http://www.codesmithtools.com/ourcustomers|6|fidelity investments|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/|34|2010-11-17|2014-02-28| | |TextLink|TextLink_Normal|53|62|40|45</Row>
+			<Row>https://www.mystreetscape.com/my/access/jsp/common/privacypol.htm|7|national financial services llc privacy notice|2014-02-27|0|0|0|0|0|0|0|http://fiiscontent.fidelity.com/769536.PDF|35|2013-12-15|2014-02-27| | |TextLink|TextLink_Normal|42|35|46|39</Row>
+			<Row>http://www.montgomerycountymd.gov/mcerp/index.html|6|on-line access to retirement plans through fidelity.com.|2014-02-28|0|0|0|1|0|0|0|http://plan.fidelity.com/MCG|36|2013-02-04|2014-02-28| | |ImageLink|ImageLink_Normal|16|24|42|42</Row>
+			<Row>http://www.communitycoffee.com/AboutUs/employees.aspx|6|fidelity|2014-02-28|0|0|0|1|0|0|0|https://401k.fidelity.com/public/content/401k/Home/Landing/|37|2011-08-14|2014-02-28| | |ImageLink|ImageLink_Normal|49|47|38|46</Row>
+			<Row>http://www.tkcs-collins.com/truman/index.shtml|6|fidelity investments|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/|38|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|53|62|37|47</Row>
+			<Row>http://www.kychamber.com/|7| |2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/|39|2012-09-07|2014-02-28| | |ImageLink|ImageLink_Normal|59|73|48|36</Row>
+			<Row>http://www.washingtonpost.com/business/economy/taxing-sochi-medal-winners/2014/02/20/fab26ba8-99a1-11e3-b931-0204122c514b_story.html|7|survey|2014-02-27|0|0|0|0|0|0|0|https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/new-years-resolutions.pdf|40|2014-02-21|2014-02-27| | |TextLink|TextLink_Normal|28|24|45|38</Row>
+			<Row>http://ucsfhr.ucsf.edu/|6|login to uc retirement savings program|2014-02-28|0|0|0|0|0|0|0|https://login.fidelity.com/ftgw/Fidelity/NBPart/Login/Init?AuthRedUrl=https://workplaceservices100.fidelity.com/NBHome.html|41|2009-03-27|2014-02-28| | |TextLink|TextLink_Normal|27|33|39|44</Row>
+			<Row>http://www.ryder.com/en/site-map.aspx|6|fidelity netbenefits retirement and savings|2014-02-28|0|0|0|0|0|0|0|https://netbenefits.fidelity.com/|42|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|39|47|37|46</Row>
+			<Row>http://www.ryder.com/en/employees.aspx|6|fidelity netbenefits retirement and savings|2014-02-28|0|0|0|0|0|0|0|https://netbenefits.fidelity.com/|42|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|39|47|37|46</Row>
+			<Row>http://www.accusoft.com/customers.htm|6|fidelity investments|2014-02-28|0|0|1|0|0|0|0|https://www.fidelity.com/|43|2012-03-11|2014-02-28| | |TextLink|TextLink_Normal|59|73|41|42</Row>
+			<Row>http://www.nag.co.uk/main_finance.asp|6|fidelity investments|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|44|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|59|73|38|45</Row>
+			<Row>http://www.beckershospitalreview.com/conference/|8| |2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/nfphealthcare/|45|2014-02-26|2014-02-28| | |ImageLink|ImageLink_Normal|30|22|50|33</Row>
+			<Row>http://www.401khelpcenter.com/401k/topics.html|6|cashing out can derail retirement; employees in transition need help|2014-02-28|0|0|0|0|0|0|0|http://dcda.fidelity.com/static/dcle/WPSFidelityPerspectives/documents/Cashing_Out_Can_Derail_Retirement_021214.pdf|46|2014-02-15|2014-02-28| | |TextLink|TextLink_Normal|24|30|38|45</Row>
+			<Row>http://www.401khelpcenter.com/cw/cw_studies.html|6|plan sponsor attitudes survey: executive summary|2014-02-28|0|0|0|0|0|0|0|https://fiiscontent.fidelity.com/968934.PDF|46|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|20|27|41|42</Row>
+			<Row>http://hitachi-id.com/|7|fidelity logo|2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/|47|2012-08-08|2014-02-28| | |ImageLink|ImageLink_Normal|53|62|45|38</Row>
+			<Row>http://www.hotsheet.com/|7|fidelity|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/|48|2013-10-22|2014-02-28| | |TextLink|TextLink_Normal|53|62|44|39</Row>
+			<Row>http://www.web-strategist.com/blog/category/industry-index/|6|fidelity center for applied technology, boston|2014-02-28|0|0|0|0|0|0|0|http://fcat.fidelity.com/|49|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|30|33|42|40</Row>
+			<Row>http://www.web-strategist.com/blog/2012/12/|6|fidelity center for applied technology, boston|2014-02-28|0|0|0|0|0|0|0|http://fcat.fidelity.com/|49|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|30|33|42|40</Row>
+			<Row>http://www.web-strategist.com/blog/category/innovation/|6|fidelity center for applied technology, boston|2014-02-28|0|0|0|0|0|0|0|http://fcat.fidelity.com/|49|2013-01-05|2014-02-28| | |TextLink|TextLink_Normal|30|33|42|40</Row>
+			<Row>http://www.beckershospitalreview.com/conference/ceo-roundtable/general-information.html|7| |2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/nfphealthcare/|45|2014-02-26|2014-02-28| | |ImageLink|ImageLink_Normal|30|22|49|33</Row>
+			<Row>http://www.mymoneyblog.com/fidelity-investments-american-express-2-flat-cash-back.html|6|fidelity rewards american express cards|2014-02-28|0|0|0|0|0|0|0|http://personal.fidelity.com/products/checking/content/amex_rewards_card.shtml|50|2010-08-19|2014-02-28| | |TextLink|TextLink_Normal|28|31|40|42</Row>
+			<Row>http://www.nag.com/main_finance.asp|6|fidelity investments|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|51|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|59|73|37|45</Row>
+			<Row>http://oldprof.typepad.com/|7|another four reasons|2014-02-27|0|0|0|0|0|0|0|https://www.fidelity.com/viewpoints/market-and-economic-insights/why-earnings-growth-could-continue|52|2014-01-27|2014-02-27| | |TextLink|TextLink_Normal|28|26|47|34</Row>
+			<Row>http://www.galttech.com/research/finance/investing-in-municipal-bonds.php|5|fidelity muni bond funds|2014-02-28|0|0|0|0|0|0|0|http://personal.fidelity.com/products/fixedincome/ourmuni.shtml|53|2009-12-22|2014-02-28| | |TextLink|TextLink_Normal|25|36|36|45</Row>
+			<Row>http://moneymappress.com/brokerage-firms/|9|www.fidelity.com|2014-02-26|0|0|0|0|0|0|0|http://www.fidelity.com/|54|2010-06-18|2014-02-26| | |TextLink|TextLink_Normal|53|62|58|23</Row>
+			<Row>http://www.dailystocks.com/daytrading-portal.htm|6|fidelity funds|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/|55|2012-07-08|2014-02-27| | |TextLink|TextLink_Normal|53|62|40|41</Row>
+			<Row>http://www.dailystocks.com/daytrading-portal.htm|6|fidelity|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/index.html|55|2012-07-08|2014-02-27| | |TextLink|TextLink_Normal|32|38|40|41</Row>
+			<Row>http://www.prestosoft.com/edp_clients.asp|6|fidelity investments|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/|56|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|53|62|37|44</Row>
+			<Row>http://www.ntca.org/insurance-and-benefits/|6|check savings plan balance|2014-02-28|0|0|0|1|0|0|0|https://401k.fidelity.com/public/content/401k/Home/LandingTEM|57|2012-01-11|2014-02-28| | |ImageLink|ImageLink_Normal|33|31|38|43</Row>
+			<Row>http://www.ntca.org/insurance-and-benefits/|6|account inquiry/fidelity netbenefits|2014-02-28|0|0|0|0|0|0|0|https://401k.fidelity.com/public/content/401k/Home/LandingTEM|57|2012-01-11|2014-02-28| | |TextLink|TextLink_Normal|33|31|38|43</Row>
+			<Row>http://feeds.feedburner.com/clusterstock?format=xml|8|fidelity investment guide|2014-02-28|0|0|0|0|0|0|0|https://fiiscontent.fidelity.com/954113.pdf|58|2014-02-28|2014-02-28| | |TextLink|TextLink_Normal|26|17|51|29</Row>
+			<Row>http://hrweb.mit.edu/|6|401(k) account|2014-02-28|0|0|0|0|0|0|0|https://login.fidelity.com/ftgw/Fidelity/NBPart/Login/Init?AuthRedUrl=https://workplaceservices400.fidelity.com/NBHome.html|8|2010-12-17|2014-02-28| | |TextLink|TextLink_Normal|41|49|38|42</Row>
+			<Row>http://boomers.typepad.com/boomers/|8|fidelity investments|2014-02-22|0|0|0|0|0|0|0|https://www.fidelity.com/|52|2012-10-01|2014-02-22| | |TextLink|TextLink_Normal|59|73|50|30</Row>
+			<Row>http://www.cerias.purdue.edu/site/partners/sponsors/|6|fidelity investments|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/|9|2013-11-05|2014-02-28| | |ImageLink|ImageLink_HighContent|59|73|38|42</Row>
+			<Row>http://www.cerias.purdue.edu/site/partners/sponsors/|6|fidelity investments|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|9|2013-11-05|2014-02-28| | |TextLink|TextLink_Normal_HighContent|59|73|38|42</Row>
+			<Row>http://www.investopedia.com/articles/investing/021914/bestperforming-sectors-2013.asp|6|here|2014-02-27|0|0|0|0|0|0|0|https://eresearch.fidelity.com/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&#38;sector=40|1|2014-02-21|2014-02-27| | |TextLink|TextLink_Normal|30|35|42|38</Row>
+			<Row>http://www.investopedia.com/articles/investing/021914/bestperforming-sectors-2013.asp|6|here|2014-02-27|0|0|0|0|0|0|0|https://eresearch.fidelity.com/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&#38;sector=35|1|2014-02-21|2014-02-27| | |TextLink|TextLink_Normal|30|35|42|38</Row>
+			<Row>http://www.investopedia.com/articles/investing/021914/bestperforming-sectors-2013.asp|6|here|2014-02-27|0|0|0|0|0|0|0|https://eresearch.fidelity.com/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&#38;sector=25|1|2014-02-21|2014-02-27| | |TextLink|TextLink_Normal|30|35|42|38</Row>
+			<Row>http://www.investopedia.com/articles/investing/021914/bestperforming-sectors-2013.asp|6|here.|2014-02-27|0|0|0|0|0|0|0|https://eresearch.fidelity.com/eresearch/markets_sectors/sectors/sectors_in_market.jhtml?tab=learn&#38;sector=20|1|2014-02-21|2014-02-27| | |TextLink|TextLink_Normal|27|33|42|38</Row>
+			<Row>http://www.investmentnews.com/section/nextgen|7| |2014-02-28|0|0|0|1|0|0|0|http://fiws.fidelity.com/|59|2013-10-06|2014-02-28| | |ImageLink|ImageLink_Normal|39|47|48|32</Row>
+			<Row>http://www.ana.net/members/list/|6|fidelity investments|2014-02-26|0|0|0|0|0|0|0|http://www.fidelity.com/|60|2010-09-16|2014-02-26| | |TextLink|TextLink_Normal|53|62|37|43</Row>
+			<Row>http://www.consumerismcommentary.com/the-best-credit-cards-available-today/|6|http://personal.fidelity.com/products/checking/content/investment_rewards_card.shtml.cvsr|2014-02-27|0|0|1|0|0|0|0|http://personal.fidelity.com/products/checking/content/investment_rewards_card.shtml.cvsr|61|2010-07-19|2014-02-27| | |TextLink|TextLink_Normal|14|13|41|39</Row>
+			<Row>http://www.consumerismcommentary.com/the-best-credit-cards-available-today/|6|fidelity investment rewards visa signature card.|2014-02-27|0|0|0|0|0|0|0|http://personal.fidelity.com/products/checking/content/investment_rewards_card.shtml.cvsr|61|2010-07-19|2014-02-27| | |TextLink|TextLink_Normal|14|13|41|39</Row>
+			<Row>http://nabe.com/pc2014|6|s:\chris\2014 policy conference\sponsors\fidelitylogo.jpg|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/|62|2014-01-18|2014-02-28| | |ImageLink|ImageLink_Normal|59|73|37|43</Row>
+			<Row>http://www.netbenefits.com/|6| |2014-02-28|1|0|0|0|0|0|0|https://login.fidelity.com/ftgw/Fidelity/NBPart/Login/Init?AuthRedUrl=https://workplaceservices300.fidelity.com/NBHome.html|63|2009-09-23|2014-02-28| | |Redirect|Redirect_Temporary|42|36|41|39</Row>
+			<Row>http://www.netbenefits.com/|6| |2014-02-28|1|0|0|0|0|0|0|https://netbenefits.fidelity.com/NBLogin/|63|2009-11-22|2014-02-28| | |Redirect|Redirect_Temporary_Chain|35|26|41|39</Row>
+			<Row>http://www.finaid.org/savings/state529plans.phtml|6|fidelity investments|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/|64|2008-08-28|2014-02-27| | |TextLink|TextLink_Normal|53|62|37|42</Row>
+			<Row>http://www.finaid.org/savings/state529plans.phtml|6|fidelity investments|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/ufund/|64|2008-08-28|2014-02-27| | |TextLink|TextLink_Normal|23|27|37|42</Row>
+			<Row>http://www.finaid.org/savings/state529plans.phtml|6|www.fidelity.com/unique|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/unique|64|2008-08-28|2014-02-27| | |TextLink|TextLink_Normal|23|27|37|42</Row>
+			<Row>http://www.finaid.org/savings/state529plans.phtml|6|new hampshire college tuition savings plan (new hampshire)|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/unique|64|2008-08-28|2014-02-27| | |TextLink|TextLink_Normal|23|27|37|42</Row>
+			<Row>http://www.finaid.org/savings/state529plans.phtml|6|delaware college investment plan (delaware)|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/delaware/|64|2008-08-28|2014-02-27| | |TextLink|TextLink_Normal|23|27|37|42</Row>
+			<Row>http://www.finaid.org/savings/state529plans.phtml|6|www.fidelity.com/delaware|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/delaware/|64|2008-08-28|2014-02-27| | |TextLink|TextLink_Normal|23|27|37|42</Row>
+			<Row>http://www.finaid.org/savings/state529plans.phtml|6|fidelity investments|2014-02-27|0|0|0|0|0|0|0|http://personal.fidelity.com/planning/college/content/ufundfactsheet.shtml.cvsr|64|2008-08-28|2014-02-27| | |TextLink|TextLink_Normal|19|27|37|42</Row>
+			<Row>http://www.finaid.org/savings/state529plans.phtml|6|arizona family college savings program (arizona)|2014-02-27|0|0|0|0|0|0|0|http://personal.fidelity.com/planning/college/content/learnmore_az.shtml.cvsr|64|2008-08-28|2014-02-27| | |TextLink|TextLink_Normal|18|27|37|42</Row>
+			<Row>http://www.gardnermuseum.org/calendar/events/5592|5|fidelity investments®|2014-02-25|0|0|0|0|0|0|0|https://www.fidelity.com/|33|2013-12-13|2014-02-25| | |TextLink|TextLink_Normal|59|73|34|45</Row>
+			<Row>http://www.taxsites.com/Benefit-Admin.html|5|fidelity|2014-02-28|0|0|0|0|0|0|0|http://benefits.fidelity.com/prod/health.htm|65|2009-09-23|2014-02-28| | |TextLink|TextLink_Normal|20|32|34|45</Row>
+			<Row>http://www.consumerismcommentary.com/low-cost-stock-trading-5-true-discount-brokerages/|6|signup button|2014-02-26|0|0|0|1|0|0|0|http://www.fidelity.com/|61|2010-07-18|2014-02-26| | |ImageLink|ImageLink_Normal|53|62|40|39</Row>
+			<Row>http://www.gemstone.com/customers/|5|[learn more…]|2014-02-25|0|0|0|0|0|0|0|https://www.fidelity.com/|66|2011-06-12|2014-02-25| | |TextLink|TextLink_Normal|59|73|34|45</Row>
+			<Row>http://www.gemstone.com/customers/|5|fidelity|2014-02-25|0|0|0|1|0|0|0|https://www.fidelity.com/|66|2011-06-12|2014-02-25| | |ImageLink|ImageLink_Normal|59|73|34|45</Row>
+			<Row>http://en.wikipedia.org/wiki/401(k)|6|&#34;taking money from an ira or 401(k) early&#34;|2014-02-16|0|0|1|0|0|0|0|https://www.fidelity.com/viewpoints/retirement/taking-money-early|67|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|23|24|43|35</Row>
+			<Row>http://money.msn.com/retirement-plan/|6|important information about fidelity investments tweets|2014-02-23|0|0|0|0|0|0|0|http://www.fidelity.com/social/twitter.shtml|5|2013-12-18|2014-02-23| | |TextLink|TextLink_Normal|31|33|40|38</Row>
+			<Row>http://www.finaid.org/savings/surveys.phtml|5|college savings indicator|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/inside-fidelity/individual-investing/college-savings-indicator-2012|64|2012-09-06|2014-02-27| | |TextLink|TextLink_Normal|25|31|36|42</Row>
+			<Row>http://www.finaid.org/savings/surveys.phtml|5|survey|2014-02-27|0|0|0|0|0|0|0|http://personal300.fidelity.com/myfidelity/InsideFidelity/NewsCenter/mediadocs/529survey.html|64|2009-05-25|2014-02-27| | |TextLink|TextLink_Normal|21|31|36|42</Row>
+			<Row>http://www.finaid.org/savings/surveys.phtml|5|survey|2014-02-27|0|0|0|0|0|0|0|http://personal300.fidelity.com/myfidelity/InsideFidelity/NewsCenter/mediadocs/collegesurveyannual.html|64|2009-05-25|2014-02-27| | |TextLink|TextLink_Normal|21|31|36|42</Row>
+			<Row>http://www.finaid.org/savings/surveys.phtml|5|survey|2014-02-27|0|0|0|0|0|0|0|http://personal300.fidelity.com/myfidelity/InsideFidelity/NewsCenter/mediadocs/collegesurveysavings.html|64|2009-05-25|2014-02-27| | |TextLink|TextLink_Normal|21|31|36|42</Row>
+			<Row>http://www.mongodb.com/investors/|7|fidelity investments|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/|68|2013-10-05|2014-02-27| | |TextLink|TextLink_Normal|53|62|48|30</Row>
+			<Row>http://www.kplu.org/sponsors-kplu|6|fidelity investments|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|69|2012-04-10|2014-02-28| | |TextLink|TextLink_Normal|59|73|39|39</Row>
+			<Row>http://adoptivefamilies.com/articles.php?aid=832|6|fidelity investments|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/|70|2008-12-27|2014-02-28| | |TextLink|TextLink_Normal|53|62|37|41</Row>
+			<Row>http://www.ikanos.com/news/media-coverage/|5|ikanos communications reports record revenue for the fourth quarter 2009|2014-02-26|0|0|0|0|0|0|0|http://eresearch.fidelity.com/eresearch/markets_sectors/analysis/story.jhtml?storyid=201002081605MRKTWIREUSPR____0584944&#38;provider=MRKTWIRE&#38;product=USPR____&#38;category=equity|71|2012-05-08|2014-02-26| | |TextLink|TextLink_Normal|11|24|34|44</Row>
+			<Row>http://mfea.com/decide/investment_decisions/content_tabbed/default.fs|5|fidelity|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|3|2013-05-05|2014-02-28| | |TextLink|TextLink_Normal|59|73|34|44</Row>
+			<Row>http://mfea.com/decide/investment_tools/fund_companies.fs|5|fidelity investments|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|3|2013-05-05|2014-02-28| | |TextLink|TextLink_Normal|59|73|34|44</Row>
+			<Row>http://mfea.com/insight/commentary_and_blogs/commentary.fs|5|emerging markets: what to do now|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/insights/investing-ideas/what-you-need-to-know-about-emerging-markets|3|2014-02-15|2014-02-28| | |TextLink|TextLink_Normal_HighContent|32|42|34|44</Row>
+			<Row>http://mfea.com/insight/commentary_and_blogs/commentary.fs|5|emerging markets: what to do now|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/insights/investing-ideas/what-you-need-to-know-about-emerging-markets|3|2014-02-15|2014-02-28| | |ImageLink|ImageLink_HighContent|32|42|34|44</Row>
+			<Row>http://www.nkychamber.com/|7| |2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/|72|2012-11-06|2014-02-28| | |ImageLink|ImageLink_Normal|53|62|44|34</Row>
+			<Row>http://vos.ucsb.edu/browse.asp?id=2727|5|fidelity investments|2014-02-28|0|0|0|0|0|0|0|http://www31.fidelity.com:80/index.shtml|73|2009-04-26|2014-02-28| | |TextLink|TextLink_Normal|11|25|34|43</Row>
+			<Row>http://www.pure-mac.com/stocks.html|5|fidelity - online trading|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|74|2011-01-16|2014-02-28| | |TextLink|TextLink_Normal|59|73|35|42</Row>
+			<Row>http://www.pyramis.com/|6|privacy|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/privacy-policy|32|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|36|38|38|39</Row>
+			<Row>https://sites.google.com/site/klibbrecht4/|5|fidelity|2013-12-31|0|0|1|0|0|0|0|https://www.fidelity.com/|75|2013-12-31|2013-12-31| | |TextLink|TextLink_Normal|59|73|34|42</Row>
+			<Row>http://www.pepsico.com/Home/Contact.html|5|www.netbenefits.com/pepsico|2014-02-28|0|0|0|0|0|0|0|https://ewcd.fidelity.com/login/pepsico/welcome|76|2013-11-18|2014-02-28| | |TextLink|TextLink_Normal|21|26|36|40</Row>
+			<Row>http://www.savingforcollege.com/articles/compare-529-plan-performance?utm_source=SFC_intro4&#38;utm_medium=SFC_intro4&#38;utm_campaign=SFC_intro4_performance|5|this fidelity-managed 529 plan|2014-02-28|0|0|1|0|0|0|0|http://personal.fidelity.com/planning/pdf/annual_report_ca.pdf?refpr=colcapl08|77|2013-06-04|2014-02-28| | |TextLink|TextLink_Normal|0|0|34|42</Row>
+			<Row>http://www.wwu.edu/hr/index.shtml|6|investment options|2014-02-28|0|0|0|0|0|0|0|http://plan.fidelity.com/wwu/investment-options|78|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|24|28|41|35</Row>
+			<Row>http://www.dallaschamber.org/index.aspx?id=DFWJobsGateway|5| |2014-02-28|0|0|0|1|0|0|0|http://jobs.fidelity.com/home/index.shtml|79|2011-01-16|2014-02-28| | |ImageLink|ImageLink_Normal|44|48|35|41</Row>
+			<Row>http://feeds.feedburner.com/tlnt|7|a 2013 report from fidelity investments and the national business group on health|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/inside-fidelity/employer-services/fidelity-nbgh-wellness-survey|58|2014-02-26|2014-02-27| | |TextLink|TextLink_Normal|34|28|45|30</Row>
+			<Row>http://www.washington.edu/admin/hr/benefits/retirement/index.html|5|investment options|2014-02-28|0|0|0|0|0|0|0|https://nb.fidelity.com/public/nb/uw/planoptions/plandetails?planId=71809|7|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|25|31|35|40</Row>
+			<Row>http://www.usc.edu/dept/Benefits/r-usc_retirement_plan.html|5|plan.fidelity.com/usc.rsp|2014-02-28|0|0|0|0|0|0|0|http://plan.fidelity.com/usc.rsp|80|2013-05-05|2014-02-28| | |TextLink|TextLink_Normal|17|28|34|41</Row>
+			<Row>http://www.usc.edu/dept/Benefits/r-usc_retirement_plan.html|5|usc hospital 401(k) retirement plan under fidelity|2014-02-28|0|0|0|0|0|0|0|http://www.plan.fidelity.com/usc.401k|80|2013-09-02|2014-02-28| | |TextLink|TextLink_Normal|16|27|34|41</Row>
+			<Row>https://webtrends.com/about/company-info/customers|5|fidelity|2014-02-27|0|0|0|1|0|0|0|https://www.fidelity.com/|81|2013-12-14|2014-02-27| | |ImageLink|ImageLink_Normal|59|73|34|41</Row>
+			<Row>http://www.rtfund.com/ljdz.jsp|5|www.fidelity.com|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/|82|2009-12-22|2014-02-28| | |TextLink|TextLink_Normal|53|62|32|43</Row>
+			<Row>http://www.wallbuilders.com/mdon.asp|5|donation guidelines|2014-02-28|0|0|0|0|0|0|0|http://jobs.fidelity.com/ourculture/communityservice/ourculture_cs.shtml|83|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|11|21|36|39</Row>
+			<Row>http://www.opencompute.org/home/rss|5|logo fidelity color print|2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/|84|2013-11-21|2014-02-28| | |ImageLink|ImageLink_Normal|53|62|34|41</Row>
+			<Row>http://www.consumerismcommentary.com/2012/|6|fidelity investment rewards visa signature card.|2014-02-26|0|0|1|0|0|0|0|http://personal.fidelity.com/products/checking/content/investment_rewards_card.shtml.cvsr|61|2013-01-03|2014-02-26| | |TextLink|TextLink_Normal|14|13|38|37</Row>
+			<Row>http://www.foodforthepoor.org/help/corporate-matching-gift/|5|fidelity|2014-02-26|0|0|0|1|0|0|0|http://www.fidelity.com/|85|2012-05-08|2014-02-26| | |ImageLink|ImageLink_Normal|53|62|34|41</Row>
+			<Row>http://www.njbia.org/index.aspx|7|fidelity investments|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|86|2012-01-11|2014-02-28| | |TextLink|TextLink_Normal|59|73|46|29</Row>
+			<Row>http://www.uscshortcode.com/lifestyle.aspx|6|fidelity prepaid card alerts|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|87|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|59|73|41|34</Row>
+			<Row>http://www.uscshortcode.com/lifestyle.aspx|6|free|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/|87|2013-12-15|2014-02-28| | |TextLink|TextLink_Normal|59|73|41|34</Row>
+			<Row>http://www.northwestern.edu/hr/benefits/retirement-plans/index.html|5|fidelity investments|2014-02-28|0|0|0|0|0|0|0|http://plan.fidelity.com/nu|88|2012-06-09|2014-02-28| | |TextLink|TextLink_Normal|15|25|34|40</Row>
+			<Row>http://www.ryder.com/employees.aspx|5|fidelity netbenefits retirement and savings|2014-02-28|0|0|0|0|0|0|0|https://netbenefits.fidelity.com/|42|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|39|47|33|41</Row>
+			<Row>http://www.ryder.com/site-map.aspx|5|fidelity netbenefits retirement and savings|2014-02-28|0|0|0|0|0|0|0|https://netbenefits.fidelity.com/|42|2013-07-04|2014-02-28| | |TextLink|TextLink_Normal|39|47|33|41</Row>
+			<Row>http://www.moneychimp.com/articles/index_funds/fund_list.htm|5|fstmx|2014-02-28|0|0|0|0|0|0|0|http://fundresearch.fidelity.com/mutual-funds/fees-and-features/315911404|89|2012-04-10|2014-02-28| | |TextLink|TextLink_Normal|21|29|35|39</Row>
+			<Row>http://www.moneychimp.com/articles/index_funds/fund_list.htm|5|fsgux|2014-02-28|0|0|0|0|0|0|0|http://fundresearch.fidelity.com/mutual-funds/fees-and-features/316146158|89|2012-04-10|2014-02-28| | |TextLink|TextLink_Normal|20|29|35|39</Row>
+			<Row>http://www.moneychimp.com/articles/index_funds/fund_list.htm|5|fsemx|2014-02-28|0|0|0|0|0|0|0|http://fundresearch.fidelity.com/mutual-funds/fees-and-features/315911503|89|2012-04-10|2014-02-28| | |TextLink|TextLink_Normal|20|29|35|39</Row>
+			<Row>http://www.m-x.ca/connect_participants_fr.php|5|https://clearingcanada.fidelity.com|2014-02-28|0|0|0|0|0|0|0|https://clearingcanada.fidelity.com/|90|2012-12-06|2014-02-28| | |TextLink|TextLink_Normal|23|27|34|40</Row>
+			<Row>http://www.pyramis.com/us/terms-of-use.html|5|privacy|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/privacy-policy|32|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|36|38|36|38</Row>
+			<Row>http://www.dmarc.org/|6|fidelity investments|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/|91|2012-03-11|2014-02-28| | |ImageLink|ImageLink_Normal|59|73|39|35</Row>
+			<Row>http://www.401k.com/|6| |2014-02-28|0|0|0|0|0|0|0|https://401k.fidelity.com/public/content/401k/Home/Landing/|92|2008-10-28|2014-02-28| | |TextLink|TextLink_Normal|49|47|41|33</Row>
+			<Row>http://www.nh.gov/treasury/Divisions/Unique/Unique.htm|5|unique college investing plan logo|2014-02-28|0|0|0|1|0|0|0|http://personal.fidelity.com/planning/college/content/landing_nh.shtml.cvsr|93|2008-11-27|2014-02-28| | |ImageLink|ImageLink_Normal|25|28|36|37</Row>
+			<Row>http://www.nh.gov/treasury/Divisions/Unique/Unique.htm|5|here|2014-02-28|0|0|0|0|0|0|0|http://personal.fidelity.com/planning/college/content/landing_nh.shtml.cvsr|93|2008-11-27|2014-02-28| | |TextLink|TextLink_Normal|25|28|36|37</Row>
+			<Row>http://www.hws.edu/offices/hr/|5|fidelity|2014-02-25|0|0|0|0|0|0|0|https://www.fidelity.com/|94|2012-03-08|2014-02-25| | |TextLink|TextLink_Normal|59|73|33|40</Row>
+			<Row>http://www.educationindex.com/parents/|5|college cost calculator|2014-02-24|0|0|0|0|0|0|0|http://personal.fidelity.com/decisions/college/college_quiz.html|95|2013-09-28|2014-02-24| | |TextLink|TextLink_Normal|21|29|33|40</Row>
+			<Row>http://www.allmyfaves.com/finance|6| |2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/|96|2011-06-15|2014-02-28| | |ImageLink|ImageLink_Normal|53|62|39|34</Row>
+			<Row>http://waterfire.org/volunteer/2013-volunteers/|5|fidelity investments|2014-02-25|0|0|0|0|0|0|0|https://www.fidelity.com/|97|2014-01-11|2014-02-25| | |TextLink|TextLink_Normal|59|73|32|41</Row>
+			<Row>http://waterfire.org/schedule/2013-waterfire-sponsors/|5|fidelity investments|2014-02-26|0|0|0|1|0|0|0|https://www.fidelity.com/|97|2013-06-02|2014-02-26| | |ImageLink|ImageLink_Normal|59|73|32|41</Row>
+			<Row>http://waterfire.org/schedule/2013-waterfire-sponsors/|5|fidelity investments|2014-02-26|0|0|0|0|0|0|0|https://www.fidelity.com/|97|2013-06-02|2014-02-26| | |TextLink|TextLink_Normal|59|73|32|41</Row>
+			<Row>http://waterfire.org/schedule/2013-waterfire-sponsors/|5|fidelity investments|2014-02-26|0|0|0|0|0|0|0|https://www.fidelity.com/welcome/why-choose-fidelity?imm_pid=1&#38;immid=00486&#38;imm_eid=e3185831&#38;buf=999999|97|2013-06-02|2014-02-26| | |TextLink|TextLink_Normal|15|26|32|41</Row>
+			<Row>http://mfea.com/insight/education.fs|5|the pros&#39; guide to diversification|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/viewpoints/guide-to-diversification|3|2013-10-02|2014-02-28| | |ImageLink|ImageLink_HighContent|29|37|31|42</Row>
+			<Row>http://mfea.com/insight/education.fs|5|the pros&#39; guide to diversification|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/viewpoints/guide-to-diversification|3|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal_HighContent|29|37|31|42</Row>
+			<Row>http://mfea.com/insight/education.fs|5|types of mutual funds|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/learning-center/mutual-funds/types-of-mutual-funds|3|2013-10-02|2014-02-28| | |ImageLink|ImageLink_HighContent|28|35|31|42</Row>
+			<Row>http://mfea.com/insight/education.fs|5|types of mutual funds|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/learning-center/mutual-funds/types-of-mutual-funds|3|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal_HighContent|28|35|31|42</Row>
+			<Row>http://www.argyleforum.com/Our-Partners/|6| |2014-02-26|0|0|1|1|0|0|0|http://www.fidelity.com/|98|2012-11-04|2014-02-26| | |ImageLink|ImageLink_Normal|53|62|37|36</Row>
+			<Row>http://www.kerberos.org/sponsors/index.html|5|fidelity investments|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/|99|2011-05-16|2014-02-28| | |TextLink|TextLink_Normal|53|62|34|39</Row>
+			<Row>http://www.pyramis.com/integrity-statement|5|privacy|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/privacy-policy|32|2013-10-27|2014-02-28| | |TextLink|TextLink_Normal|36|38|35|38</Row>
+			<Row>http://www.wealth-lab.com/|7| |2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/trading/advanced-trading-tools/strategy-testing/overview|100|2013-10-08|2014-02-28| | |ImageLink|ImageLink_Normal|34|26|46|27</Row>
+			<Row>http://nbchnewsletter.blogspot.com/|5|fidelity investments|2014-02-27|0|0|0|0|0|0|0|https://www.fidelity.com/|101|2014-02-27|2014-02-27| | |TextLink|TextLink_Normal|59|73|32|40</Row>
+			<Row>http://www.washington.edu/admin/hr/benefits/retirement/vip/index.html|5|investment options|2014-02-28|0|0|0|0|0|0|0|https://nb.fidelity.com/public/nb/uw/planoptions/plandetails?planId=71809|7|2013-12-31|2014-02-28| | |TextLink|TextLink_Normal|25|31|34|38</Row>
+			<Row>http://www.washington.edu/admin/hr/benefits/retirement/vip/index.html|5|investment options|2014-02-28|0|0|0|0|0|0|0|https://nb.fidelity.com/public/nb/uw/planoptions/plandetails?planId=87238|7|2013-12-31|2014-02-28| | |TextLink|TextLink_Normal|19|26|34|38</Row>
+			<Row>http://www.washington.edu/admin/hr/benefits/retirement/vip/index.html|5|www.netbenefits.com/uw|2014-02-28|0|0|0|0|0|0|0|https://nb.fidelity.com/public/nb/uw/planoptions/planoptions/plandetails?planId=87238|7|2014-01-08|2014-02-28| | |TextLink|TextLink_Normal|18|25|34|38</Row>
+			<Row>http://www.washington.edu/admin/hr/benefits/retirement/vip/index.html|5|download pdf|2014-02-28|0|0|0|0|0|0|0|http://plan.fidelity.com/download/UWRP-VIP_Funds_List_FINAL.pdf|7|2012-11-06|2014-02-28| | |TextLink|TextLink_Normal|15|24|34|38</Row>
+			<Row>http://www.mtu.edu/hr/benefits/retirement/|5|fidelity website|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/|102|2012-12-05|2014-02-27| | |TextLink|TextLink_Normal|53|62|34|38</Row>
+			<Row>http://www.mtu.edu/hr/benefits/retirement/|5|fidelity retirement planning website|2014-02-27|0|0|0|0|0|0|0|https://www.fidelity.com/retirement/planning|102|2012-12-05|2014-02-27| | |TextLink|TextLink_Normal|37|40|34|38</Row>
+			<Row>http://www.ci.norman.ok.us/hr/hr-job-postings|5|fidelity|2014-02-28|0|0|0|0|0|0|0|https://scs.fidelity.com/tpv/webxpress.shtml|103|2010-04-21|2014-02-28| | |TextLink|TextLink_Normal|20|29|32|40</Row>
+			<Row>http://www.ci.norman.ok.us/hr/human-resources|5|fidelity|2014-02-28|0|0|0|0|0|0|0|https://scs.fidelity.com/tpv/webxpress.shtml|103|2011-03-17|2014-02-28| | |TextLink|TextLink_Normal|20|29|32|40</Row>
+			<Row>http://www.seattleartmuseum.org/calendar/eventDetail.asp?eventID=27514&#38;month=9&#38;day=20&#38;year=2013&#38;sxID=&#38;WHEN=|6|fidelity|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/|104|2013-10-23|2014-02-28| | |ImageLink|ImageLink_Normal|59|73|37|35</Row>
+			<Row>http://www.friars.com/sponsorship/corporate-sponsors.html|6|fidelity|2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/|105|2013-04-05|2014-02-28| | |ImageLink|ImageLink_Normal|53|62|39|33</Row>
+			<Row>http://www.nabe.com/pc2014|5|s:\chris\2014 policy conference\sponsors\fidelitylogo.jpg|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/|62|2014-01-18|2014-02-28| | |ImageLink|ImageLink_Normal|59|73|31|41</Row>
+			<Row>http://www.dogsofthedow.com/tdbrokers.htm|5|fidelity|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/|106|2009-09-23|2014-02-28| | |TextLink|TextLink_Normal|53|62|34|38</Row>
+			<Row>http://www.dogsofthedow.com/tdbrokers.htm|5|fidelity commission schedule|2014-02-28|0|0|0|0|0|0|0|http://personal.fidelity.com/products/trading/Commissions_Margin_Rates/Commissions_Margin_Rates.shtml.cvsr|106|2009-09-23|2014-02-28| | |TextLink|TextLink_Normal|21|25|34|38</Row>
+			<Row>http://www.dogsofthedow.com/tdbrokers.htm|5|fidelity additional fees|2014-02-28|0|0|0|0|0|0|0|http://fidelity.com/commissions|106|2012-09-07|2014-02-28| | |TextLink|TextLink_Normal|18|25|34|38</Row>
+			<Row>http://www.dogsofthedow.com/tdbrokers.htm|5|fidelity login|2014-02-28|0|0|0|0|0|0|0|https://login.fidelity.com/ftgw/Fas/Fidelity/RtlCust/Login/Init?AuthRedUrl=https://oltx.fidelity.com/ftgw/fbc/ofsummary/defaultPage |106|2012-08-08|2014-02-28| | |TextLink|TextLink_Normal|14|23|34|38</Row>
+			<Row>http://cashmoneylife.com/where-to-open-a-roth-ira-account/|7|sign up for a roth ira with fidelity|2014-02-23|0|0|0|0|0|0|0|https://scs.fidelity.com/accounts/services/content/aoaccountselect.shtml.cvsr|107|2011-02-10|2014-02-23| | |TextLink|TextLink_Normal|33|36|44|28</Row>
+			<Row>http://www.woodlandscenter.org/|6|fidelty|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/|108|2010-11-17|2014-02-28| | |ImageLink|ImageLink_Normal|59|73|38|34</Row>
+			<Row>http://www.esdc.gc.ca/eng/jobs/student/promoters/list.shtml|5|fidelity clearing canada ulc|2014-02-28|0|0|0|0|0|0|0|https://clearingcanada.fidelity.com/|109|2014-01-31|2014-02-28| | |TextLink|TextLink_Normal|23|27|34|37</Row>
+			<Row>http://depts.washington.edu/psoweb/about/board-meetings/archive/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|39</Row>
+			<Row>http://depts.washington.edu/psoweb/development/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|39</Row>
+			<Row>http://depts.washington.edu/psoweb/development/awards/|5|uwrp retirement info|2014-02-26|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-04|2014-02-26| | |TextLink|TextLink_Normal|32|39|32|39</Row>
+			<Row>http://depts.washington.edu/psoweb/development/grants/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|39</Row>
+			<Row>http://depts.washington.edu/psoweb/development/scholarships/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|39</Row>
+			<Row>http://depts.washington.edu/psoweb/events/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2012-08-05|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|39</Row>
+			<Row>http://netvet.wustl.edu/biz.htm|5|fidelity investments|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/|110|2009-04-26|2014-02-28| | |TextLink|TextLink_Normal|53|62|30|41</Row>
+			<Row>http://www.investopedia.com/articles/personal-finance/052813/10-worst-financial-decisions-you-can-make-retirement.asp|5|fidelity estimates|2014-02-28|0|0|0|0|0|0|0|https://www.fidelity.com/viewpoints/retirees-medical-expenses|1|2013-06-04|2014-02-28| | |TextLink|TextLink_Normal|37|35|36|35</Row>
+			<Row>http://www.otcmarkets.com/services/market-data/market-data-vendors/overview|6|fidelity|2014-02-28|0|0|1|0|0|0|0|http://personal.fidelity.com/products/trading/Trading_Platforms_Tools/Active_Trader_Pro-Tools.shtml.cvsr?refpr=brk21|111|2013-06-04|2014-02-28| | |TextLink|TextLink_Normal|12|12|37|34</Row>
+			<Row>http://www.rmu.edu/about-rmu/vendors|5|www.fidelity.com|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/|112|2013-12-14|2014-02-28| | |TextLink|TextLink_Normal|53|62|31|40</Row>
+			<Row>http://www.dailystocks.com/trader-portal.htm|5|fidelity funds|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/|55|2012-07-08|2014-02-27| | |TextLink|TextLink_Normal|53|62|33|38</Row>
+			<Row>http://www.dailystocks.com/trader-portal.htm|5|fidelity|2014-02-27|0|0|0|0|0|0|0|http://www.fidelity.com/index.html|55|2012-07-08|2014-02-27| | |TextLink|TextLink_Normal|32|38|33|38</Row>
+			<Row>http://finconexpo.com/attendee-list/|7|fidelity investments|2014-02-26|0|0|1|0|0|0|0|http://www.fidelity.com/|113|2013-12-16|2014-02-26| | |TextLink|TextLink_Normal|53|62|47|24</Row>
+			<Row>http://www.csfineartscenter.org/13-14Season/WizardOfOz.asp|5|wells fargo|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/|114|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|59|73|31|40</Row>
+			<Row>http://www.csfineartscenter.org/13-14Season/WizardOfOz.asp|5|fidelity investments|2014-02-28|0|0|0|1|0|0|0|https://www.fidelity.com/|114|2013-09-02|2014-02-28| | |ImageLink|ImageLink_Normal|59|73|31|40</Row>
+			<Row>http://www.nbp.org/ic/nbp/support/sponsors.html|5|fidelity investments|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/|115|2009-04-26|2014-02-28| | |TextLink|TextLink_Normal|53|62|32|39</Row>
+			<Row>http://www.nbp.org/ic/nbp/support/sponsors.html|5|fidelity logo|2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/|115|2009-04-26|2014-02-28| | |ImageLink|ImageLink_Normal|53|62|32|39</Row>
+			<Row>http://www.corporateecoforum.com/|5|fidelity investments|2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/inside-fidelity/community/environment|116|2013-07-04|2014-02-28| | |ImageLink|ImageLink_Normal|26|29|36|35</Row>
+			<Row>http://www.firstamtrust.com/|5|fidelity|2014-02-28|0|0|0|0|0|0|0|https://login.fidelity.com/ftgw/Fas/Fidelity/RtlCust/Login/Init?AuthRedUrl=https://oltx.fidelity.com/ftgw/fbc/ofsummary/defaultPage|117|2009-08-24|2014-02-28| | |TextLink|TextLink_Normal|49|52|33|38</Row>
+			<Row>http://www.aceannualmeeting.org/|5| |2014-02-28|0|0|0|1|0|0|0|http://planreview.fidelity.com/highered/|118|2013-10-02|2014-02-28| | |ImageLink|ImageLink_Normal|23|27|33|38</Row>
+			<Row>http://529guru.com/|5|college savings indicator study|2014-02-28|0|0|0|0|0|0|0|http://www.fidelity.com/inside-fidelity/individual-investing/college-savings-indicator-2012|119|2013-04-05|2014-02-28| | |TextLink|TextLink_Normal|25|31|32|39</Row>
+			<Row>http://www.hfmaconference.org/|6| |2014-02-28|0|0|0|1|0|0|0|http://www.fidelity.com/|120|2013-02-04|2014-02-28| | |ImageLink|ImageLink_HighContent|53|62|39|32</Row>
+			<Row>http://depts.washington.edu/psoweb/publications/special-topics/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/publications/surveys/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/resources/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/resources/other-psos/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/resources/peer-networking/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/resources/training-opportunities/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/resources/useful-campus-links/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/sharedleave/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://www.washington.edu/admin/hr/benefits/retirement/wkshp.html|5|investment options|2014-02-28|0|0|0|0|0|0|0|https://nb.fidelity.com/public/nb/uw/planoptions/plandetails?planId=71809|7|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|25|31|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/terms/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://www.washington.edu/admin/hr/publications/email/hr/convio/resource/currentissue/index.html|5|fidelity investments|2014-02-27|0|0|0|0|0|0|0|https://nb.fidelity.com/public/nb/UW/home|7|2014-02-13|2014-02-27| | |TextLink|TextLink_Normal|17|27|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/about/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/about/board-meetings/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2012-07-06|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/about/board-members/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/about/committees/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/about/committees/faculty/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/about/committees/standing/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/about/committees/workgroups/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/about/history/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2012-07-06|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/about/mission-vision-values/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/contribute/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/events/archives/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2012-07-06|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://www.washington.edu/admin/hr/benefits/retirement/prepare-retire/sponsors.html|5|investment options|2014-02-28|0|0|0|0|0|0|0|https://nb.fidelity.com/public/nb/uw/planoptions/plandetails?planId=71809|7|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|25|31|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/news/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/news/archives/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://www.washington.edu/admin/hr/benefits/retirement/retiree/programs-svcs.html|5|investment options|2014-02-28|0|0|0|0|0|0|0|https://nb.fidelity.com/public/nb/uw/planoptions/plandetails?planId=71809|7|2014-01-01|2014-02-28| | |TextLink|TextLink_Normal|25|31|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/publications/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/publications/annual-reports/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://depts.washington.edu/psoweb/publications/newsletters/|5|uwrp retirement info|2014-02-25|0|0|0|0|0|0|0|http://plan.fidelity.com/uw|7|2013-03-03|2014-02-25| | |TextLink|TextLink_Normal|32|39|32|38</Row>
+			<Row>http://www.purdue.edu/hr/audience/retirees.html|5|fidelity|2014-02-28|0|0|0|0|0|0|0|http://www.plan.fidelity.com/purdue|9|2011-08-14|2014-02-28| | |TextLink|TextLink_Normal|26|33|32|38</Row>
+			<Row>https://www.cerias.purdue.edu/site/partners/sponsors/|5|fidelity investments|2014-02-27|0|0|0|0|0|0|0|https://www.fidelity.com/|9|2014-01-08|2014-02-27| | |TextLink|TextLink_Normal_HighContent|59|73|32|38</Row>
+			<Row>https://www.cerias.purdue.edu/site/partners/sponsors/|5|fidelity investments|2014-02-27|0|0|0|1|0|0|0|https://www.fidelity.com/|9|2014-01-08|2014-02-27| | |ImageLink|ImageLink_HighContent|59|73|32|38</Row>
+			<Row>http://www.purdue.edu/hr/Benefits/benefitsChanging.html|5|manage your retirement plans|2014-02-28|0|0|0|0|0|0|0|http://www.plan.fidelity.com/purdue|9|2012-10-07|2014-02-28| | |TextLink|TextLink_Normal|26|33|32|38</Row>
+			<Row>http://www.purdue.edu/hr/Benefits/benefitsEligibility.html|5|manage your retirement plans|2014-02-28|0|0|0|0|0|0|0|http://www.plan.fidelity.com/purdue|9|2012-10-07|2014-02-28| | |TextLink|TextLink_Normal|26|33|32|38</Row>
+			<Row>http://www.purdue.edu/hr/Benefits/benefitsPaying.html|5|manage your retirement plans|2014-02-28|0|0|0|0|0|0|0|http://www.plan.fidelity.com/purdue|9|2012-10-07|2014-02-28| | |TextLink|TextLink_Normal|26|33|32|38</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="121" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|ceoexpress.com|74324|15146|559498|91724|50729|2008-07-30|2014-02-28|216.34.107.232|216.34.107.0|US|com|38|49</Row>
+			<Row>1|investopedia.com|1530|176687|18484524|7787796|1971356|2008-07-29|2014-02-28|64.70.58.115|64.70.58.0|US|com|66|69</Row>
+			<Row>2|rockwellcollins.com|153628|18016|17576767|1025545|549973|2008-07-29|2014-02-28|205.175.225.182|205.175.225.0|US|com|71|65</Row>
+			<Row>3|mfea.com|-1|13968|297616|15978|13991|2008-07-29|2014-02-28|184.106.61.88|184.106.61.0|US|com|34|48</Row>
+			<Row>4|rent.com|8977|48034|122374516|2048513|970586|2008-07-29|2014-02-28|64.70.75.10|64.70.75.0|US|com|55|62</Row>
+			<Row>5|msn.com|19|2995252|4004580917|221875086|8547537|2008-07-29|2014-02-28|131.253.13.21|131.253.13.0|CA|com|80|88</Row>
+			<Row>6|payscale.com|6777|67577|4789324|7298545|1652717|2008-07-29|2014-02-28|68.142.94.10|68.142.94.0|US|com|53|65</Row>
+			<Row>7|washington.edu|3558|558805|219159087|6876898|1624904|2008-07-29|2014-02-28|128.95.155.135|128.95.155.0|US|edu|68|88</Row>
+			<Row>8|mit.edu|1452|1043083|2465133032|9182421|1146797|2008-07-29|2014-02-28|23.50.134.151|23.50.134.0|US|edu|76|91</Row>
+			<Row>9|purdue.edu|3244|417044|214372364|5120918|1257506|2008-07-29|2014-02-28|128.210.7.200|128.210.7.0|US|edu|67|85</Row>
+			<Row>10|youtube.com|3|20066674|44703649169|4469107929|262867016|2008-07-29|2014-02-28|74.125.226.206|74.125.226.0|US|com|99|99</Row>
+			<Row>11|kcrw.com|27663|75371|15800331|584062|296359|2008-07-29|2014-02-28|184.169.133.161|184.169.133.0|US|com|58|69</Row>
+			<Row>12|acenet.edu|227857|30709|1171326|511155|211405|2008-08-12|2014-02-28|198.101.175.62|198.101.175.0|US|edu|49|65</Row>
+			<Row>13|pensions.org|799731|3341|1090743|2860|1291|2009-06-04|2014-02-28|76.74.115.10|76.74.115.0|US|org|35|44</Row>
+			<Row>14|santafe.edu|197914|46232|14453811|264533|143780|2008-07-29|2014-02-28|192.12.12.97|192.12.12.0|US|edu|48|64</Row>
+			<Row>15|investorideas.com|386348|17325|10764043|214966|122820|2008-07-31|2014-02-28|50.56.103.130|50.56.103.0|US|com|53|48</Row>
+			<Row>16|usfunds.com|578546|7028|589943|38101|30603|2008-08-01|2014-02-28|66.118.1.14|66.118.1.0|US|com|45|50</Row>
+			<Row>17|toast.net|75865|19647|459762|148746|78699|2008-08-13|2014-02-28|205.251.162.39|205.251.162.0|US|net|42|50</Row>
+			<Row>18|magazine.com.hk|-1|11920|25863|1494|1430|2009-10-29|2014-02-28|202.85.159.86|202.85.159.0|HK|hk|35|51</Row>
+			<Row>19|nzx.com|227620|13514|526973|278215|202308|2008-07-29|2014-02-28|122.56.17.145|122.56.17.0|NZ|com|46|53</Row>
+			<Row>20|oakland.edu|47734|49973|4757167|1144457|326269|2008-07-31|2014-02-28|141.210.2.69|141.210.2.0|US|edu|48|64</Row>
+			<Row>21|tlnt.com|66413|6218|537812|90823|45198|2008-11-18|2014-02-28|204.236.224.111|204.236.224.0|US|com|47|38</Row>
+			<Row>22|wagers.net|-1|604|2397|243|159|2008-09-10|2014-02-28|166.78.225.210|166.78.225.0|US|net|38|52</Row>
+			<Row>23|nbc4i.com|78069|66234|2717887|4696843|1056318|2008-07-29|2014-02-28|148.123.13.41|148.123.13.0|NO|com|50|50</Row>
+			<Row>24|fidelitylabs.com|-1|1248|11750|1831|1417|2008-08-25|2014-02-28|107.20.229.96|107.20.229.0|US|com|30|43</Row>
+			<Row>25|rollins.edu|168581|44062|1977460|5070302|395404|2008-07-31|2014-02-28|66.195.118.41|66.195.118.0|US|edu|46|58</Row>
+			<Row>26|mythicsoft.com|493817|8316|146104|25606|24413|2008-08-06|2014-02-28|96.31.36.235|96.31.36.0|US|com|44|52</Row>
+			<Row>27|mitx.org|306749|4232|1736774|139242|73108|2008-08-14|2014-02-28|64.89.37.122|64.89.37.0|US|org|33|44</Row>
+			<Row>28|stanford.edu|1396|961919|724184602|13743730|2249358|2008-07-29|2014-02-28|171.67.215.200|171.67.215.0|US|edu|73|88</Row>
+			<Row>29|vassar.edu|103267|74097|7483288|30107355|563052|2008-08-05|2014-02-28|143.229.1.236|143.229.1.0|US|edu|51|63</Row>
+			<Row>30|etfdb.com|50921|12165|17398691|602927|225063|2009-08-20|2014-02-28|173.255.224.57|173.255.224.0|US|com|69|35</Row>
+			<Row>31|ptmoney.com|109953|11665|1132889|30789|15306|2008-08-18|2014-02-28|70.32.81.190|70.32.81.0|US|com|46|51</Row>
+			<Row>32|pyramis.com|-1|784|8518|3528|2012|2008-09-12|2014-02-28|155.199.166.130|155.199.166.0|US|com|30|42</Row>
+			<Row>33|gardnermuseum.org|364902|13843|237055|162782|94049|2008-09-07|2014-02-28|98.129.229.42|98.129.229.0|US|org|42|61</Row>
+			<Row>34|codesmithtools.com|250521|5769|2855945|79168409|1511922|2008-07-29|2014-02-28|206.123.118.88|206.123.118.0|US|com|41|46</Row>
+			<Row>35|mystreetscape.com|94605|3028|211140|981|882|2008-08-15|2014-02-28|77.67.8.170|77.67.8.0|NL|com|39|44</Row>
+			<Row>36|montgomerycountymd.gov|54004|42044|5260070|439850|172850|2008-08-02|2014-02-28|208.76.112.38|208.76.112.0|US|gov|55|58</Row>
+			<Row>37|communitycoffee.com|353872|5714|94214|11467|9715|2008-07-31|2014-02-28|69.2.51.21|69.2.51.0|US|com|39|52</Row>
+			<Row>38|tkcs-collins.com|-1|3692|12297|2053|204|2008-08-05|2014-02-28|66.175.58.9|66.175.58.0|US|com|27|43</Row>
+			<Row>39|kychamber.com|-1|6488|468914|84092|77175|2008-08-21|2014-02-28|67.23.28.129|67.23.28.0|US|com|36|33</Row>
+			<Row>40|washingtonpost.com|370|1242311|501423511|50784125|3044716|2008-07-29|2014-02-28|204.95.26.129|204.95.26.0|US|com|89|90</Row>
+			<Row>41|ucsf.edu|15947|202834|20078564|6893320|1564584|2008-07-29|2014-02-28|107.21.94.83|107.21.94.0|US|edu|59|75</Row>
+			<Row>42|ryder.com|90671|19013|1546358|237047|114517|2008-08-04|2014-02-28|168.218.5.220|168.218.5.0|US|com|44|61</Row>
+			<Row>43|accusoft.com|194854|5573|233771|44812|38160|2008-07-29|2014-02-28|75.127.64.122|75.127.64.0|US|com|46|52</Row>
+			<Row>44|nag.co.uk|-1|10004|219215|311962|174154|2008-08-17|2014-02-28|79.125.13.129|79.125.13.0|IE|uk|44|53</Row>
+			<Row>45|beckershospitalreview.com|128219|15720|1934535|264093|171165|2010-03-26|2014-02-28|67.227.242.177|67.227.242.0|US|com|53|42</Row>
+			<Row>46|401khelpcenter.com|742686|7581|106144|5877|4999|2008-07-30|2014-02-28|69.168.60.125|69.168.60.0|US|com|42|48</Row>
+			<Row>47|hitachi-id.com|-1|2548|149272|14785|10475|2008-09-27|2014-02-28|72.29.233.193|72.29.233.0|CA|com|40|35</Row>
+			<Row>48|hotsheet.com|57987|12409|134853|84567172|1878484|2008-07-30|2014-02-28|66.111.104.145|66.111.104.0|US|com|29|34</Row>
+			<Row>49|web-strategist.com|84833|34494|5090706|29131|25127|2008-08-01|2014-02-28|70.32.68.213|70.32.68.0|US|com|53|58</Row>
+			<Row>50|mymoneyblog.com|69905|27576|1577583|99654|68447|2008-08-25|2014-02-28|50.28.86.62|50.28.86.0|US|com|45|49</Row>
+			<Row>51|nag.com|-1|4808|99797|1539102|512952|2008-08-09|2014-02-28|79.125.13.129|79.125.13.0|IE|com|40|54</Row>
+			<Row>52|typepad.com|517|1707059|2567878605|96760976|12479706|2008-07-29|2014-02-28|204.9.178.11|204.9.178.0|US|com|80|77</Row>
+			<Row>53|galttech.com|224261|47194|582816|13126|7888|2008-08-09|2014-02-28|208.118.242.126|208.118.242.0|US|com|45|64</Row>
+			<Row>54|moneymappress.com|74283|1967|1663732|27482|22883|2009-01-29|2014-02-28|184.106.62.53|184.106.62.0|US|com|64|31</Row>
+			<Row>55|dailystocks.com|-1|11635|6064822|128365654|1943688|2008-07-31|2014-02-28|208.100.26.149|208.100.26.0|US|com|45|50</Row>
+			<Row>56|prestosoft.com|518858|6966|68862|7965|4831|2008-08-07|2014-02-28|63.135.102.21|63.135.102.0|US|com|41|52</Row>
+			<Row>57|ntca.org|786582|12098|901009|257496|94395|2008-08-14|2014-02-28|199.192.145.50|199.192.145.0|US|org|42|50</Row>
+			<Row>58|feedburner.com|833|2769520|9545031235|316926619|23014773|2008-07-29|2014-02-28|74.125.225.128|74.125.225.0|US|com|91|90</Row>
+			<Row>59|investmentnews.com|83525|34809|3161918|4066117|1602153|2008-07-29|2014-02-28|205.139.40.98|205.139.40.0|US|com|54|42</Row>
+			<Row>60|ana.net|396723|11800|501453|126372|104278|2008-08-11|2014-02-28|69.60.17.111|69.60.17.0|US|net|41|52</Row>
+			<Row>61|consumerismcommentary.com|100263|23999|1987706|311721|207339|2008-08-02|2014-02-28|23.15.8.35|23.15.8.0|US|com|44|46</Row>
+			<Row>62|nabe.com|-1|9075|214735|20016|14324|2008-08-04|2014-02-28|174.129.24.134|174.129.24.0|US|com|37|48</Row>
+			<Row>63|netbenefits.com|-1|1031|15870|453|192|2008-11-29|2009-09-18|155.199.40.119|155.199.40.0|US|com|24|35</Row>
+			<Row>64|finaid.org|65846|74604|5030288|10951|7617|2008-08-11|2014-02-28|208.71.199.150|208.71.199.0|US|org|51|69</Row>
+			<Row>65|taxsites.com|811410|28752|242287|12903|5642|2008-07-31|2014-02-28|184.73.184.92|184.73.184.0|US|com|41|55</Row>
+			<Row>66|gemstone.com|-1|6409|109817|80796431|1975207|2008-07-29|2014-02-28|208.91.0.88|208.91.0.0|US|com|34|47</Row>
+			<Row>67|wikipedia.org|6|9103190|12880302063|639748086|9451938|2008-07-29|2014-02-28|208.80.154.225|208.80.154.0|US|org|98|98</Row>
+			<Row>68|mongodb.com|999586|2454|654676|631571|140342|2011-10-30|2014-02-28|75.101.156.249|75.101.156.0|US|com|55|42</Row>
+			<Row>69|kplu.org|162131|16390|2268266|305115|211589|2008-08-14|2014-02-28|66.151.232.80|66.151.232.0|US|org|44|46</Row>
+			<Row>70|adoptivefamilies.com|322151|8637|1404543|16010|13158|2008-08-01|2014-02-28|208.90.184.228|208.90.184.0|US|com|40|48</Row>
+			<Row>71|ikanos.com|-1|3806|30254|4403|2800|2008-07-31|2014-02-28|98.129.229.53|98.129.229.0|US|com|36|50</Row>
+			<Row>72|nkychamber.com|-1|1676|684705|180782|82733|2008-09-28|2014-02-28|209.212.242.218|209.212.242.0|US|com|36|32</Row>
+			<Row>73|ucsb.edu|11715|255183|129982421|3858919|1286978|2008-07-30|2014-02-28|128.111.24.41|128.111.24.0|US|edu|61|76</Row>
+			<Row>74|pure-mac.com|383594|11668|218769|5429|4414|2008-08-17|2014-02-28|206.188.192.198|206.188.192.0|US|com|41|52</Row>
+			<Row>75|google.com|1|29955539|79506804365|12400377708|672918876|2008-07-29|2014-02-28|173.194.75.103|173.194.75.0|US|com|100|100</Row>
+			<Row>76|pepsico.com|25031|39009|3182180|3628368|192737|2008-07-30|2014-02-28|205.216.20.23|205.216.20.0|US|com|50|67</Row>
+			<Row>77|savingforcollege.com|175206|22499|809505|281802|161789|2008-07-31|2014-02-28|184.106.67.65|184.106.67.0|US|com|46|64</Row>
+			<Row>78|wwu.edu|59857|69054|4500951|2053963|860481|2008-07-30|2014-02-28|140.160.243.27|140.160.243.0|US|edu|51|59</Row>
+			<Row>79|dallaschamber.org|-1|6139|411980|126222|99848|2008-08-13|2014-02-28|64.74.115.233|64.74.115.0|US|org|39|48</Row>
+			<Row>80|usc.edu|6583|356846|107881647|41595454|3605748|2008-07-29|2014-02-28|128.125.253.146|128.125.253.0|US|edu|64|80</Row>
+			<Row>81|webtrends.com|21589|35985|1179244|205109|145209|2008-07-29|2014-02-28|216.64.169.101|216.64.169.0|US|com|50|66</Row>
+			<Row>82|rtfund.com|596041|42961|872000|41743|27362|2008-08-22|2014-02-28|58.251.38.195|58.251.38.0|CN|com|45|69</Row>
+			<Row>83|wallbuilders.com|314665|14974|2755101|12313|10412|2008-08-20|2014-02-28|174.123.26.50|174.123.26.0|US|com|48|62</Row>
+			<Row>84|opencompute.org|469147|16245|311749|1163083|160828|2011-08-17|2014-02-28|98.129.229.55|98.129.229.0|US|org|44|60</Row>
+			<Row>85|foodforthepoor.org|540524|15371|896752|512540|68426|2008-08-12|2014-02-28|69.48.252.158|69.48.252.0|US|org|39|49</Row>
+			<Row>86|njbia.org|-1|2460|27399|8708|6157|2008-08-13|2014-02-28|50.57.19.119|50.57.19.0|US|org|35|34</Row>
+			<Row>87|uscshortcode.com|-1|124|50719|86|60|2009-12-22|2014-02-28|184.106.55.18|184.106.55.0|US|com|32|34</Row>
+			<Row>88|northwestern.edu|7847|273158|27503175|43356748|2316931|2008-07-29|2014-02-28|129.105.215.254|129.105.215.0|US|edu|61|78</Row>
+			<Row>89|moneychimp.com|73380|20489|234223|2246|1712|2008-09-22|2014-02-28|66.175.58.9|66.175.58.0|US|com|44|49</Row>
+			<Row>90|m-x.ca|879685|7734|2308619|2282927|451771|2008-08-11|2014-02-28|74.121.166.231|74.121.166.0|CA|ca|41|48</Row>
+			<Row>91|dmarc.org|466848|2777|137118|3271|3123|2008-10-04|2014-02-28|208.69.40.157|208.69.40.0|US|org|29|37</Row>
+			<Row>92|401k.com|644514|3733|29741|1312|502|2008-08-16|2014-02-25|155.199.152.104|155.199.152.0|US|com|24|28</Row>
+			<Row>93|nh.gov|31455|88004|9316199|900849|185945|2008-08-01|2014-02-28|199.192.8.2|199.192.8.0|US|gov|58|61</Row>
+			<Row>94|hws.edu|95328|32719|804904|237226|158685|2008-07-29|2014-02-28|64.89.145.159|64.89.145.0|US|edu|48|61</Row>
+			<Row>95|educationindex.com|-1|17160|245844|203024|122756|2008-08-06|2014-02-28|83.170.93.199|83.170.93.0|UK|com|43|61</Row>
+			<Row>96|allmyfaves.com|11953|15223|635147|309058|55025|2008-09-13|2014-02-28|50.62.137.217|50.62.137.0|US|com|45|41</Row>
+			<Row>97|waterfire.org|-1|4455|51847|161188|118451|2008-09-05|2014-02-28|72.10.53.199|72.10.53.0|US|org|36|50</Row>
+			<Row>98|argyleforum.com|721594|1797|43059|9984|7720|2009-01-16|2014-02-28|96.9.42.136|96.9.42.0|US|com|34|41</Row>
+			<Row>99|kerberos.org|-1|1537|12730|1228958|168329|2008-08-15|2014-02-28|18.9.62.44|18.9.62.0|US|org|31|43</Row>
+			<Row>100|wealth-lab.com|520415|3162|47847|14024339|1349506|2008-08-29|2014-02-28|166.78.91.28|166.78.91.0|US|com|38|27</Row>
+			<Row>101|blogspot.com|11|10499622|34314763741|4798901165|274639552|2008-07-29|2014-02-28|173.194.73.191|173.194.73.0|US|com|94|89</Row>
+			<Row>102|mtu.edu|37322|159474|14700814|1661098|522457|2008-07-30|2014-02-28|141.219.70.106|141.219.70.0|US|edu|59|71</Row>
+			<Row>103|ok.us|-1|114800|21620327|6641715|1143943|2008-07-30|2014-02-28|92.242.144.10|92.242.144.0|UK|us|51|59</Row>
+			<Row>104|seattleartmuseum.org|313102|32735|1423922|413110|108815|2008-08-16|2014-02-28|63.231.6.195|63.231.6.0|US|org|45|56</Row>
+			<Row>105|friars.com|-1|4301|241425|64428|48079|2008-08-02|2014-02-28|64.30.230.20|64.30.230.0|US|com|42|43</Row>
+			<Row>106|dogsofthedow.com|350364|6312|68652|7711|6953|2008-12-20|2014-02-28|69.65.43.227|69.65.43.0|US|com|38|46</Row>
+			<Row>107|cashmoneylife.com|145863|16784|1780090|730636|158962|2008-09-17|2014-02-28|50.28.84.197|50.28.84.0|US|com|45|34</Row>
+			<Row>108|woodlandscenter.org|526818|4135|107025|269885|202661|2008-09-05|2014-02-28|50.19.121.4|50.19.121.0|US|org|29|35</Row>
+			<Row>109|gc.ca|528|796997|449723485|12566491|2396741|2008-07-29|2014-02-28|205.193.117.158|205.193.117.0|CA|ca|80|91</Row>
+			<Row>110|wustl.edu|12523|318833|40918918|4658222|1241844|2008-07-29|2014-02-28|128.252.87.149|128.252.87.0|US|edu|61|75</Row>
+			<Row>111|otcmarkets.com|16200|17552|4018544|600479|297175|2010-02-09|2014-02-28|216.203.58.10|216.203.58.0|US|com|54|55</Row>
+			<Row>112|rmu.edu|261847|15223|1681849|1197199|839886|2008-07-29|2014-02-28|66.206.178.109|66.206.178.0|US|edu|44|58</Row>
+			<Row>113|finconexpo.com|-1|79|60575|59538|59438|2013-11-19|2014-02-28| | | |com|51|36</Row>
+			<Row>114|csfineartscenter.org|-1|5121|242154|12599|9556|2008-08-05|2014-02-28|72.167.43.198|72.167.43.0|US|org|34|46</Row>
+			<Row>115|nbp.org|-1|9312|108976|14160|9076|2008-08-01|2014-02-28|198.58.99.232|198.58.99.0|US|org|34|45</Row>
+			<Row>116|corporateecoforum.com|-1|1523|18918|7174|6698|2008-09-16|2014-02-28|67.210.98.195|67.210.98.0|US|com|29|38</Row>
+			<Row>117|firstamtrust.com|-1|549|3287|242|158|2008-08-06|2014-02-28|63.112.249.10|63.112.249.0|US|com|26|36</Row>
+			<Row>118|aceannualmeeting.org|-1|608|7198|530|444|2008-12-04|2014-02-28|207.223.45.136|207.223.45.0|US|org|21|34</Row>
+			<Row>119|529guru.com|-1|21|267|639|624|2012-10-24|2014-02-28|184.106.67.81|184.106.67.0|US|com|18|35</Row>
+			<Row>120|hfmaconference.org|-1|990|24650|21477|19396|2010-03-03|2014-02-28|173.201.93.128|173.201.93.0|US|org|24|28</Row>
+		</DataTable>
+	</DataTables>
+</Result>

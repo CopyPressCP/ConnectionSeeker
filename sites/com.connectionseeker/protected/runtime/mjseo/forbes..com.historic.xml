@@ -1,0 +1,38 @@
+{
+	"Code" : "OK",
+	"ErrorMessage" : "",
+	"FullError" : "",
+	"ChargedAnalysisResUnits" : 1000,
+	"ChargedRetrievalResUnits" : 0,
+	"Cmd" : "GetRefDomains",
+	"IndexBuildDate" : "2014-07-28 00:39:26",
+	"IndexType" : 0,
+	"RemainingAnalysisResUnits" : 97668817,
+	"RemainingRetrievalResUnits" : 19895625,
+	"ServerBuild" : "2014-08-19 13:12:26",
+	"ServerName" : "SHADOJAGUAR",
+	"ServerVersion" : "1.0.5344.21973",
+	"UniqueIndexID" : "20140728003926-HISTORICAL",
+	"DataTables" : {
+		"Request" : {
+			"Headers" : {
+			},
+			"Data" : [
+				{ "ID" : 0, "OriginalRequest" : "forbes..com", "UsedRootDomain" : "forbes..com", "TotalRefDomains" : 0, "PrefixScanMode" : 0 }
+			]
+			},
+		"Results" : {
+			"Headers" : {
+				"AnalysisDepth" : 100000,
+				"ColumnsForGlobalInfo" : 17,
+				"ColumnsPerRequestedDomain" : 3,
+				"MaxRefDomainTopics" : 1,
+				"RefDomainTopicsCount" : 1,
+				"TotalConsideredDomains" : 10000,
+				"TotalMatchedDomains" : 0
+			},
+			"Data" : [
+			]
+			}
+		}
+}

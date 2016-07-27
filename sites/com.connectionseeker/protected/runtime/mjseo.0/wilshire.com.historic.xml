@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+		<GlobalVars AnalysisMode="AnalyseAllBackLinks" ChargedAnalysisResUnits="5000" ChargedRetrievalResUnits="250" IndexBuildDate="2014-03-19 09:04:51" IndexType="0" RemainingAnalysisResUnits="96484361" RemainingDetailedReportsPerPeriod="950" RemainingRetrievalResUnits="19873750" RemainingStandardReports="950" ServerBuild="2014-04-15 16:57:27" ServerName="SHADOJAGUAR" ServerVersion="1.0.5218.28723" UniqueIndexID="20140319090451-HISTORICAL"/>
+	<DataTables Count="2">
+		<DataTable Name="RootDomain" RowsCount="250" Headers="SourceURL|ACRank|AnchorText|Date|FlagRedirect|FlagFrame|FlagNoFollow|FlagImages|FlagDeleted|FlagAltText|FlagMention|TargetURL|DomainID|FirstIndexedDate|LastSeenDate|DateLost|ReasonLost|LinkType|LinkSubType|TargetCitationFlow|TargetTrustFlow|SourceCitationFlow|SourceTrustFlow" AvailableLines="0" BackLinkItem="wilshire.com" BackLinkType="RootDomain" TotalBackLinks="58186" TotalLines="553" TotalMatches="250">
+			<Row>http://www.gurufocus.com/stock-market-valuations.php|7|web.wilshire.com|2014-02-28|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|0|2012-07-09|2014-02-28| | |TextLink|TextLink_Normal|29|25|48|39</Row>
+			<Row>http://www.moneychimp.com/articles/index_funds/iflinks.htm|6|wilshire associates|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/|1|2009-05-26|2014-02-28| | |TextLink|TextLink_Normal|39|30|37|40</Row>
+			<Row>http://www.capitalspectator.com/|6|wilshire|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2008-11-27|2014-02-28| | |TextLink|TextLink_Normal|39|30|42|35</Row>
+			<Row>http://en.wikipedia.org/wiki/Stock_market_index|6|&#34;wilshire: index calculator result&#34;|2014-02-22|0|0|1|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|3|2009-10-17|2014-02-22| | |TextLink|TextLink_Normal|20|15|40|36</Row>
+			<Row>http://www.markit.com/Company/Global-Alliance|7|more information|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/|4|2013-10-05|2014-02-28| | |TextLink|TextLink_Normal|39|30|46|27</Row>
+			<Row>http://www.moneychimp.com/articles/index_funds/styles.htm|5|wilshire associates|2014-02-21|0|0|0|0|0|0|0|http://www.wilshire.com/|1|2009-05-19|2014-02-21| | |TextLink|TextLink_Normal|39|30|31|37</Row>
+			<Row>http://www.justfacts.com/news.economytalkfn.asp|5|http://www.wilshire.com/indexes/broad/|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/|5|2009-08-24|2014-02-28| | |TextLink|TextLink_Normal|25|26|30|37</Row>
+			<Row>http://www.justfacts.com/news.economytalkfn.asp|5|http://www.wilshire.com/quote.html?symbol=dwc|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/quote.html?symbol=dwc|5|2009-08-24|2014-02-28| | |TextLink|TextLink_Normal|15|25|30|37</Row>
+			<Row>http://www.crsp.com/products/software-access-tools|5|http://www.wilshire.com/|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/|6|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|39|30|33|34</Row>
+			<Row>http://www.investorhome.com/darts.htm|5|wilshire|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/|7|2009-05-26|2014-02-28| | |TextLink|TextLink_Normal|39|30|30|35</Row>
+			<Row>http://www.bobbrinker.com/links.asp|6|wilshire associates - wilshire 5000|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/|8|2009-11-22|2014-02-28| | |TextLink|TextLink_Normal|39|30|40|24</Row>
+			<Row>http://www.world-stock-exchanges.net/indices.html|5|dow jones wilshire 5000|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|9|2008-12-26|2014-02-27| | |TextLink|TextLink_Normal|39|30|31|33</Row>
+			<Row>http://www.babson.edu/Academics/divisions/finance/Pages/related-links.aspx|4|wilshire indices|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/|10|2011-09-13|2014-02-28| | |TextLink|TextLink_Normal|39|30|28|35</Row>
+			<Row>http://www.moneysense.ca/invest/etfs/couch-potato-portfolio-returns-for-2013|5|wilshire 5000 index|2014-02-11|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|11|2014-01-10|2014-02-11| | |TextLink|TextLink_Normal|29|25|32|30</Row>
+			<Row>http://allaboutalpha.com/blog/category/halloffame/whoswho/entrepreneurs/|5|wilshire associates|2014-02-21|0|0|0|0|0|0|0|http://www.wilshire.com/|12|2008-11-20|2014-02-21| | |TextLink|TextLink_Normal|39|30|35|25</Row>
+			<Row>http://www.capitalspectator.com/asset-allocation-rebalancing-review-27-feb-2014/|5|wilshire|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-27|2014-02-27| | |TextLink|TextLink_Normal|39|30|34|26</Row>
+			<Row>http://www.commondreams.org/view/2014/01/20|5|stock market|2014-01-21|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|13|2014-01-21|2014-01-21| | |TextLink|TextLink_Normal|29|25|31|28</Row>
+			<Row>http://www.thecfdd.com/links/|4|wilshire associates|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/|14|2009-09-21|2014-02-26| | |TextLink|TextLink_Normal|39|30|26|33</Row>
+			<Row>http://www.wilshirecompass.com/|6|research library|2014-02-28|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-10-02|2014-02-28| | |TextLink|TextLink_Normal|37|22|37|22</Row>
+			<Row>http://en.wikipedia.org/wiki/Wilshire_5000|4|wilshire associates|2013-05-23|0|0|1|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|3|2012-02-29|2013-05-23| | |TextLink|TextLink_Normal|29|25|27|31</Row>
+			<Row>http://en.wikipedia.org/wiki/Wilshire_5000|4|&#34;wilshire associates - wilshire 5000&#34;|2013-05-23|0|0|1|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|3|2012-02-29|2013-05-23| | |TextLink|TextLink_Normal|29|25|27|31</Row>
+			<Row>http://en.wikipedia.org/wiki/Wilshire_5000|4|&#34;wilshire: index calculator result&#34;|2013-05-23|0|0|1|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|3|2010-12-06|2013-05-23| | |TextLink|TextLink_Normal|20|15|27|31</Row>
+			<Row>http://en.wikipedia.org/wiki/Wilshire_5000|4|&#34;wilshire 5000 methodology&#34;|2013-05-23|0|0|1|0|0|0|0|http://web.wilshire.com/Indexes/W5000_Methodology_2010_001.pdf|3|2013-03-06|2013-05-23| | |TextLink|TextLink_Normal|14|15|27|31</Row>
+			<Row>http://en.wikipedia.org/wiki/Wilshire_5000|4|wilshire 5000 index membership|2013-05-23|0|0|1|0|0|0|0|http://web.wilshire.com/Indexes/W5000.pdf|3|2013-05-16|2013-05-23| | |TextLink|TextLink_Normal|1|0|27|31</Row>
+			<Row>http://en.wikipedia.org/wiki/Wilshire_5000|4|&#34;wilshire indexes news release, december 7, 2009&#34;|2013-05-23|0|0|1|0|0|0|0|http://www.wilshire.com/Company/November_2009_Wilshire_Indexes_News_Release.pdf|3|2010-12-06|2013-05-23| | |TextLink|TextLink_Normal|0|0|27|31</Row>
+			<Row>http://www.moneychimp.com/glossary/wilshire_5000.htm|4|wilshire associates|2014-02-04|0|0|0|0|0|0|0|http://www.wilshire.com/|1|2009-05-02|2014-02-04| | |TextLink|TextLink_Normal|39|30|25|31</Row>
+			<Row>http://www.hoadley.net/options/develtoolsstyleanalyzer.htm|5|http://www.wilshire.com/indexes/calculator/frame.htm|2014-02-20|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/calculator/frame.htm|16|2011-01-08|2014-02-20| | |TextLink|TextLink_Normal|14|16|30|26</Row>
+			<Row>http://en.wikipedia.org/wiki/Stock_index|4|&#34;wilshire: index calculator result&#34;|2010-06-19|0|0|1|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|3|2010-06-19|2010-06-19| | |TextLink|TextLink_Normal|20|15|26|29</Row>
+			<Row>http://en.wikipedia.org/wiki/Stock_index|4|http://www.wilshire.com/indexes/calculator/|2010-06-19|0|0|1|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|3|2010-06-19|2010-06-19| | |TextLink|TextLink_Normal|20|15|26|29</Row>
+			<Row>http://en.wikipedia.org/wiki/Dennis_Tito|4|&#34;wilshire / about us&#34;|2013-12-19|0|0|1|0|0|0|0|http://www.wilshire.com/aboutus|3|2013-12-19|2013-12-19| | |TextLink|TextLink_Normal|34|22|25|29</Row>
+			<Row>http://coyoteprime-runningcauseicantfly.blogspot.com/|5|stock market|2014-02-04|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|17|2014-02-04|2014-02-04| | |TextLink|TextLink_Normal|29|25|30|24</Row>
+			<Row>http://www.salon.com/2014/02/04/4_shocking_examples_of_american_inequality_partner/|4|stock market|2014-02-05|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|18|2014-02-05|2014-02-05| | |TextLink|TextLink_Normal|29|25|27|27</Row>
+			<Row>http://www.newyorker.com/online/blogs/shouts/2012/12/the-hundred-best-lists-of-all-time.html|5|wilshire 5000 total market index|2014-02-27|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/|19|2013-01-04|2014-02-27| | |TextLink|TextLink_Normal|26|17|32|22</Row>
+			<Row>http://www.capitalspectator.com/us-economic-profile-2-21-14/|5|wilshire|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-22|2014-02-24| | |TextLink|TextLink_Normal|39|30|32|22</Row>
+			<Row>http://www.capitalspectator.com/chicago-fed-natl-activity-index-jan-2014-preview/|5|wilshire|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-22|2014-02-24| | |TextLink|TextLink_Normal|39|30|32|22</Row>
+			<Row>http://www.capitalspectator.com/a-refreshing-change-of-pace-upbeat-economic-reports/|5|wilshire|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-21|2014-02-24| | |TextLink|TextLink_Normal|39|30|32|22</Row>
+			<Row>http://www.capitalspectator.com/book-bits-2-22-14/|5|wilshire|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-22|2014-02-24| | |TextLink|TextLink_Normal|39|30|32|22</Row>
+			<Row>http://www.capitalspectator.com/housing-starts-tumbled-in-january/|5|wilshire|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-20|2014-02-24| | |TextLink|TextLink_Normal|39|30|32|22</Row>
+			<Row>http://www.amstock.com/shareholder/sh_glossary.asp|4|wilshire 5000 total market index|2014-02-26|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/|20|2013-03-04|2014-02-26| | |TextLink|TextLink_Normal|26|17|26|27</Row>
+			<Row>http://www.muninetguide.com/categories/municipal-finance.php|4|wilshire report on state pensions|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Company/2006_State_Funding_Report.pdf|21|2009-07-24|2014-02-27| | |TextLink|TextLink_Normal|11|14|28|25</Row>
+			<Row>http://www.capitalspectator.com/premium-research/|5|wilshire|2014-02-22|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-23|2014-02-22| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/01/|5|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-24|2014-02-23| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/01/|5|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-02|2014-02-23| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/03/|5|wilshire|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-04|2014-02-24| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/04/|5|wilshire|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-04|2014-02-24| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/05/|5|wilshire|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-06|2014-02-26| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/06/|5|wilshire|2014-02-07|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-07|2014-02-07| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/07/|5|wilshire|2014-02-08|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-08|2014-02-08| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/08/|5|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-09|2014-02-23| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/10/|5|wilshire|2014-02-11|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-11|2014-02-11| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/11/|5|wilshire|2014-02-13|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-13|2014-02-13| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/12/|5|wilshire|2014-02-13|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-13|2014-02-13| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/13/|5|wilshire|2014-02-14|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-14|2014-02-14| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/14/|5|wilshire|2014-02-15|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-15|2014-02-15| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/15/|5|wilshire|2014-02-16|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-16|2014-02-16| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/17/|5|wilshire|2014-02-18|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-18|2014-02-18| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/18/|5|wilshire|2014-02-18|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-18|2014-02-18| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/19/|5|wilshire|2014-02-19|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-19|2014-02-19| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/20/|5|wilshire|2014-02-21|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-21|2014-02-21| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/21/|5|wilshire|2014-02-22|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-22|2014-02-22| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/22/|5|wilshire|2014-02-22|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-22|2014-02-22| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/contact/|5|wilshire|2014-02-22|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-23|2014-02-22| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://www.capitalspectator.com/about/|5|wilshire|2014-02-22|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-23|2014-02-22| | |TextLink|TextLink_Normal|39|30|31|22</Row>
+			<Row>http://truth-out.org/buzzflash/commentary/four-examples-of-americas-inequality|4|stock market|2014-02-04|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|22|2014-02-04|2014-02-04| | |TextLink|TextLink_Normal|29|25|29|23</Row>
+			<Row>http://www.aaii.com/asset-allocation/article/asset-allocation-and-retirement-do-you-need-to-make-a-change|3|www.wilshire.com|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|23|2011-03-16|2014-02-27| | |TextLink|TextLink_Normal|39|30|22|30</Row>
+			<Row>http://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%82%D0%BE,_%D0%94%D0%B5%D0%BD%D0%BD%D0%B8%D1%81|4|lawrence e. davanzo appointed president of wilshire associates|2014-02-27|0|0|1|0|0|0|0|http://www.wilshire.com/Company/PressRoom/PressReleases/Article.html?article=WARelease071910.htm|3|2013-05-04|2014-02-27| | |TextLink|TextLink_Normal|0|0|27|24</Row>
+			<Row>http://www.scsuscholars.com/2008_09_01_scsu-scholars_archive.html|4|wilshire 5000|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/Wilshire5000/|24|2008-10-24|2014-02-24| | |TextLink|TextLink_Normal|26|13|29|22</Row>
+			<Row>http://www.capitalspectator.com/blaming-the-weather-for-the-economy/|4|wilshire|2014-02-21|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-19|2014-02-21| | |TextLink|TextLink_Normal|39|30|29|22</Row>
+			<Row>http://www.capitalspectator.com/industrial-production-contracts-in-january/|4|wilshire|2014-02-22|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-15|2014-02-22| | |TextLink|TextLink_Normal|39|30|29|21</Row>
+			<Row>http://feeds.washingtonpost.com/rss/linksets/opinions/robert-samuelson|4|wilshire associates|2014-02-08|0|0|0|0|0|0|0|http://www.wilshire.com/media/22045/November 2013 Wilshire Indexes News Release Final.pdf|25|2013-12-31|2014-02-08| | |TextLink|TextLink_Normal|13|13|26|23</Row>
+			<Row>http://virtualchase.justia.com/wiki/business-law|3|wilshire indexes|2014-02-27|0|0|0|0|0|0|0|http://wilshire.com/Indexes/calculator/|26|2010-08-18|2014-02-27| | |TextLink|TextLink_Normal|10|17|21|28</Row>
+			<Row>https://www.markit.com/Company/Global-Alliance|4|more information|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|4|2013-10-06|2014-02-27| | |TextLink|TextLink_Normal|39|30|28|21</Row>
+			<Row>http://www.bogleheads.org/wiki/Stock_Market_Indexing|3|wilshire 5000|2014-02-27|0|0|1|0|0|0|0|http://www.wilshire.com/Indexes/Broad/|27|2011-01-15|2014-02-27| | |TextLink|TextLink_Normal|25|26|21|28</Row>
+			<Row>http://www.bogleheads.org/wiki/Stock_Market_Indexing|3|wilshire|2014-02-27|0|0|1|0|0|0|0|http://www.wilshire.com/Indexes/|27|2011-01-15|2014-02-27| | |TextLink|TextLink_Normal|17|17|21|28</Row>
+			<Row>http://www.bogleheads.org/wiki/Stock_Market_Indexing|3|wilshire us style indexes|2014-02-27|0|0|1|0|0|0|0|http://www.wilshire.com/Indexes/USStyle/|27|2011-01-15|2014-02-27| | |TextLink|TextLink_Normal|15|0|21|28</Row>
+			<Row>http://www.bogleheads.org/wiki/Stock_Market_Indexing|3|wilshire u.s. style indexes: a methodology overview|2014-02-27|0|0|1|0|0|0|0|http://www.wilshire.com/Indexes/Wilshire_US_Style_Indexes.pdf|27|2011-01-15|2014-02-27| | |TextLink|TextLink_Normal|0|0|21|28</Row>
+			<Row>http://invest-faq.com/links/research.html|4|http://www.wilshire.com|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|28|2009-05-25|2014-02-27| | |TextLink|TextLink_Normal|39|30|28|21</Row>
+			<Row>http://www.hobbyspace.com/Active/index.html|4|wilshire associates|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/|29|2009-05-26|2014-02-28| | |TextLink|TextLink_Normal|39|30|27|22</Row>
+			<Row>http://www.capitalspectator.com/estimating-recession-risk-with-potential-gdp/|4|wilshire|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-25|2014-02-26| | |TextLink|TextLink_Normal|39|30|27|22</Row>
+			<Row>http://www.capitalspectator.com/chicago-fed-economic-growth-slowed-in-january/|4|wilshire|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-25|2014-02-26| | |TextLink|TextLink_Normal|39|30|27|22</Row>
+			<Row>http://www.capitalspectator.com/diving-into-the-numbers/|4|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-03|2014-02-23| | |TextLink|TextLink_Normal|39|30|26|23</Row>
+			<Row>http://www.vcaonline.com/resources/invlist/index.asp|5|wilshire associates, inc.|2014-02-25|0|0|0|0|0|0|0|http://www.wilshire.com/|30|2012-09-04|2014-02-25| | |TextLink|TextLink_Normal|39|30|34|15</Row>
+			<Row>http://www.investorhome.com/bench.htm|4|wilshire|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|7|2009-05-25|2014-02-27| | |TextLink|TextLink_Normal|39|30|24|25</Row>
+			<Row>http://www.investorhome.com/bench.htm|4|return calculator|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|7|2010-08-18|2014-02-27| | |TextLink|TextLink_Normal|20|15|24|25</Row>
+			<Row>http://www.investorhome.com/bench.htm|4|indexes|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/|7|2010-08-18|2014-02-27| | |TextLink|TextLink_Normal|17|17|24|25</Row>
+			<Row>http://www.gurufocus.com/news/47542/where-are-we-with-market-valuations-what-can-we-expect-for-the-next-decade--feb-2009-update|3|http://www.wilshire.com/indexes/broad/wilshire5000/characteristics.html|2014-02-13|0|0|1|0|0|0|0|http://www.wilshire.com/Indexes/Broad/Wilshire5000/Characteristics.html|0|2012-10-22|2014-02-13| | |TextLink|TextLink_Normal|13|12|23|25</Row>
+			<Row>http://www.at-la.com/biz/@la-fp.htm|3|wilshire associates|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|31|2009-05-25|2014-02-27| | |TextLink|TextLink_Normal|39|30|18|30</Row>
+			<Row>http://justfacts.com/news.economytalkfn.asp|3|http://www.wilshire.com/indexes/broad/|2014-01-30|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/|5|2008-11-28|2014-01-30| | |TextLink|TextLink_Normal|25|26|23|25</Row>
+			<Row>http://justfacts.com/news.economytalkfn.asp|3|http://www.wilshire.com/quote.html?symbol=dwc|2014-01-30|0|0|0|0|0|0|0|http://www.wilshire.com/quote.html?symbol=dwc|5|2008-11-28|2014-01-30| | |TextLink|TextLink_Normal|15|25|23|25</Row>
+			<Row>https://www.folioinvesting.com/help/glossary.jsp|4|wilshire 5000|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/Wilshire5000/|32|2012-11-04|2014-02-26| | |TextLink|TextLink_Normal|26|13|28|20</Row>
+			<Row>http://www.capitalspectator.com/q12014-us-gdp-nowcast-2-4-2-25-2014/|4|wilshire|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-27|2014-02-27| | |TextLink|TextLink_Normal|39|30|26|22</Row>
+			<Row>http://www.capitalspectator.com/major-asset-classes-jan-2014-performance-review/|4|wilshire|2014-02-19|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-04|2014-02-19| | |TextLink|TextLink_Normal|39|30|24|24</Row>
+			<Row>http://blogs.marketwatch.com/thetell/tag/mutual-funds/|4|created in 1974 as an indicator for all u.s. equities|2014-02-26|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/|33|2013-07-02|2014-02-26| | |TextLink|TextLink_Normal|26|17|24|23</Row>
+			<Row>http://blogs.marketwatch.com/thetell/tag/mutual-funds/|4|wilshire indexes calculator|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|33|2013-07-02|2014-02-26| | |TextLink|TextLink_Normal|20|15|24|23</Row>
+			<Row>http://www.capitalspectator.com/thinking-about-black-swans-risk-management/|4|wilshire|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-27|2014-02-27| | |TextLink|TextLink_Normal|39|30|25|22</Row>
+			<Row>http://www.amibroker.org/userkb/2007/09/|3|http://www.wilshire.com/indexes/|2014-02-25|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/|34|2011-01-13|2014-02-25| | |TextLink|TextLink_Normal|17|17|19|28</Row>
+			<Row>http://www.efmoody.com/investments/investmentsoverview.html|4|wilshire index link:|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/|35|2009-05-26|2014-02-28| | |TextLink|TextLink_Normal|39|30|25|22</Row>
+			<Row>http://www.bloomberg.com/news/2011-09-28/calpers-chief-says-7-75-investment-return-may-be-tough-to-meet.html|3|wilshire associates|2014-02-10|0|0|0|0|0|0|0|http://www.wilshire.com/|36|2012-01-23|2014-02-10| | |TextLink|TextLink_Normal|39|30|23|23</Row>
+			<Row>http://thecontributor.com/economy/another-shocking-wealth-grab-rich|4|stock market|2014-01-21|0|0|1|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|37|2014-01-21|2014-01-21| | |TextLink|TextLink_Normal|29|25|25|21</Row>
+			<Row>http://thecontributor.com/economy/income-inequality-problem-no-one-wants-fix|4|stock market|2014-02-04|0|0|1|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|37|2014-02-04|2014-02-04| | |TextLink|TextLink_Normal|29|25|25|21</Row>
+			<Row>http://www.capitalspectator.com/macro-markets-risk-index-10-8-2-17-2014/|4|wilshire|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-18|2014-02-24| | |TextLink|TextLink_Normal|39|30|28|18</Row>
+			<Row>http://www.capitalspectator.com/us-housing-starts-jan-2014-preview/|4|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-19|2014-02-23| | |TextLink|TextLink_Normal|39|30|28|18</Row>
+			<Row>http://www.capitalspectator.com/a-brief-timeout/|4|wilshire|2014-02-12|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-23|2014-02-12| | |TextLink|TextLink_Normal|39|30|29|17</Row>
+			<Row>http://www.capitalspectator.com/book-bits-2-15-14/|4|wilshire|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-16|2014-02-24| | |TextLink|TextLink_Normal|39|30|28|18</Row>
+			<Row>http://www.capitalspectator.com/2014/02/24/|4|wilshire|2014-02-25|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-25|2014-02-25| | |TextLink|TextLink_Normal|39|30|24|22</Row>
+			<Row>http://www.capitalspectator.com/foreign-stocks-performance-review-18-feb-2014/|4|wilshire|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-18|2014-02-24| | |TextLink|TextLink_Normal|39|30|28|18</Row>
+			<Row>http://www.vcaonline.com/resources/invlist/|4|wilshire associates, inc.|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/|30|2012-09-05|2014-02-26| | |TextLink|TextLink_Normal|39|30|29|17</Row>
+			<Row>http://www.segalrc.com/publications-and-resources/links/|5|wilshire index returns|2014-02-18|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|38|2013-02-24|2014-02-18| | |TextLink|TextLink_Normal|20|15|32|14</Row>
+			<Row>http://www.segalrc.com/canada/links/|5|wilshire index returns|2014-02-18|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|38|2013-02-24|2014-02-18| | |TextLink|TextLink_Normal|20|15|32|14</Row>
+			<Row>http://www.capitalspectator.com/2014/02/25/|3|wilshire|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-27|2014-02-27| | |TextLink|TextLink_Normal|39|30|23|22</Row>
+			<Row>http://www.ifaarchive.com/12steps/step11/step11page3.asp|5|wilshire indexes|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/|39|2013-12-11|2014-02-27| | |TextLink|TextLink_Normal|17|17|33|12</Row>
+			<Row>http://en.wikipedia.org/wiki/Wilshire_4500|3|http://web.wilshire.com/indexes/broad/wilshire4500/|2012-08-08|0|0|1|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire4500/|3|2012-08-08|2012-08-08| | |TextLink|TextLink_Normal|20|16|18|26</Row>
+			<Row>http://pensionpulse.blogspot.com/2008/09/are-pension-funds-drifting-towards.html|3|wilshire associates|2014-02-13|0|0|0|0|0|0|0|http://www.wilshire.com/|17|2009-03-12|2014-02-13| | |TextLink|TextLink_Normal|39|30|23|21</Row>
+			<Row>http://www.forbes.com/sites/ericsavitz/2011/10/24/retort-the-147-companies-that-run-the-world-theyre-you/|4|the value of the wilshire 5000|2014-02-21|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/Characteristics.html|40|2012-06-02|2014-02-21| | |TextLink|TextLink_Normal|11|10|26|18</Row>
+			<Row>http://www.webworldindex.com/phtml/Business/Shopping_and_Services/Financial_Services/Investment_Services/|2|wilshire associates|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|41|2011-06-10|2014-02-23| | |TextLink|TextLink_Normal|39|30|16|28</Row>
+			<Row>http://www.hedgeworld.com/community/index_useful_links.cgi|3|wilshire|2014-01-30|0|0|0|0|0|0|0|http://www.wilshire.com/indexes/indexes.htm|42|2009-07-26|2014-01-30| | |TextLink|TextLink_Normal|6|16|17|27</Row>
+			<Row>http://www.capitalspectator.com/q12014-us-gdp-nowcast-2-6-2-10-2014/|3|wilshire|2014-02-10|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-10|2014-02-10| | |TextLink|TextLink_Normal|39|30|22|22</Row>
+			<Row>http://www.capitalspectator.com/2014/02/27/|3|wilshire|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-27|2014-02-27| | |TextLink|TextLink_Normal|39|30|22|22</Row>
+			<Row>http://www.sageadvisory.com/about|4|wilshire associates incorporated, odyssey|2014-02-25|0|0|0|0|0|0|0|http://www.wilshire.com/|43|2013-09-29|2014-02-25| | |TextLink|TextLink_Normal|39|30|26|18</Row>
+			<Row>http://www.wilshirecompass.com/News.aspx|4|research library|2014-02-27|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-12-17|2014-02-27| | |TextLink|TextLink_Normal|37|22|28|16</Row>
+			<Row>http://www.wilshirecompass.com/Privacy.aspx|4|research library|2014-02-27|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-12-17|2014-02-27| | |TextLink|TextLink_Normal|37|22|28|16</Row>
+			<Row>http://www.wilshirecompass.com/Resource/Key Relationships.aspx|4|research library|2014-02-28|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-12-17|2014-02-28| | |TextLink|TextLink_Normal|37|22|28|16</Row>
+			<Row>http://www.wilshirecompass.com/Resource/Key Relationships.aspx|4|wilshire associates|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/indexes/|15|2013-12-17|2014-02-28| | |TextLink|TextLink_Normal|34|22|28|16</Row>
+			<Row>http://www.wilshirecompass.com/Solutions/Asset Allocation.aspx|4|research library|2014-02-27|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-12-17|2014-02-27| | |TextLink|TextLink_Normal|37|22|28|16</Row>
+			<Row>http://www.wilshirecompass.com/Solutions/Institutional Investment Database.aspx|4|research library|2014-02-27|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-12-17|2014-02-27| | |TextLink|TextLink_Normal|37|22|28|16</Row>
+			<Row>http://www.wilshirecompass.com/Solutions/Manager Evaluation.aspx|4|research library|2014-02-27|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-12-17|2014-02-27| | |TextLink|TextLink_Normal|37|22|28|16</Row>
+			<Row>http://www.wilshirecompass.com/Solutions/Portfolio Optimization.aspx|4|research library|2014-02-27|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-12-17|2014-02-27| | |TextLink|TextLink_Normal|37|22|28|16</Row>
+			<Row>http://www.wilshirecompass.com/Solutions/Qualitative Assessments.aspx|4|research library|2014-02-27|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-12-17|2014-02-27| | |TextLink|TextLink_Normal|37|22|28|16</Row>
+			<Row>http://www.wilshirecompass.com/Solutions/Risk Management.aspx|4|research library|2014-02-27|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-12-17|2014-02-27| | |TextLink|TextLink_Normal|37|22|28|16</Row>
+			<Row>http://www.wilshirecompass.com/Solutions/Risk Management.aspx|4|wilshire iquantum|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/analytics/analytic-solutions/total-fund-solutions/wilshire-iquantum|15|2013-12-17|2014-02-27| | |TextLink|TextLink_Normal|18|10|28|16</Row>
+			<Row>http://www.wilshirecompass.com/Solutions/Total Fund Analysis.aspx|4|research library|2014-02-27|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-12-17|2014-02-27| | |TextLink|TextLink_Normal|37|22|28|16</Row>
+			<Row>http://mutualfunds.about.com/od/activevspassivefunds/a/Index_Funds.htm|4|wilshire 5000 index|2014-02-25|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/|44|2009-09-20|2014-02-25| | |TextLink|TextLink_Normal|25|26|24|19</Row>
+			<Row>http://www.truth-out.org/buzzflash/commentary/item/18427-four-shocking-signs-of-further-income-redistribution-to-the-rich-in-just-one-year|4|stock market|2014-01-21|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|22|2014-01-21|2014-01-21| | |TextLink|TextLink_Normal|29|25|26|17</Row>
+			<Row>http://crsp.chicagobooth.edu/products/software-access-tools|4|http://www.wilshire.com/|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/|45|2013-12-30|2014-02-26| | |TextLink|TextLink_Normal|39|30|25|18</Row>
+			<Row>http://www.cosmopolis.ch/banklinks.htm|5|wilshire - index wilshire 5000|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/|46|2009-04-26|2014-02-28| | |TextLink|TextLink_Normal|39|30|30|13</Row>
+			<Row>http://www.invest-faq.com/articles/stock-index-others.html|3|http://www.wilshire.com|2014-01-31|0|0|0|0|0|0|0|http://www.wilshire.com/|28|2009-05-28|2014-01-31| | |TextLink|TextLink_Normal|39|30|23|20</Row>
+			<Row>http://www.amibroker.org/userkb/category/database-management/|3|http://www.wilshire.com/indexes/|2014-02-07|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/|34|2011-01-25|2014-02-07| | |TextLink|TextLink_Normal|17|17|17|26</Row>
+			<Row>https://icp.marcoconsulting.com/DesktopDefault.aspx|4| |2014-02-25|0|0|0|1|0|0|0|http://www.wilshire.com/Indexes/calculator/|47|2011-03-14|2014-02-25| | |ImageLink|ImageLink_Normal|20|15|27|16</Row>
+			<Row>https://icp.marcoconsulting.com/DesktopDefault.aspx|4|wilshire index returns|2014-02-25|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|47|2011-03-14|2014-02-25| | |TextLink|TextLink_Normal|20|15|27|16</Row>
+			<Row>http://www.cbsnews.com/news/a-statistical-look-at-jim-cramers-skill-level/|4|wilshire associates|2014-02-25|0|0|0|0|0|0|0|http://www.wilshire.com/|48|2014-01-02|2014-02-25| | |TextLink|TextLink_Normal|39|30|29|13</Row>
+			<Row>http://www.dmoz.org/Business/Financial_Services/Information_Services/|3|wilshire associates|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|49|2010-10-14|2014-02-24| | |TextLink|TextLink_Normal|39|30|21|21</Row>
+			<Row>http://www.meetup.com/LASC-CSA/|4| |2014-02-24|0|0|0|1|0|0|0|http://www.wilshire.com/|50|2013-12-31|2014-02-24| | |ImageLink|ImageLink_Normal|39|30|25|17</Row>
+			<Row>http://www.meetup.com/LASC-CSA/|4|wilshire associates incorporated|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|50|2013-12-31|2014-02-24| | |TextLink|TextLink_Normal|39|30|25|17</Row>
+			<Row>https://www.commondreams.org/view/2014/02/03-2|3|stock market|2014-02-05|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|13|2014-02-05|2014-02-05| | |TextLink|TextLink_Normal|29|25|23|19</Row>
+			<Row>http://www.capitalspectator.com/page/2/|3|wilshire|2014-01-24|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-24|2014-01-24| | |TextLink|TextLink_Normal|39|30|20|22</Row>
+			<Row>http://www.forecasts.org/w5000.htm|4|wilshire associates&#39; index website|2014-02-01|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|51|2014-01-30|2014-02-01| | |TextLink|TextLink_Normal|29|25|25|17</Row>
+			<Row>http://greenbackd.com/2013/03/|4|the wilshire 5000 total market index|2014-01-30|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|52|2013-07-05|2014-01-30| | |TextLink|TextLink_Normal|29|25|29|13</Row>
+			<Row>http://greenbackd.com/2009/10/|4|wilshire index calculator|2014-02-14|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|52|2012-11-22|2014-02-14| | |TextLink|TextLink_Normal|20|15|29|13</Row>
+			<Row>http://www.iresnet.net/links.htm|4|wilshire associates|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/|53|2008-10-26|2014-02-26| | |TextLink|TextLink_Normal|39|30|29|13</Row>
+			<Row>http://www.mathtools.net/Applications_and_Industries/Finance_and_Economics/Financial_Data_and_Services/index.html|2|wilshire associates|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|54|2009-05-25|2014-02-27| | |TextLink|TextLink_Normal|39|30|16|25</Row>
+			<Row>https://www.justfacts.com/news.economytalkfn.asp|2|http://www.wilshire.com/indexes/broad/|2014-01-16|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/|5|2011-01-03|2014-01-16| | |TextLink|TextLink_Normal|25|26|16|25</Row>
+			<Row>https://www.justfacts.com/news.economytalkfn.asp|2|http://www.wilshire.com/quote.html?symbol=dwc|2014-01-16|0|0|0|0|0|0|0|http://www.wilshire.com/quote.html?symbol=dwc|5|2011-01-03|2014-01-16| | |TextLink|TextLink_Normal|15|25|16|25</Row>
+			<Row>http://www.thebetabrief.com/|4|wilshire|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/|55|2008-11-26|2014-02-27| | |TextLink|TextLink_Normal|17|17|26|15</Row>
+			<Row>http://www.investopedia.com/university/indexes/index5.asp|3|wilshire associates|2014-02-23|0|0|1|0|0|0|0|http://www.wilshire.com/|56|2012-04-05|2014-02-23| | |TextLink|TextLink_Normal|39|30|21|19</Row>
+			<Row>http://www.at-la.com/cities/Santa_Monica/financial.htm|2|wilshire associates|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|31|2009-05-25|2014-02-27| | |TextLink|TextLink_Normal|39|30|14|26</Row>
+			<Row>http://www.capitalspectator.com/dissecting-cycles/|3|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-01|2014-02-23| | |TextLink|TextLink_Normal|39|30|19|21</Row>
+			<Row>http://www.investorhome.com/anomcal.htm|3|wilshire 5000|2014-01-31|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|7|2010-08-21|2014-01-31| | |TextLink|TextLink_Normal|20|15|22|18</Row>
+			<Row>http://skepticalsports.com/?p=2586|3|wilshire 5000|2014-02-26|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/|57|2011-11-10|2014-02-26| | |TextLink|TextLink_Normal|26|17|22|18</Row>
+			<Row>http://politicsandprosperity.com/resources/|3|wilshire index return calculator|2014-01-31|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/disclaimer.html?URL=/Indexes/calculator/frame.htm|58|2013-09-15|2014-01-31| | |TextLink|TextLink_Normal|5|9|20|20</Row>
+			<Row>http://www.sageadvisory.com/about/our-firm|3|wilshire associates incorporated, odyssey|2014-02-25|0|0|0|0|0|0|0|http://www.wilshire.com/|43|2013-09-29|2014-02-25| | |TextLink|TextLink_Normal|39|30|22|18</Row>
+			<Row>http://www.wilshirecompass.com/News Items/F and E Webinar Dec 2012.aspx|4|research library|2014-02-26|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-09-30|2014-02-26| | |TextLink|TextLink_Normal|37|22|25|15</Row>
+			<Row>http://www.wilshirecompass.com/News Items/HFR and CRSP Indexes.aspx|4|research library|2014-02-25|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-12-17|2014-02-25| | |TextLink|TextLink_Normal|37|22|25|15</Row>
+			<Row>http://www.stevens.edu/fsc/content/academic-programs/financial-links|3|wilshire indexes|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/|59|2013-04-03|2014-02-26| | |TextLink|TextLink_Normal|17|17|19|20</Row>
+			<Row>http://www.bogleheads.org/wiki/External_link_maintenance|3|http://www.wilshire.com/indexes/broad/|2014-02-25|0|0|1|0|0|0|0|http://www.wilshire.com/Indexes/Broad/|27|2012-04-07|2014-02-25| | |TextLink|TextLink_Normal|25|26|21|18</Row>
+			<Row>http://www.bogleheads.org/wiki/External_link_maintenance|3|http://www.wilshire.com/indexes/usstyle/|2014-02-25|0|0|1|0|0|0|0|http://www.wilshire.com/Indexes/USStyle/|27|2012-04-07|2014-02-25| | |TextLink|TextLink_Normal|15|0|21|18</Row>
+			<Row>http://www.bogleheads.org/wiki/External_link_maintenance|3|http://www.wilshire.com/indexes/wilshire_us_style_indexes.pdf|2014-02-25|0|0|1|0|0|0|0|http://www.wilshire.com/Indexes/Wilshire_US_Style_Indexes.pdf|27|2012-04-07|2014-02-25| | |TextLink|TextLink_Normal|0|0|21|18</Row>
+			<Row>http://www.moolanomy.com/2477/investing-lessons-from-the-lost-decade-cford10/|4|wilshire 5000 total return index|2014-02-26|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/|60|2011-06-13|2014-02-26| | |TextLink|TextLink_Normal|26|17|27|12</Row>
+			<Row>http://www.muninetguide.com/categories/municipal-finance-public-pension-funds.php|3|wilshire report on state pensions|2014-02-10|0|0|0|0|0|0|0|http://www.wilshire.com/Company/2006_State_Funding_Report.pdf|21|2009-07-07|2014-02-10| | |TextLink|TextLink_Normal|11|14|23|16</Row>
+			<Row>http://www.capitalspectator.com/major-asset-classes-december-2012-performance-review/|4|wilshire|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-04|2014-02-26| | |TextLink|TextLink_Normal|39|30|26|13</Row>
+			<Row>http://www.investorhome.com/interact.htm|3|return calculator|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|7|2010-05-21|2014-02-28| | |TextLink|TextLink_Normal|20|15|22|17</Row>
+			<Row>http://www.investorhome.com/interact.htm|3|wilshire|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/calculator/|7|2010-05-21|2014-02-28| | |TextLink|TextLink_Normal|20|15|22|17</Row>
+			<Row>http://www.ceteraadvisors.com/thought-leadership/multimedia/mf-etf-video-intro.html|4|wilshire|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|61|2013-03-05|2014-02-27| | |TextLink|TextLink_Normal|39|30|25|14</Row>
+			<Row>http://greenbackd.com/2013/03/25/warren-buffett-and-john-hussman-on-the-stock-market/|4|the wilshire 5000 total market index|2014-02-14|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|52|2013-04-21|2014-02-14| | |TextLink|TextLink_Normal|29|25|26|13</Row>
+			<Row>http://greenbackd.com/2013/03/25/warren-buffett-and-john-hussman-on-the-stock-market/|4|wilshire 5000 website|2014-02-14|0|0|1|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/Characteristics.html|52|2013-04-21|2014-02-14| | |TextLink|TextLink_Normal|11|10|26|13</Row>
+			<Row>http://pair.offshore.ai/38yearcycle/|4|market cap for the whole us stock market|2014-02-13|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/Wilshire5000/Characteristics.html|62|2011-01-01|2014-02-13| | |TextLink|TextLink_Normal|13|12|29|10</Row>
+			<Row>http://www.inrealty.com/restocks/reit.html|4|reit &#38; reoc|2014-01-31|0|0|0|0|0|0|0|http://www.wilshire.com/Sponsor/Asset/|63|2009-05-28|2014-01-31| | |TextLink|TextLink_Normal|11|6|28|11</Row>
+			<Row>http://www.wilshirecompass.com/Contact/|4|research library|2014-01-31|0|0|0|0|0|0|0|https://researchlibrary.wilshire.com/|15|2013-09-10|2014-01-31| | |TextLink|TextLink_Normal|37|22|26|13</Row>
+			<Row>http://de.wikipedia.org/wiki/Dennis_Tito|3|offizielle biografie auf der seite von wilshire associates|2013-06-23|0|0|1|0|0|0|0|http://www.wilshire.com/Company/About/Board/Tito.html|3|2009-08-14|2013-06-23| | |TextLink|TextLink_Normal|9|10|17|21</Row>
+			<Row>http://learningcenter.statefarm.com/finances-1/mutual-funds/using-indexes-to-measure-market-performance/|3|wilshire associates|2014-02-24|0|0|0|0|0|0|0|http://www.wilshire.com/|64|2013-10-18|2014-02-24| | |TextLink|TextLink_Normal|39|30|20|18</Row>
+			<Row>http://learningcenter.statefarm.com/finances-1/mutual-funds/using-indexes-to-measure-market-performance/|3|wilshire 5000 index|2014-02-24|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|64|2013-10-18|2014-02-24| | |TextLink|TextLink_Normal|29|25|20|18</Row>
+			<Row>http://virtualchase.justia.com/wiki/finding-facts|3|wilshire indexes|2014-02-19|0|0|0|0|0|0|0|http://wilshire.com/Indexes/calculator/|26|2010-08-10|2014-02-19| | |TextLink|TextLink_Normal|10|17|17|21</Row>
+			<Row>http://www.ifa.com/articles/selecting_investments_part_2/|4|wilshire indexes|2014-01-14|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/|65|2014-01-09|2014-01-14| | |TextLink|TextLink_Normal|17|17|26|12</Row>
+			<Row>http://www.benbest.com/business/indexusa.html|3|90% of the market value is in large cap stocks|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/Wilshire5000/Characteristics.html|66|2010-04-20|2014-02-27| | |TextLink|TextLink_Normal|13|12|20|18</Row>
+			<Row>http://www.capitalspectator.com/does-m3-matter/|4|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-02|2014-02-23| | |TextLink|TextLink_Normal|39|30|25|13</Row>
+			<Row>http://www.calpers-governance.org/resources/library/home|3|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|67|2012-12-01|2014-02-23| | |TextLink|TextLink_Normal|39|30|21|17</Row>
+			<Row>http://www.portfoliosolutions.com/benefits-to-you-2/our-research/resources/|3|wilshire associates|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|68|2012-05-09|2014-02-27| | |TextLink|TextLink_Normal|39|30|23|15</Row>
+			<Row>http://greenbackd.com/category/about/value-investment/|4|the wilshire 5000 total market index|2014-01-30|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|52|2013-04-06|2014-01-30| | |TextLink|TextLink_Normal|29|25|26|12</Row>
+			<Row>http://blog.crottaz-finance.ch/?m=200808|4|wilshire 5000|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/|69|2009-04-25|2014-02-27| | |TextLink|TextLink_Normal|25|26|27|11</Row>
+			<Row>http://www.forbes.com/sites/rickferri/2014/01/21/an-interview-with-indexing-expert-robert-waid/|3|wilshire associates|2014-02-17|0|0|0|0|0|0|0|http://www.wilshire.com/|40|2014-02-17|2014-02-17| | |TextLink|TextLink_Normal|39|30|23|14</Row>
+			<Row>http://www.forbes.com/sites/rickferri/2014/01/21/an-interview-with-indexing-expert-robert-waid/|3|wilshire target indexes|2014-02-17|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Wilshire_US_Style_Indexes.pdf|40|2014-02-17|2014-02-17| | |TextLink|TextLink_Normal|10|8|23|14</Row>
+			<Row>http://www.cbsnews.com/news/the-case-against-sp-500-index-funds/|3|wilshire 5000|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/|48|2013-12-03|2014-02-28| | |TextLink|TextLink_Normal|25|26|22|15</Row>
+			<Row>http://www.crsp.uchicago.edu/products/software-access-tools|4|http://www.wilshire.com/|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/|70|2014-01-07|2014-02-28| | |TextLink|TextLink_Normal|39|30|26|11</Row>
+			<Row>http://www.faqs.org/faqs/investment-faq/general/part13/|3|http://www.wilshire.com|2014-02-12|0|0|1|0|0|0|0|http://www.wilshire.com/|71|2009-09-07|2014-02-12| | |TextLink|TextLink_Normal|39|30|19|18</Row>
+			<Row>http://harvardmagazine.com/2011/09/harvard-endowment-rises-to-32-billion|3|wilshire associates trust universe comparison service|2014-02-16|0|0|0|0|0|0|0|http://www.wilshire.com/AboutUs/NewsDetail.aspx?id=48|72|2011-11-30|2014-02-16| | |TextLink|TextLink_Normal|9|8|22|15</Row>
+			<Row>http://www.capitalspectator.com/us-economic-profile-1-20-14/|3|wilshire|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-23|2014-02-27| | |TextLink|TextLink_Normal|39|30|23|14</Row>
+			<Row>http://www.capitalspectator.com/us-economic-profile-11-25-13/|4|wilshire|2014-02-14|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-25|2014-02-14| | |TextLink|TextLink_Normal|39|30|24|13</Row>
+			<Row>http://www.capitalspectator.com/the-rising-influence-of-beta/|3|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-23|2014-02-23| | |TextLink|TextLink_Normal|39|30|23|14</Row>
+			<Row>http://www.investorhome.com/zeroes.htm|3|bob waid|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/BusinessUnits/Analytics/Atlas/Bios.html|7|2010-08-18|2014-02-27| | |TextLink|TextLink_Normal|7|10|20|17</Row>
+			<Row>http://www.investorhome.com/W5000.htm|3|wilshire associates|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|7|2010-08-18|2014-02-27| | |TextLink|TextLink_Normal|39|30|20|17</Row>
+			<Row>http://www.investorhome.com/W5000.htm|3|characteristics|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/Wilshire5000/Characteristics.html|7|2010-08-18|2014-02-27| | |TextLink|TextLink_Normal|13|12|20|17</Row>
+			<Row>http://www.investorhome.com/W5000.htm|3|4,049 as of 4/30/10|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/Wilshire5000/Characteristics.html|7|2010-08-18|2014-02-27| | |TextLink|TextLink_Normal|13|12|20|17</Row>
+			<Row>http://www.investorhome.com/W5000.htm|3|a new capital market index|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Wilshire_5000.pdf|7|2010-08-18|2014-02-27| | |TextLink|TextLink_Normal|9|10|20|17</Row>
+			<Row>http://www.investorhome.com/W5000.htm|3|dennis tito|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Company/About/Board/Tito.html|7|2010-08-18|2014-02-27| | |TextLink|TextLink_Normal|9|10|20|17</Row>
+			<Row>http://www.investorhome.com/W5000.htm|3|the wilshire 5000 a total market index|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/The_Wilshire_5000_-_A_Total_Market_Index.pdf|7|2010-08-18|2014-02-27| | |TextLink|TextLink_Normal|9|10|20|17</Row>
+			<Row>http://www.alerian.com/education/data-distributors/|4| |2014-02-20|0|0|0|1|0|0|0|http://www.wilshire.com/|73|2012-01-03|2014-02-20| | |ImageLink|ImageLink_Normal|39|30|24|13</Row>
+			<Row>http://news.nationalgeographic.com/news/2013/02/130227-inspiration-mars-dennis-tito-space-exploration-science/|4|dennis tito|2014-02-28|0|0|0|0|0|0|0|http://www.wilshire.com/aboutus/board-of-directors/dennis-a-tito|74|2013-03-06|2014-02-28| | |TextLink|TextLink_Normal|20|12|24|12</Row>
+			<Row>http://www.infotoday.com/supersearchers/superwall.htm|3|http://www.wilshire.com|2014-02-25|0|0|0|0|0|0|0|http://www.wilshire.com/|75|2009-08-21|2014-02-25| | |TextLink|TextLink_Normal|39|30|21|15</Row>
+			<Row>http://pensionpulse.blogspot.ca/2014/01/obamas-myra-nest-egg.html|3|wilshire associates|2014-02-17|0|0|0|0|0|0|0|http://www.wilshire.com/|76|2014-02-01|2014-02-17| | |TextLink|TextLink_Normal|39|30|22|14</Row>
+			<Row>http://www.bogleheads.org/wiki/Mid_caps|3|wilshire us style indexes|2014-02-27|0|0|1|0|0|0|0|http://web.wilshire.com/Indexes/USStyle/|27|2012-02-09|2014-02-27| | |TextLink|TextLink_Normal|24|17|18|18</Row>
+			<Row>http://www.incrediblecharts.com/help/indexes_other.php|3|wilshire 5000 total market index|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/|77|2008-09-27|2014-02-27| | |TextLink|TextLink_Normal|25|26|21|15</Row>
+			<Row>http://www.incrediblecharts.com/help/indexes_other.php|3|wilshire 5000 index|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/Broad/Wilshire5000/|77|2008-09-27|2014-02-27| | |TextLink|TextLink_Normal|26|13|21|15</Row>
+			<Row>http://www.capitalspectator.com/adp-slower-growth-for-payrolls-in-january/|3|wilshire|2014-02-22|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-06|2014-02-22| | |TextLink|TextLink_Normal|39|30|19|17</Row>
+			<Row>http://www.capitalspectator.com/is-the-new-abnormal-threatening-a-comeback/|3|wilshire|2014-02-21|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-06|2014-02-21| | |TextLink|TextLink_Normal|39|30|19|17</Row>
+			<Row>http://www.capitalspectator.com/asset-allocation-rebalancing-review-11-feb-2014/|3|wilshire|2014-02-13|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-13|2014-02-13| | |TextLink|TextLink_Normal|39|30|20|16</Row>
+			<Row>http://www.capitalspectator.com/mr-markets-asset-allocation-is-still-tough-to-beat/|4|wilshire|2014-02-16|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-25|2014-02-16| | |TextLink|TextLink_Normal|39|30|28|8</Row>
+			<Row>http://www.capitalspectator.com/narrative-risk/|4|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-26|2014-02-23| | |TextLink|TextLink_Normal|39|30|26|10</Row>
+			<Row>http://www.capitalspectator.com/book-bits-6-21-13/|3|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-30|2014-02-23| | |TextLink|TextLink_Normal|39|30|20|16</Row>
+			<Row>http://www.capitalspectator.com/the-imfs-big-picture-analysis/|3|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-30|2014-02-23| | |TextLink|TextLink_Normal|39|30|21|15</Row>
+			<Row>http://www.erate.com/mortgage-rates-wall-street-storm-after-downgrade.htm|4|wilshire 5000|2014-01-30|0|0|1|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/Records.html|78|2011-09-14|2014-01-30| | |TextLink|TextLink_Normal|14|15|25|11</Row>
+			<Row>http://www.rickferri.com/blog/strategy/an-interview-with-indexing-expert-robert-waid/|3|wilshire associates|2014-01-25|0|0|0|0|0|0|0|http://www.wilshire.com/|79|2014-01-22|2014-01-25| | |TextLink|TextLink_Normal|39|30|23|13</Row>
+			<Row>http://www.rickferri.com/blog/strategy/an-interview-with-indexing-expert-robert-waid/|3|wilshire target indexes|2014-01-25|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Wilshire_US_Style_Indexes.pdf|79|2014-01-22|2014-01-25| | |TextLink|TextLink_Normal|10|8|23|13</Row>
+			<Row>http://ips-net.com/managerresearch.htm|5|wilshire|2014-02-25|0|0|0|0|0|0|0|http://www.wilshire.com/|80|2013-08-30|2014-02-25| | |TextLink|TextLink_Normal|39|30|36|0</Row>
+			<Row>http://www.newyorker.com/online/blogs/shouts/2012/12/the-hundred-best-lists-of-all-time.html?mbid=social_retweet|3|wilshire 5000 total market index|2014-02-25|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/|19|2013-02-01|2014-02-25| | |TextLink|TextLink_Normal|26|17|21|14</Row>
+			<Row>http://jfe.rochester.edu/othinvst.htm|3|wilshire associates|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|81|2011-03-16|2014-02-27| | |TextLink|TextLink_Normal|39|30|20|15</Row>
+			<Row>http://finance.zacks.com/size-limits-smallcap-midcap-largecap-stocks-5895.html|2|wilshire associates: wilshire 5000|2014-02-01|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|82|2013-07-07|2014-02-01| | |TextLink|TextLink_Normal|29|25|14|21</Row>
+			<Row>http://finance.zacks.com/size-limits-smallcap-midcap-largecap-stocks-5895.html|2|wilshire associates: wilshire us style indexes|2014-02-01|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/USStyle/|82|2013-07-07|2014-02-01| | |TextLink|TextLink_Normal|24|17|14|21</Row>
+			<Row>http://virtualchase.justia.com/wiki/statistical-resources|2|wilshire indexes|2014-02-19|0|0|0|0|0|0|0|http://wilshire.com/Indexes/calculator/|26|2010-08-10|2014-02-19| | |TextLink|TextLink_Normal|10|17|15|20</Row>
+			<Row>http://www.cfainstitute.org/ethics/codes/assetmanager/Pages/firms_claiming_compliance.aspx|3|wilshire associates inc.|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/|83|2014-01-30|2014-02-26| | |TextLink|TextLink_Normal|39|30|21|14</Row>
+			<Row>http://pensionpulse.blogspot.ca/2013/03/hoopp-does-it-again-gains-171-in-2012.html|3|wilshire associates|2014-02-13|0|0|0|0|0|0|0|http://www.wilshire.com/|76|2013-12-18|2014-02-13| | |TextLink|TextLink_Normal|39|30|19|16</Row>
+			<Row>http://pensionpulse.blogspot.ca/2013/06/benefits-of-canadas-top-ten.html|3|wilshire associates|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|76|2013-12-18|2014-02-27| | |TextLink|TextLink_Normal|39|30|19|16</Row>
+			<Row>http://www.nationofchange.org/more-inequality-shock-1391440735|3|stock market|2014-02-04|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|84|2014-02-04|2014-02-04| | |TextLink|TextLink_Normal|29|25|21|14</Row>
+			<Row>http://www.capitalspectator.com/is-the-recent-fall-in-inflation-expectations-a-warning-sign/|4|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-29|2014-02-23| | |TextLink|TextLink_Normal|39|30|25|10</Row>
+			<Row>http://www.capitalspectator.com/the-correlation-conundrum/|4|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-24|2014-02-23| | |TextLink|TextLink_Normal|39|30|25|10</Row>
+			<Row>http://www.capitalspectator.com/is-the-small-cap-value-beta-still-relevant/|3|wilshire|2014-02-27|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-24|2014-02-27| | |TextLink|TextLink_Normal|39|30|23|12</Row>
+			<Row>http://www.capitalspectator.com/tactical-etf-review-4-21-2011/|3|wilshire|2014-02-25|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-25|2014-02-25| | |TextLink|TextLink_Normal|39|30|23|12</Row>
+			<Row>http://www.capitalspectator.com/is-there-any-there-there-in-hedge-fund-beta/|3|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-20|2014-02-23| | |TextLink|TextLink_Normal|39|30|22|13</Row>
+			<Row>http://www.capitalspectator.com/asset-allocation-rebalancing-review-28-august-2013/|4|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-29|2014-02-23| | |TextLink|TextLink_Normal|39|30|24|11</Row>
+			<Row>http://www.capitalspectator.com/what-if-anything-can-dividend-yield-tell-us/|3|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-08|2014-02-23| | |TextLink|TextLink_Normal|39|30|23|12</Row>
+			<Row>http://www.capitalspectator.com/q2-gdp-july-adp-payrolls-moderate-growth-persists/|4|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-29|2014-02-23| | |TextLink|TextLink_Normal|39|30|25|10</Row>
+			<Row>http://www.capitalspectator.com/us-nonfarm-private-payrolls-jan-2014-preview/|3|wilshire|2014-02-22|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-07|2014-02-22| | |TextLink|TextLink_Normal|39|30|20|15</Row>
+			<Row>http://www.capitalspectator.com/the-peak-still-holds/|3|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-04|2014-02-23| | |TextLink|TextLink_Normal|39|30|23|12</Row>
+			<Row>http://www.capitalspectator.com/peak-performance/|3|wilshire|2014-02-23|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-02-06|2014-02-23| | |TextLink|TextLink_Normal|39|30|23|12</Row>
+			<Row>http://www.capitalspectator.com/import-prices-still-soaring/|3|wilshire|2014-02-08|0|0|0|0|0|0|0|http://www.wilshire.com/|2|2014-01-31|2014-02-08| | |TextLink|TextLink_Normal|39|30|20|15</Row>
+			<Row>http://www.academicwebpages.com/preview/mehra/links/index.html|3|wilshire indexes|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/indexes/wilshire_indexes.htm|85|2011-04-14|2014-02-26| | |TextLink|TextLink_Normal|9|9|20|15</Row>
+			<Row>http://dqydj.net/wilshire-5000-dividend-reinvestment-calculator/|3|which you can find here|2014-01-07|0|0|0|0|0|0|0|http://www.wilshire.com/indexes/calculator/|86|2014-01-07|2014-01-07| | |TextLink|TextLink_Normal|35|22|20|15</Row>
+			<Row>http://dqydj.net/wilshire-5000-dividend-reinvestment-calculator/|3|produced by wilshire associates|2014-01-07|0|0|0|0|0|0|0|http://web.wilshire.com/Indexes/Broad/Wilshire5000/|86|2014-01-07|2014-01-07| | |TextLink|TextLink_Normal|29|25|20|15</Row>
+			<Row>http://www.investmentseek.com/Reference/Index_Providers/index.htm|3|wilshire associates|2014-01-30|0|0|0|0|0|0|0|http://www.wilshire.com/Indexes/|87|2009-05-27|2014-01-30| | |TextLink|TextLink_Normal|17|17|22|13</Row>
+			<Row>http://www.investmentseek.com/Investment_Managers/Domestic_Equities/index.htm|3|wilshire asset management|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/|87|2009-05-24|2014-02-26| | |TextLink|TextLink_Normal|39|30|22|13</Row>
+			<Row>http://www.investmentseek.com/Investment_Managers/Domestic_Fixed_Income/index.htm|3|wilshire asset management|2014-02-26|0|0|0|0|0|0|0|http://www.wilshire.com/|87|2009-05-24|2014-02-26| | |TextLink|TextLink_Normal|39|30|22|13</Row>
+			<Row>http://www.investmentseek.com/Software/Portfolio_Analysis/|3|wilshire associates|2014-02-14|0|0|0|0|0|0|0|http://www.wilshire.com/|87|2009-05-12|2014-02-14| | |TextLink|TextLink_Normal|39|30|22|13</Row>
+		</DataTable>
+		<DataTable Name="DomainsInfo" RowsCount="88" Headers="DomainID|Domain|AlexaRank|RefDomains|ExtBackLinks|IndexedURLs|CrawledURLs|FirstCrawled|LastSuccessfulCrawl|IP|SubNet|CountryCode|TLD|CitationFlow|TrustFlow">
+			<Row>0|gurufocus.com|41598|57182|3182797|11965251|1025538|2008-07-29|2014-02-28|141.101.113.160|141.101.113.0|EU|com|57|50</Row>
+			<Row>1|moneychimp.com|73380|20489|234223|2246|1712|2008-09-22|2014-02-28|66.175.58.9|66.175.58.0|US|com|44|49</Row>
+			<Row>2|capitalspectator.com|813272|4915|1180683|20674|16215|2008-08-03|2014-02-28|67.228.183.130|67.228.183.0|US|com|38|31</Row>
+			<Row>3|wikipedia.org|6|9103190|12880302063|639748086|9451938|2008-07-29|2014-02-28|208.80.154.225|208.80.154.0|US|org|98|98</Row>
+			<Row>4|markit.com|147020|10962|572894|69645|43689|2008-08-14|2014-02-28|80.169.220.10|80.169.220.0|UK|com|45|36</Row>
+			<Row>5|justfacts.com|328532|10031|365449|1231|734|2009-09-18|2014-02-28|198.161.91.130|198.161.91.0|CA|com|35|45</Row>
+			<Row>6|crsp.com|-1|1703|19011|221345|141725|2011-04-02|2014-02-28|38.112.41.21|38.112.41.0|US|com|30|39</Row>
+			<Row>7|investorhome.com|-1|7615|91632|710|607|2010-02-05|2014-02-28|209.237.150.20|209.237.150.0|US|com|29|32</Row>
+			<Row>8|bobbrinker.com|498944|3484|4179494|1335|1168|2008-07-30|2014-02-28|67.19.99.6|67.19.99.0|US|com|38|30</Row>
+			<Row>9|world-stock-exchanges.net|-1|2682|9875|50|38|2013-05-28|2014-02-28|79.98.29.140|79.98.29.0|LT|net|24|32</Row>
+			<Row>10|babson.edu|70343|35534|3809053|287553|157031|2008-08-04|2014-02-28|155.48.10.202|155.48.10.0|US|edu|50|65</Row>
+			<Row>11|moneysense.ca|54638|18563|7155653|191537|108122|2008-08-12|2014-02-28|23.62.61.16|23.62.61.0|US|ca|47|52</Row>
+			<Row>12|allaboutalpha.com|741175|5696|1145139|24112|18280|2008-07-30|2014-02-28|174.143.45.101|174.143.45.0|US|com|40|34</Row>
+			<Row>13|commondreams.org|19221|153787|30028885|2821867|772561|2008-07-29|2014-02-28|74.86.112.226|74.86.112.0|US|org|66|58</Row>
+			<Row>14|thecfdd.com|-1|626|8288|8820|7801|2008-09-10|2014-02-28|67.225.194.33|67.225.194.0|US|com|25|38</Row>
+			<Row>15|wilshirecompass.com|-1|166|809|164|84|2009-04-10|2014-02-28|64.70.27.71|64.70.27.0|US|com|24|18</Row>
+			<Row>16|hoadley.net|-1|4625|29933|862|659|2008-08-26|2014-02-28|202.125.174.28|202.125.174.0|AU|net|34|35</Row>
+			<Row>17|blogspot.com|11|10499622|34314763741|4798901165|274639552|2008-07-29|2014-02-28|173.194.73.191|173.194.73.0|US|com|94|89</Row>
+			<Row>18|salon.com|1309|467872|102191821|8884822|2778251|2008-07-29|2014-02-28|95.100.249.104|95.100.249.0|EU|com|71|76</Row>
+			<Row>19|newyorker.com|2948|325368|47293751|1687748|815688|2008-07-31|2014-02-28|88.221.88.59|88.221.88.0|EU|com|68|74</Row>
+			<Row>20|amstock.com|270423|4292|78481|27393|11373|2008-08-05|2014-02-28|69.164.74.24|69.164.74.0|US|com|40|45</Row>
+			<Row>21|muninetguide.com|748399|15275|441374|1580370|810508|2008-08-01|2014-02-28|66.240.187.58|66.240.187.0|US|com|35|36</Row>
+			<Row>22|truth-out.org|20154|56586|9437579|864366|630673|2010-06-15|2014-02-28|199.180.72.20|199.180.72.0|US|org|59|49</Row>
+			<Row>23|aaii.com|102608|23208|869023|583853|96102|2008-08-04|2014-02-28|38.98.176.65|38.98.176.0|US|com|45|60</Row>
+			<Row>24|scsuscholars.com|-1|3667|1637410|16772|15436|2008-08-06|2014-02-27|63.247.138.196|63.247.138.0|US|com|37|38</Row>
+			<Row>25|washingtonpost.com|370|1242311|501423511|50784125|3044716|2008-07-29|2014-02-28|204.95.26.129|204.95.26.0|US|com|89|90</Row>
+			<Row>26|justia.com|9556|111103|25802076|13990805|1951548|2008-07-29|2014-02-28|174.129.213.48|174.129.213.0|US|com|62|62</Row>
+			<Row>27|bogleheads.org|29698|12319|1305003|3141705|866460|2008-08-03|2014-02-28|173.63.63.69|173.63.63.0|US|org|44|36</Row>
+			<Row>28|invest-faq.com|-1|11217|198242|1490|1170|2008-08-25|2014-02-28|66.39.20.128|66.39.20.0|US|com|40|36</Row>
+			<Row>29|hobbyspace.com|469470|12239|1652282|598112|362240|2008-08-19|2014-02-28|208.109.138.7|208.109.138.0|US|com|39|31</Row>
+			<Row>30|vcaonline.com|742340|3897|68016|20442|17923|2008-08-04|2014-02-28|64.78.27.9|64.78.27.0|US|com|44|23</Row>
+			<Row>31|at-la.com|185446|20245|741346|60076|40867|2008-08-01|2014-02-28|66.102.129.99|66.102.129.0|US|com|39|53</Row>
+			<Row>32|folioinvesting.com|201545|2076|33953|4382|3926|2008-08-07|2014-02-28|216.239.145.43|216.239.145.0|US|com|36|34</Row>
+			<Row>33|marketwatch.com|877|582959|1007103475|21537077|3678437|2008-07-29|2014-02-28|205.203.139.53|205.203.139.0|US|com|70|77</Row>
+			<Row>34|amibroker.org|-1|1084|37015|58289|28281|2008-08-27|2014-02-27|206.214.210.108|206.214.210.0|US|org|23|36</Row>
+			<Row>35|efmoody.com|-1|6929|86621|3519|2956|2008-08-08|2014-02-28|216.87.185.17|216.87.185.0|US|com|26|28</Row>
+			<Row>36|bloomberg.com|475|818653|281583985|4061774|876992|2008-07-29|2014-02-28|95.100.249.83|95.100.249.0|EU|com|90|81</Row>
+			<Row>37|thecontributor.com|284720|2563|208614|95947|82429|2012-08-24|2014-02-28|107.21.124.8|107.21.124.0|US|com|47|40</Row>
+			<Row>38|segalrc.com|-1|114|32658|1762|1428|2012-08-07|2014-02-28|69.63.143.2|69.63.143.0|US|com|33|18</Row>
+			<Row>39|ifaarchive.com|-1|50|5427|3686|2950|2013-12-10|2014-02-28| | | |com|36|17</Row>
+			<Row>40|forbes.com|245|1137554|222841463|13271803|2436170|2008-07-29|2014-02-28|63.240.4.179|63.240.4.0|US|com|84|84</Row>
+			<Row>41|webworldindex.com|10843|13559|649112|530241|378693|2008-07-30|2014-02-28|50.56.29.137|50.56.29.0|US|com|42|59</Row>
+			<Row>42|hedgeworld.com|683463|7514|1068349|146683|118822|2008-07-29|2014-02-28|207.127.96.3|207.127.96.0|US|com|35|46</Row>
+			<Row>43|sageadvisory.com|-1|386|7077|4708|3710|2008-08-22|2014-02-28|54.235.139.48|54.235.139.0|US|com|23|21</Row>
+			<Row>44|about.com|80|1692644|564276417|26116648|6993839|2008-07-29|2014-02-28|208.185.127.40|208.185.127.0|US|com|70|82</Row>
+			<Row>45|chicagobooth.edu|49905|31192|1483782|281959|126544|2009-01-30|2014-02-28|128.135.211.104|128.135.211.0|US|edu|48|56</Row>
+			<Row>46|cosmopolis.ch|-1|20083|427200|26713|18926|2008-08-16|2014-02-28|69.90.211.13|69.90.211.0|US|ch|49|30</Row>
+			<Row>47|marcoconsulting.com|-1|309|3519|427|309|2008-12-12|2014-02-27|198.171.236.31|198.171.236.0|US|com|22|19</Row>
+			<Row>48|cbsnews.com|787|5187515|344241762|11405147|2230342|2008-07-29|2014-02-28|165.254.94.170|165.254.94.0|US|com|82|76</Row>
+			<Row>49|dmoz.org|1059|546491|868796465|52106510|2697361|2008-07-29|2014-02-28|205.188.87.207|205.188.87.0|US|org|71|77</Row>
+			<Row>50|meetup.com|472|402350|861749986|142863413|22093643|2008-07-29|2014-02-28|38.123.132.30|38.123.132.0|US|com|89|58</Row>
+			<Row>51|forecasts.org|240724|15789|260232|6060|5439|2008-07-29|2014-02-28|66.180.162.195|66.180.162.0|US|org|40|24</Row>
+			<Row>52|greenbackd.com|382860|2014|216003|146845|52041|2009-06-13|2014-02-28|66.155.11.238|66.155.11.0|US|com|32|18</Row>
+			<Row>53|iresnet.net|-1|155|451|34|28|2012-01-22|2014-02-28|193.145.233.12|193.145.233.0|ES|net|23|14</Row>
+			<Row>54|mathtools.net|818305|6884|872299|27840|13430|2008-08-03|2014-02-28|144.212.244.11|144.212.244.0|US|net|37|50</Row>
+			<Row>55|thebetabrief.com|-1|788|9266|756|587|2008-09-25|2014-02-27|67.199.12.61|67.199.12.0|US|com|17|11</Row>
+			<Row>56|investopedia.com|1530|176687|18484524|7787796|1971356|2008-07-29|2014-02-28|64.70.58.115|64.70.58.0|US|com|66|69</Row>
+			<Row>57|skepticalsports.com|-1|424|28843|1252|931|2010-11-03|2014-02-28|66.96.147.115|66.96.147.0|US|com|23|23</Row>
+			<Row>58|politicsandprosperity.com|-1|40|2364|25456|21648|2013-09-10|2014-02-28| | | |com|23|23</Row>
+			<Row>59|stevens.edu|71688|43516|12751442|1497445|468620|2008-08-03|2014-02-28|155.246.21.84|155.246.21.0|US|edu|48|60</Row>
+			<Row>60|moolanomy.com|141863|13476|1063344|71254|56819|2008-08-24|2014-02-28|74.125.143.121|74.125.143.0|US|com|43|28</Row>
+			<Row>61|ceteraadvisors.com|-1|331|242309|193|176|2013-01-23|2014-02-28|168.75.210.66|168.75.210.0|US|com|30|25</Row>
+			<Row>62|offshore.ai|-1|731|6105|501|207|2010-12-01|2014-02-28|209.59.119.34|209.59.119.0|AG|ai|26|21</Row>
+			<Row>63|inrealty.com|-1|1529|25330|1869|1807|2008-10-25|2014-02-27|67.201.38.106|67.201.38.0|US|com|30|15</Row>
+			<Row>64|statefarm.com|4027|142696|23164571|983299|354645|2008-07-29|2014-02-28|23.9.64.129|23.9.64.0|US|com|75|60</Row>
+			<Row>65|ifa.com|822784|6882|441104|36249|24878|2008-07-30|2014-02-28|174.123.170.83|174.123.170.0|US|com|46|28</Row>
+			<Row>66|benbest.com|-1|17200|147407|2652|1223|2008-08-02|2014-02-28|199.237.239.56|199.237.239.0|US|com|37|34</Row>
+			<Row>67|calpers-governance.org|-1|1812|30969|1154|640|2008-08-31|2014-02-28|199.164.57.30|199.164.57.0|US|org|30|29</Row>
+			<Row>68|portfoliosolutions.com|-1|1124|83670|1364|1050|2009-01-30|2014-02-28|174.122.77.26|174.122.77.0|US|com|29|23</Row>
+			<Row>69|crottaz-finance.ch|406174|1111|457716|10981|7896|2009-05-17|2014-02-28|84.16.84.55|84.16.84.0|CH|ch|33|15</Row>
+			<Row>70|uchicago.edu|8340|346677|44798052|14214852|1623173|2008-07-29|2014-02-28|198.101.129.15|198.101.129.0|US|edu|67|80</Row>
+			<Row>71|faqs.org|13387|180398|12487978|4630018|2067329|2008-07-31|2014-02-28|173.193.27.192|173.193.27.0|US|org|63|56</Row>
+			<Row>72|harvardmagazine.com|206846|29213|808700|44386|34172|2008-07-31|2014-02-28|199.58.162.93|199.58.162.0|US|com|50|45</Row>
+			<Row>73|alerian.com|-1|896|11482|1489|1038|2008-08-06|2014-02-28|108.162.204.112|108.162.204.0|US|com|20|16</Row>
+			<Row>74|nationalgeographic.com|1222|676065|185191466|10676068|1164689|2008-07-29|2014-02-28|23.62.237.113|23.62.237.0|US|com|83|79</Row>
+			<Row>75|infotoday.com|141272|43769|3291002|340899|105849|2008-07-30|2014-02-28|71.188.75.15|71.188.75.0|US|com|50|55</Row>
+			<Row>76|blogspot.ca|-1|322833|94306845|54247062|4334893|2011-01-01|2014-02-28|74.125.142.191|74.125.142.0|US|ca|55|47</Row>
+			<Row>77|incrediblecharts.com|107624|10828|264150|732687|314732|2008-09-11|2014-02-28|208.70.245.30|208.70.245.0|CA|com|40|34</Row>
+			<Row>78|erate.com|322951|10805|156078|186566|76509|2008-08-05|2014-02-28|184.106.178.57|184.106.178.0|US|com|42|25</Row>
+			<Row>79|rickferri.com|-1|1008|338767|4335|4065|2011-01-24|2014-02-28|174.122.77.26|174.122.77.0|US|com|32|25</Row>
+			<Row>80|ips-net.com|-1|455|3880|173|127|2008-08-08|2014-02-27|205.178.152.38|205.178.152.0|US|com|29|13</Row>
+			<Row>81|rochester.edu|19756|160026|12072098|20991018|2144575|2008-07-29|2014-02-28|128.151.77.39|128.151.77.0|US|edu|60|73</Row>
+			<Row>82|zacks.com|21701|69525|33947966|6558768|1840858|2008-07-29|2014-02-28|208.65.118.64|208.65.118.0|US|com|65|62</Row>
+			<Row>83|cfainstitute.org|37667|25570|2825344|255463|98096|2008-08-05|2014-02-28|2.16.255.250|2.16.255.0|DE|org|45|59</Row>
+			<Row>84|nationofchange.org|74665|10721|1421957|244605|121441|2011-10-07|2014-02-28|98.129.229.232|98.129.229.0|US|org|40|36</Row>
+			<Row>85|academicwebpages.com|-1|1095|50609|2379|1801|2008-08-28|2014-02-28|64.14.78.199|64.14.78.0|US|com|33|35</Row>
+			<Row>86|dqydj.net|207788|2381|286662|11470|8939|2009-11-04|2014-02-28|173.248.187.69|173.248.187.0|US|net|28|25</Row>
+			<Row>87|investmentseek.com|778969|1932|12132|1077|934|2009-03-18|2014-02-28|209.237.150.20|209.237.150.0|US|com|24|16</Row>
+		</DataTable>
+	</DataTables>
+</Result>
